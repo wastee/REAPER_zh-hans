@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;^9324D41856E3D6C5
+msgid "Input device:"
+msgstr ""
+
+#: ;^CD3ECB2096970F76
+msgid "Output device:"
+msgstr ""
+
+#: ;^E600874BD6CA4B2E
+msgid "Sample format:"
+msgstr ""
+
+#: ;^042F4DCA75E1BE47
+msgid "16 bit"
+msgstr ""
+
+#: ;^CC85D146650F3E66
+msgid "24 bit"
+msgstr ""
+
+#: ;^5188BC03D80E2D31
+msgid "32 bit"
+msgstr ""
+
+#: ;^DA38E298C189302F
+msgid "Input channels:"
+msgstr ""
+
+#: ;^C6FA709C7A5DB354
+msgid "Output channels:"
+msgstr ""
+
+#: ;^F97A12BF98D450CF
+msgid "Samplerate:"
+msgstr ""
+
+#: ;^D858BC186B3FE51D
+msgid "Hz"
+msgstr ""
+
+#: ;^87581AC5D2800078
+msgid "Buffers:"
+msgstr ""
+
+#: ;^08325007B4EB10C5
+msgid "x"
+msgstr ""
+
+#: ;^E8589A5C2472187A
+msgid "samples"
+msgstr ""
