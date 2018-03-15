@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;B1EEDB46C7F8AB8D
+msgid "Effect name"
+msgstr ""
+
+#: ;A12863BE22CF0684
+msgid "Triggers:"
+msgstr ""
+
+#: ;D9A57E186C5A5D11
+msgid "&0"
+msgstr ""
+
+#: ;D9A57D186C5A5B5E
+msgid "&1"
+msgstr ""
+
+#: ;D9A57C186C5A59AB
+msgid "&2"
+msgstr ""
+
+#: ;D9A57B186C5A57F8
+msgid "&3"
+msgstr ""
+
+#: ;D9A582186C5A63DD
+msgid "&4"
+msgstr ""
+
+#: ;D9A581186C5A622A
+msgid "&5"
+msgstr ""
+
+#: ;D9A580186C5A6077
+msgid "&6"
+msgstr ""
+
+#: ;D9A57F186C5A5EC4
+msgid "&7"
+msgstr ""
+
+#: ;D9A576186C5A4F79
+msgid "&8"
+msgstr ""
+
+#: ;D9A575186C5A4DC6
+msgid "&9"
+msgstr ""
+
+#: ;^08329D07B4EB939C
+msgid "+"
+msgstr ""
+
+#: ;^0922F78BE865FE0C
+msgid "Param"
+msgstr ""
+
+#: ;^D489C67E376967C8
+msgid "I/O"
+msgstr ""
+
+#: ;^C39132F1A8047E9F
+msgid "Edit..."
+msgstr ""
+

@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;F603C57D0FCE85CD
+msgid "(No config available -- a config window will appear once this sink is used)"
+msgstr ""
+
+#: ;B842D2902632460F
+msgid "NOTE: ONLY use this for save live output to disk -- using anywhere else is probably a very very bad idea."
+msgstr ""
+

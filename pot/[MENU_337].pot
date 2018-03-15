@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;3DE84120820B85CE
+msgid "37_4SoloCtx"
+msgstr ""
+
+#: ;D3DE6686B4D9602C
+msgid "Solo2\tAlt"
+msgstr ""
+
+#: ;9B76234E6926EE7E
+msgid "Solo2"
+msgstr ""
+
+#: ;C3D8EFE45F703F1E
+msgid "Unsolo all\tCtrl"
+msgstr ""
+
+#: ;0A402909D6AF8FBE
+msgid "Exclusive solo\tCtrl+Alt"
+msgstr ""
+
+#: ;FD1704F2BC83F2D8
+msgid "Solo defeat\tCtrl+Shift"
+msgstr ""
+
+#: ;80933A364CB8729B
+msgid "Solo defeat"
+msgstr ""
+
+#: ;^0420AF237D97ECB8
+msgid "Solo"
+msgstr ""
+
+#: ;^BCB3C3B4A1794FDC
+msgid "Unsolo all"
+msgstr ""
+
+#: ;^4C5A9B01CD346DD0
+msgid "Exclusive solo"
+msgstr ""
+
+#: ;^76EE6BE79431DD36
+msgid "Ignore selection\tShift"
+msgstr ""
+
+#: ;^51B57BB98FEF688B
+msgid "Ignore selection"
+msgstr ""
+

@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;E630ED8F5861AA5A
+msgid "DDP %d bit %dHz %dch"
+msgstr ""
+
+#: ;FF54927E4F80A8FD
+msgid "DDP"
+msgstr ""
+
+#: ;E69E0CFE1A644911
+msgid "Cannot read DDPID file"
+msgstr ""
+
+#: ;3AA2F91707F491CC
+msgid "Invalid DDPID file size"
+msgstr ""
+
+#: ;4174C12DE9AA0C43
+msgid "Invalid version of DDP"
+msgstr ""
+
+#: ;ACC88F7C65DEAA7D
+msgid "Not CD type"
+msgstr ""
+
+#: ;ACBCE054B83FBA4A
+msgid "Cannot read DDPMS file"
+msgstr ""
+
+#: ;637514809AB8DAC5
+msgid "Invalid DDPMS file size"
+msgstr ""
+
+#: ;1511817203208179
+msgid "Corrupted DDPMS file"
+msgstr ""
+
+#: ;028031FB65510B8C
+msgid "Not CD-DA image"
+msgstr ""
+
+#: ;131F3DDC24134F8D
+msgid "Stream size does not match"
+msgstr ""
+
+#: ;34DB1CB1428B5E04
+msgid "Stream file names do not match"
+msgstr ""
+
+#: ;35A14C332994E388
+msgid "Stream descriptor missing"
+msgstr ""
+
+#: ;F7433E2A59AE0A4A
+msgid "Corrupted CD-TEXT file"
+msgstr ""
+
+#: ;34000B37E13946B9
+msgid "Cannot read CD-TEXT file"
+msgstr ""
+
+#: ;1D1A33CF23087726
+msgid "Corrupted C-TEXT file"
+msgstr ""
+
+#: ;BED60D96A51AFD91
+msgid "Multilanguage CD-TEXT is not supported!"
+msgstr ""
+
+#: ;621A4CFEEF708363
+msgid "Double-character CD-TEXT is not supported!"
+msgstr ""
+
+#: ;829FF353E414B7EA
+msgid "Cannot read PQDESCR file"
+msgstr ""
+
+#: ;A98DD060AFC9A87D
+msgid "Corrupted PQDESCR file"
+msgstr ""
+
+#: ;996BB8B1F68C9472
+msgid "DDP File Properties"
+msgstr ""
+
+#: ;0E98F33959C6AD9F
+msgid "Invalid DDP File!"
+msgstr ""
+
+#: ;90299796413F7EBA
+msgid "DDP is a registered trademark of DCA, Inc. 1989-2008."
+msgstr ""
+
+#: ;FB0841D8D8C574F0
+msgid "See DDP help in Render dialog for more information."
+msgstr ""
+
+#: ;4706E10B92F27F4A
+msgid "Media offline"
+msgstr ""
+
+#: ;2A24C23FA2E5F62C
+msgid "Error initializing decoder"
+msgstr ""
+
+#: ;^09A3E92731A691E1
+msgid "Length: %s"
+msgstr ""
+
+#: ;^D9220AE04A08F86B
+msgid "Error opening file"
+msgstr ""
+

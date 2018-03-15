@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;E2D5F7E4A9D9BD25
+msgid "34_1regionctx"
+msgstr ""
+
+#: ;701DD219CAF4A724
+msgid "Edit Region...\tShift+Doubleclick"
+msgstr ""
+
+#: ;B74B37DC130D2D95
+msgid "Edit Region..."
+msgstr ""
+
+#: ;9DE3EFE448C02203
+msgid "Select Region\tDoubleclick"
+msgstr ""
+
+#: ;22CB5ECBAD45A865
+msgid "Select Region"
+msgstr ""
+
+#: ;AD44E0ADD0C31560
+msgid "Remove Region\tAlt+Click"
+msgstr ""
+
+#: ;^591C4FE46C7B0E21
+msgid "Remove Region"
+msgstr ""
+

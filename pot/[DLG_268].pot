@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;92DFCE5BD557C1EC
+msgid "Parameter Modulation"
+msgstr ""
+
+#: ;F7BB87D08ABC2B48
+msgid "Audio control signal shaping"
+msgstr ""
+
+#: ;704359FDDAAFBE73
+msgid "Enable parameter modulation, baseline value (envelope overrides):"
+msgstr ""
+
+#: ;1A566208F0C7B218
+msgid "Output:"
+msgstr ""
+
+#: ;3EA9C98435E68B8F
+msgid "Track audio channel:"
+msgstr ""
+
+#: ;7AFBD49616B6F0D7
+msgid "Attack:"
+msgstr ""
+
+#: ;EC08AB3B155819CA
+msgid "Release:"
+msgstr ""
+
+#: ;85CF841679BB23C6
+msgid "Direction:"
+msgstr ""
+
+#: ;5015EDB159696098
+msgid "Negative"
+msgstr ""
+
+#: ;9016B23C885D3AC3
+msgid "Centered"
+msgstr ""
+
+#: ;2A8F51879CE09360
+msgid "Positive"
+msgstr ""
+
+#: ;799DB7F059AD3B8D
+msgid "Min volume:"
+msgstr ""
+
+#: ;C8E46F741BF73DDF
+msgid "Max volume:"
+msgstr ""
+
+#: ;B7977D7AC51EB9B5
+msgid "Tempo sync"
+msgstr ""
+
+#: ;F766880F483971C0
+msgid "Speed:"
+msgstr ""
+
+#: ;DC6765A72D8315E1
+msgid "Phase reset:"
+msgstr ""
+
+#: ;89F7F9C601D28998
+msgid "Link from MIDI or FX parameter"
+msgstr ""
+
+#: ;EF4E27E8CB56B355
+msgid "Audio control signal (sidechain)"
+msgstr ""
+
+#: ;CD8E5674E18FBCBA
+msgid "Offset:"
+msgstr ""
+
+#: ;3AEE47F8880725BF
+msgid "Scale:"
+msgstr ""
+
+#: ;3CB717CC948901F4
+msgid "Learn phase"
+msgstr ""
+
+#: ;^A27E076F9E7EA1E3
+msgid "Progress1"
+msgstr ""
+
+#: ;^649ECB151A2B4705
+msgid "Slider1"
+msgstr ""
+
+#: ;^D8B3B3186B8C817F
+msgid "ms"
+msgstr ""
+
+#: ;^6B4795AB9EC37475
+msgid "Input:"
+msgstr ""
+
+#: ;^576D3C1F8C34C670
+msgid "Strength:"
+msgstr ""
+
+#: ;^0832A307B4EB9DCE
+msgid "%"
+msgstr ""
+
+#: ;^D8D27C186BA6D499
+msgid "dB"
+msgstr ""
+
+#: ;^6D27CBDC5943D7B6
+msgid "Shape:"
+msgstr ""
+
+#: ;^D858BC186B3FE51D
+msgid "Hz"
+msgstr ""
+
+#: ;^83A722EC04ED6560
+msgid "Phase:"
+msgstr ""
+
+#: ;^30EF57A27EDFC686
+msgid "(none)"
+msgstr ""
+
+#: ;^BA0F8B7E28468276
+msgid "LFO"
+msgstr ""
+

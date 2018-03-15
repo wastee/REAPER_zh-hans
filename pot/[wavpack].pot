@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;3B00640A5CD4EBA3
+msgid "Bad filename"
+msgstr ""
+
+#: ;2720D47F4C902D25
+msgid "Error parsing WV structure"
+msgstr ""
+
+#: ;78BAED85F788CCC9
+msgid "WAVPACK files"
+msgstr ""
+
+#: ;31A9C850EDD24AFD
+msgid "WavPack %dHz %dch"
+msgstr ""
+
+#: ;D755D0C7D79C93E5
+msgid "WavPack lossless compressor"
+msgstr ""
+
+#: ;5348443D4679AAC6
+msgid "%dbit WavPack"
+msgstr ""
+
+#: ;^D9220AE04A08F86B
+msgid "Error opening file"
+msgstr ""
+

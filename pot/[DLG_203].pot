@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;FD6CB597F81A51BE
+msgid "Audio buffering settings"
+msgstr ""
+
+#: ;A209F590DEBF0FAE
+msgid "Auto-detect the number of needed audio processing threads"
+msgstr ""
+
+#: ;61BEF8CE252BFBF0
+msgid "Audio reading/processing threads:"
+msgstr ""
+
+#: ;164AAD0DE75983A4
+msgid "(recommended: 1 per CPU core. can also be 0)"
+msgstr ""
+
+#: ;CE81FD6CDFB4B2A1
+msgid "Thread priority:"
+msgstr ""
+
+#: ;FC932B76ACB875B9
+msgid "Behavior:"
+msgstr ""
+
+#: ;2C527E4BC4E1E850
+msgid "Media buffer size:"
+msgstr ""
+
+#: ;9AA6529CA6A81E91
+msgid "ms (default is 1200ms), prebuffer:"
+msgstr ""
+
+#: ;9AEE19DE54CC8120
+msgid "% (default is 100%)"
+msgstr ""
+
+#: ;C0B78103DE8BAEC1
+msgid "Disable media buffering for tracks with open MIDI editors (recommended)"
+msgstr ""
+
+#: ;80A76343A9E1E678
+msgid "Disable media buffering for tracks that are selected"
+msgstr ""
+
+#: ;017C01A23735EE41
+msgid "Media buffer size when per-take FX UI open:"
+msgstr ""
+
+#: ;BEB8AEBD84C1A90D
+msgid "ms (default is 200ms)"
+msgstr ""
+
+#: ;51AB61DBF5CB4A76
+msgid "FX processing/multiprocessing settings"
+msgstr ""
+
+#: ;A8D66160635DD938
+msgid "Anticipative FX processing - superior multiprocessing and lower interface latencies"
+msgstr ""
+
+#: ;9C72AF76953C2AA7
+msgid "[may not be compatible with certain FX (UAD), live monitoring is not multiprocessed]"
+msgstr ""
+
+#: ;A0C79D72277D6F0F
+msgid "Render-ahead:"
+msgstr ""
+
+#: ;3DA7AD6DA60B893B
+msgid "ms (default: 200)"
+msgstr ""
+
+#: ;D3F56CEFCFB9B99E
+msgid "Allow on tracks without FX (may give higher multiprocessor utilization)"
+msgstr ""
+
+#: ;331BA087EACA0798
+msgid "Allow on tracks with open MIDI editors (will increase MIDI preview latency)"
+msgstr ""
+
+#: ;1E34C617E5353F03
+msgid "Allow live FX multiprocessing on:"
+msgstr ""
+
+#: ;A6EE14AB8179B8D8
+msgid "CPUs"
+msgstr ""
+
+#: ;9FA7D4D9D543EEC3
+msgid "Use old v4.x worker thread scheduling"
+msgstr ""
+
+#: ;2F2715B3B43668D6
+msgid "Use native events for synchronizing (recommended)"
+msgstr ""
+
+#: ;281759C8AD758D95
+msgid "Advanced Disk I/O options..."
+msgstr ""
+
+#: ;3CF333030AFB4087
+msgid "[enables multiprocessing of live input, but may reduce performance at low latencies]"
+msgstr ""
+

@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;3BBF74A3261D5667
+msgid "Accidental"
+msgstr ""
+
+#: ;E0954F5ACD9EE917
+msgid "Move note up one semitone"
+msgstr ""
+
+#: ;A9266953EC170BE4
+msgid "Move note down one semitone"
+msgstr ""
+
+#: ;9867368F96BC39D9
+msgid "Notate as natural"
+msgstr ""
+
+#: ;8D3BD13FA986A9FF
+msgid "Notate as flat"
+msgstr ""
+
+#: ;AE5AB546FBC71864
+msgid "Notate as sharp"
+msgstr ""
+
+#: ;25F2F233A71B2EDF
+msgid "Notate as double-flat"
+msgstr ""
+
+#: ;C20CD3DEDF254DC4
+msgid "Notate as double-sharp"
+msgstr ""
+
+#: ;0935AFCF4FD32C6B
+msgid "Clear any custom accidental notation"
+msgstr ""
+
+#: ;8B4ACC3BEC125B0F
+msgid "Default notation for accidentals in C major"
+msgstr ""
+
+#: ;849E72541304FF85
+msgid "Sharp"
+msgstr ""
+
+#: ;C5405F8FA8EDAC38
+msgid "Flat"
+msgstr ""
+
+#: ;2F577E23960A51E6
+msgid "Stem"
+msgstr ""
+
+#: ;EEA14D3A567B992F
+msgid "Stem up"
+msgstr ""
+
+#: ;19B3717B9A6F5D8A
+msgid "Stem down"
+msgstr ""
+
+#: ;11EDB7B9B7936C74
+msgid "Default stem direction"
+msgstr ""
+
+#: ;6533B7B2356FC9F8
+msgid "Beam"
+msgstr ""
+
+#: ;84F41A7D48AD453D
+msgid "Beam notes together"
+msgstr ""
+
+#: ;8631F51F5D1CE157
+msgid "Do not beam notes"
+msgstr ""
+
+#: ;126BC497156C7031
+msgid "Default beaming"
+msgstr ""
+
+#: ;3DBF1CD37E44D167
+msgid "Dot/Tie"
+msgstr ""
+
+#: ;06DAF8098D6283EC
+msgid "Minimize ties if possible"
+msgstr ""
+
+#: ;357CE59934336A13
+msgid "Double dot if possible"
+msgstr ""
+
+#: ;44CB214782BC05CE
+msgid "Triple dot if possible"
+msgstr ""
+
+#: ;32F6B083EC43DC4C
+msgid "Do not double or triple dot note"
+msgstr ""
+
+#: ;F3A13AB58D8007F2
+msgid "Create/edit tuplet"
+msgstr ""
+
+#: ;E93EC9A64FE34A6B
+msgid "Remove tuplet"
+msgstr ""
+
+#: ;5B3D6477E1863F3B
+msgid "Staff"
+msgstr ""
+
+#: ;D99483186C4BF25D
+msgid "+3"
+msgstr ""
+
+#: ;D99482186C4BF0AA
+msgid "+2"
+msgstr ""
+
+#: ;D99481186C4BEEF7
+msgid "+1"
+msgstr ""
+
+#: ;9585110906C8232E
+msgid "No octave notation"
+msgstr ""
+
+#: ;D98D75186C45BBE5
+msgid "-1"
+msgstr ""
+
+#: ;D98D72186C45B6CC
+msgid "-2"
+msgstr ""
+
+#: ;D98D73186C45B87F
+msgid "-3"
+msgstr ""
+
+#: ;E6884AA337B1E70A
+msgid "Display offset"
+msgstr ""
+
+#: ;9FD83BEF7E96BDEF
+msgid "Edit displayed note position"
+msgstr ""
+
+#: ;714C37BC36547D00
+msgid "Edit displayed note length"
+msgstr ""
+
+#: ;E5243D4E96E9206D
+msgid "Clear display offset"
+msgstr ""
+
+#: ;58FAA78C2B1320AF
+msgid "<chord list>"
+msgstr ""
+
+#: ;FD34C29CCBF2F9C9
+msgid "Hide selected notes"
+msgstr ""
+
+#: ;^2BE3837BF3278C55
+msgid "Context Menu"
+msgstr ""
+
+#: ;^2DF49C37B8D4B099
+msgid "Minimize ties for all notes by default"
+msgstr ""
+
+#: ;^A2D6900BDE25A89B
+msgid "Automatically double dot notes"
+msgstr ""
+
+#: ;^B3A2924B68A32EC2
+msgid "Automatically triple dot notes"
+msgstr ""
+
+#: ;^30B968FF1A533857
+msgid "Lyrics..."
+msgstr ""
+
+#: ;^3E04EF2C595D4859
+msgid "Tuplet"
+msgstr ""
+
+#: ;^662197EEE0495B80
+msgid "Automatically detect triplets"
+msgstr ""
+
+#: ;^AB2A3D4EF1C9D1A8
+msgid "Default"
+msgstr ""
+
+#: ;^7622187E02308D3E
+msgid "Top"
+msgstr ""
+
+#: ;^BADA204837504C00
+msgid "Bottom"
+msgstr ""
+
+#: ;^56A71EF19F6D546B
+msgid "Octave"
+msgstr ""
+
+#: ;^C12027CB26D455FB
+msgid "(note notation menu)"
+msgstr ""
+
+#: ;^EA7EDFD029F80877
+msgid "Nudge left"
+msgstr ""
+
+#: ;^2E287BE9B3A7F568
+msgid "Nudge right"
+msgstr ""
+
+#: ;^F4D94A4971240B8C
+msgid "Chords"
+msgstr ""
+
+#: ;^8DBCC7402CA5D3B2
+msgid "Hide notes"
+msgstr ""
+
+#: ;^C244DB21860623E6
+msgid "Unhide all notes"
+msgstr ""
+
+#: ;^83CEDDAC8FB7324E
+msgid "Copy"
+msgstr ""
+
+#: ;^09CFC77E55F475C5
+msgid "Cut"
+msgstr ""
+
+#: ;^13A51C8BEEDFCE52
+msgid "Paste"
+msgstr ""
+
+#: ;^4AAE40A08510E47F
+msgid "Paste preserving position in measure"
+msgstr ""
+
+#: ;^86891682F6F2D16C
+msgid "Select all"
+msgstr ""
+
+#: ;^AF3196AD6B727ABC
+msgid "Delete"
+msgstr ""
+
+#: ;^1D4EDA35A99AEFAE
+msgid "Insert note"
+msgstr ""
+
+#: ;^C37C016F07A7F9E3
+msgid "Set note ends to start of next note (legato)"
+msgstr ""
+
+#: ;^06031C90037D1F1C
+msgid "Select previous note"
+msgstr ""
+
+#: ;^0A80E4A5D91679BC
+msgid "Select next note"
+msgstr ""
+
+#: ;^A3E22CDD7E92648A
+msgid "Note properties..."
+msgstr ""
+

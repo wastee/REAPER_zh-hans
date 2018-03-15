@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;E9D447A18B35AD36
+msgid "ContextMenuEvt"
+msgstr ""
+
+#: ;7DE3C0CA3A396ABC
+msgid "Insert new event"
+msgstr ""
+
+#: ;0BB66BFFD0B47496
+msgid "Set event channel"
+msgstr ""
+
+#: ;010E64FA78C1EC4F
+msgid "Insert new bank/program select event..."
+msgstr ""
+
+#: ;94CA442B7051C82F
+msgid "Insert new text event..."
+msgstr ""
+
+#: ;F9D5D58EFC61F4D6
+msgid "Insert new sysex event..."
+msgstr ""
+
+#: ;^83CEDDAC8FB7324E
+msgid "Copy"
+msgstr ""
+
+#: ;^09CFC77E55F475C5
+msgid "Cut"
+msgstr ""
+
+#: ;^13A51C8BEEDFCE52
+msgid "Paste"
+msgstr ""
+
+#: ;^86891682F6F2D16C
+msgid "Select all"
+msgstr ""
+
+#: ;^AF3196AD6B727ABC
+msgid "Delete"
+msgstr ""
+
+#: ;^61946358B1034B76
+msgid "Mute"
+msgstr ""
+
+#: ;^22F2CC2A38A97EDC
+msgid "Event properties..."
+msgstr ""
+
+#: ;^08329707B4EB896A
+msgid "1"
+msgstr ""
+
+#: ;^08329607B4EB87B7
+msgid "2"
+msgstr ""
+
+#: ;^08329507B4EB8604
+msgid "3"
+msgstr ""
+
+#: ;^08329407B4EB8451
+msgid "4"
+msgstr ""
+
+#: ;^08329307B4EB829E
+msgid "5"
+msgstr ""
+
+#: ;^08329207B4EB80EB
+msgid "6"
+msgstr ""
+
+#: ;^08329107B4EB7F38
+msgid "7"
+msgstr ""
+
+#: ;^08329007B4EB7D85
+msgid "8"
+msgstr ""
+
+#: ;^08328F07B4EB7BD2
+msgid "9"
+msgstr ""
+
+#: ;^D97FFC186C3A63EE
+msgid "10"
+msgstr ""
+
+#: ;^D97FFD186C3A65A1
+msgid "11"
+msgstr ""
+
+#: ;^D97FFA186C3A6088
+msgid "12"
+msgstr ""
+
+#: ;^D97FFB186C3A623B
+msgid "13"
+msgstr ""
+
+#: ;^D98000186C3A6ABA
+msgid "14"
+msgstr ""
+
+#: ;^D98001186C3A6C6D
+msgid "15"
+msgstr ""
+
+#: ;^D97FFE186C3A6754
+msgid "16"
+msgstr ""
+

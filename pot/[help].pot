@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;7B0B1B9BE0E0454E
+msgid "CPU: %.1f%%  RAM: %uMB"
+msgstr ""
+
+#: ;6561DE4499D14662
+msgid "last save:"
+msgstr ""
+
+#: ;858AD7CDB1332348
+msgid "[tracks] %d [media items] %d [FX] %d"
+msgstr ""
+
+#: ;E32DD9995A334A64
+msgid "[resampled]"
+msgstr ""
+
+#: ;D4A4A4DE48220B63
+msgid "[chan]"
+msgstr ""
+
+#: ;193CB7EA03D24488
+msgid "[recvs]"
+msgstr ""
+
+#: ;C8B3618651680E6A
+msgid "[sends]"
+msgstr ""
+
+#: ;964FE5E11E4487F4
+msgid "[HW]"
+msgstr ""
+
+#: ;15AF2EDE56E13897
+msgid "[items]"
+msgstr ""
+
+#: ;C9C49FE13B448B3D
+msgid "[FX]"
+msgstr ""
+
+#: ;5E1EDA593660D841
+msgid "none"
+msgstr ""
+
+#: ;5B87DE1DE3F988A7
+msgid "[input]"
+msgstr ""
+
+#: ;B8EE889E524209C1
+msgid "[IO] none"
+msgstr ""
+
+#: ;464FDD80C56381B9
+msgid "[FX] none"
+msgstr ""
+
+#: ;6B2C23757E5AD807
+msgid "[start]"
+msgstr ""
+
+#: ;580AB8BC54EB28B4
+msgid "[end]"
+msgstr ""
+
+#: ;C0EFF96F0D70D5DA
+msgid "[len]"
+msgstr ""
+
+#: ;110F39756C9E75B5
+msgid "[src]"
+msgstr ""
+
+#: ;50A920FF129B013B
+msgid "[type]"
+msgstr ""
+
+#: ;0A35EEC182AFBD4D
+msgid "[pitch]"
+msgstr ""
+
+#: ;966DDDA49CE35BD9
+msgid "[rate]"
+msgstr ""
+
+#: ;C129BE25975176D4
+msgid "[shape]"
+msgstr ""
+
+#: ;20F2B5F5BCB5783A
+msgid "[points]"
+msgstr ""
+
+#: ;F4A5B7402829DE55
+msgid "Edit grid"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^5A3FF93A190E0F6B
+msgid "Empty item"
+msgstr ""
+
+#: ;^44BE2B196101CBBE
+msgid "Move region"
+msgstr ""
+
+#: ;^37B990D4112E1A98
+msgid "Move marker"
+msgstr ""
+
+#: ;^11769ACBDEF004CC
+msgid "Edit tempo/time signature marker"
+msgstr ""
+

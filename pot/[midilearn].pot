@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;7BF775FBE4FA0CE7
+msgid "Edit Shortcut"
+msgstr ""
+
+#: ;220494B772EA2052
+msgid "<<type key or move controller>>"
+msgstr ""
+
+#: ;399D4E250881B032
+msgid "Absolute"
+msgstr ""
+
+#: ;2C6F314216E8F3A2=Relative 1 (127=-1, 1
+msgid "Relative 1 (127=-1, 1=+1)"
+msgstr ""
+
+#: ;5A4DEA4FF8BA4DBC=Relative 2 (63=-1, 65
+msgid "Relative 2 (63=-1, 65=+1)"
+msgstr ""
+
+#: ;F4F55ECA5653BFF5=Relative 3 (65=-1, 1
+msgid "Relative 3 (65=-1, 1=+1)"
+msgstr ""
+
+#: ;8B68CE232E7B4357
+msgid "<<type special key now>>"
+msgstr ""
+
+#: ;2FE8D5FE04238B47=Toggle (>0
+msgid "Toggle (>0=toggle)"
+msgstr ""
+
+#: ;D0B15FBBE808081B
+msgid "You must enter a shortcut!"
+msgstr ""
+
+#: ;^9EC3E20500624AAF
+msgid "Error"
+msgstr ""
+

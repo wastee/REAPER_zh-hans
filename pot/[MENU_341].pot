@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;BA643005EA6CA5ED
+msgid "41_ConvertCtx"
+msgstr ""
+
+#: ;F693834CABA4C9E3
+msgid "Add items...\tA, Insert"
+msgstr ""
+
+#: ;A542E524A5FE5828
+msgid "Add items..."
+msgstr ""
+
+#: ;6650ACE8FE9BB205
+msgid "Delete selected items\tDel"
+msgstr ""
+
+#: ;902415A38893F829
+msgid "Delete selected items"
+msgstr ""
+
+#: ;6B10E47BB5FD619A
+msgid "Select All\tCtrl+A"
+msgstr ""
+
+#: ;707FF6825939C50C
+msgid "Select All"
+msgstr ""
+

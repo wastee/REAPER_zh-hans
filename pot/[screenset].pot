@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;E3D301F26B0C20B2
+msgid "Untitled View State"
+msgstr ""
+
+#: ;6985C21D42F78AC6
+msgid "Untitled Windows State"
+msgstr ""
+
+#: ;570F3A78B8DA9436
+msgid "Save Windows Screenset #"
+msgstr ""
+
+#: ;53C3300DE56AE6BF
+msgid "New Screenset"
+msgstr ""
+
+#: ;38883D8F9173C9BB
+msgid "Main Edit View"
+msgstr ""
+
+#: ;8BF63366F8A6D597
+msgid "Save Track View Screenset #"
+msgstr ""
+
+#: ;A242F515754A5741
+msgid "New Track View Screenset"
+msgstr ""
+
+#: ;EFF37492B8BEB698
+msgid "Save Selection Set"
+msgstr ""
+
+#: ;2493C75D7ED72813
+msgid "Selected track panel"
+msgstr ""
+
+#: ;42366872538D67D6
+msgid "Selected track mixer panel"
+msgstr ""
+
+#: ;44A4608340D24BFF
+msgid "Window screen sets, available in any project:"
+msgstr ""
+
+#: ;3BA7DBDB320F8A1C
+msgid "Track view sets, saved with this project:"
+msgstr ""
+
+#: ;456443A4F8100D07
+msgid "Media item selection sets, saved with this project:"
+msgstr ""
+
+#: ;D832698EE0DF7456
+msgid "Theme and layouts"
+msgstr ""
+
+#: ;CBF474B1F07BBCBC
+msgid "Load key"
+msgstr ""
+
+#: ;F77B0DA0925E74A5
+msgid "Save key"
+msgstr ""
+
+#: ;D634D57FC0FBDB81
+msgid "Element"
+msgstr ""
+
+#: ;79E854AE917006E3
+msgid "Value (doubleclick to change)"
+msgstr ""
+
+#: ;DD3B8E572FFF4D90
+msgid "Theme"
+msgstr ""
+
+#: ;408E5BF6AF321C82
+msgid "Global Layout"
+msgstr ""
+
+#: ;DFC0F5788236B18F
+msgid "(click to set for selected tracks)"
+msgstr ""
+
+#: ;3D03AF2F927B9BF4
+msgid "Action #"
+msgstr ""
+
+#: ;5C68755263FDA490
+msgid "Track views"
+msgstr ""
+
+#: ;D9628314D831526C
+msgid "Selection sets"
+msgstr ""
+
+#: ;143E56499C737597
+msgid "Selection set"
+msgstr ""
+
+#: ;^24254706AC60DF9A
+msgid "Track Control Panels"
+msgstr ""
+
+#: ;^0832A507B4EBA134
+msgid "#"
+msgstr ""
+
+#: ;^DCEF2B4D03DE723C
+msgid "Name"
+msgstr ""
+
+#: ;^A97DAA4FBD1778A5
+msgid "(default)"
+msgstr ""
+
+#: ;^2ED640682AB36744
+msgid "Windows"
+msgstr ""
+
+#: ;^A61CBD25C6796002
+msgid "Layouts"
+msgstr ""
+

@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;36F9D069AF7D17F2
+msgid "OGG Opus 48kHz"
+msgstr ""
+
+#: ;46F16028170F52E3
+msgid "(input: %.1fkHz)"
+msgstr ""
+
+#: ;6300C85E446A5725
+msgid "%dch, %s"
+msgstr ""
+
+#: ;AF2ED54EB5D6EF96
+msgid "%.0fkbps"
+msgstr ""
+
+#: ;204E9BE37F91F259
+msgid "OGG Opus"
+msgstr ""
+
+#: ;68B89884DBA9A0FF
+msgid "CVBR %.0fkbps OGG Opus"
+msgstr ""
+
+#: ;8734E4F76200DBEB
+msgid "Hard-CBR %.0fkbps OGG Opus"
+msgstr ""
+
+#: ;A89B5FE9A3E0FB7F
+msgid "VBR OGG Opus"
+msgstr ""
+
+#: ;A6F5715C7DFDA0E9
+msgid "Error parsing OPUS: file contains more than 8 channels"
+msgstr ""
+
+#: ;76872764C42BD97A
+msgid "Error parsing OPUS"
+msgstr ""
+
+#: ;5EC5AA30E22DAA72
+msgid "OGG Opus files"
+msgstr ""
+
+#: ;^6355A67DF71FA0FB
+msgid "VBR"
+msgstr ""
+
+#: ;^9567E9AB777E07DA
+msgid "CVBR"
+msgstr ""
+
+#: ;^D3F87301A0059CA6
+msgid "Hard-CBR"
+msgstr ""
+
+#: ;^D9220AE04A08F86B
+msgid "Error opening file"
+msgstr ""
+

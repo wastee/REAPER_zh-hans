@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;8206966DFF6275C0
+msgid "Linear dB (1.0)"
+msgstr ""
+
+#: ;8B52513B62BC658A=REAPER v3 (scale
+msgid "REAPER v3 (scale=2.3)"
+msgstr ""
+
+#: ;44E3B3B006908362
+msgid "Max precision at +0 dB (4.0)"
+msgstr ""
+
+#: ;34DD6BBBA1712F11
+msgid "100%L .. 100%R"
+msgstr ""
+
+#: ;A1AC1FA1513DB9E9
+msgid "-90dB .. +90dB"
+msgstr ""
+
+#: ;^AB2A3D4EF1C9D1A8
+msgid "Default"
+msgstr ""
+

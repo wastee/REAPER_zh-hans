@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;25B54B48200FE552
+msgid "Pressure:"
+msgstr ""
+
+#: ;FF31D8550DDA67FE
+msgid "Control:"
+msgstr ""
+
+#: ;8574C8A8518509DA
+msgid "<all>"
+msgstr ""
+
+#: ;90F0EB2943C23B4D
+msgid "measure"
+msgstr ""
+
+#: ;^8B359EC8CE2EF66C
+msgid "Parameter:"
+msgstr ""
+
+#: ;^5892A20D9BBBE54A
+msgid "Value:"
+msgstr ""
+
+#: ;^C54C973113730A6F
+msgid "Note:"
+msgstr ""
+
+#: ;^02E6C28F6CC5D246
+msgid "Velocity:"
+msgstr ""
+
+#: ;^B376015F8643AFD1
+msgid "Program:"
+msgstr ""
+
+#: ;^322690F7CBF0FD23
+msgid "Pitch:"
+msgstr ""
+

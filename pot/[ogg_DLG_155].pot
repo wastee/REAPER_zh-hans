@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;246E456AFF21F160
+msgid "VBR   quality:"
+msgstr ""
+
+#: ;42DC2DABD9CC9A1E
+msgid "CBR:"
+msgstr ""
+
+#: ;0B7BBDB9FEA4641C
+msgid "ABR:"
+msgstr ""
+
+#: ;331CFD6838B20891=(0.0 = lowest, 1.0 
+msgid "(0.0 = lowest, 1.0 = highest):"
+msgstr ""
+
+#: ;CD1C84A71AF08E0D
+msgid "kbps, min:"
+msgstr ""
+
+#: ;11E6C4A741C20633
+msgid "kbps, max:"
+msgstr ""
+
+#: ;^0121AF72166A79F7
+msgid "kbps"
+msgstr ""
+

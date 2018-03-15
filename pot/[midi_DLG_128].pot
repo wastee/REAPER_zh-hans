@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;327FFA51A32F00CE
+msgid "Filter Events"
+msgstr ""
+
+#: ;1479DC66F8E588F2
+msgid "Draw events on channel:"
+msgstr ""
+
+#: ;F426DB0DA6B0805F
+msgid "Event type:"
+msgstr ""
+
+#: ;3CD9D220020D3E19
+msgid "Use piano keys"
+msgstr ""
+
+#: ;DD64852039178DFB
+msgid "Position in measure:"
+msgstr ""
+
+#: ;77034C3A25369783
+msgid "Repeat every:"
+msgstr ""
+
+#: ;76055D773504A5CB
+msgid "Set selection"
+msgstr ""
+
+#: ;66E6846A693D7807
+msgid "Remove from selection"
+msgstr ""
+
+#: ;097A041ADD3A1BA5
+msgid "Set filter from selection"
+msgstr ""
+
+#: ;^D21C990ADFD61587
+msgid "Show only events that pass filter"
+msgstr ""
+
+#: ;^34256B9EEE178D2F
+msgid "Invert"
+msgstr ""
+
+#: ;^0420AF237D97ECB8
+msgid "Solo"
+msgstr ""
+
+#: ;^F3238895531F739E
+msgid "Channel"
+msgstr ""
+
+#: ;^08329707B4EB896A
+msgid "1"
+msgstr ""
+
+#: ;^08329607B4EB87B7
+msgid "2"
+msgstr ""
+
+#: ;^08329507B4EB8604
+msgid "3"
+msgstr ""
+
+#: ;^08329407B4EB8451
+msgid "4"
+msgstr ""
+
+#: ;^08329307B4EB829E
+msgid "5"
+msgstr ""
+
+#: ;^08329207B4EB80EB
+msgid "6"
+msgstr ""
+
+#: ;^08329107B4EB7F38
+msgid "7"
+msgstr ""
+
+#: ;^08329007B4EB7D85
+msgid "8"
+msgstr ""
+
+#: ;^08328F07B4EB7BD2
+msgid "9"
+msgstr ""
+
+#: ;^D97FFC186C3A63EE
+msgid "10"
+msgstr ""
+
+#: ;^D97FFD186C3A65A1
+msgid "11"
+msgstr ""
+
+#: ;^D97FFA186C3A6088
+msgid "12"
+msgstr ""
+
+#: ;^D97FFB186C3A623B
+msgid "13"
+msgstr ""
+
+#: ;^D98000186C3A6ABA
+msgid "14"
+msgstr ""
+
+#: ;^D98001186C3A6C6D
+msgid "15"
+msgstr ""
+
+#: ;^D97FFE186C3A6754
+msgid "16"
+msgstr ""
+
+#: ;^18C90F7E5DC51FCA
+msgid "All"
+msgstr ""
+
+#: ;^8B359EC8CE2EF66C
+msgid "Parameter:"
+msgstr ""
+
+#: ;^5892A20D9BBBE54A
+msgid "Value:"
+msgstr ""
+
+#: ;^BA5E537E2889F79F
+msgid "Low"
+msgstr ""
+
+#: ;^62D61C82DFC06ED3
+msgid "High"
+msgstr ""
+
+#: ;^309B13D6E0AC1A0F
+msgid "Length:"
+msgstr ""
+
+#: ;^B16F3BCB9C49D151
+msgid "Add to selection"
+msgstr ""
+
+#: ;^5AEDD7C14E3CAEC2
+msgid "Clear filter"
+msgstr ""
+

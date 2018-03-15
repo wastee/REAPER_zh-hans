@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;6DB700CA3D9D5729
+msgid "Dock IDE window in Docker"
+msgstr ""
+
+#: ;3E0D0BAD1F8E064F
+msgid "Close IDE window"
+msgstr ""
+
+#: ;D3D720DE0DAAFD56
+msgid "Restart"
+msgstr ""
+
+#: ;D2E6B7E7B657D1D1
+msgid "The script %s has been modified externally.\r\nDo you want to reload it?"
+msgstr ""
+
+#: ;3B79C565F246167A
+msgid "Reload ReaScript?"
+msgstr ""
+
+#: ;ADFBC2DF619CD08E
+msgid "Save changes to:"
+msgstr ""
+
+#: ;831EC47C169E3F00
+msgid "before closing?"
+msgstr ""
+
+#: ;35947A0D61B1839D
+msgid "Save ReaScript modifications?"
+msgstr ""
+
+#: ;472F38ACA99C26FA
+msgid "ReaScript Development Environment"
+msgstr ""
+
+#: ;D9B78CC3D8EB7ABC
+msgid "API help"
+msgstr ""
+
+#: ;91B11477A77007C4
+msgid "Run defer() code"
+msgstr ""
+
+#: ;2F579B23960A832D
+msgid "Step"
+msgstr ""
+
+#: ;6657ECBAB76A74D5
+msgid "atexit()"
+msgstr ""
+
+#: ;^DCEF2B4D03DE723C
+msgid "Name"
+msgstr ""
+
+#: ;^772CECA01AD73CB4
+msgid "Value"
+msgstr ""
+
+#: ;^87DB547E0C57B4B8
+msgid "Run"
+msgstr ""
+
+#: ;^5B664677E1A91155
+msgid "Start"
+msgstr ""
+
+#: ;^D9B12705AD844C62
+msgid "List1"
+msgstr ""
+

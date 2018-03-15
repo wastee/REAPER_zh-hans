@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;A3FA5A822CC7D898
+msgid "3TrackEmpty"
+msgstr ""
+
+#: ;B0A42D963CEF845C
+msgid "Insert multiple tracks..."
+msgstr ""
+
+#: ;BB1E22C4CE52BD4B
+msgid "Show master track"
+msgstr ""
+
+#: ;^6E9C1F47AE0AB01B
+msgid "Insert new track"
+msgstr ""
+
+#: ;^A6F3EA432AA410A4
+msgid "Insert virtual instrument on new track..."
+msgstr ""
+
+#: ;^14AB75DE2C24FEF3
+msgid "Insert track from template"
+msgstr ""
+
+#: ;^D9CD3B25D255019B
+msgid "Open template..."
+msgstr ""
+
+#: ;^65CA689C377C5655
+msgid "Offset template items by edit cursor"
+msgstr ""
+
+#: ;^3A390528F4DCEC5D
+msgid "(track template list)"
+msgstr ""
+

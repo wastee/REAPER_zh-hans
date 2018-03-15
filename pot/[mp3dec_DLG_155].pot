@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;A40D618D5AEB5CBC
+msgid "Maximum bitrate/quality"
+msgstr ""
+
+#: ;318CDAE81DB7539C
+msgid "Target quality  (VBR)"
+msgstr ""
+
+#: ;34C577E33837B567
+msgid "Target bitrate  (ABR)"
+msgstr ""
+
+#: ;F17B168459C12F7E
+msgid "Constant bitrate  (CBR)"
+msgstr ""
+
+#: ;C35095E6C50358A5
+msgid "Maximum (slow)"
+msgstr ""
+
+#: ;00A6AC3878391B26
+msgid "Better (slower)"
+msgstr ""
+
+#: ;56DEF4871CBFA226
+msgid "Normal (recommended)"
+msgstr ""
+
+#: ;CE71333273BE7369
+msgid "Fast encode"
+msgstr ""
+
+#: ;22C0D4CA8A905783
+msgid "Fastest encode"
+msgstr ""
+
+#: ;71037E259030D297
+msgid "(worst)"
+msgstr ""
+
+#: ;84DACD4CCB6B731A
+msgid "(best)"
+msgstr ""
+
+#: ;3588727EA4170214
+msgid "LAME unavailable"
+msgstr ""
+
+#: ;CF9CD1BCD466E99A
+msgid "Quality:"
+msgstr ""
+
+#: ;957104933D1BEA37
+msgid "approximate"
+msgstr ""
+
+#: ;7E079B0B698E0E42
+msgid "lame info"
+msgstr ""
+
+#: ;^0121AF72166A79F7
+msgid "kbps"
+msgstr ""
+
+#: ;^46F1486DB9B6A7A6
+msgid "Mode:"
+msgstr ""
+
+#: ;^47721B0B3BD6F596
+msgid "Bitrate:"
+msgstr ""
+

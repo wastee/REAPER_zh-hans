@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;873BCEA2BFE053BD
+msgid "hybrid"
+msgstr ""
+
+#: ;8606395D76B25409
+msgid "lossless"
+msgstr ""
+
+#: ;F6984A9C39CB985B
+msgid "lossy"
+msgstr ""
+
+#: ;0926D19BB88A07C9
+msgid "fast"
+msgstr ""
+
+#: ;E3E81D89F93084B3
+msgid "high"
+msgstr ""
+
+#: ;F1F114CDF572AC29
+msgid "very high"
+msgstr ""
+
+#: ;EEB57C3B4D547843
+msgid "extra"
+msgstr ""
+
+#: ;92EE617EA3341EDA
+msgid "sfx"
+msgstr ""
+
+#: ;0E8644ABCA770365
+msgid "Bitrate: %d kbps"
+msgstr ""
+
+#: ;5EDF895B47B7FEB2
+msgid "Encoder version: %d"
+msgstr ""
+
+#: ;3FD8FEFA455017CD
+msgid "Format: %dbit %s %dHz"
+msgstr ""
+
+#: ;229E97096D9B7754
+msgid "(float)"
+msgstr ""
+
+#: ;87B3213A8CE74705
+msgid "(int)"
+msgstr ""
+
+#: ;64899EFD88D56ED2
+msgid "Mode: %s"
+msgstr ""
+
+#: ;9B0D4BCFFBD63923
+msgid "Error querying info"
+msgstr ""
+
+#: ;F4E03D9D6742AB37
+msgid ".WV (WavPack) File Properties"
+msgstr ""
+
+#: ;^71831478CADD789A
+msgid "File offline"
+msgstr ""
+
+#: ;^CD2E4AA3231DEC4D
+msgid "File not opened"
+msgstr ""
+
+#: ;^D730907ADC00D444
+msgid "Unknown error/status"
+msgstr ""
+
+#: ;^09A3E92731A691E1
+msgid "Length: %s"
+msgstr ""
+
+#: ;^1091E0FE22106AFC
+msgid "Channels: %d"
+msgstr ""
+
+#: ;^1423A19AE6EB974B
+msgid "BWF chunk:"
+msgstr ""
+
+#: ;^5017DF9DE95C6EEB
+msgid "Description:"
+msgstr ""
+
+#: ;^DB02529B96E86431
+msgid "Originator:"
+msgstr ""
+
+#: ;^4D523EF65716D7F6
+msgid "Originator Reference:"
+msgstr ""
+
+#: ;^C97D468A7054B193
+msgid "Date:"
+msgstr ""
+
+#: ;^3479BF4FF70CC71C
+msgid "Time:"
+msgstr ""
+
+#: ;^A24AA748B77E55CA
+msgid "Start offset:"
+msgstr ""
+
+#: ;^BAC64C1B2E060EE5
+msgid "Close"
+msgstr ""
+
+#: ;^3BF92ABFA8425D90
+msgid "Filename:"
+msgstr ""
+
+#: ;^C01085DD37178417
+msgid "File info:"
+msgstr ""
+

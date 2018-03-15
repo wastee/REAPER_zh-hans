@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;771BE661607B660C
+msgid "Audio settings"
+msgstr ""
+
+#: ;A965CC5A8248EA92
+msgid "Close audio device when stopped and application is inactive"
+msgstr ""
+
+#: ;A3E497C30F573907
+msgid "Close audio device when inactive and tracks are record armed"
+msgstr ""
+
+#: ;88D3DE337F7E5D78
+msgid "Close audio device when inactive and ReWire devices are open"
+msgstr ""
+
+#: ;1B98A491F616C4FD
+msgid "Close audio device when stopped and active (less responsive)"
+msgstr ""
+
+#: ;8C97F85C4C9FE0F2
+msgid "Warn when unable to open audio devices"
+msgstr ""
+
+#: ;AC7AE7A176147DD5
+msgid "Tiny fade out on playback stop"
+msgstr ""
+
+#: ;6AF1C766315DA216
+msgid "Tiny fade in on playback start"
+msgstr ""
+
+#: ;28DF1513ACC005F5
+msgid "Reduce CPU use of silent tracks during playback (experimental)"
+msgstr ""
+
+#: ;C5A76E243C28A4AB
+msgid "Channel naming/mapping"
+msgstr ""
+
+#: ;4554DB9B26BD7F5D
+msgid "Input channel name aliasing/remapping"
+msgstr ""
+
+#: ;BC4FB48156117258
+msgid "Edit Names/Map..."
+msgstr ""
+
+#: ;FC22C6EF8E185AD2
+msgid "Output channel name aliasing/remapping"
+msgstr ""
+
+#: ;7744ECC4A8F97396
+msgid "Show non-standard stereo channel pairs (i.e. Input 2/Input 3 etc)"
+msgstr ""
+
+#: ;F67D1FDC9D0ABC37
+msgid "main outs"
+msgstr ""
+
+#: ;644113753F9A2FD9
+msgid "Default metronome output:"
+msgstr ""
+
+#: ;^E65D106B2B1EE745
+msgid "MIDI devices"
+msgstr ""
+

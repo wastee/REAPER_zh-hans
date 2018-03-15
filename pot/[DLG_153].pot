@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;138115F421695B0D
+msgid "Add joystick MIDI..."
+msgstr ""
+
+#: ;A4F5378A569069D6
+msgid "MIDI inputs to make available (selectable as track inputs and/or learnable or action-bindable):"
+msgstr ""
+
+#: ;2067FD051A93CC68
+msgid "MIDI outputs to make available (selectable as track outputs):"
+msgstr ""
+
+#: ;D5D0203E4FFCD927
+msgid "MIDI hardware settings"
+msgstr ""
+
+#: ;751EA016639ED40A
+msgid "All-notes-off"
+msgstr ""
+
+#: ;E16CBE842A37B395
+msgid "Pitch/sustain"
+msgstr ""
+
+#: ;B7CB4986C15E8D4B
+msgid "Reset by:"
+msgstr ""
+
+#: ;AF3AC146DC0BBCFA
+msgid "Restrict MIDI hardware output to one thread"
+msgstr ""
+
+#: ;9EC74E86B379FB1B
+msgid "Reset on:"
+msgstr ""
+
+#: ;82AB49B39099AD8F
+msgid "Stop/stopped seek"
+msgstr ""
+
+#: ;^D9B12705AD844C62
+msgid "List1"
+msgstr ""
+
+#: ;^F8E6A0B81A77C5E9
+msgid "Reset all MIDI devices"
+msgstr ""
+
+#: ;^3D9CBC3C216900AD
+msgid "Play"
+msgstr ""
+

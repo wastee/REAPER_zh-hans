@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;3C96C8EC17623182
+msgid "Preferred video size:"
+msgstr ""
+
+#: ;C8DA872ED5A7C0B3
+msgid "Video item visibility:"
+msgstr ""
+
+#: ;977357388CFC1639
+msgid "Video colorspace:"
+msgstr ""
+
+#: ;D87FC269258563FB
+msgid "Always resize video sources to preferred video size"
+msgstr ""
+
+#: ;42DE701EFD494C17
+msgid "Always resize output to preferred video size"
+msgstr ""
+
+#: ;F71879505EE5260E
+msgid "Use high quality filtering when resizing"
+msgstr ""
+
+#: ;D037E80E157C9825
+msgid "Preserve aspect ratio (letterbox) when resizing"
+msgstr ""
+
+#: ;^C32C641180B224AC
+msgid "Frame rate:"
+msgstr ""
+
+#: ;^08325007B4EB10C5
+msgid "x"
+msgstr ""
+

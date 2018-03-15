@@ -1,0 +1,666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;00C3EF5C0B634B6E
+msgid "Source Media"
+msgstr ""
+
+#: ;74B1E6549A40A805
+msgid "Media Items"
+msgstr ""
+
+#: ;ECDBB74C1B43A388
+msgid "Item Groups"
+msgstr ""
+
+#: ;4F2D327AF8BC0B38
+msgid "Take Comps"
+msgstr ""
+
+#: ;DE8C2727D599C9C8
+msgid "File name"
+msgstr ""
+
+#: ;EFA75D43B72E443E
+msgid "Retain"
+msgstr ""
+
+#: ;AD645A7EB24016DD
+msgid "Sample rate"
+msgstr ""
+
+#: ;9007BD4650E2DD83
+msgid "Active take name"
+msgstr ""
+
+#: ;2C5B5609D9FC338D
+msgid "Takes"
+msgstr ""
+
+#: ;3E45455ACFBA41E0
+msgid "Fade-in/out"
+msgstr ""
+
+#: ;6280F373A57F4916
+msgid "Active take details"
+msgstr ""
+
+#: ;8682AD9E3F8AFD88
+msgid "Preset"
+msgstr ""
+
+#: ;43F9CD2EC502348F
+msgid "Developer"
+msgstr ""
+
+#: ;675741A18076844C
+msgid "FX/Parameter name"
+msgstr ""
+
+#: ;D2869C227E2EDDA3
+msgid "Envelope"
+msgstr ""
+
+#: ;57F6F53C4FAAD179
+msgid "Modulation"
+msgstr ""
+
+#: ;9C70A65A4A4187D2
+msgid "Parameter link"
+msgstr ""
+
+#: ;BFA2F665F3A989FF
+msgid "Take name"
+msgstr ""
+
+#: ;34E1AFED2E371412
+msgid "Take details"
+msgstr ""
+
+#: ;8B94098F4C037237
+msgid "Save Project Bay:"
+msgstr ""
+
+#: ;F9CC006D450B4779
+msgid "(unnamed media item)"
+msgstr ""
+
+#: ;CC08F95D7C89C235
+msgid "(unnamed take)"
+msgstr ""
+
+#: ;5C2D19DFE51C3628
+msgid "(empty take)"
+msgstr ""
+
+#: ;A39B2DF830CEB3D1
+msgid "Error copying file %s to %s"
+msgstr ""
+
+#: ;BA12173E440CD42E
+msgid "Error moving file %s to %s"
+msgstr ""
+
+#: ;8810747D6BB07A90
+msgid "Project Bay Rename Error"
+msgstr ""
+
+#: ;89F718638D53E72C
+msgid "Rename Comp"
+msgstr ""
+
+#: ;48DCE74B75658741
+msgid "Rename File"
+msgstr ""
+
+#: ;00A18DEAF6E00AB0
+msgid "Rename Active Take"
+msgstr ""
+
+#: ;A534E7E073F2E8DC
+msgid "Rename Take"
+msgstr ""
+
+#: ;828D8CBDDC939264
+msgid "Select group"
+msgstr ""
+
+#: ;14D4D24DDC9E17BD
+msgid "Activate comp"
+msgstr ""
+
+#: ;EA2481910647E514
+msgid "Rename group..."
+msgstr ""
+
+#: ;E7B851C5F3A48D62
+msgid "Rename comp..."
+msgstr ""
+
+#: ;20C9E44247CBCC07
+msgid "Rename folder..."
+msgstr ""
+
+#: ;A7968517861E5FA2
+msgid "Delete group, keep items"
+msgstr ""
+
+#: ;9FF26658812E26C6
+msgid "Delete comp, keep takes"
+msgstr ""
+
+#: ;A5F21AE1DC3190E9
+msgid "Delete folder, keep items"
+msgstr ""
+
+#: ;5217A7A9035D38ED
+msgid "Remove from bay if removed from project"
+msgstr ""
+
+#: ;243BBEF41871DEFD
+msgid "Remove from bay"
+msgstr ""
+
+#: ;DC9C685173D59620
+msgid "Remove from project"
+msgstr ""
+
+#: ;9C6E8829741C49AC
+msgid "take"
+msgstr ""
+
+#: ;B9BE27CA74A111E1
+msgid "Input FX"
+msgstr ""
+
+#: ;93172ED741B93FF9
+msgid "Multiple FX parameters"
+msgstr ""
+
+#: ;2EBCBDFB951E132D
+msgid "(track FX only)"
+msgstr ""
+
+#: ;96D56A605E644BF6
+msgid "Activate envelope"
+msgstr ""
+
+#: ;3322AA333AEE590E
+msgid "Show envelope"
+msgstr ""
+
+#: ;6402E1FD7D16047A
+msgid "Track envelope"
+msgstr ""
+
+#: ;457D67008DC9815D
+msgid "Media item take envelope"
+msgstr ""
+
+#: ;9A820D2F2E8FC54E
+msgid "All instances"
+msgstr ""
+
+#: ;F2F482604380A5EF
+msgid "length"
+msgstr ""
+
+#: ;C055CFA2E5BBE0BF
+msgid "Retained"
+msgstr ""
+
+#: ;082B023FB009185B
+msgid "Replace with:"
+msgstr ""
+
+#: ;27CB80A3AA1D96F9
+msgid "Replace:"
+msgstr ""
+
+#: ;14784073F1F9D5CE
+msgid "Offline"
+msgstr ""
+
+#: ;33B0245676178345
+msgid "Rename file..."
+msgstr ""
+
+#: ;D982E0C2A7D8F056
+msgid "Rename active take..."
+msgstr ""
+
+#: ;78B61C10AFF466DA
+msgid "Move file..."
+msgstr ""
+
+#: ;2E95BDFEE3B348AB
+msgid "Move file to project media directory"
+msgstr ""
+
+#: ;0F2DE6606E58C942
+msgid "Copy file..."
+msgstr ""
+
+#: ;C99F330DE98CD983
+msgid "Copy file to project media directory"
+msgstr ""
+
+#: ;75D4642A3263A200
+msgid "Move/copy file"
+msgstr ""
+
+#: ;B1EBE6BC7FA4AB6F
+msgid "Retain/remove"
+msgstr ""
+
+#: ;7292F3B05A92FD62
+msgid "Change preset"
+msgstr ""
+
+#: ;14BDA968F9C3FC2F
+msgid "FX parameters..."
+msgstr ""
+
+#: ;2CC1F064E846892D
+msgid "Replace in project"
+msgstr ""
+
+#: ;6BA42CC2C145BC8F
+msgid "Add comment..."
+msgstr ""
+
+#: ;086FCBB901DB2965
+msgid "Activate take"
+msgstr ""
+
+#: ;C4EC12087FED4032
+msgid "Rename take..."
+msgstr ""
+
+#: ;5A7D39B0FBB8C47A
+msgid "Remove from group"
+msgstr ""
+
+#: ;19FE65BEBD274400
+msgid "Remove from comp"
+msgstr ""
+
+#: ;54ED071F0FDD712B
+msgid "Create new group from selected items..."
+msgstr ""
+
+#: ;347BCB8B01080110
+msgid "Create new comp from active takes..."
+msgstr ""
+
+#: ;EA6DC9E913D6AF50
+msgid "Rename project bay"
+msgstr ""
+
+#: ;360AB05084683AD5
+msgid "Delete project bay"
+msgstr ""
+
+#: ;D8252497037FC39B
+msgid "unavailable"
+msgstr ""
+
+#: ;82B8939A482B5AC1
+msgid "active"
+msgstr ""
+
+#: ;978919255BD32C46
+msgid "inactive"
+msgstr ""
+
+#: ;11EC07F382BFE90E
+msgid "available"
+msgstr ""
+
+#: ;3BEA02D98C46F12E
+msgid "offline"
+msgstr ""
+
+#: ;9783C0C504F150F6
+msgid "muted"
+msgstr ""
+
+#: ;8CFA21E35F72FC3A
+msgid "Activate"
+msgstr ""
+
+#: ;E8589482D635CA30
+msgid "Unbypass"
+msgstr ""
+
+#: ;8485C46311AD5159
+msgid "Unmute"
+msgstr ""
+
+#: ;183F8B77513F14EA
+msgid "Media Explorer..."
+msgstr ""
+
+#: ;00406157C195493F
+msgid "Add selected items"
+msgstr ""
+
+#: ;172E6AECBC20BFE5
+msgid "FX Browser..."
+msgstr ""
+
+#: ;9141FC43E57F329F
+msgid "(take FX)"
+msgstr ""
+
+#: ;C6FC4984F7D98C3A
+msgid "(input FX)"
+msgstr ""
+
+#: ;22A5431A2741FBFD
+msgid "instances"
+msgstr ""
+
+#: ;2253BF5869AF0F8F
+msgid "hidden"
+msgstr ""
+
+#: ;9D3567DD46788EEE
+msgid "armed"
+msgstr ""
+
+#: ;1940027E5E2A3018
+msgid "ACS"
+msgstr ""
+
+#: ;6A06D6C989A3EF64
+msgid "Offset"
+msgstr ""
+
+#: ;B55B907081C17CFD
+msgid "Play rate"
+msgstr ""
+
+#: ;14DEAC26836C2850
+msgid "Choose target directory"
+msgstr ""
+
+#: ;9961CF7D0DA344E5
+msgid "Project Bay Comment"
+msgstr ""
+
+#: ;B7133FA7ADF1C1DF
+msgid "Insert media from Project Bay"
+msgstr ""
+
+#: ;A2CCBBCECF24218A
+msgid "Insert media item from Project Bay"
+msgstr ""
+
+#: ;0B315A6DE85D30B5
+msgid "Insert FX from Project Bay"
+msgstr ""
+
+#: ;2FED30C8431F294C
+msgid "[... more ...]"
+msgstr ""
+
+#: ;884F9A8A81E0E666
+msgid "Project Bay Error"
+msgstr ""
+
+#: ;6C6596EC5DE493DD
+msgid "New Item Group"
+msgstr ""
+
+#: ;934C32B3BACF78A2
+msgid "New Project Bay Folder"
+msgstr ""
+
+#: ;DFF01C2D3B01ED3C
+msgid "New project bay..."
+msgstr ""
+
+#: ;E955EBA577CEC97A
+msgid "Load and merge from"
+msgstr ""
+
+#: ;8386F6978C1E6411
+msgid "Current project contents"
+msgstr ""
+
+#: ;4400F2F9BA854405
+msgid "(no saved bays)"
+msgstr ""
+
+#: ;730A25B8E0BC96B6
+msgid "Save all items to"
+msgstr ""
+
+#: ;1B08ED3F9C7CBDBC
+msgid "Save selected items as new project bay..."
+msgstr ""
+
+#: ;4448ADC2E8760D4A
+msgid "Save all items as new project bay..."
+msgstr ""
+
+#: ;F2CA13682C4FCF09
+msgid "Save and merge selected items to"
+msgstr ""
+
+#: ;D1A5D8858FB0D210
+msgid "Rename Project Bay"
+msgstr ""
+
+#: ;DFB9BDCB3F336D77
+msgid "Error: file already exists!\r\n"
+msgstr ""
+
+#: ;E2BB0FDB5EB8DB36
+msgid "Error: cannot rename file!\r\n"
+msgstr ""
+
+#: ;E8B3E508FC4AEFA5
+msgid "Are you sure you want to delete this project bay entirely?\r\n"
+msgstr ""
+
+#: ;BDC2331AE3F4F7BF
+msgid "Confirm Project Bay Delete"
+msgstr ""
+
+#: ;23185877917B984A
+msgid "Error: can't delete file:\r\n"
+msgstr ""
+
+#: ;DF67DA95E6EB35A5
+msgid "Project Bay Delete Error"
+msgstr ""
+
+#: ;^D85ED6186B447CF9
+msgid "FX"
+msgstr ""
+
+#: ;^94FDEB80682CF963
+msgid "FX Parameters"
+msgstr ""
+
+#: ;^2A6ED1B48E88BCC9
+msgid "Status"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^0A8BAF4C6945400F
+msgid "Length"
+msgstr ""
+
+#: ;^2D126F1D4BD6B8C7
+msgid "Type"
+msgstr ""
+
+#: ;^09A01E8714A0B688
+msgid "Comment"
+msgstr ""
+
+#: ;^9F31623C59553158
+msgid "Path"
+msgstr ""
+
+#: ;^FA08A03DC81EC720
+msgid "Plug-in name"
+msgstr ""
+
+#: ;^7666307E026A82D2
+msgid "TCP"
+msgstr ""
+
+#: ;^E763E06A994AAAFB
+msgid "Learn"
+msgstr ""
+
+#: ;^AF63BD4C8601B7DF
+msgid ""
+msgstr ""
+
+#: ;^2ADD7A879D22FA5C
+msgid "Position"
+msgstr ""
+
+#: ;^71E0871D72ABD5CC
+msgid "Take"
+msgstr ""
+
+#: ;^3DC3C3589C65D706
+msgid "MIDI"
+msgstr ""
+
+#: ;^6208D6BE485CCB06
+msgid "Group"
+msgstr ""
+
+#: ;^83BDD8AC8FA8B69C
+msgid "Comp"
+msgstr ""
+
+#: ;^C92094118C504736
+msgid "Rename Group"
+msgstr ""
+
+#: ;^BA1A25DF2A11E99B
+msgid "Rename Folder"
+msgstr ""
+
+#: ;^F420AC1723391ECE
+msgid "Master track"
+msgstr ""
+
+#: ;^12D1E2F79FD7BDB8
+msgid "Rename FX instance"
+msgstr ""
+
+#: ;^EDD67828D248E210
+msgid "Show in track controls"
+msgstr ""
+
+#: ;^E93215673B41CADD
+msgid "Arm envelope"
+msgstr ""
+
+#: ;^0687FB850B209D99
+msgid "Parameter modulation/link/MIDI link"
+msgstr ""
+
+#: ;^2FD8CEB7661F1822
+msgid "Alias parameter"
+msgstr ""
+
+#: ;^4D5B21719C8D85CE
+msgid "Browse for file..."
+msgstr ""
+
+#: ;^1C9976E435832BEB
+msgid "Bypass"
+msgstr ""
+
+#: ;^61946358B1034B76
+msgid "Mute"
+msgstr ""
+
+#: ;^3C63123253BCD74E
+msgid "Usage"
+msgstr ""
+
+#: ;^ACE17ED77A0CFB39
+msgid "Insert into project"
+msgstr ""
+
+#: ;^3E6F5B4FF4F5BC43
+msgid "Create new folder..."
+msgstr ""
+
+#: ;^67D35DD28653A00A
+msgid "bypassed"
+msgstr ""
+
+#: ;^F685FB3A91025549
+msgid "Browse..."
+msgstr ""
+
+#: ;^AFCA4361EC2D09C2
+msgid "Show/hide columns:"
+msgstr ""
+
+#: ;^1EBBCAFED2D3BA25
+msgid "master"
+msgstr ""
+
+#: ;^BA0F8B7E28468276
+msgid "LFO"
+msgstr ""
+
+#: ;^46526B6C96E7851A
+msgid "Source"
+msgstr ""
+
+#: ;^8FC86C263760ACB9
+msgid "Volume"
+msgstr ""
+
+#: ;^96E5C67E1437194E
+msgid "Pan"
+msgstr ""
+
+#: ;^57F28E456CC0FEEB
+msgid "Pitch"
+msgstr ""
+
+#: ;^C685A28B8DBF7F8B
+msgid "Folder"
+msgstr ""
+
+#: ;^AD6ADC4BDE973BA3
+msgid "Select replacement file:"
+msgstr ""
+
+#: ;^397E19C8F7486840
+msgid "Project Bay"
+msgstr ""
+
+#: ;^C065E9FEE11B2862
+msgid "(current project)"
+msgstr ""
+

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;84F43D3EDA83383C
+msgid "SMPTE Generator Properties"
+msgstr ""
+
+#: ;12E19CE6C57BB067
+msgid "Send audio (LTC)"
+msgstr ""
+
+#: ;52804D5F8150D65B
+msgid "Send MIDI (MTC)"
+msgstr ""
+
+#: ;B51CE642A76CBDCC
+msgid "Start time:"
+msgstr ""
+
+#: ;D0E00ADDA6B5B520
+msgid "(hh:mm:ss.ff)"
+msgstr ""
+
+#: ;FA3F8C074E460084
+msgid "User value 1 (0-255):"
+msgstr ""
+
+#: ;7C4361DB02F85877
+msgid "User value 2 (0-255):"
+msgstr ""
+
+#: ;87C65BA87A344B7A
+msgid "User value 3 (0-255):"
+msgstr ""
+
+#: ;89765A05AAF121ED
+msgid "User value 4 (0-255):"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^D7323C887B0A2951
+msgid "Apply"
+msgstr ""
+
+#: ;^C32C641180B224AC
+msgid "Frame rate:"
+msgstr ""
+

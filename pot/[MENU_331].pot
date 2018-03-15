@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;556582869CFDFD1A
+msgid "31TransportEndCtx"
+msgstr ""
+
+#: ;^5D5B152A913BF2D1
+msgid "Go to end of project"
+msgstr ""
+
+#: ;^51B4B159DD69FD3B
+msgid "Go to next marker"
+msgstr ""
+
+#: ;^94D3B132B355DDD4
+msgid "Use transport home/end for markers"
+msgstr ""
+

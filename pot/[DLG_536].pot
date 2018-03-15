@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;2D881AB025B41602
+msgid "Insert Media"
+msgstr ""
+
+#: ;5829C71677489C3A
+msgid "Separate Tracks"
+msgstr ""
+
+#: ;51B9D32E1177B86C
+msgid "Single Track"
+msgstr ""
+
+#: ;9B6EF7252D32268B
+msgid "Insert multiple media items on separate tracks, or sequentially on a single track?"
+msgstr ""
+

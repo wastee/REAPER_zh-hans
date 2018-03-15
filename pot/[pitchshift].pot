@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;2C9FDF4101D8E2FF
+msgid "Simple windowed (fast)"
+msgstr ""
+
+#: ;09D126B8FC03970F
+msgid "%dms window, %dms fade"
+msgstr ""
+
+#: ;63360D1F1C91E9E6
+msgid "%dms window"
+msgstr ""
+
+#: ;11A3228492FDF5A2
+msgid "%d%% fade"
+msgstr ""
+
+#: ;958A4BB76D4E7937
+msgid "Dirac LE (slow)"
+msgstr ""
+
+#: ;^AB2A3D4EF1C9D1A8
+msgid "Default"
+msgstr ""
+

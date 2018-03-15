@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;2A7F8816DC5D8D92
+msgid "320x240 (QVGA)"
+msgstr ""
+
+#: ;3B53CF21DEFBE89E
+msgid "640x480 (VGA)"
+msgstr ""
+
+#: ;A1D42CC9345564A9
+msgid "800x600 (SVGA)"
+msgstr ""
+
+#: ;FE67C8BA281439A8
+msgid "1024x768 (XGA)"
+msgstr ""
+
+#: ;D75039D03D5DC6E6
+msgid "1280x720 (HD)"
+msgstr ""
+
+#: ;234DB244C89F7BAE
+msgid "1920x1080 (Full HD)"
+msgstr ""
+
+#: ;2370306F283B7A66
+msgid "Keep source aspect ratio"
+msgstr ""
+
+#: ;7DDB469D754C873C
+msgid "24fps"
+msgstr ""
+
+#: ;F8853C9137A8D5F9
+msgid "25fps"
+msgstr ""
+
+#: ;54073C2EBFD9DF87
+msgid "29.97fps"
+msgstr ""
+
+#: ;56C160B20B2D48EB
+msgid "30fps"
+msgstr ""
+
+#: ;FDD673B12EE98AB4
+msgid "Get width/height/framerate from current video item"
+msgstr ""
+
+#: ;B8F37664711499FA
+msgid "Get width/height/framerate from project"
+msgstr ""
+
+#: ;^08329707B4EB896A
+msgid "1"
+msgstr ""
+

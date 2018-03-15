@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;7FD83CFAFD120049
+msgid "45_ActionDlgCtx"
+msgstr ""
+
+#: ;EAA22874AC7EECF8
+msgid "Remember last action filter"
+msgstr ""
+
+#: ;06F6E4D36435E6E6
+msgid "Close after action on doubleclick/enter"
+msgstr ""
+
+#: ;A04C4EA23D1F025E
+msgid "Show action IDs"
+msgstr ""
+
+#: ;F86DA01979DBF767
+msgid "Copy selected action command ID"
+msgstr ""
+
+#: ;88671F5C9F600FB2
+msgid "Copy selected action text"
+msgstr ""
+
+#: ;9B042869A79FA02B
+msgid "Dock Action window in Docker"
+msgstr ""
+
+#: ;^82EE5475CB6FCE9F
+msgid "Close window"
+msgstr ""
+

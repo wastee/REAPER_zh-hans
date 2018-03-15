@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;80EBC8369EB04EC0
+msgid "Edit the media item fade-in/out by grabbing a triangle in the corner of the media item."
+msgstr ""
+
+#: ;7248C9668CE010CF
+msgid "Edit overlapping media item fades (crossfades) by grabbing a diamond at the intersection of the fade curves."
+msgstr ""
+
+#: ;7499317A45AD899D
+msgid "Prevent accidentally editing media item fade-in/out when the media item is small."
+msgstr ""
+
+#: ;028F1F8A53001AC3
+msgid "Allow the mouse to target the fade curve itself. The top edge of the fade start/end line (where the fade handle is drawn) can always be targeted."
+msgstr ""
+
+#: ;D15E84F1951DF3C9
+msgid "Allow the mouse to target the fade start/end line. The top edge of the fade start/end line (where the fade handle is drawn) can always be targeted."
+msgstr ""
+
+#: ;49CE054364B5D458
+msgid "Crossfades are drawn with custom theme colors when using the crossfade editor. These colors can be used when editing crossfades with the mouse."
+msgstr ""
+

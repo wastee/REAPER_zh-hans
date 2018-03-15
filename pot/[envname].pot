@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;C3E0C0E766B4F425
+msgid "Send Volume"
+msgstr ""
+
+#: ;984D1E61B8205D5A
+msgid "Send Pan"
+msgstr ""
+
+#: ;33B387658A238D22
+msgid "Send Mute"
+msgstr ""
+
+#: ;81F998BCFD9C03E2
+msgid "Audio Hardware Output: Volume"
+msgstr ""
+
+#: ;134434E547A5B227
+msgid "Audio Hardware Output: Pan"
+msgstr ""
+
+#: ;829EFC883EA4A099
+msgid "Audio Hardware Output: Mute"
+msgstr ""
+
+#: ;F956A6770719C64E
+msgid "Volume (Pre-FX)"
+msgstr ""
+
+#: ;67878F6B498F7713
+msgid "Pan (Pre-FX)"
+msgstr ""
+
+#: ;C4BD3F12A35FA956
+msgid "Width (Pre-FX)"
+msgstr ""
+
+#: ;11AA619ABC3FD5D1
+msgid "Pan (Right, Pre-FX)"
+msgstr ""
+
+#: ;45948CCBB91E3CDF
+msgid "Pan (Right)"
+msgstr ""
+
+#: ;6572A9BA5BFF9C58
+msgid "Pan (Left, Pre-FX)"
+msgstr ""
+
+#: ;B5D7418FA42756DE
+msgid "Pan (Left)"
+msgstr ""
+
+#: ;810D0CC659DABD2F
+msgid "Trim Volume"
+msgstr ""
+
+#: ;1492DE21DC65EF91
+msgid "Folder"
+msgstr ""
+
+#: ;E471A461788E4141
+msgid "Track %d"
+msgstr ""
+
+#: ;4A4784FB012F3B7B
+msgid "Send"
+msgstr ""
+
+#: ;^8FC86C263760ACB9
+msgid "Volume"
+msgstr ""
+
+#: ;^96E5C67E1437194E
+msgid "Pan"
+msgstr ""
+
+#: ;^61946358B1034B76
+msgid "Mute"
+msgstr ""
+
+#: ;^8A3F14717826D8D1
+msgid "Width"
+msgstr ""
+

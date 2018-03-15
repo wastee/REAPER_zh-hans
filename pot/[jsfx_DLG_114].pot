@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;41489135006FED08
+msgid "JS Development Environment"
+msgstr ""
+
+#: ;0650ABC07DC1D288
+msgid "Full recompile/reset"
+msgstr ""
+
+#: ;F7C1F3827A407A86
+msgid "Refresh now"
+msgstr ""
+
+#: ;5C6441D5492E93B6
+msgid "Auto-refresh"
+msgstr ""
+
+#: ;124D08E0043A0E1A
+msgid "Open in external editor"
+msgstr ""
+
+#: ;^D9B12705AD844C62
+msgid "List1"
+msgstr ""
+

@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;F62DF20B45D1562B
+msgid "Auto-save when switching screensets"
+msgstr ""
+
+#: ;B7C8364C77417E76
+msgid "Edit fields..."
+msgstr ""
+
+#: ;^865773BF0F30AC16
+msgid "Screensets/Layouts"
+msgstr ""
+
+#: ;^CA2A325DBD0A1A47
+msgid "Custom1"
+msgstr ""
+

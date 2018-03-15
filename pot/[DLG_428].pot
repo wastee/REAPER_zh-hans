@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;6D40D8F11B133E58
+msgid "Open RPP choice"
+msgstr ""
+
+#: ;0AB548C9DCD86472
+msgid "Open Project"
+msgstr ""
+
+#: ;1BA2C759F32B1E78
+msgid "Insert project as media item"
+msgstr ""
+
+#: ;866FE917BA950796
+msgid "The file:"
+msgstr ""
+
+#: ;083DD321703A8821
+msgid "Was dropped into REAPER. Choose how to proceed."
+msgstr ""
+
+#: ;^6174C6969402A488
+msgid "Open project in new tab"
+msgstr ""
+

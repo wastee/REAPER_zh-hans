@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;EEB15F6BCEE436B2
+msgid "View ReaScript overview online, at http://www.reaper.fm/sdk/reascript/reascript.php."
+msgstr ""
+
+#: ;54CB46A2699C9EA0
+msgid "View ReaScript documentation, including a full function reference for the REAPER API."
+msgstr ""
+
+#: ;DF5737A537307FE7
+msgid "The ReaScript console can also be cleared with ClearConsole()."
+msgstr ""
+
+#: ;8B83BF71FF0FC189
+msgid "Lua ReaScripts can be automatically halted if they run for too long, to avoid scripts crashing REAPER. (The timeout limit is not foolproof.)"
+msgstr ""
+
+#: ;ECB26420DBFE9E79
+msgid "ReaScript for EEL and Lua will always work. Python must be enabled here."
+msgstr ""
+
+#: ;0DFF4E313817B7E3
+msgid "Python is available as a free download. Please see ReaScript documentation for more information."
+msgstr ""
+
+#: ;35786BA800FBE7EC
+msgid "After you install Python, REAPER should find the Python dynamic library automatically."
+msgstr ""
+
+#: ;52118B0F364271BE
+msgid "If REAPER finds a compatible version of Python on this machine, view the path to the Python dynamic library."
+msgstr ""
+
+#: ;8D0DE2F7EBEE6514
+msgid "If REAPER cannot find Python automatically, enter the path here. See the Python installer readme for more information."
+msgstr ""
+
+#: ;AD1401A586D43E2D
+msgid "If you have multiple versions of Python installed, you can force REAPER to use a specific dynamic library if needed."
+msgstr ""
+

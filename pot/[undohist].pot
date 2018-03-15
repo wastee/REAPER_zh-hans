@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;CBCF7F7CDF60CF24
+msgid "--- Initial state ---"
+msgstr ""
+
+#: ;186240F98D2C1724
+msgid "--- Session loaded ---"
+msgstr ""
+
+#: ;310B8AA25BD2479D
+msgid "Undo History Memory Usage:"
+msgstr ""
+
+#: ;0D7F13166E00574B
+msgid "Undo:"
+msgstr ""
+
+#: ;39034C3D41E988FE
+msgid "DebugInfo"
+msgstr ""
+
+#: ;B51AD66B3FC458F3
+msgid "Dock undo history in Docker"
+msgstr ""
+
+#: ;6B562789A5A9817F
+msgid "Close Window"
+msgstr ""
+
+#: ;7E1F5411EF26D208
+msgid "Load this undo state"
+msgstr ""
+
+#: ;1DF6962F67C68175
+msgid "Load this undo state with next alternate redo history"
+msgstr ""
+
+#: ;4236F16D2B61B116
+msgid "Load this undo state with alternate redo history"
+msgstr ""
+
+#: ;F81179A820E1E6C9
+msgid "Load this undo state with previous alternate redo history"
+msgstr ""
+
+#: ;C75973DC6D156F72
+msgid "Undo state information"
+msgstr ""
+
+#: ;9090BDDE2D146577
+msgid "Remove selected states from undo history (warning: cannot undo!)"
+msgstr ""
+
+#: ;DC7A8341A09929BC
+msgid "Remove selected states alternate redo histories"
+msgstr ""
+
+#: ;^0C364228BCD76FE0
+msgid "(Unknown action)"
+msgstr ""
+
+#: ;^F1645A05AF505BE7
+msgid "Unknown"
+msgstr ""
+
+#: ;^1D883542B837B976
+msgid "Multiple changes"
+msgstr ""
+
+#: ;^7DA8EA3426CA11D3
+msgid "Description"
+msgstr ""
+
+#: ;^B98A031D9BEEF64E
+msgid "Time"
+msgstr ""
+
+#: ;^D9A8B3186C5CECF7
+msgid "%c"
+msgstr ""
+
+#: ;^E5566C4604653F75
+msgid "Undo History"
+msgstr ""
+

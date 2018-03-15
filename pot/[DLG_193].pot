@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;20B0625D4151B7F1
+msgid "Show all active"
+msgstr ""
+
+#: ;EBBAC9C0D73504CC
+msgid "Hide all"
+msgstr ""
+
+#: ;8F631C2A81B0AF06
+msgid "Arm all visible"
+msgstr ""
+
+#: ;7917FF9EB96E14B6
+msgid "Disarm all"
+msgstr ""
+
+#: ;8F0898786C694565
+msgid "Highlight:"
+msgstr ""
+
+#: ;^4E5F93B30C786CEB
+msgid "Track Envelopes"
+msgstr ""
+
+#: ;^C644A2EBFF26E843
+msgid "Automation mode:"
+msgstr ""
+

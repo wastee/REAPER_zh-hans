@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;F22AA82C438102B7
+msgid "You can maintain a separate set of keyboard shortcuts for use only when recording."
+msgstr ""
+
+#: ;09FBC55225607971
+msgid "Prevent pressing/holding the ALT key in the main view from focusing the main menu (suppress the default Windows behavior)."
+msgstr ""
+
+#: ;299E361BD0DD5ECA
+msgid "When typing new values in some edit fields, the new value can be committed after 1 second, or only after pressing enter."
+msgstr ""
+
+#: ;AE8C4322F1210768
+msgid "Assign any keyboard shortcut to a REAPER action, using the Actions dialog."
+msgstr ""
+
+#: ;E6DF7FAFBD4D5EF7
+msgid "View a list of all existing keyboard shortcuts as a web page in an external browser."
+msgstr ""
+
+#: ;A644F5A7E023DF4F
+msgid "Enable the multitouch swipe action: two fingers moved together horizontally or vertically."
+msgstr ""
+
+#: ;683B9D0EF44270F1
+msgid "Enable the multitouch zoom action: two fingers moved closer together (pinch) or farther apart."
+msgstr ""
+
+#: ;9AC5CDA7F3DEE099
+msgid "Enable the multitouch rotate action: rotate one finger around another stationary finger."
+msgstr ""
+
+#: ;15404EE74C8C7AC5
+msgid "Reverse the direction of this gesture."
+msgstr ""
+
+#: ;9AEECDA0C63BAD39
+msgid "Suppress inertia, so that each gesture triggers only one action, rather than a series of actions."
+msgstr ""
+
+#: ;9019EA02A23CB19C
+msgid "Scale the magnitude of this gesture."
+msgstr ""
+
+#: ;8C7C943B86A10E08
+msgid "Reverse the direction of the vertical scroll (standard mousewheel)."
+msgstr ""
+
+#: ;DE335332D548C6CD
+msgid "Reverse the direction of the horizontal scroll (horizontal mousewheel)."
+msgstr ""
+
+#: ;23A6362D948C5CA1
+msgid "Ignore mousewheel messages for a short time after a multitouch gesture is seen."
+msgstr ""
+
+#: ;C41402DEBD47E168
+msgid "Ignore multitouch gestures of a different type for a short time after a multitouch gesture is seen."
+msgstr ""
+
+#: ;8462F0CD2F2F64D9
+msgid "Assign any enabled multitouch gesture to a REAPER action, using the Actions dialog."
+msgstr ""
+

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;9B2E24B6EBAAE282
+msgid "Custom..."
+msgstr ""
+
+#: ;A7527277E2603C9C
+msgid "Custom: %s..."
+msgstr ""
+
+#: ;F491EC85CC245A7C
+msgid "Automatic .wav (recommended)"
+msgstr ""
+
+#: ;5E1200E881830A1D
+msgid "Recording format"
+msgstr ""
+
+#: ;DC49DC62BD4643CF
+msgid "Path to save media files (can be relative, leave blank for same path as project file):"
+msgstr ""
+
+#: ;6B91E28B685614B2
+msgid "Secondary recording path (blank for none, can be enabled per-track):"
+msgstr ""
+
+#: ;E9AE30152DA09181
+msgid "Audio format for new recordings:"
+msgstr ""
+
+#: ;E185A4164E1A47FD
+msgid "Format for Apply FX, Glue, Freeze, etc:"
+msgstr ""
+
+#: ;2EA42769697FEA54
+msgid "Default format for project/region render:"
+msgstr ""
+
+#: ;^003BD938FD8D368D
+msgid "(not set)"
+msgstr ""
+
+#: ;^F685FB3A91025549
+msgid "Browse..."
+msgstr ""
+
+#: ;^D3E64988F293BA3A
+msgid "Recording"
+msgstr ""
+

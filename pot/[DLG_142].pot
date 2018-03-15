@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;12003D947B908539
+msgid "Replace missing file..."
+msgstr ""
+
+#: ;C5F140FB45EE33FF
+msgid "Leave file offline"
+msgstr ""
+
+#: ;35D50776DD5FE769
+msgid "Ignore all missing files"
+msgstr ""
+
+#: ;75F64930226168E8
+msgid "The following file could not be found:"
+msgstr ""
+
+#: ;4D25501B7AF0D92B
+msgid "Media search"
+msgstr ""
+
+#: ;AFC11D55B1CB098D
+msgid "When multiple matches are found, use:"
+msgstr ""
+
+#: ;CA3D0F1A0CB8BE5D
+msgid "On successful search, autosearch for other missing files"
+msgstr ""
+
+#: ;1902312630A17C31
+msgid "On failed search, leave file offline and autosearch for other missing files"
+msgstr ""
+
+#: ;9FA639597C9378AB
+msgid "Search..."
+msgstr ""
+
+#: ;C05DAD1BAAF106A6
+msgid "Abort project load"
+msgstr ""
+
+#: ;B953726494A1AB01
+msgid "In project:"
+msgstr ""
+
+#: ;^4D5B21719C8D85CE
+msgid "Browse for file..."
+msgstr ""
+

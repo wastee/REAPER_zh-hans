@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;0C7A2C29FBC9E671
+msgid "MIDI File Import"
+msgstr ""
+
+#: ;662DE515661DD146
+msgid "Expand MIDI tracks to new REAPER tracks"
+msgstr ""
+
+#: ;14890F07BB615314
+msgid "Merge MIDI tempo map to project tempo map"
+msgstr ""
+
+#: ;DF0113FAA089B3D1
+msgid "Import MIDI markers/cues as project markers"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

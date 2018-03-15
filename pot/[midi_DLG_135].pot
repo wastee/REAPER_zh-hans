@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;B8A675315EBBC447
+msgid "Transpose MIDI"
+msgstr ""
+
+#: ;ABB29CEFB6307F28
+msgid "Semitones:"
+msgstr ""
+
+#: ;23E1AF9DFBEEC6A6
+msgid "Snap to scale"
+msgstr ""
+
+#: ;B921C37933102E85
+msgid "From scale:"
+msgstr ""
+
+#: ;F3580D1732BD1CA2
+msgid "To scale:"
+msgstr ""
+
+#: ;^2ACA9A5D3E5720F8
+msgid "Transpose:"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

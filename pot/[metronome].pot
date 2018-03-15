@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;BF21C68D229566B5
+msgid "<space>"
+msgstr ""
+
+#: ;069C235C454CF6E9
+msgid ". (period)"
+msgstr ""
+
+#: ;2F90E3509B93D0B6
+msgid "Primary:%c Secondary:%c Triplet:%c Skip:%s"
+msgstr ""
+
+#: ;66C31BA5D527D8CB
+msgid "Pattern should be"
+msgstr ""
+
+#: ;AA2CC191B64B730E
+msgid "More will be discarded, fewer will be padded with"
+msgstr ""
+
+#: ;90C3CF77963D43DF
+msgid "Sine - soft start"
+msgstr ""
+
+#: ;06F40FE0CBACEBB2
+msgid "Sine - hard start"
+msgstr ""
+
+#: ;758BE04F40035B56
+msgid "(old deprecated)"
+msgstr ""
+
+#: ;7B006B7A29CD157C
+msgid "Play metronome through Monitor FX"
+msgstr ""
+
+#: ;E42502E3E92311E6
+msgid "Hardware outputs (select none to use default metronome output):"
+msgstr ""
+
+#: ;F14D9A44B2F1F156
+msgid "Hardware outputs (select none to use all master outs):"
+msgstr ""
+
+#: ;ACDF321F02BFF00A
+msgid "Mono:"
+msgstr ""
+
+#: ;D296E073FBA420D9
+msgid "Stereo:"
+msgstr ""
+
+#: ;2F26993C883FB22B
+msgid "Open media file:"
+msgstr ""
+
+#: ;^268986373F235EF0
+msgid "beats"
+msgstr ""
+
+#: ;^2AF10D61DA454203
+msgid "Triangle"
+msgstr ""
+
+#: ;^5D4FC446DED74611
+msgid "Output Channel"
+msgstr ""
+
+#: ;^2C078B30A2995EDB
+msgid "ReaRoute Output"
+msgstr ""
+

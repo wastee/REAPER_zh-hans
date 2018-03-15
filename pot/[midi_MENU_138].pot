@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;^00F8AF1A6A14D288
+msgid "Snap settings"
+msgstr ""
+
+#: ;^A958A4ED6B3FE77D
+msgid "Always snap notes/CC to the left"
+msgstr ""
+
+#: ;^CBB62A841502FD76
+msgid "Snap note ends to grid"
+msgstr ""
+
+#: ;^B97C90B7FAB41974
+msgid "Snap notes/CC relative to grid"
+msgstr ""
+

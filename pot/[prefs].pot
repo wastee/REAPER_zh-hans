@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;2B7D40F6D1DC609B
+msgid "Choose image:"
+msgstr ""
+
+#: ;D9618E186C20AB75
+msgid ":("
+msgstr ""
+
+#: ;D2DE5E701E5C239D
+msgid "Save key map as:"
+msgstr ""
+
+#: ;2564D884E323133A
+msgid "Choose key map to open:"
+msgstr ""
+
+#: ;D6815CCB49065863
+msgid "The settings below will be applied to new tracks"
+msgstr ""
+
+#: ;4C33B83EACCD6BD6
+msgid "<prompt on load>"
+msgstr ""
+
+#: ;E40679D8AB3E3516
+msgid "Last project tabs"
+msgstr ""
+
+#: ;A3FAE16E6B2F9235
+msgid "Prompt"
+msgstr ""
+
+#: ;6A4004041F988DAF
+msgid "Clear recent project list?"
+msgstr ""
+
+#: ;BA17125F561726C9
+msgid "when not recording"
+msgstr ""
+
+#: ;27B5DC0DF980814A
+msgid "when stopped"
+msgstr ""
+
+#: ;EB0F9F3E9AE022CC
+msgid "any time"
+msgstr ""
+
+#: ;B967FB615627BFEF
+msgid "Choose project:"
+msgstr ""
+
+#: ;B2FCC2F5B1F8F8AB
+msgid "No automatic muting"
+msgstr ""
+
+#: ;7B28AE2C817AC0F2
+msgid "Automatically mute master track"
+msgstr ""
+
+#: ;4F5BCFD07BF12DA0
+msgid "Automatically mute any track"
+msgstr ""
+
+#: ;5C93D72D90574575
+msgid "Dots and lines"
+msgstr ""
+
+#: ;F0B5784486B886BC
+msgid "Filled samples"
+msgstr ""
+
+#: ;6E9205BD6F506B72
+msgid "Outlined samples"
+msgstr ""
+
+#: ;14FAA560A0940241
+msgid "Stepped samples"
+msgstr ""
+
+#: ;0BB21B7C7907D7B7
+msgid "Sinc smoothed"
+msgstr ""
+
+#: ;98E275E42822039D
+msgid "Dots and sinc"
+msgstr ""
+
+#: ;CDD69E77F19A943C
+msgid "Do not scrub"
+msgstr ""
+
+#: ;FA7C612AB981A126
+msgid "Scrub"
+msgstr ""
+
+#: ;73D3C9335C868336
+msgid "Open all MIDI on the same track"
+msgstr ""
+
+#: ;1813F02D3CB4A561
+msgid "By default, selecting multiple media items in the arrange view and double-clicking will open all selected items in the MIDI editor."
+msgstr ""
+
+#: ;55CA347DC74A0932
+msgid "This behavior depends on the setting for \"open items in built-in MIDI editor\", which can be changed on this page."
+msgstr ""
+
+#: ;B614425040C5BE9C
+msgid "Many users prefer to enable \"one MIDI editor per project\", and use the MIDI editor track list (Contents menu/Track list) to choose which tracks or items to display or edit."
+msgstr ""
+
+#: ;4CE40209DB74EA3D
+msgid "Within a single MIDI editor, only one media item can be active, meaning that it can receive drawn or copy/pasted notes and CC data."
+msgstr ""
+
+#: ;42ED43C15F0598C8
+msgid "MIDI from other media items may be faintly visible, and optionally editable.  Use the MIDI editor track list or media item lane to control which items are visible and editable."
+msgstr ""
+
+#: ;92FE1CC195B210C9
+msgid "You can switch the active MIDI media item by double-clicking within the bounds of a secondary media item, or by using the MIDI editor contents menu, the MIDI editor track list, or the MIDI editor media item lane."
+msgstr ""
+
+#: ;A9A7271977DC8D6E
+msgid "With the same track as the active media item, double-click within the bounds of another media item will always switch the active media item.  Double-click outside the bounds of any media item can optionally extend the nearest media item."
+msgstr ""
+
+#: ;9248E0C9C4694835
+msgid "Displaying multiple media items in a single MIDI editor"
+msgstr ""
+
+#: ;2D06A497BD64F464
+msgid "Video Decoder Information"
+msgstr ""
+
+#: ;^99FA828F906D3EE4
+msgid "Find"
+msgstr ""
+
+#: ;^BE72ADED52927C3E
+msgid "Last active project"
+msgstr ""
+
+#: ;^5E103081C90DF414
+msgid "New project (ignore default template)"
+msgstr ""
+
+#: ;^F47146FFAED94D96
+msgid "New project"
+msgstr ""
+
+#: ;^E6A55E1F24BD208C
+msgid "Choose ReaperConfigZip to import"
+msgstr ""
+
+#: ;^5945AF9182806811
+msgid "You must stop recording before importing configuration (as configuration import will require a restart)"
+msgstr ""
+
+#: ;^D790926420BA2EB7
+msgid "Notice"
+msgstr ""
+
+#: ;^A4C0C852A5B25572
+msgid "Confirmation"
+msgstr ""
+
+#: ;^80BE1395BCF8C169
+msgid "Download language packs"
+msgstr ""
+
+#: ;^BABD655B2A5AED87
+msgid "Select a directory:"
+msgstr ""
+
+#: ;^D811D5325411DBAD
+msgid "Smooth"
+msgstr ""
+
+#: ;^E964640878017639
+msgid "Open the clicked MIDI item only"
+msgstr ""
+
+#: ;^BBC1706D3B8635E2
+msgid "Open all selected MIDI items"
+msgstr ""
+
+#: ;^71A76211A7CFDF12
+msgid "Open all MIDI in the project"
+msgstr ""
+

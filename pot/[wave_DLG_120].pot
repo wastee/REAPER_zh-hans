@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;BE2D2EBADEFC5E97
+msgid ".AIFF file info"
+msgstr ""
+
+#: ;84FE7E4DC0E70EAD
+msgid ".WAV (Wave64) file info"
+msgstr ""
+
+#: ;642DBB39297753A6
+msgid ".WAV (RF64) file info"
+msgstr ""
+
+#: ;2104C596C095D8FD
+msgid ".WAV file info"
+msgstr ""
+
+#: ;C1EDA4D8FC3F2A5E
+msgid "Sample rate: %d"
+msgstr ""
+
+#: ;8A7E31A3605790F8
+msgid "Bits/sample: %d (%s)"
+msgstr ""
+
+#: ;62E08C7DB22CF80B
+msgid "float"
+msgstr ""
+
+#: ;0CD23B9DE3CE903E
+msgid "MSADPCM"
+msgstr ""
+
+#: ;B05CB2E3B9E9672F
+msgid "IMA ADPCM"
+msgstr ""
+
+#: ;FA8A7C9C04B68927
+msgid "cADPCM"
+msgstr ""
+
+#: ;CE74F19535C05BF6
+msgid "Total samples:"
+msgstr ""
+
+#: ;E45F0509A90F69DE
+msgid "Blockalign: %d"
+msgstr ""
+
+#: ;1179D9658D57EB9C
+msgid "Datablock start: %u"
+msgstr ""
+
+#: ;E774FEBEE084C388
+msgid "RIFF LIST INFO:"
+msgstr ""
+
+#: ;B5DEE72C21D817E7
+msgid "ACID chunk:"
+msgstr ""
+
+#: ;17870356F693428D
+msgid "BPM: %.2f"
+msgstr ""
+
+#: ;7D3613103EDAA230
+msgid "Beats: %d (%.2f bpm)"
+msgstr ""
+
+#: ;24A0017665F70764
+msgid "Transpose, Root: %s"
+msgstr ""
+
+#: ;5F975FD488DABCA3
+msgid "First downbeat at sample: %d"
+msgstr ""
+
+#: ;EF02FA085AD3EE79
+msgid ".WAV/.AIF File Properties"
+msgstr ""
+
+#: ;^71831478CADD789A
+msgid "File offline"
+msgstr ""
+
+#: ;^CD2E4AA3231DEC4D
+msgid "File not opened"
+msgstr ""
+
+#: ;^D730907ADC00D444
+msgid "Unknown error/status"
+msgstr ""
+
+#: ;^1091E0FE22106AFC
+msgid "Channels: %d"
+msgstr ""
+
+#: ;^1423A19AE6EB974B
+msgid "BWF chunk:"
+msgstr ""
+
+#: ;^5017DF9DE95C6EEB
+msgid "Description:"
+msgstr ""
+
+#: ;^DB02529B96E86431
+msgid "Originator:"
+msgstr ""
+
+#: ;^4D523EF65716D7F6
+msgid "Originator Reference:"
+msgstr ""
+
+#: ;^C97D468A7054B193
+msgid "Date:"
+msgstr ""
+
+#: ;^3479BF4FF70CC71C
+msgid "Time:"
+msgstr ""
+
+#: ;^A24AA748B77E55CA
+msgid "Start offset:"
+msgstr ""
+
+#: ;^3BF92ABFA8425D90
+msgid "Filename:"
+msgstr ""
+
+#: ;^C01085DD37178417
+msgid "File info:"
+msgstr ""
+
+#: ;^BAC64C1B2E060EE5
+msgid "Close"
+msgstr ""
+

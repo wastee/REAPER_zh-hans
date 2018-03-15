@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;E1F42879AE5000D8
+msgid "Defaults for tracks/sends/track hardware outputs"
+msgstr ""
+
+#: ;BF552AF240D8670E
+msgid "Track volume fader default gain:"
+msgstr ""
+
+#: ;580A497A940808A8
+msgid "Show in Mixer"
+msgstr ""
+
+#: ;91357BBC27D0ACD1
+msgid "Main (parent) send"
+msgstr ""
+
+#: ;FB9BB78435AB99DF
+msgid "Default visible envelopes:"
+msgstr ""
+
+#: ;430C86B44E7308AE
+msgid "Volume (pre-FX)"
+msgstr ""
+
+#: ;6B8804B0AFE7CF33
+msgid "Pan (pre-FX)"
+msgstr ""
+
+#: ;76F64D47C2B668BB
+msgid "Default envelope point shape:"
+msgstr ""
+
+#: ;062FABF640E027BC
+msgid "Arm new envelopes"
+msgstr ""
+
+#: ;A2A77FC9AADD4CE8
+msgid "Default automation mode:"
+msgstr ""
+
+#: ;3EB9822C6981339B
+msgid "Default track height in new projects:"
+msgstr ""
+
+#: ;4E462B362D2C3662
+msgid "Record config:"
+msgstr ""
+
+#: ;CE6B20605FC62E9A
+msgid "Button1"
+msgstr ""
+
+#: ;D234EE899BA0FD67
+msgid "Send default gain:"
+msgstr ""
+
+#: ;60A5F7836A421CBA
+msgid "Hardware output default gain:"
+msgstr ""
+
+#: ;EFBA29BAE66FE5BD
+msgid "Send/hardware output default mode:"
+msgstr ""
+
+#: ;0997CAABB7B35BF7
+msgid "Sends send MIDI by default"
+msgstr ""
+
+#: ;016A11D102C83486
+msgid "Sends send audio by default"
+msgstr ""
+
+#: ;11FAB17EEF44466E
+msgid "Sends / Track Hardware Outputs"
+msgstr ""
+
+#: ;B4940BDB9BBA9666
+msgid "Scaling for new volume envelopes:"
+msgstr ""
+
+#: ;70F01048EA75C03D
+msgid "Amplitude scaling"
+msgstr ""
+
+#: ;F783860F79715118
+msgid "Volume fader scaling"
+msgstr ""
+
+#: ;B9830B26CC085916
+msgid "Warn when changing volume envelope scaling will change envelope sound"
+msgstr ""
+
+#: ;^89325B4900977A87
+msgid "Tracks"
+msgstr ""
+
+#: ;^D8D27C186BA6D499
+msgid "dB"
+msgstr ""
+
+#: ;^8FC86C263760ACB9
+msgid "Volume"
+msgstr ""
+
+#: ;^96E5C67E1437194E
+msgid "Pan"
+msgstr ""
+
+#: ;^61946358B1034B76
+msgid "Mute"
+msgstr ""
+
+#: ;^AE7E61A37889E975
+msgid "Free item positioning"
+msgstr ""
+
+#: ;^61EB857EEC517894
+msgid "Record arm"
+msgstr ""
+

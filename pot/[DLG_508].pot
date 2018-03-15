@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;DA643DE3AB8A1A76
+msgid "Render Matrix..."
+msgstr ""
+
+#: ;^2227C3C30D911E85
+msgid "Region/Marker Manager"
+msgstr ""
+
+#: ;^F10F4B1B4D6DC250
+msgid "Clear"
+msgstr ""
+
+#: ;^3896D8BF3E72ED2C
+msgid "Regions"
+msgstr ""
+
+#: ;^D35AD13842A55DEA
+msgid "Markers"
+msgstr ""
+
+#: ;^D9B12605AD844AAF
+msgid "List2"
+msgstr ""
+

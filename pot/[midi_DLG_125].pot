@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;6E7D80CBDFE8298D
+msgid "Bank MSB/LSB:"
+msgstr ""
+
+#: ;8A3D38F4C6C22A55
+msgid "Bank:"
+msgstr ""
+
+#: ;BE8A4BB0AF67A2E8
+msgid "Program number:"
+msgstr ""
+
+#: ;065F440CE34EFD93
+msgid "Load File"
+msgstr ""
+
+#: ;EEBCA161E9085FD5
+msgid "Send Now"
+msgstr ""
+
+#: ;^B80BE35FC002073A
+msgid "Bank/Program Select"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^B376015F8643AFD1
+msgid "Program:"
+msgstr ""
+
+#: ;^01DA63B41FEE389F
+msgid "<no patch file loaded>"
+msgstr ""
+
+#: ;^0B61CC7E6E2E017D
+msgid "MIDI channel:"
+msgstr ""
+

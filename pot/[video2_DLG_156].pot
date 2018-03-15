@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;D2204C20B4E2FC1C
+msgid "Encode transparency (bad for normal video, good for some things possibly)"
+msgstr ""
+
+#: ;C134703B1C276C93=Ignore changes in low bits of color (0-7, 0 
+msgid "Ignore changes in low bits of color (0-7, 0 = full quality):"
+msgstr ""
+
+#: ;^464C095FE2D88604
+msgid "Size:"
+msgstr ""
+
+#: ;^08325007B4EB10C5
+msgid "x"
+msgstr ""
+
+#: ;^445049385C5D024A
+msgid "Max framerate:"
+msgstr ""
+
+#: ;^035A657EE2D43886
+msgid "fps"
+msgstr ""
+
+#: ;^E8979E97B904E3D2
+msgid "Preserve aspect ratio (black bars if necessary)"
+msgstr ""
+
