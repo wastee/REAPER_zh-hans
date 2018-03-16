@@ -3,7 +3,7 @@ import chardet
 
 
 def lp2po(filename):
-    with open('./langpack_source/{}'.format(filename), encoding='iso-8859-1') as f:
+    with open('./source/{}'.format(filename), encoding='iso-8859-1') as f:
         all_pre_pot = f.read().strip().split('\n\n')[1:]
 
     for pre_pot in all_pre_pot:
