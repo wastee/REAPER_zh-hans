@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;8C512611A16A0FD7
+msgid "Track opacity/zoom/pan"
+msgstr ""
+
+#: ;BD0A4374C37264AB
+msgid "Item fades affect video"
+msgstr ""
+
+#: ;A6E48D2034EC9148
+msgid "De-interlace"
+msgstr ""
+
+#: ;56520226DC3142E2
+msgid "2x2 input matrix"
+msgstr ""
+
+#: ;585C371F610EF74E
+msgid "Horizontal wipe"
+msgstr ""
+
+#: ;3681BD9DF21687A4
+msgid "Faded top"
+msgstr ""
+
+#: ;748BC30B7212A1A0
+msgid "Matrix crossfade"
+msgstr ""
+
+#: ;C02E539825E05B27
+msgid "Crossfade through inputs"
+msgstr ""
+
+#: ;B717439256E5EFD8
+msgid "Matrix of recent frames"
+msgstr ""
+
+#: ;E09E6FA3CAF5821D
+msgid "Stage lighting"
+msgstr ""
+
+#: ;D6DC6A7D9E0CFC6A
+msgid "Title text overlay"
+msgstr ""
+
+#: ;7A4144D06D0B632C
+msgid "Show motion (subtract last frame)"
+msgstr ""
+
+#: ;B3C8FFE685E6BE97
+msgid "Pixelate"
+msgstr ""
+
+#: ;33D940B11E102D3E
+msgid "Simple source chroma-key"
+msgstr ""
+
+#: ;4DBDD9F93DB9FD39
+msgid "Vignette"
+msgstr ""
+
+#: ;59C8B8B393294374
+msgid "Image overlay"
+msgstr ""
+
+#: ;C3DFE3359B949172
+msgid "YUV multiplier/desaturation"
+msgstr ""
+
+#: ;89E184CF840F7BB4
+msgid "Cheap Brightness/Contrast"
+msgstr ""
+
+#: ;DBF4180B3F8A6086
+msgid "Equirectangular 360 panner"
+msgstr ""
+
+#: ;DF876C8083AF0312
+msgid "Blitter feedback"
+msgstr ""
+

@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;DF91E9E358286DAE
+msgid "bpm"
+msgstr ""
+
+#: ;0341AABCE43C87F9
+msgid "UNMUTE"
+msgstr ""
+
+#: ;6221B0803AA24F2A
+msgid "st"
+msgstr ""
+
+#: ;B0252D72546573F7
+msgid "(bypassed)"
+msgstr ""
+
+#: ;D01169758313DDFB
+msgid "Move to media lane"
+msgstr ""
+
+#: ;2A392CE051D488A2
+msgid "Reduce points:"
+msgstr ""
+
+#: ;EB289C99B437F75A
+msgid "Need at least 3 envelope points to reduce"
+msgstr ""
+
+#: ;14221D53FF2650B1
+msgid "Can't reduce envelope points"
+msgstr ""
+
+#: ;^4B1F235812EEE9D6
+msgid "MUTE"
+msgstr ""
+
+#: ;^83C05BCE6E0BA462
+msgid "semitones"
+msgstr ""
+
+#: ;^CA47517BDEFA4232
+msgid "Linear"
+msgstr ""
+
+#: ;^AF908AD98D533548
+msgid "Square"
+msgstr ""
+
+#: ;^6A05662E2A1E77AC
+msgid "Slow start/end"
+msgstr ""
+
+#: ;^BC24D1B6349B5A89
+msgid "Fast start"
+msgstr ""
+
+#: ;^DB6FC995D09C7078
+msgid "Fast end"
+msgstr ""
+
+#: ;^919D1A7A385C125C
+msgid "Bezier"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^CD674FEA536FDABD
+msgid "Hide envelope"
+msgstr ""
+
+#: ;^40B42F5B4E7F894C
+msgid "Clear envelope"
+msgstr ""
+
+#: ;^AEF53FB432FD3810
+msgid "Tempo map"
+msgstr ""
+
+#: ;^D4FDE496446E78EF
+msgid "Playrate"
+msgstr ""
+

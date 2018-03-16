@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;D4A529A0DD35A4AD
+msgid "Load Automation Item"
+msgstr ""
+
+#: ;9B4427FB3CCEE144
+msgid "Rename Automatiom Item"
+msgstr ""
+
+#: ;096516B609B04A04
+msgid "Save Automation Item"
+msgstr ""
+

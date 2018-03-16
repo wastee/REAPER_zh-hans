@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;1E2488203CEB6513
+msgid "Audio:"
+msgstr ""
+
+#: ;07AEF4ACCD2A1A27
+msgid "Post-FX (V1 deprecated)"
+msgstr ""
+
+#: ;6D1AB4402A8DAD03
+msgid "<SUB>Mono source"
+msgstr ""
+
+#: ;2FB827B371C0B012
+msgid "<SUB>Stereo source"
+msgstr ""
+
+#: ;921C6D775FF07B1A
+msgid "<SUB>Multichannel source"
+msgstr ""
+
+#: ;ABE1C16582D5A33C
+msgid "<SUB>%d channels"
+msgstr ""
+
+#: ;4212054D4293A66E
+msgid "<SUB>(New channels on sending track)"
+msgstr ""
+
+#: ;221B7D46A50A7A36
+msgid "<SUB>(New channels on receiving track)"
+msgstr ""
+
+#: ;8D08ECC391DB96EA
+msgid "<SUB>Bus %d"
+msgstr ""
+
+#: ;11CFDE7E5A4CFD86
+msgid "B%d"
+msgstr ""
+
+#: ;D3E9B5C2991E4175
+msgid "(Track automation mode)"
+msgstr ""
+
+#: ;550F547AB6B8077C
+msgid "Trim/read (envelopes are active but faders are all for trim)"
+msgstr ""
+
+#: ;EF365B9BFF4DA771
+msgid "Send to track"
+msgstr ""
+
+#: ;2BE64718FFEA8B8E
+msgid "Master hardware output controls"
+msgstr ""
+
+#: ;28F54690D2483CE9
+msgid "Controls for track"
+msgstr ""
+
+#: ;8C70A063D586EEF8
+msgid "Pan L:"
+msgstr ""
+
+#: ;8CADA063D5BA9D16
+msgid "Pan R:"
+msgstr ""
+
+#: ;^1FF9566969CABE07
+msgid "Post-Fader (Post-Pan)"
+msgstr ""
+
+#: ;^ADA3EA2F08216BCF
+msgid "Pre-Fader (Post-FX)"
+msgstr ""
+
+#: ;^F378819F0E95F1B9
+msgid "Pre-FX"
+msgstr ""
+
+#: ;^3390D94D34F06461
+msgid "None"
+msgstr ""
+
+#: ;^18C90F7E5DC51FCA
+msgid "All"
+msgstr ""
+
+#: ;^DEF52717C4E7101F
+msgid "Read (play faders with armed envelopes)"
+msgstr ""
+
+#: ;^E73F4D99E9F274CB
+msgid "Touch (record fader movements to armed envelopes)"
+msgstr ""
+
+#: ;^A23B66B5439758A9
+msgid "Write (record fader positions to armed envelopes)"
+msgstr ""
+
+#: ;^7C92092A41B00EDC
+msgid "Latch (record fader movements after first movement)"
+msgstr ""
+
+#: ;^EC02F0F810FC7CDF
+msgid "Latch Preview (allow adjusting parameters but do not apply to envelopes)"
+msgstr ""
+
+#: ;^C644A2EBFF26E843
+msgid "Automation mode:"
+msgstr ""
+
+#: ;^480A73B43C308366
+msgid "(folder)"
+msgstr ""
+
+#: ;^D8D5C8186BA98B94
+msgid "ch"
+msgstr ""
+
+#: ;^9F89BC3C59A0401C
+msgid "Pan:"
+msgstr ""
+
+#: ;^1008A7CF2A029751
+msgid "Width:"
+msgstr ""
+
+#: ;^DDDBC4B59922776E
+msgid "Master Track"
+msgstr ""
+

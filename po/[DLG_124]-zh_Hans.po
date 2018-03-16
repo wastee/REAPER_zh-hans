@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;89586449FDC7964E
+msgid "Rendering to file..."
+msgstr ""
+
+#: ;052BBD8D885E3DDA
+msgid "Automatically close when finished"
+msgstr ""
+
+#: ;E6860B129FE101D6
+msgid "Launch File"
+msgstr ""
+
+#: ;E24E56DF605D1E65
+msgid "Shup File"
+msgstr ""
+
+#: ;^BAC64C1B2E060EE5
+msgid "Close"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^223F4865B99B73B0
+msgid "Output file"
+msgstr ""
+
+#: ;^FDE95463547E83EB
+msgid "Render status"
+msgstr ""
+
+#: ;^E1CA5A9A5CE93078
+msgid "not rendering, ETA infinity"
+msgstr ""
+
+#: ;^511EAD28BA4AE493
+msgid "format spec"
+msgstr ""
+
+#: ;^BDB7990C53BBB742
+msgid "Show in explorer..."
+msgstr ""
+

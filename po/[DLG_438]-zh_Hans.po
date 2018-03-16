@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;222DCE917817ADCF
+msgid "Customize menus/toolbars"
+msgstr ""
+
+#: ;D7B385CE76784B6C
+msgid "Include default menu as submenu"
+msgstr ""
+
+#: ;80D3B831E21C3926
+msgid "Retitle..."
+msgstr ""
+
+#: ;21212E8B679876E1
+msgid "Export..."
+msgstr ""
+
+#: ;^AF427D96E302B145
+msgid "Customized menu:"
+msgstr ""
+
+#: ;^D9B12705AD844C62
+msgid "List1"
+msgstr ""
+
+#: ;^CE00C3235E535EAA
+msgid "Save"
+msgstr ""
+
+#: ;^38EAAB594661F05F
+msgid "Default menu:"
+msgstr ""
+
+#: ;^1EB556E18D613E28
+msgid "Add..."
+msgstr ""
+
+#: ;^F812C7145E261C23
+msgid "Remove"
+msgstr ""
+
+#: ;^66D8B92631859FE9
+msgid "Rename..."
+msgstr ""
+
+#: ;^28450354F52CB7AE
+msgid "Reset"
+msgstr ""
+
+#: ;^AA0C81725300640C
+msgid "Import..."
+msgstr ""
+
+#: ;^BAC64C1B2E060EE5
+msgid "Close"
+msgstr ""
+

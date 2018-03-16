@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;8769B7639BCAC7E0
+msgid "Source Loopable Section Properties"
+msgstr ""
+
+#: ;407A0A698C0F3330
+msgid "Source Information"
+msgstr ""
+
+#: ;D754112382628869
+msgid "Start in Source:"
+msgstr ""
+
+#: ;25E3AFE507E594FC
+msgid "Fade length (ms):"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^8D96C4FE778D9CA7
+msgid "Source properties..."
+msgstr ""
+
+#: ;^309B13D6E0AC1A0F
+msgid "Length:"
+msgstr ""
+
+#: ;^D7323C887B0A2951
+msgid "Apply"
+msgstr ""
+

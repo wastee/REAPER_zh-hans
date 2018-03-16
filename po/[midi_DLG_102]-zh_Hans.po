@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;94D31DF419257478
+msgid "Edit MIDI"
+msgstr ""
+
+#: ;8582834279EBE65A
+msgid "midipianoview"
+msgstr ""
+
+#: ;4AF82617470679F7
+msgid "midiview"
+msgstr ""
+
+#: ;6225557EF464C56D
+msgid "midiscoreview"
+msgstr ""
+
+#: ;73A9475DDD11219C
+msgid "Color:"
+msgstr ""
+
+#: ;C2B14D37FD3D328A
+msgid "Stopped: 0.00.000"
+msgstr ""
+
+#: ;9AB47D7EA75B36D3
+msgid "rew"
+msgstr ""
+
+#: ;682ABD4822D9748D
+msgid "play"
+msgstr ""
+
+#: ;F3D409ED59BA245F
+msgid "pause"
+msgstr ""
+
+#: ;5A07982F9797D6A7
+msgid "stop"
+msgstr ""
+
+#: ;2235569BC677D8FC
+msgid "ffwd"
+msgstr ""
+
+#: ;745797F93833F418
+msgid "repeat"
+msgstr ""
+
+#: ;^D9B12705AD844C62
+msgid "List1"
+msgstr ""
+
+#: ;^97D314BE6757F16B
+msgid "Grid:"
+msgstr ""
+
+#: ;^576D3C1F8C34C670
+msgid "Strength:"
+msgstr ""
+
+#: ;^649ECB151A2B4705
+msgid "Slider1"
+msgstr ""
+
+#: ;^0832A307B4EB9DCE
+msgid "%"
+msgstr ""
+
+#: ;^B36DBB640BD652AA
+msgid "Notes:"
+msgstr ""
+
+#: ;^0897D550A9582F1B
+msgid "Voice:"
+msgstr ""
+
+#: ;^4417D0C297FFFC34
+msgid "Key snap:"
+msgstr ""
+
+#: ;^C499FEFB8CC28F79
+msgid "Filter"
+msgstr ""
+

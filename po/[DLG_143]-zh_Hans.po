@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;D8609045F0F81B85
+msgid "Jump to time/marker/region:"
+msgstr ""
+
+#: ;C4E03DF9A8333134
+msgid "Jump to time (mm:ss.xx, M|B|S, mm.bb.ss or any similar form):"
+msgstr ""
+
+#: ;1F2FB80F3CD929F9
+msgid "Note: jump to a marker with: m1 or m2 or m'name ..."
+msgstr ""
+
+#: ;7638F60D685E6A98
+msgid "Note: jump to a region with: r1 or r2 or r'name ..."
+msgstr ""
+
+#: ;78FB7CF922CB44BA
+msgid "Note: jump to a region or marker with: 'name or \"name"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

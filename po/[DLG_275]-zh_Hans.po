@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;31CC847F7D0C911E
+msgid "Keyboard/MIDI/OSC Input"
+msgstr ""
+
+#: ;EFC86EC6E1B4F9D7
+msgid "Special key (Enter, Tab, etc...)"
+msgstr ""
+
+#: ;F0C0964E640B5375
+msgid "Shortcut:"
+msgstr ""
+
+#: ;1C961D98E454872E
+msgid "MIDI CC:"
+msgstr ""
+
+#: ;23321D4C9D230466
+msgid "Automatically close window on key/MIDI input"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^41BAD65DE621E179
+msgid "Soft takeover (absolute mode only)"
+msgstr ""
+

@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;DFCA919D6A234509
+msgid "Receive Envelopes"
+msgstr ""
+
+#: ;^E9991E9C69A2E870
+msgid "Envelopes"
+msgstr ""
+
+#: ;^4E5F93B30C786CEB
+msgid "Track Envelopes"
+msgstr ""
+
+#: ;^65971737BB8DFA2C
+msgid "Send Envelopes"
+msgstr ""
+

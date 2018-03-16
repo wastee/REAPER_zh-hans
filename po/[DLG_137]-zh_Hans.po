@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;71A80CCF871123FB
+msgid "Recording settings"
+msgstr ""
+
+#: ;C2CE3FF2933AAAF9
+msgid "Scroll track view while recording (if enabled for playback in options menu)"
+msgstr ""
+
+#: ;30CEF63161AD2E19
+msgid "Show preview of recording items while recording, update frequency:"
+msgstr ""
+
+#: ;281AEE36FEF3A6FE
+msgid "Hz (default 3)"
+msgstr ""
+
+#: ;BF4A3BF6EB7C6155
+msgid "Build peaks for recorded files:"
+msgstr ""
+
+#: ;7E19925878CB813A
+msgid "On the fly (recommended)"
+msgstr ""
+
+#: ;922E6A2883A2E7BC
+msgid "After recording"
+msgstr ""
+
+#: ;9F420D062BE2C8BA
+msgid "Manually"
+msgstr ""
+
+#: ;6E8017A8EE98E94E
+msgid "Always show full track control panel on armed tracks"
+msgstr ""
+
+#: ;2EB70AE261D4626B
+msgid "Start new files every"
+msgstr ""
+
+#: ;9719B482F4C2B161
+msgid "megabytes (approximate)"
+msgstr ""
+
+#: ;CDDF7830EBD06132
+msgid "When recording multiple tracks, offset file switches for better performance"
+msgstr ""
+
+#: ;E947E7DF20257706
+msgid "Prevent recording from starting when no tracks armed"
+msgstr ""
+
+#: ;FBC599724C60C609
+msgid "Filename format for recorded files:"
+msgstr ""
+
+#: ;08AD7E42D660B467
+msgid "Example:"
+msgstr ""
+
+#: ;F2D5C17837573D29
+msgid "Check free disk space on record start, warn if less than:"
+msgstr ""
+
+#: ;B370916AFE9C7028
+msgid "megabytes"
+msgstr ""
+
+#: ;85B69F498013C4A0
+msgid "Show free disk space in menu bar"
+msgstr ""
+
+#: ;B397655E827DB001
+msgid "Show primary recording path in menu bar"
+msgstr ""
+
+#: ;C0D8D3CCD42803AC
+msgid "Record audio during pre-roll"
+msgstr ""
+
+#: ;5E12527AFCBE1647
+msgid "Use audio driver reported latency"
+msgstr ""
+
+#: ;13B9F46717A65033
+msgid "Output manual offset:"
+msgstr ""
+
+#: ;E9CD14D3777EDAD6
+msgid "ms +"
+msgstr ""
+
+#: ;1AB7E546958711C6
+msgid "Input manual offset:"
+msgstr ""
+
+#: ;^5565002CCE1DFBC7
+msgid "Prompt to save/delete/rename new files:"
+msgstr ""
+
+#: ;^52BC569ACECFA886
+msgid "on stop"
+msgstr ""
+
+#: ;^DDCECC683DEC9D6A
+msgid "on punch-out/play"
+msgstr ""
+
+#: ;^3BF0AA22A506F11A
+msgid "Wildcards"
+msgstr ""
+
+#: ;^E8589A5C2472187A
+msgid "samples"
+msgstr ""
+

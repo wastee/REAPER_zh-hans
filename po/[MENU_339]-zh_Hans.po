@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;224F214718A59CE4
+msgid "39_HelpCtx"
+msgstr ""
+
+#: ;7C5F9CD63D02797C
+msgid "Selected track/item/envelope details"
+msgstr ""
+
+#: ;887622B09469C795
+msgid "CPU/RAM use, time since last save"
+msgstr ""
+
+#: ;A8EC82994F5840E3
+msgid "Track/item count"
+msgstr ""
+
+#: ;ED432963CB17CE8E
+msgid "REAPER tips"
+msgstr ""
+
+#: ;D1D35C65C6B83D9C
+msgid "No information display"
+msgstr ""
+
+#: ;B8C33ECCB30AE714
+msgid "Show mouse editing help"
+msgstr ""
+

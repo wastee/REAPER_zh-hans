@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;B4D5B40BD78A0227
+msgid "Humanize Notes"
+msgstr ""
+
+#: ;0F09AD260FA4220B
+msgid "All Notes"
+msgstr ""
+
+#: ;C1CA7F75E6DBADDF
+msgid "Selected Notes"
+msgstr ""
+
+#: ;15C941D869AC5B19
+msgid "Timing:"
+msgstr ""
+
+#: ;C62041EA8784D958
+msgid "Timing bias:"
+msgstr ""
+
+#: ;E6DEB89611D0E9C7
+msgid "New random seed"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^649ECB151A2B4705
+msgid "Slider1"
+msgstr ""
+
+#: ;^0832A307B4EB9DCE
+msgid "%"
+msgstr ""
+
+#: ;^02E6C28F6CC5D246
+msgid "Velocity:"
+msgstr ""
+

@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;ABE4285C346CE5EC
+msgid "Mouse editing behavior"
+msgstr ""
+
+#: ;15CA2C975F921ECF
+msgid "Mousewheel targets:"
+msgstr ""
+
+#: ;54135D1372B3964A
+msgid "Ignore mousewheel on all faders"
+msgstr ""
+
+#: ;62891900A9B5B1CC
+msgid "Ignore mousewheel on track panel faders"
+msgstr ""
+
+#: ;B03CEBA30BD30262
+msgid "Ignore mousewheel on transport edit fields"
+msgstr ""
+
+#: ;0C08862AAF64196E
+msgid "Mousewheel moves transport time selection by beats (alt toggles)"
+msgstr ""
+
+#: ;7AE7E4302DB3029D
+msgid "Treat scroll messages from some laptop trackpads as mousewheel"
+msgstr ""
+
+#: ;CA9C1310AB187A28
+msgid "Use pen/tablet-safe mode -- do not reposition mouse cursor while adjusting knobs/etc"
+msgstr ""
+
+#: ;7D6A1B1C34FD2DF7
+msgid "Mouse click on volume/pan faders and track buttons changes track selection"
+msgstr ""
+
+#: ;C44BB15953492B98
+msgid "Edit track names on single click (otherwise doubleclick required)"
+msgstr ""
+
+#: ;E8F0E5E4C7A0A2C2
+msgid "Mouse click/edit in track view changes track selection"
+msgstr ""
+
+#: ;64FE2B8ECAA52740
+msgid "Mouse click below the last track clears media item selection"
+msgstr ""
+
+#: ;786D3AC0B4425067
+msgid "Allow modifying edges of time selection over items in tracks"
+msgstr ""
+
+#: ;3B09283710A74EBA
+msgid "Allow resizing ruler by dragging bottom edge (otherwise drag below toolbar)"
+msgstr ""
+
+#: ;9F1222D13FC35BE2
+msgid "Control+left-click emulates right-click (control key will be unavailable as a modifier)"
+msgstr ""
+

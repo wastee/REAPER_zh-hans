@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;6CBA6D3187C4E27C
+msgid "51AUCtx"
+msgstr ""
+
+#: ;6EC184D0BA9D086C
+msgid "Export AU preset (.aupreset)..."
+msgstr ""
+
+#: ;^37E1C985732EDDC1
+msgid "Save preset..."
+msgstr ""
+
+#: ;^77D4606E1E255B38
+msgid "Save preset as default..."
+msgstr ""
+
+#: ;^B814E3BFB72A607B
+msgid "Delete preset"
+msgstr ""
+
+#: ;^888CF2A8F9990B9E
+msgid "Rename preset..."
+msgstr ""
+
+#: ;^A35385C769502F3F
+msgid "Move up"
+msgstr ""
+
+#: ;^E485FC63E796EFFA
+msgid "Move down"
+msgstr ""
+
+#: ;^1E031E71B52167CD
+msgid "Import preset library (.rpl)..."
+msgstr ""
+
+#: ;^B9ABDBF036490D44
+msgid "Export preset library (.rpl)..."
+msgstr ""
+
+#: ;^7F8BE88D07D058A1
+msgid "Link to MIDI program change"
+msgstr ""
+
+#: ;^DF45382BC646671C
+msgid "No link"
+msgstr ""
+
+#: ;^674FB3DE1B272051
+msgid "Channel 1"
+msgstr ""
+
+#: ;^674FB0DE1B271B38
+msgid "Channel 2"
+msgstr ""
+
+#: ;^674FB1DE1B271CEB
+msgid "Channel 3"
+msgstr ""
+
+#: ;^674FB6DE1B27256A
+msgid "Channel 4"
+msgstr ""
+
+#: ;^674FB7DE1B27271D
+msgid "Channel 5"
+msgstr ""
+
+#: ;^674FB4DE1B272204
+msgid "Channel 6"
+msgstr ""
+
+#: ;^674FB5DE1B2723B7
+msgid "Channel 7"
+msgstr ""
+
+#: ;^674FAADE1B271106
+msgid "Channel 8"
+msgstr ""
+
+#: ;^674FABDE1B2712B9
+msgid "Channel 9"
+msgstr ""
+
+#: ;^B38F0368237C04D3
+msgid "Channel 10"
+msgstr ""
+
+#: ;^B38F0268237C0320
+msgid "Channel 11"
+msgstr ""
+
+#: ;^B38F0568237C0839
+msgid "Channel 12"
+msgstr ""
+
+#: ;^B38F0468237C0686
+msgid "Channel 13"
+msgstr ""
+
+#: ;^B38F0768237C0B9F
+msgid "Channel 14"
+msgstr ""
+
+#: ;^B38F0668237C09EC
+msgid "Channel 15"
+msgstr ""
+
+#: ;^B38F0968237C0F05
+msgid "Channel 16"
+msgstr ""
+
+#: ;^A2AD8A8A1376F812
+msgid "Compatibility settings"
+msgstr ""
+
+#: ;^9590CA1D43A60188
+msgid "Plug-in state data size:  0 kB"
+msgstr ""
+
+#: ;^C35B6227A5807B01
+msgid "Save minimal undo states"
+msgstr ""
+
+#: ;^6C837121717D4EA3
+msgid "Avoid loading undo states when possible"
+msgstr ""
+
+#: ;^7C52DE0969C08A82
+msgid "Buggy plug-in compatibility mode"
+msgstr ""
+

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;BB07DD2F46B76299
+msgid "Refs"
+msgstr ""
+
+#: ;848866D16FDA3957
+msgid "The effect %s has been modified externally.\r\nDo you want to reload it?"
+msgstr ""
+
+#: ;FA5AC83F63EC2A5B
+msgid "Reload JS Effect?"
+msgstr ""
+
+#: ;D5B3CEB34955D699
+msgid "Save unsaved changes to:\r\n\r\n%s\r\n\r\nbefore closing?"
+msgstr ""
+
+#: ;2681A9306FB38F95
+msgid "Save JS modifications?"
+msgstr ""
+
+#: ;^DCEF2B4D03DE723C
+msgid "Name"
+msgstr ""
+
+#: ;^772CECA01AD73CB4
+msgid "Value"
+msgstr ""
+

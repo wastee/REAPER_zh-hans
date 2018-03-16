@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;1A25676C984ACD9A
+msgid "glued"
+msgstr ""
+
+#: ;3BDB96B4A2627744
+msgid "Auto (source media)"
+msgstr ""
+
+#: ;D4569B041B40C599
+msgid "Set project output:"
+msgstr ""
+
+#: ;7A5ACBCAD50D298F
+msgid "Select output directory:"
+msgstr ""
+
+#: ;8801949234009186
+msgid "No unmuted"
+msgstr ""
+
+#: ;61C3BC34D088588C
+msgid "selected"
+msgstr ""
+
+#: ;F67BA54E46A7550F
+msgid "tracks containing"
+msgstr ""
+
+#: ;9E02A0E4B7ACC2E8
+msgid "MIDI items"
+msgstr ""
+
+#: ;CE45E911046E8174
+msgid "within the time selection"
+msgstr ""
+
+#: ;AF912F456FE0F4BA
+msgid "were found."
+msgstr ""
+
+#: ;582D1D4106C95CFC
+msgid "MIDI Export Warning"
+msgstr ""
+
+#: ;2C34398BD06C3417
+msgid "Could not open file \"%s\" for MIDI export"
+msgstr ""
+
+#: ;05D094E8523073F7
+msgid "File exists. Overwrite?"
+msgstr ""
+
+#: ;E5F7947E565D33CB
+msgid "Wrote MIDI header to:"
+msgstr ""
+
+#: ;D10D68D1D02ED04B
+msgid "Wrote 1 track of MIDI to:"
+msgstr ""
+
+#: ;A71FCFF10C01DAB8
+msgid "Wrote %d tracks of MIDI to:"
+msgstr ""
+
+#: ;E905C4762023137B
+msgid "MIDI export failed!\r\n"
+msgstr ""
+
+#: ;27D986F005C91736
+msgid "MIDI export error"
+msgstr ""
+
+#: ;0F9C923B9FA431BC
+msgid "Processing Track %d/%d"
+msgstr ""
+
+#: ;9D2C9A909EC17B79
+msgid "Current Output File"
+msgstr ""
+
+#: ;78AB0BF3A75982CD
+msgid "Consolidation Status"
+msgstr ""
+
+#: ;^A5B5D9B93340662C
+msgid "Auto"
+msgstr ""
+
+#: ;^BABD655B2A5AED87
+msgid "Select a directory:"
+msgstr ""
+
+#: ;^D726E2A6E8466B26
+msgid "Create new MIDI file:"
+msgstr ""
+
+#: ;^F67F48495D3866C3
+msgid "Consolidating..."
+msgstr ""
+

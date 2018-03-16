@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;79BACE7E952719A0
+msgid "vol"
+msgstr ""
+
+#: ;C9773CE5D391B6EE
+msgid "Auto play"
+msgstr ""
+
+#: ;38E212B2E5D542C7
+msgid "Start on bar"
+msgstr ""
+
+#: ;D7F1122F4DDE0EEB
+msgid "seek"
+msgstr ""
+
+#: ;^2D64A463B95C3074
+msgid "Media Explorer"
+msgstr ""
+
+#: ;^6D0FDC8D1C9C5504
+msgid "+0.0 dB"
+msgstr ""
+
+#: ;^322690F7CBF0FD23
+msgid "Pitch:"
+msgstr ""
+

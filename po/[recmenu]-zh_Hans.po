@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;5672C710FBC6C520
+msgid "All MIDI Inputs"
+msgstr ""
+
+#: ;67C7AD9F5370E4BF
+msgid "Ch%d: %s"
+msgstr ""
+
+#: ;5BA4FD0495383A98
+msgid "..%s [%d chan]"
+msgstr ""
+
+#: ;1D7096F08B3D7195
+msgid "[multichannel]"
+msgstr ""
+
+#: ;017CD91CBF3AC663
+msgid "Monitor Input"
+msgstr ""
+
+#: ;672414CC0AFAB026
+msgid "Monitor Input (Tape Auto Style)"
+msgstr ""
+
+#: ;41D1C9D23CE079D3
+msgid "Monitor track media when recording"
+msgstr ""
+
+#: ;11803F166A4FDD0B
+msgid "Preserve PDC delayed monitoring in recorded items"
+msgstr ""
+
+#: ;C96C94D47B97B33B
+msgid "Record: MIDI overdub/replace"
+msgstr ""
+
+#: ;AFCC6AF3303B5E61
+msgid "Record: output"
+msgstr ""
+
+#: ;BD6BDF2B89B0D125
+msgid "Record: input (force format)"
+msgstr ""
+
+#: ;6DE193A93ED5CCF0
+msgid "Input: Mono"
+msgstr ""
+
+#: ;03EFBF3526613E45
+msgid "Mono (%d inputs)"
+msgstr ""
+
+#: ;63DF2AAC40BB4DDB
+msgid "Input: Stereo"
+msgstr ""
+
+#: ;90DFBD88F9AC0166
+msgid "Stereo (%d stereo pairs)"
+msgstr ""
+
+#: ;CB583F872ABE35DD
+msgid "Input: %d channel"
+msgstr ""
+
+#: ;9FBD3B7C7D482A63
+msgid "Input: multichannel"
+msgstr ""
+
+#: ;8B6B47A8BE35ED96
+msgid "Input: MIDI"
+msgstr ""
+
+#: ;145E67C5F043EBA4
+msgid "MIDI (sequential inputs or channels)"
+msgstr ""
+
+#: ;4DD9C390E127A0E6
+msgid "Channels %d to %d"
+msgstr ""
+
+#: ;301435B0001182A3
+msgid "Map input to channel"
+msgstr ""
+
+#: ;B332C15E45DB07B9
+msgid "Source Channel"
+msgstr ""
+
+#: ;56C59DA37A313EB1
+msgid "Input: None"
+msgstr ""
+
+#: ;1E071B9647C6E815
+msgid "Assign inputs sequentially"
+msgstr ""
+
+#: ;ECAF11E2B0ADF073
+msgid "Track recording settings (Input Quantize, Format, etc)..."
+msgstr ""
+
+#: ;BCD3C22A1D934649
+msgid "Track input FX chain..."
+msgstr ""
+
+#: ;^D89CC7186B79C49A
+msgid "to"
+msgstr ""
+
+#: ;^BA66149397E5F1AE
+msgid "All Channels"
+msgstr ""
+
+#: ;^B3D2C76823B56BAB
+msgid "Channel %d"
+msgstr ""
+
+#: ;^F1707CB9030B35E0
+msgid "Automatic record-arm when track selected"
+msgstr ""
+
+#: ;^081CECC31B65E0C4
+msgid "Set track automatic record-arm when selected"
+msgstr ""
+

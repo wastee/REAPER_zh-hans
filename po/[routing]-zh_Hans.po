@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;4BE3657E4E9A1F34
+msgid "Record Arm"
+msgstr ""
+
+#: ;C2DC02E9D9EEEC4B
+msgid "Polarity/Phase"
+msgstr ""
+
+#: ;229E4ADF3BB30AEB
+msgid "Automation Mode"
+msgstr ""
+
+#: ;25A7488E91388D93
+msgid "Flag: Volume Reverse"
+msgstr ""
+
+#: ;0BD195469BEE28A8
+msgid "Flag: Pan Reverse"
+msgstr ""
+
+#: ;B899899C1AB19C42
+msgid "Flag: No Slave->Master"
+msgstr ""
+
+#: ;6144EC1482D7052B
+msgid "Flag: Width Reverse"
+msgstr ""
+
+#: ;6352B37DF71D813B
+msgid "VCA"
+msgstr ""
+
+#: ;F85808B5B68827B8
+msgid "Flag: VCA pre-FX slave"
+msgstr ""
+
+#: ;99836317190A08D7
+msgid "Routing"
+msgstr ""
+
+#: ;5AF639CFB5F4BA4A
+msgid "Grouping"
+msgstr ""
+
+#: ;EE4584A3C0D39E7D
+msgid "Region Render"
+msgstr ""
+
+#: ;BB80D99527FF5C67
+msgid "Matrix mode: routing"
+msgstr ""
+
+#: ;57EFF8FE5A8F10BA
+msgid "Matrix mode: grouping"
+msgstr ""
+
+#: ;EA6DDE6451E8631C
+msgid "Matrix mode: regions"
+msgstr ""
+
+#: ;8F3F0202E3C8B768
+msgid "Render master mix for all regions"
+msgstr ""
+
+#: ;A5D0EDBF3815267D
+msgid "Render all tracks for all regions"
+msgstr ""
+
+#: ;510F827F8B829264
+msgid "Render master mix and all tracks for all regions"
+msgstr ""
+
+#: ;F7041B0ACA616CED
+msgid "Only selected tracks for this region"
+msgstr ""
+
+#: ;023F1C2AA6461EB6
+msgid "Add selected tracks for this region"
+msgstr ""
+
+#: ;4D463647A6354B8F
+msgid "Remove selected tracks for this region"
+msgstr ""
+
+#: ;9BBBAC2B709017DC
+msgid "Show individual group details"
+msgstr ""
+
+#: ;7FD87D5A648ED19F
+msgid "Show master/parent as destination"
+msgstr ""
+
+#: ;38AD1E080E9B9ABB
+msgid "Show tracks as destinations"
+msgstr ""
+
+#: ;E965CDD590EEA7E1
+msgid "Show audio hardware as destinations"
+msgstr ""
+
+#: ;8E5649EEC26D90CA
+msgid "Show ReaRoute as destinations"
+msgstr ""
+
+#: ;5C1A85CA2F096104
+msgid "Show MIDI hardware as destinations"
+msgstr ""
+
+#: ;9611AB41D9B11338
+msgid "Show MIDI channels as destinations"
+msgstr ""
+
+#: ;F7450805748FB7A9
+msgid "Show master as source"
+msgstr ""
+
+#: ;B451BAF6862448A8
+msgid "Show tracks as sources"
+msgstr ""
+
+#: ;CF45B02A36FE9E0A
+msgid "Show audio hardware as sources"
+msgstr ""
+
+#: ;5DACC82C28E897F3
+msgid "Show ReaRoute as sources"
+msgstr ""
+
+#: ;1C889AF88C696823
+msgid "Show MIDI as sources"
+msgstr ""
+
+#: ;334E4C67453C2EDD
+msgid "Show MIDI channels as sources"
+msgstr ""
+
+#: ;F31BED17B3A80B8A
+msgid "Dock matrix window in Docker"
+msgstr ""
+
+#: ;3202B7C8F1C19432
+msgid "master output"
+msgstr ""
+
+#: ;993E141C7938911D
+msgid "(stereo/MC)"
+msgstr ""
+
+#: ;53C72DF28C399CCE
+msgid "master/parent"
+msgstr ""
+
+#: ;81D93E7B863F63FA
+msgid "source"
+msgstr ""
+
+#: ;21D286D93CBE0035
+msgid "destination"
+msgstr ""
+
+#: ;784CBE1FD271BF66
+msgid "group"
+msgstr ""
+
+#: ;BC9208576C5B9337
+msgid "region"
+msgstr ""
+
+#: ;CA2FC719BBBEF7B9
+msgid "is Disabled"
+msgstr ""
+
+#: ;8755A825709522B2
+msgid "is Enabled"
+msgstr ""
+
+#: ;4FDCAB978445558B
+msgid "Group %d is Disabled"
+msgstr ""
+
+#: ;938248518B3B7120
+msgid "Group %d is Enabled"
+msgstr ""
+
+#: ;62497B0A19D09D97
+msgid "parent send track %d %s"
+msgstr ""
+
+#: ;4B24D268014AEBB5
+msgid "parent send track %d"
+msgstr ""
+
+#: ;7FBFA8136C10B1B9
+msgid "master send"
+msgstr ""
+
+#: ;24EA41048755292A
+msgid "Muted,"
+msgstr ""
+
+#: ;686CBDF778971C6F
+msgid "Disabled"
+msgstr ""
+
+#: ;02765EDBE7B19924
+msgid ", invert phase"
+msgstr ""
+
+#: ;02C9802709198FE1
+msgid "Vol %d"
+msgstr ""
+
+#: ;BFC92B617929CC4D
+msgid "- pre fx"
+msgstr ""
+
+#: ;0E9494A9719F1E08
+msgid "- post fx (v1)"
+msgstr ""
+
+#: ;9F6AE3BC13CE2DD0
+msgid "- post fx"
+msgstr ""
+
+#: ;7E2AFF6A9BE471D6
+msgid "- NOT CONNECTED"
+msgstr ""
+
+#: ;44D502BC3E71FBB7
+msgid "Channels"
+msgstr ""
+
+#: ;8E3DB0B3628F60D8
+msgid "MIDI Bus %d Chan %d"
+msgstr ""
+
+#: ;307F4DCB93935DBA
+msgid "MIDI Chan"
+msgstr ""
+
+#: ;11B14598DD86BC64
+msgid "MIDI Bus"
+msgstr ""
+
+#: ;2E52C798EE7E9F69
+msgid "MIDI All"
+msgstr ""
+
+#: ;D8CA33C2B48414C2
+msgid "MUTED"
+msgstr ""
+
+#: ;A63C8EAB8ED6A533
+msgid "- invert phase"
+msgstr ""
+
+#: ;4BE746518EF96E2A
+msgid "- mix to mono"
+msgstr ""
+
+#: ;FEC110FC1A48BC19
+msgid "To Channel"
+msgstr ""
+
+#: ;00721F9E62EF3C94
+msgid "Record Input:"
+msgstr ""
+
+#: ;D7BDD52F4DB24DAB
+msgid "set,"
+msgstr ""
+
+#: ;989A709FCB56F552
+msgid "Armed,"
+msgstr ""
+
+#: ;ECC9A80133B0E90A
+msgid ", No Monitoring"
+msgstr ""
+
+#: ;66378E8DA1FA9C8D
+msgid ", Monitoring"
+msgstr ""
+
+#: ;94FBF5228AB2DE4A
+msgid ", Auto Monitoring"
+msgstr ""
+
+#: ;^8FC86C263760ACB9
+msgid "Volume"
+msgstr ""
+
+#: ;^96E5C67E1437194E
+msgid "Pan"
+msgstr ""
+
+#: ;^61946358B1034B76
+msgid "Mute"
+msgstr ""
+
+#: ;^0420AF237D97ECB8
+msgid "Solo"
+msgstr ""
+
+#: ;^8A3F14717826D8D1
+msgid "Width"
+msgstr ""
+
+#: ;^18C90F7E5DC51FCA
+msgid "All"
+msgstr ""
+
+#: ;^BB1D7DBC1BA8233C
+msgid "Routing Matrix"
+msgstr ""
+
+#: ;^AF8A1AC00E231ACB
+msgid "Grouping Matrix"
+msgstr ""
+
+#: ;^ECD8A7FC74B3A45A
+msgid "Region Render Matrix"
+msgstr ""
+
+#: ;^82EE5475CB6FCE9F
+msgid "Close window"
+msgstr ""
+
+#: ;^DDDBC4B59922776E
+msgid "Master Track"
+msgstr ""
+
+#: ;^73235A4845CE69AF
+msgid "Master mix"
+msgstr ""
+
+#: ;^8F22DBF788C71CFA
+msgid "All tracks"
+msgstr ""
+
+#: ;^6208D6BE485CCB06
+msgid "Group"
+msgstr ""
+
+#: ;^90803304EBE7C40E
+msgid "track"
+msgstr ""
+
+#: ;^80E92B8E090EA373
+msgid "render"
+msgstr ""
+
+#: ;^D9B22A6B63054364
+msgid "Enabled"
+msgstr ""
+
+#: ;^F3238895531F739E
+msgid "Channel"
+msgstr ""
+
+#: ;^43632077D6FCDE72
+msgid "- NOT FULLY CONNECTED"
+msgstr ""
+
+#: ;^003BD938FD8D368D
+msgid "(not set)"
+msgstr ""
+
+#: ;^BA66149397E5F1AE
+msgid "All Channels"
+msgstr ""
+

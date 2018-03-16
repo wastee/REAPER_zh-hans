@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;F3582F42CFAF0F19
+msgid "Reverse Stereo"
+msgstr ""
+
+#: ;80900C475DFCDF96
+msgid "Mono (Mix L+R)"
+msgstr ""
+
+#: ;8BDA1E7AAB2FD8A0
+msgid "Mono (Left)"
+msgstr ""
+
+#: ;EB23908B8ABFD719
+msgid "Mono (Right)"
+msgstr ""
+
+#: ;9EE690B12D5CDA01
+msgid "Mono %d"
+msgstr ""
+
+#: ;0A6FC55692AE17CC
+msgid "Stereo %d/%d"
+msgstr ""
+
+#: ;^63ACD193C4316F68
+msgid "Normal"
+msgstr ""
+
+#: ;^514129849A113DA0
+msgid "(unknown)"
+msgstr ""
+

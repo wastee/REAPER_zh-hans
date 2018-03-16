@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;2874B5A9A972DA56
+msgid "Project sample rate:"
+msgstr ""
+
+#: ;1B33637BF4614F23
+msgid "Hz (if unset, hardware default will be used)"
+msgstr ""
+
+#: ;8FEAABC006D1F98D
+msgid "Force project tempo/time signature changes to occur on whole samples"
+msgstr ""
+
+#: ;658C937BDBE2A0A1
+msgid "Project BPM:"
+msgstr ""
+
+#: ;16F11A004E847DE0
+msgid "Time signature"
+msgstr ""
+
+#: ;B15FB188B25F34F8
+msgid "Timebase for items/envelopes/markers:"
+msgstr ""
+
+#: ;1B67AB5CB8E988ED
+msgid "Timebase for tempo/time signature envelope:"
+msgstr ""
+
+#: ;EE8EC012349D1F21
+msgid "Project start time:"
+msgstr ""
+
+#: ;BE77A7796C85AB2C
+msgid "Set 0:00 to edit cursor"
+msgstr ""
+
+#: ;CDA814D5DDCE08E6
+msgid "Project start measure:"
+msgstr ""
+
+#: ;4F3FC38A404ADF1A
+msgid "Playback resample mode:"
+msgstr ""
+
+#: ;46BBE03B4E465FE9
+msgid "Render resample mode:"
+msgstr ""
+
+#: ;9BB2A6892BFE5A75
+msgid "Default pitch shift mode:"
+msgstr ""
+
+#: ;A95E2E1907E61757
+msgid "Pitch shifter parameter:"
+msgstr ""
+
+#: ;^08329907B4EB8CD0
+msgid "/"
+msgstr ""
+

@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;8D383ACD6EFAFF8C
+msgid "Find shortcut..."
+msgstr ""
+
+#: ;5B1607D15C3F39A8
+msgid "Shortcuts for selected action"
+msgstr ""
+
+#: ;4D42318DB608C2E0
+msgid "ReaScript:"
+msgstr ""
+
+#: ;4BF8DB60DE29BA6D
+msgid "Import/export..."
+msgstr ""
+
+#: ;4E4772D7297224CD
+msgid "Menu editor..."
+msgstr ""
+
+#: ;^744B2F6CFBA0A242
+msgid "Actions"
+msgstr ""
+
+#: ;^87DB547E0C57B4B8
+msgid "Run"
+msgstr ""
+
+#: ;^3F0C4A774B49AF33
+msgid "Run/close"
+msgstr ""
+
+#: ;^BAC64C1B2E060EE5
+msgid "Close"
+msgstr ""
+
+#: ;^D43B88702E996ED9
+msgid "Filter:"
+msgstr ""
+
+#: ;^F10F4B1B4D6DC250
+msgid "Clear"
+msgstr ""
+
+#: ;^3A39C76003695360
+msgid "Section:"
+msgstr ""
+
+#: ;^D9B12705AD844C62
+msgid "List1"
+msgstr ""
+
+#: ;^1EB556E18D613E28
+msgid "Add..."
+msgstr ""
+
+#: ;^AF3196AD6B727ABC
+msgid "Delete"
+msgstr ""
+
+#: ;^5F8BE96FAB61772F
+msgid "Custom actions:"
+msgstr ""
+
+#: ;^F70C14BE35114F9B
+msgid "New..."
+msgstr ""
+
+#: ;^C39132F1A8047E9F
+msgid "Edit..."
+msgstr ""
+
+#: ;^83CEDDAC8FB7324E
+msgid "Copy"
+msgstr ""
+
+#: ;^62C49C467C0C15D3
+msgid "Load..."
+msgstr ""
+

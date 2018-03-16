@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;6A859719FE602A01
+msgid "Track: Set volume for %s (MIDI CC/OSC only)"
+msgstr ""
+
+#: ;6E9CF20A4F330948
+msgid "Track: Set pan for %s (MIDI CC/OSC only)"
+msgstr ""
+
+#: ;05E9EE5CE51F06EA
+msgid "Track: Toggle mute for %s"
+msgstr ""
+
+#: ;541C7F192DC0BB9C
+msgid "Track: Toggle solo for %s"
+msgstr ""
+
+#: ;7F19FA4BCA027163
+msgid "Track: Toggle FX bypass for %s"
+msgstr ""
+
+#: ;7FC4D9C30FC7775C
+msgid "Track: Toggle record arm for %s"
+msgstr ""
+
+#: ;C90533848AB09F02
+msgid "Track: Set mute for %s (MIDI CC/OSC only)"
+msgstr ""
+
+#: ;C5C651E3D854A228
+msgid "Track: Set solo for %s (MIDI CC/OSC only)"
+msgstr ""
+
+#: ;FB915DA2AD4D6331
+msgid "Track: Set stereo width (or right channel pan) for %s (MIDI CC/OSC only)"
+msgstr ""
+
+#: ;A37CAA2E2F4B46E2
+msgid "Track: Select track %02d"
+msgstr ""
+
+#: ;834B6983041D4E06
+msgid "Group: Select all tracks in group %02d"
+msgstr ""
+
+#: ;BF0CAFC24857E546
+msgid "Set default mouse modifier action for \"%s %s\" to \"%s\""
+msgstr ""
+
+#: ;8C9BD4F57CFD1931
+msgid "(factory default)"
+msgstr ""
+

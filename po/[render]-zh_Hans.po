@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;FF988786A3DBA5E1
+msgid "Render to file name:"
+msgstr ""
+
+#: ;F7CD69D31E23F2C7
+msgid "File already exists:"
+msgstr ""
+
+#: ;B4F466C090612B1D
+msgid "Files already exist:"
+msgstr ""
+
+#: ;66FF38D6E1ADCC48
+msgid "Renders already in the queue will overwrite file:"
+msgstr ""
+
+#: ;B23B89217AF6A17B
+msgid "Renders already in the queue will overwrite files:"
+msgstr ""
+
+#: ;57DC58B3B7C72DE1
+msgid "Increment filename"
+msgstr ""
+
+#: ;12984B6147726F16
+msgid "Increment filenames"
+msgstr ""
+
+#: ;3404046DA09FC69F
+msgid "Recent patterns"
+msgstr ""
+
+#: ;E820D811FA928312
+msgid "Use \"master\" for master $track"
+msgstr ""
+
+#: ;E0A526D768B2938E
+msgid "Allow / (subfolders) in track and region names"
+msgstr ""
+
+#: ;8F172C76448450DA
+msgid "Wildcard help..."
+msgstr ""
+
+#: ;C129889B8F00B0F1
+msgid "file"
+msgstr ""
+
+#: ;3A43A253FE2BECE6
+msgid "files"
+msgstr ""
+
+#: ;153CF73D1FD5006C
+msgid "Render 1 file..."
+msgstr ""
+
+#: ;90542BD908D1D6DB
+msgid "Render %d files..."
+msgstr ""
+
+#: ;EED1AC952953EE12
+msgid "Last render settings"
+msgstr ""
+
+#: ;A82D8163A8484674
+msgid "Bounds and output"
+msgstr ""
+
+#: ;3912E287492971ED
+msgid "Options and format"
+msgstr ""
+
+#: ;7807BF68DE4D492B
+msgid "All settings"
+msgstr ""
+
+#: ;004DC15672AB96AA
+msgid "Render Preset"
+msgstr ""
+
+#: ;5E7C99D3AAB0A3D1
+msgid "1 media item"
+msgstr ""
+
+#: ;B27350F6CC3B912A
+msgid "1 region"
+msgstr ""
+
+#: ;90A904D1BA53592F
+msgid "%d regions"
+msgstr ""
+
+#: ;EC5C7C8BD218C149
+msgid "Browse for directory..."
+msgstr ""
+
+#: ;4CF8A716A351AA58
+msgid "Render path:"
+msgstr ""
+
+#: ;0858F38B34626DAC
+msgid "Render to file:"
+msgstr ""
+
+#: ;6A2918EDF7DF2574
+msgid "Must have a filename (or filename pattern) to render to!"
+msgstr ""
+
+#: ;AC1DC5F59AFC57CD
+msgid "Render Error"
+msgstr ""
+
+#: ;441FF41BE2AAD151
+msgid "No time selection, or no regions active!"
+msgstr ""
+
+#: ;74D8F9A7C79A5668
+msgid "No tracks selected!"
+msgstr ""
+
+#: ;3197FF996D528B57
+msgid "(rendered)"
+msgstr ""
+
+#: ;830C5FC0E18A9057
+msgid "Region"
+msgstr ""
+
+#: ;E1B4C563C39DCAD4
+msgid "Custom time range"
+msgstr ""
+
+#: ;37BF8BB415CF9451
+msgid "Project regions"
+msgstr ""
+
+#: ;4F0363579DE4DA06
+msgid "untitled"
+msgstr ""
+
+#: ;D69D6E60CA40FDC5
+msgid "Stems (selected tracks)"
+msgstr ""
+
+#: ;F57F76E76EEAB1E0
+msgid "Master mix + stems"
+msgstr ""
+
+#: ;D3D35AE173ADE15A
+msgid "Region render matrix"
+msgstr ""
+
+#: ;C9C02344D7F08EBA
+msgid "Selected media items"
+msgstr ""
+
+#: ;7C52FAD1998A97D7
+msgid "Full-speed Offline"
+msgstr ""
+
+#: ;ECEF5A49F432EB7D
+msgid "1x Offline"
+msgstr ""
+
+#: ;0694A6949DB4FAA8
+msgid "Online Render"
+msgstr ""
+
+#: ;3EFDB5F495A9454B
+msgid "Offline Render (Idle)"
+msgstr ""
+
+#: ;17A9CDE22D90C248
+msgid "1x Offline Render (Idle)"
+msgstr ""
+
+#: ;4E37D333E5D230E6
+msgid "Rendering region %d/%d..."
+msgstr ""
+
+#: ;EC7824CEBF1159C1
+msgid "No output"
+msgstr ""
+
+#: ;EC49E0E8CD09DA7D
+msgid "Error:"
+msgstr ""
+
+#: ;30A51D2AB058900D
+msgid "Error opening"
+msgstr ""
+
+#: ;BBF55C06EC9B05FE
+msgid "Error: no render target file!"
+msgstr ""
+
+#: ;57723CB9490CDD81
+msgid "The target drive/path does not exist, is unavailable, or is in use."
+msgstr ""
+
+#: ;49EC68EBB394EAF7
+msgid "Elapsed:"
+msgstr ""
+
+#: ;AB04BBC7DB9FF4B1
+msgid ", Estimated Remaining:"
+msgstr ""
+
+#: ;A429CCD0AE500AF2
+msgid "realtime"
+msgstr ""
+
+#: ;37F6A411C66E7D98
+msgid "Finished in"
+msgstr ""
+
+#: ;88F05070C85C276B
+msgid "REAPER render complete"
+msgstr ""
+
+#: ;^87D8D79D63721460
+msgid "Open render queue..."
+msgstr ""
+
+#: ;^5493EE7052DCF71B
+msgid "Options"
+msgstr ""
+
+#: ;^5C973D1CB80B0D9F
+msgid "Render..."
+msgstr ""
+
+#: ;^37E1C985732EDDC1
+msgid "Save preset..."
+msgstr ""
+
+#: ;^B814E3BFB72A607B
+msgid "Delete preset"
+msgstr ""
+
+#: ;^D722FAC57CDCD58A
+msgid "%d media items"
+msgstr ""
+
+#: ;^3470CDBB0C544765
+msgid "Media items"
+msgstr ""
+
+#: ;^4D5B21719C8D85CE
+msgid "Browse for file..."
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^79DCBE1CDE37B4F3
+msgid "Entire project"
+msgstr ""
+
+#: ;^97D6D411868C112C
+msgid "Time selection"
+msgstr ""
+
+#: ;^73235A4845CE69AF
+msgid "Master mix"
+msgstr ""
+
+#: ;^E83CE539DBB569A7
+msgid "Stop recording before rendering..."
+msgstr ""
+
+#: ;^05A130B04362C768
+msgid "REAPER Note"
+msgstr ""
+
+#: ;^898659B24A7C6FB8
+msgid "Back"
+msgstr ""
+
+#: ;^81F584F9FDAE6C4F
+msgid "Show in finder"
+msgstr ""
+

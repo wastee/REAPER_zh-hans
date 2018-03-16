@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;053474C5901086C6
+msgid "Insert tracks"
+msgstr ""
+
+#: ;28F35F43F0521DF1
+msgid "Insert how many tracks:"
+msgstr ""
+
+#: ;C4E47B80C2B49F76
+msgid "Named:"
+msgstr ""
+
+#: ;45E81FE5D87D7A40
+msgid "After last touched track"
+msgstr ""
+
+#: ;8385AF879179A481
+msgid "At end of project"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

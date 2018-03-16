@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;91CB7FE93510C1F4
+msgid "Sets the audio block size used when rendering. It is recommended that you leave this blank, which will automatically use the last audio blocksize used."
+msgstr ""
+
+#: ;B8630E9E7BA232E0
+msgid "When checked, configured multiprocessing settings will be used for rendering. If unchecked, rendering will be slower but can be more reliable with some plug-ins."
+msgstr ""
+
+#: ;EB16C6EA76EEC12B
+msgid "When checked, limit apply FX/render stems actions to realtime. This is good for certain plug-ins that fail when running faster than realtime."
+msgstr ""
+
+#: ;3694C4CB232416C4
+msgid "Rendering the project or stems, or freezing tracks, can run beyond the last media item in the project, to be sure to record any FX tails (like reverb)."
+msgstr ""
+
+#: ;ABF1A1194368E588
+msgid "When rendering stems for the entire project, apply the tail length setting. This also affects the default tail settings in the render window."
+msgstr ""
+
+#: ;5182449DA30570C3
+msgid "When rendering stems for a time selection, apply the tail length setting. This also affects the default tail settings in the render window."
+msgstr ""
+
+#: ;C3F651989CF94DE1
+msgid "By default, only media items will be rendered when freezing. If there are FX on the track, the entire track can be rendered, which may be slower."
+msgstr ""
+
+#: ;4880D33AC87DEEDF
+msgid "When freezing an entire track, apply the tail length setting."
+msgstr ""
+

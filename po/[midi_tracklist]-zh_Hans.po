@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;5D6F0931E2229C10
+msgid "[Hide track list]"
+msgstr ""
+
+#: ;FAAE8AEB910F3241
+msgid "[Show track list]"
+msgstr ""
+
+#: ;321684ACEE9D0E75
+msgid "Selection is linked to visibility"
+msgstr ""
+
+#: ;6F1D7B4C33CAD148
+msgid "Options when using one editor per project"
+msgstr ""
+
+#: ;0401E53E3247AB95
+msgid "Draw and edit CC events on all tracks"
+msgstr ""
+
+#: ;FAD0C5524B25342A
+msgid "Edit CC events on all tracks"
+msgstr ""
+
+#: ;60062D8DC89E054E
+msgid "Choose which tracks appear in track list"
+msgstr ""
+
+#: ;F7CC997B64898F23
+msgid "Show all tracks in track list"
+msgstr ""
+
+#: ;A3757FC97FE1025F
+msgid "Show tooltips in MIDI track list"
+msgstr ""
+
+#: ;E2A0FB5884FB23CE
+msgid "Set media items to custom color"
+msgstr ""
+
+#: ;D86D7685ACA598CB
+msgid "Set media items to random colors"
+msgstr ""
+
+#: ;C3DE596ABDC0FB16
+msgid "Set media items to one random color"
+msgstr ""
+
+#: ;6C3B776F12A4CEDA
+msgid "Set media item to custom color (ignore selection)"
+msgstr ""
+
+#: ;DDE7DB085FDDBC9E
+msgid "Set media item to random color (ignore selection)"
+msgstr ""
+
+#: ;E0CEE07AE6DA0AA5
+msgid "Set track to custom color"
+msgstr ""
+
+#: ;D69DE6866C6D22A1
+msgid "Set track to random color"
+msgstr ""
+
+#: ;0FAC30F2D587E652
+msgid "Set track media items to random colors"
+msgstr ""
+
+#: ;8365E382F571AEAD
+msgid "Folder is compacted"
+msgstr ""
+
+#: ;B4F7E1C4D3F3DBBA
+msgid "Folder is expanded"
+msgstr ""
+
+#: ;BE73DF3E8D196974
+msgid "Media items on this track are listed"
+msgstr ""
+
+#: ;90BFA7D5B0E3B9EF
+msgid "Media items on this track are not listed"
+msgstr ""
+
+#: ;BA991503A9508563
+msgid "An item on this track is target for inserting events"
+msgstr ""
+
+#: ;E40EB6292160114B
+msgid "No item on this track is target for inserting events"
+msgstr ""
+
+#: ;2BCF2B0BE5F26B1A
+msgid "Item is target for inserting events"
+msgstr ""
+
+#: ;E971B43367BD520F
+msgid "Item is target for inserting events in another editor"
+msgstr ""
+
+#: ;EECF992488E04EBF
+msgid "Item is not target for inserting events"
+msgstr ""
+
+#: ;17D20EEF621FB650
+msgid "All items are editable in notation view"
+msgstr ""
+
+#: ;14861AFC7EEFC938
+msgid "Track items are editable"
+msgstr ""
+
+#: ;67174A9D7726414F
+msgid "Track items are not editable"
+msgstr ""
+
+#: ;7BCA94CB2EE8CBEA
+msgid "Some track items are editable"
+msgstr ""
+
+#: ;60F2A33A225707E3
+msgid "Active item is always editable"
+msgstr ""
+
+#: ;DBD48BC59D461EBC
+msgid "Item is editable"
+msgstr ""
+
+#: ;674ACB2373472F6B
+msgid "Item is not editable"
+msgstr ""
+
+#: ;941E16E47D32CDC3
+msgid "Track items are not visible"
+msgstr ""
+
+#: ;F64661E4FDB0C216
+msgid "Track items are visible"
+msgstr ""
+
+#: ;BDD211941AD4EECC
+msgid "Some track items are visible"
+msgstr ""
+
+#: ;5D1C2BCCDEEFE31F
+msgid "Active item is always visible"
+msgstr ""
+
+#: ;7716F30E57FF2AC7
+msgid "Item is not visible"
+msgstr ""
+
+#: ;EC81A1BA22118FA2
+msgid "Item is visible"
+msgstr ""
+
+#: ;21DC8F783FCA16E9
+msgid "Track is record-armed"
+msgstr ""
+
+#: ;BDD9BE0E8E301432
+msgid "Track is not record-armed"
+msgstr ""
+
+#: ;F62AA104AA8455AD
+msgid "Track is muted"
+msgstr ""
+
+#: ;B0E2E2C73C6C7570
+msgid "Track is not muted"
+msgstr ""
+
+#: ;3859595C104DF0B7
+msgid "Item is muted"
+msgstr ""
+
+#: ;20F1F2083B94DBFA
+msgid "Item is not muted"
+msgstr ""
+
+#: ;E5ACC1AF7F58DCE4
+msgid "Track is soloed"
+msgstr ""
+
+#: ;5121B67627D5BCBB
+msgid "Track is not soloed"
+msgstr ""
+
+#: ;FE20A2EB8C3ADA7F
+msgid "Record arm (ignore selection)"
+msgstr ""
+
+#: ;08F2B2BA488B173C
+msgid "Exclusive record arm"
+msgstr ""
+
+#: ;2334FF36B5503B4F
+msgid "Un-record arm all"
+msgstr ""
+
+#: ;C55101846D5E25B5
+msgid "Mute (ignore selection)"
+msgstr ""
+
+#: ;682E504E6E01E39B
+msgid "Solo (ignore selection)"
+msgstr ""
+
+#: ;^0B3E0029A01A16F4
+msgid "Media item"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^A2BF58A6DFD853DC
+msgid "Project"
+msgstr ""
+
+#: ;^3A84A1513B5B67C0
+msgid "One MIDI editor per"
+msgstr ""
+
+#: ;^E964640878017639
+msgid "Open the clicked MIDI item only"
+msgstr ""
+
+#: ;^BBC1706D3B8635E2
+msgid "Open all selected MIDI items"
+msgstr ""
+
+#: ;^7D87735CC6F0E8CF
+msgid "Open all MIDI items on the same track as the clicked item"
+msgstr ""
+
+#: ;^71A76211A7CFDF12
+msgid "Open all MIDI in the project"
+msgstr ""
+
+#: ;^8AEA4F30E06A7A87
+msgid "Behavior for \"open items in built-in MIDI editor\""
+msgstr ""
+
+#: ;^AD510FC22D6EECAC
+msgid "Active MIDI item follows selection changes in arrange view"
+msgstr ""
+
+#: ;^6B715267FFEB9F05
+msgid "Selection is linked to editability"
+msgstr ""
+
+#: ;^05E07D2942EFF739
+msgid "Only MIDI items on the same track as the active item are editable"
+msgstr ""
+
+#: ;^725B164EA8340BE9
+msgid "Close editor when the active media item is deleted in arrange view"
+msgstr ""
+
+#: ;^7EDC3D0D26BF2D8C
+msgid "All media items are editable in notation view"
+msgstr ""
+
+#: ;^61EB857EEC517894
+msgid "Record arm"
+msgstr ""
+
+#: ;^61946358B1034B76
+msgid "Mute"
+msgstr ""
+
+#: ;^B348AEAE3BC8702E
+msgid "Exclusive mute"
+msgstr ""
+
+#: ;^2A10B822A0A5485E
+msgid "Unmute all"
+msgstr ""
+
+#: ;^0420AF237D97ECB8
+msgid "Solo"
+msgstr ""
+
+#: ;^4C5A9B01CD346DD0
+msgid "Exclusive solo"
+msgstr ""
+
+#: ;^BCB3C3B4A1794FDC
+msgid "Unsolo all"
+msgstr ""
+

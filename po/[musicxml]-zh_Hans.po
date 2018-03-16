@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;1D706EAF139B5DE1
+msgid "File is neither score-timewise nor score-partwise"
+msgstr ""
+
+#: ;2B68F5097551BA8E
+msgid "Can't read midi-instrument id"
+msgstr ""
+
+#: ;F81C3931B68B0DE1
+msgid "Can't read MusicXML part"
+msgstr ""
+
+#: ;4512FF4C5B515AEE
+msgid "Can't read part ID"
+msgstr ""
+
+#: ;6A912866A8EA3D25
+msgid "Can't read measure number"
+msgstr ""
+
+#: ;87840801028F6CA4
+msgid "Can't read measure divisions"
+msgstr ""
+
+#: ;B1CC581617E19413
+msgid "Can't read time signature"
+msgstr ""
+
+#: ;BAB69D989C38B4E2
+msgid "MusicXML Import Error"
+msgstr ""
+
+#: ;^F664CFB0307502A6
+msgid "Can't open file"
+msgstr ""
+

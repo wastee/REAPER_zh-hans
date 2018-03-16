@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;F337D108662369F8
+msgid "Searching in"
+msgstr ""
+
+#: ;9FFD446C2869A48C
+msgid "subfolders"
+msgstr ""
+
+#: ;E80616CECB6D3125
+msgid "metadata (consider making a database)"
+msgstr ""
+
+#: ;B21641943ECEAEFD
+msgid "Creating database"
+msgstr ""
+
+#: ;^ADE62F1CFD2974B6
+msgid "Scanning..."
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

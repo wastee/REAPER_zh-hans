@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;68C279740B738335
+msgid "Use native events for synchronizing (not recommended)"
+msgstr ""
+
+#: ;29EEBA76CCF8E86D
+msgid "Idle"
+msgstr ""
+
+#: ;92B186572F2D2E77
+msgid "Below Normal"
+msgstr ""
+
+#: ;CA546BCECBD86E89
+msgid "Above Normal (recommended)"
+msgstr ""
+
+#: ;5BD5352A8AD4FB5F
+msgid "Highest (recommended)"
+msgstr ""
+
+#: ;15A91142A64B031B
+msgid "Automatic (experimental)"
+msgstr ""
+
+#: ;251727CC1D320262
+msgid "Automatic (default)"
+msgstr ""
+
+#: ;02BB391D11C4BF27
+msgid "- Relaxed"
+msgstr ""
+
+#: ;26FEA9DB7D84BB3D
+msgid "- Default"
+msgstr ""
+
+#: ;0CB154CE14C9703F
+msgid "- Medium"
+msgstr ""
+
+#: ;BE86650F54F7AC10
+msgid "- Aggressive"
+msgstr ""
+
+#: ;CAF2BD75C8084664
+msgid "- Very Aggressive"
+msgstr ""
+
+#: ;^63ACD193C4316F68
+msgid "Normal"
+msgstr ""
+
+#: ;^76036DCB216B5D75
+msgid "Highest"
+msgstr ""
+
+#: ;^B726931672EE1B2F
+msgid "Above Normal"
+msgstr ""
+
+#: ;^FC0E6CF88C55D677
+msgid "Time Critical"
+msgstr ""
+

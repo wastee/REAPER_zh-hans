@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;427DCEDE689DF6D8
+msgid "ContextMenuInline"
+msgstr ""
+
+#: ;694685A90529A559
+msgid "Insert note at edit cursor"
+msgstr ""
+
+#: ;^83CEDDAC8FB7324E
+msgid "Copy"
+msgstr ""
+
+#: ;^09CFC77E55F475C5
+msgid "Cut"
+msgstr ""
+
+#: ;^13A51C8BEEDFCE52
+msgid "Paste"
+msgstr ""
+
+#: ;^4AAE40A08510E47F
+msgid "Paste preserving position in measure"
+msgstr ""
+
+#: ;^F70F33492CF99E39
+msgid "Select all notes"
+msgstr ""
+
+#: ;^2568C8EFB386D909
+msgid "Delete notes"
+msgstr ""
+
+#: ;^3AECB68ED5632B6C
+msgid "Split notes"
+msgstr ""
+
+#: ;^F15A7C7042D0D2C2
+msgid "Join notes"
+msgstr ""
+
+#: ;^F1B40A37A3CA1D37
+msgid "Mute events"
+msgstr ""
+
+#: ;^CA95C3C55E05662B
+msgid "Reverse"
+msgstr ""
+
+#: ;^A3E22CDD7E92648A
+msgid "Note properties..."
+msgstr ""
+
+#: ;^1AA6DE3444DD65AC
+msgid "Note channel"
+msgstr ""
+
+#: ;^08329707B4EB896A
+msgid "1"
+msgstr ""
+
+#: ;^08329607B4EB87B7
+msgid "2"
+msgstr ""
+
+#: ;^08329507B4EB8604
+msgid "3"
+msgstr ""
+
+#: ;^08329407B4EB8451
+msgid "4"
+msgstr ""
+
+#: ;^08329307B4EB829E
+msgid "5"
+msgstr ""
+
+#: ;^08329207B4EB80EB
+msgid "6"
+msgstr ""
+
+#: ;^08329107B4EB7F38
+msgid "7"
+msgstr ""
+
+#: ;^08329007B4EB7D85
+msgid "8"
+msgstr ""
+
+#: ;^08328F07B4EB7BD2
+msgid "9"
+msgstr ""
+
+#: ;^D97FFC186C3A63EE
+msgid "10"
+msgstr ""
+
+#: ;^D97FFD186C3A65A1
+msgid "11"
+msgstr ""
+
+#: ;^D97FFA186C3A6088
+msgid "12"
+msgstr ""
+
+#: ;^D97FFB186C3A623B
+msgid "13"
+msgstr ""
+
+#: ;^D98000186C3A6ABA
+msgid "14"
+msgstr ""
+
+#: ;^D98001186C3A6C6D
+msgid "15"
+msgstr ""
+
+#: ;^D97FFE186C3A6754
+msgid "16"
+msgstr ""
+
+#: ;^596C077CE46E04EE
+msgid "Quantize..."
+msgstr ""
+
+#: ;^3410CCD7F87501B1
+msgid "Quantize using last settings"
+msgstr ""
+
+#: ;^809D9AA3B4306FA0
+msgid "Quantize position to grid"
+msgstr ""
+
+#: ;^5F02ABE17A3B29CB
+msgid "Unquantize"
+msgstr ""
+
+#: ;^EFEE658757CE9229
+msgid "Freeze quantization"
+msgstr ""
+
+#: ;^0E44CD2EEA4BA863
+msgid "Humanize notes..."
+msgstr ""
+
+#: ;^00AE9EFDE5806889
+msgid "Select all notes with same pitch"
+msgstr ""
+
+#: ;^C37C016F07A7F9E3
+msgid "Set note ends to start of next note (legato)"
+msgstr ""
+
+#: ;^C2EA750B659102CA
+msgid "View"
+msgstr ""
+
+#: ;^6F5879A58A373F2D
+msgid "Rectangles"
+msgstr ""
+
+#: ;^22E2AB4758B4B1A6
+msgid "Triangles (drum mode)"
+msgstr ""
+
+#: ;^458E371D81F5AF00
+msgid "Diamonds (drum mode)"
+msgstr ""
+
+#: ;^8D4D0B4B0B6A41EE
+msgid "Show velocity handles on notes"
+msgstr ""
+
+#: ;^F2C5D93EA511931D
+msgid "Show velocity numbers on notes"
+msgstr ""
+
+#: ;^B3A278DCD3CFC6D2
+msgid "Show note names on notes"
+msgstr ""
+
+#: ;^F63AE8DA71068B90
+msgid "Show all note rows"
+msgstr ""
+
+#: ;^EC7AC3AA42C4D72E
+msgid "Hide unused note rows"
+msgstr ""
+
+#: ;^DBDB8690C26086AF
+msgid "Hide unused and unnamed note rows"
+msgstr ""
+
+#: ;^B86D86AEB9B256EF
+msgid "Note preview"
+msgstr ""
+
+#: ;^1CB344D7A3966A1C
+msgid "Preview notes when inserting or editing"
+msgstr ""
+
+#: ;^20E9ED3176CA103F
+msgid "Preview on velocity change"
+msgstr ""
+
+#: ;^DCA1F9FA124A043F
+msgid "Preview on keyboard action"
+msgstr ""
+
+#: ;^50F94031ED758F24
+msgid "Preview all selected notes that overlap with the edited note"
+msgstr ""
+
+#: ;^CBA3F4617B7ED4EB
+msgid "Drawing or selecting a note sets the new note length"
+msgstr ""
+
+#: ;^DFBC279E68B89582
+msgid "Load color map from file..."
+msgstr ""
+
+#: ;^D6FAC22FB212CB64
+msgid "Clear color map (use default)"
+msgstr ""
+

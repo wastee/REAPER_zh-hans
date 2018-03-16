@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;F31053058A33AE5F
+msgid "Hides old envelope"
+msgstr ""
+
+#: ;E56230103213A82F
+msgid "Moves old envelope to media lane"
+msgstr ""
+
+#: ;747DCF8B8F0D8AE4
+msgid "-inf..+0dB"
+msgstr ""
+
+#: ;85D1498B98DE6886
+msgid "-inf..+6dB"
+msgstr ""
+
+#: ;1FAA8E2B00500C3F
+msgid "-inf..+12dB"
+msgstr ""
+
+#: ;24E09410CBF68226
+msgid "-inf..+24dB"
+msgstr ""
+
+#: ;708F9A0C043B4C2E
+msgid "Always"
+msgstr ""
+
+#: ;8BE3512CC8C47B94
+msgid "In read/write"
+msgstr ""
+
+#: ;79B1A901034168FB
+msgid "Never"
+msgstr ""
+
+#: ;6C824C17E0DF5DC7
+msgid "Add additional point before edit position"
+msgstr ""
+
+#: ;0AA767720898062C
+msgid "Do not add additional points"
+msgstr ""
+
+#: ;B652F6590D0C3658
+msgid "Add points before and after edit position"
+msgstr ""
+
+#: ;6B9C50AFBD667D40
+msgid "Remain in write mode"
+msgstr ""
+
+#: ;E470382943A40F0E
+msgid "Switch to touch mode"
+msgstr ""
+
+#: ;A7D392D5884608D9
+msgid "Switch to latch mode"
+msgstr ""
+
+#: ;E986AA118171E760
+msgid "Switch to trim/read mode"
+msgstr ""
+
+#: ;5B586B43D71C3E4B
+msgid "Switch to read mode"
+msgstr ""
+
+#: ;^CA47517BDEFA4232
+msgid "Linear"
+msgstr ""
+
+#: ;^AF908AD98D533548
+msgid "Square"
+msgstr ""
+
+#: ;^6A05662E2A1E77AC
+msgid "Slow start/end"
+msgstr ""
+
+#: ;^BC24D1B6349B5A89
+msgid "Fast start"
+msgstr ""
+
+#: ;^DB6FC995D09C7078
+msgid "Fast end"
+msgstr ""
+
+#: ;^919D1A7A385C125C
+msgid "Bezier"
+msgstr ""
+
+#: ;^E80224910029CDEC
+msgid "Trim/Read"
+msgstr ""
+
+#: ;^BB1FF02F46CC14C3
+msgid "Read"
+msgstr ""
+
+#: ;^83EA05809A680356
+msgid "Touch"
+msgstr ""
+
+#: ;^C9D51236E5A04162
+msgid "Write"
+msgstr ""
+
+#: ;^CBED1547C6300197
+msgid "Latch"
+msgstr ""
+
+#: ;^C7F67A5666962B47
+msgid "Latch Preview"
+msgstr ""
+

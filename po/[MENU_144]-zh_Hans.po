@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;84CF3548E2370A3B
+msgid "&Add FX...\tInsert, A"
+msgstr ""
+
+#: ;1C0C55DE43216FF8
+msgid "&Replace FX...\tCtrl+R"
+msgstr ""
+
+#: ;1FF7A80982958378
+msgid "&Add FX Chain...\tShift+Insert, Shift+A"
+msgstr ""
+
+#: ;E5B4B55353B2672D
+msgid "Add FX Chain..."
+msgstr ""
+
+#: ;42ECD82A6859B357
+msgid "&Save FX Chain...\tCtrl+S"
+msgstr ""
+
+#: ;F86053FC56B0757D
+msgid "Save FX Chain..."
+msgstr ""
+
+#: ;39AA03BBCD01F7EF
+msgid "Save chain as default for new tracks"
+msgstr ""
+
+#: ;83E3514952AF6EC0
+msgid "Load default track chain"
+msgstr ""
+
+#: ;1E1B169BE8835407
+msgid "&Close window\tESC"
+msgstr ""
+
+#: ;C8AC8D6876C63989
+msgid "Ignore FX chain keyboard shortcuts (send to main window)"
+msgstr ""
+
+#: ;^2F3C98801E1D176D
+msgid "&FX"
+msgstr ""
+
+#: ;^D85ED6186B447CF9
+msgid "FX"
+msgstr ""
+
+#: ;^4BB3333A13123CE6
+msgid "Add FX..."
+msgstr ""
+
+#: ;^2A7E68360937F521
+msgid "Replace FX..."
+msgstr ""
+
+#: ;^CD9DE212764F150E
+msgid "Save selected FX as chain..."
+msgstr ""
+
+#: ;^907F0944C42611FB
+msgid "Window float selected FX\t(doubleclick)"
+msgstr ""
+
+#: ;^024457DEEDAF4C2C
+msgid "Window float selected FX"
+msgstr ""
+
+#: ;^10AA715E679A1188
+msgid "Send all keyboard input to plug-in"
+msgstr ""
+
+#: ;^CC1F02E05223C02F
+msgid "Dock FX window in Docker"
+msgstr ""
+
+#: ;^82EE5475CB6FCE9F
+msgid "Close window"
+msgstr ""
+
+#: ;^386DCB7A24A75D67
+msgid "&Edit"
+msgstr ""
+
+#: ;^B90A279A7257C793
+msgid "Edit"
+msgstr ""
+
+#: ;^F07B8BF09056DBC7
+msgid "Freeze track"
+msgstr ""
+
+#: ;^B9450FA5B73E0242
+msgid "Freeze track to mono, up to last non-offline FX"
+msgstr ""
+
+#: ;^E4EB1F77E012E753
+msgid "Freeze track to stereo, up to last non-offline FX"
+msgstr ""
+
+#: ;^822C0ABE515442BB
+msgid "Freeze track to multichannel, up to last non-offline FX"
+msgstr ""
+
+#: ;^4A24DE7EC5D70EE4
+msgid "Freeze track to mono, up to last selected FX"
+msgstr ""
+
+#: ;^9CADE133F3BF88B7
+msgid "Freeze track to stereo, up to last selected FX"
+msgstr ""
+
+#: ;^C8A3EF986B3A45BF
+msgid "Freeze track to multichannel, up to last selected FX"
+msgstr ""
+
+#: ;^43EF57CE3ADA8A28
+msgid "Unfreeze track"
+msgstr ""
+
+#: ;^BC328CB03B0D078E
+msgid "Copy &all FX\tCtrl+Shift+C"
+msgstr ""
+
+#: ;^F3F5886C1F6A6C85
+msgid "Copy all FX"
+msgstr ""
+
+#: ;^29AC56D2B3AB95DD
+msgid "&Copy selected FX\tCtrl+C"
+msgstr ""
+
+#: ;^932563A1D4D9236F
+msgid "Copy selected FX"
+msgstr ""
+
+#: ;^386E80D3AED15B5D
+msgid "Copy selected FX (include automation)\tCtrl+Alt+C"
+msgstr ""
+
+#: ;^B7E90584A70A56CB
+msgid "Copy selected FX (include automation)"
+msgstr ""
+
+#: ;^A564BFA603B3928B
+msgid "C&ut selected FX\tCtrl+X"
+msgstr ""
+
+#: ;^51B6457C06E865F4
+msgid "Cut selected FX"
+msgstr ""
+
+#: ;^ED9D4CD707DD43C6
+msgid "&Paste FX\tCtrl+V, Ctrl+Insert"
+msgstr ""
+
+#: ;^45D48DA7AFD8FF18
+msgid "Paste FX"
+msgstr ""
+
+#: ;^C4E5E30C8A3E3BDF
+msgid "Remove all FX\tShift+Delete"
+msgstr ""
+
+#: ;^D15DD369C1DD169E
+msgid "Remove all FX"
+msgstr ""
+
+#: ;^A7702CFDA3C1F8E6
+msgid "&Remove selected FX\tDelete"
+msgstr ""
+
+#: ;^7B8D571E4E2F8276
+msgid "Remove selected FX"
+msgstr ""
+
+#: ;^3821C0F763D1850D
+msgid "Toggle selected FX bypass\tCtrl+B"
+msgstr ""
+
+#: ;^90788E770202C34E
+msgid "Toggle selected FX bypass"
+msgstr ""
+
+#: ;^685BE17D4DA686FC
+msgid "Toggle selected FX offline\tCtrl+Alt+B"
+msgstr ""
+
+#: ;^64F4A9D95C4E316D
+msgid "Toggle selected FX offline"
+msgstr ""
+
+#: ;^E67F0BA2C154FA57
+msgid "Rename FX instance\tF2"
+msgstr ""
+
+#: ;^12D1E2F79FD7BDB8
+msgid "Rename FX instance"
+msgstr ""
+
+#: ;^1686A8969AFE3B9F
+msgid "&Options"
+msgstr ""
+
+#: ;^5493EE7052DCF71B
+msgid "Options"
+msgstr ""
+
+#: ;^5B982DEEA8952FF4
+msgid "Auto-float new FX windows"
+msgstr ""
+
+#: ;^0EE7D967B88BFC63
+msgid "&FX Plug-ins settings..."
+msgstr ""
+
+#: ;^91C05340E1D72E6F
+msgid "FX Plug-ins settings..."
+msgstr ""
+
+#: ;^84FADFAA8CD497E1
+msgid "Build multichannel routing for output of selected FX..."
+msgstr ""
+
+#: ;^C7317FFF2A84005C
+msgid "Build 16 channels of MIDI routing to this track"
+msgstr ""
+

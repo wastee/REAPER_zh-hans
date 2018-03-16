@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;BF1E0238E0279AA6
+msgid "Audio device settings..."
+msgstr ""
+
+#: ;7EADF5D64418D79C
+msgid "Media settings..."
+msgstr ""
+
+#: ;1FDCC175888411EF
+msgid "Show free disk space"
+msgstr ""
+
+#: ;969CFFE78478CD98
+msgid "Show recording path"
+msgstr ""
+
+#: ;9F08F648821A3560
+msgid "Show recording volume name"
+msgstr ""
+
+#: ;11F8FDC658365148
+msgid "Show recording format"
+msgstr ""
+
+#: ;299C2A7496ED95D0
+msgid "Show audio device information"
+msgstr ""
+
+#: ;B7B48C93686F30EA
+msgid "Media path:"
+msgstr ""
+
+#: ;FA183511BDBBC440
+msgid "Secondary path:"
+msgstr ""
+
+#: ;^62473318FFD2829F
+msgid "[recording settings]"
+msgstr ""
+
+#: ;^213CDB1B65EA8A91
+msgid "Monitoring FX..."
+msgstr ""
+

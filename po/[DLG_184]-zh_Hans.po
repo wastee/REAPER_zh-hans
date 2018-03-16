@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;FD46A57F2E4690CC
+msgid "Edit Tempo/Time Signature Marker"
+msgstr ""
+
+#: ;127C295DE82AD1B8
+msgid "Set tempo:"
+msgstr ""
+
+#: ;30CEDD945AFC126E
+msgid "Set time signature:"
+msgstr ""
+
+#: ;0F98D25AF911546B
+msgid "Set metronome pattern:"
+msgstr ""
+
+#: ;5AEA2A7B35EDF368
+msgid "Gradually transition tempo to next marker"
+msgstr ""
+
+#: ;706060D502C7C407
+msgid "Allow a partial measure before this marker"
+msgstr ""
+
+#: ;693EFD8361285A5D
+msgid "Time signature changes always start a new measure. If necessary, the marker will be moved to the start of the next measure."
+msgstr ""
+
+#: ;8B7DD898CEBF416B
+msgid "Metronome pattern:"
+msgstr ""
+
+#: ;^F9519A70026F7B52
+msgid "Position:"
+msgstr ""
+
+#: ;^10D0E37E59744608
+msgid "BPM"
+msgstr ""
+
+#: ;^08329907B4EB8CD0
+msgid "/"
+msgstr ""
+
+#: ;^DA1E84CE6CE89AC1
+msgid "(beat pattern help)"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

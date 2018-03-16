@@ -1,0 +1,1150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;3739053E6FEEBE2F
+msgid "Classic_1.x"
+msgstr ""
+
+#: ;823C90884A4B7B4A
+msgid "Theme overrides normal Windows colors for main background/text/edit:"
+msgstr ""
+
+#: ;B67D70D4A3780314
+msgid "Main window/transport background"
+msgstr ""
+
+#: ;212A27F36D591C07
+msgid "Main window/transport text"
+msgstr ""
+
+#: ;543E86147B64D972
+msgid "Main window text shadow (ignored if too close to text color)"
+msgstr ""
+
+#: ;756C7667B607EB0D
+msgid "Main window 3D highlight"
+msgstr ""
+
+#: ;B75D7359D3BEA9B7
+msgid "Main window 3D shadow"
+msgstr ""
+
+#: ;E4023172787E5755
+msgid "Main window pane resize area"
+msgstr ""
+
+#: ;C721E3707E2A83F6
+msgid "Window text"
+msgstr ""
+
+#: ;E2A9442343FE70F5
+msgid "Window background"
+msgstr ""
+
+#: ;244E8BDB61DCEE97
+msgid "Window edit background"
+msgstr ""
+
+#: ;5EE20866709489A4
+msgid "Transport edit background"
+msgstr ""
+
+#: ;35DE04AF4D82897D
+msgid "Toolbar button text"
+msgstr ""
+
+#: ;70C2A7D970F4BDF2
+msgid "Toolbar button enabled text"
+msgstr ""
+
+#: ;374CCE612D7C4054
+msgid "Toolbar frame when floating or docked"
+msgstr ""
+
+#: ;E7915E3E6A099632
+msgid "Toolbar button armed color"
+msgstr ""
+
+#: ;BC84C51A714ED29C
+msgid "Toolbar button armed draw mode"
+msgstr ""
+
+#: ;637FC2FB9F7218EB
+msgid "I/O window text"
+msgstr ""
+
+#: ;DC14FE448251351B
+msgid "I/O window 3D highlight"
+msgstr ""
+
+#: ;49B647AA0CAEF935
+msgid "I/O window 3D shadow"
+msgstr ""
+
+#: ;ED962C58BEAAA257
+msgid "Window list background"
+msgstr ""
+
+#: ;CE29355922B1153C
+msgid "Window list text"
+msgstr ""
+
+#: ;9624B59A17FCCA14
+msgid "Window list grid lines"
+msgstr ""
+
+#: ;147F78D697004972
+msgid "Window list selected row"
+msgstr ""
+
+#: ;3D132691B6F4237D
+msgid "Window list selected text"
+msgstr ""
+
+#: ;AEB0FBA64A3D9032
+msgid "Window list selected row (inactive)"
+msgstr ""
+
+#: ;DD23A4D9A4DBEC8B
+msgid "Window list selected text (inactive)"
+msgstr ""
+
+#: ;85D05A02599C2A69
+msgid "Force button background/border:"
+msgstr ""
+
+#: ;3221AB37708C9F05
+msgid "Button background"
+msgstr ""
+
+#: ;B6E3CE32B4EAB6D8
+msgid "Theme overrides normal Windows colors for non-selected track control panels"
+msgstr ""
+
+#: ;7BAD93AB76E7418F
+msgid "Track panel text"
+msgstr ""
+
+#: ;EEEECA86CF7F4837
+msgid "Track panel (selected) text"
+msgstr ""
+
+#: ;501E66674A16211E
+msgid "Selected track control panel background"
+msgstr ""
+
+#: ;93FD49ED6FDB72D0
+msgid "Unselected track control panel background (enabled with a checkbox above)"
+msgstr ""
+
+#: ;206A0AE4AD7D14DA
+msgid "Locked track control panel overlay color"
+msgstr ""
+
+#: ;9F30B89EC0C4AEF5
+msgid "Locked track control panel fill mode"
+msgstr ""
+
+#: ;19B1EFF9EEE1DE5A
+msgid "Empty track list area"
+msgstr ""
+
+#: ;FD40EA40A020309C
+msgid "Empty mixer list area"
+msgstr ""
+
+#: ;81D1A7486543356A
+msgid "Empty arrange view area"
+msgstr ""
+
+#: ;07304E7966E8042C
+msgid "Volume/pan label font"
+msgstr ""
+
+#: ;F0B0B7E811BAE801
+msgid "Track title font"
+msgstr ""
+
+#: ;2B059F211A1FBC82
+msgid "WALTER font 1"
+msgstr ""
+
+#: ;2B059E211A1FBACF
+msgid "WALTER font 2"
+msgstr ""
+
+#: ;2B059D211A1FB91C
+msgid "WALTER font 3"
+msgstr ""
+
+#: ;2B059C211A1FB769
+msgid "WALTER font 4"
+msgstr ""
+
+#: ;2B059B211A1FB5B6
+msgid "WALTER font 5"
+msgstr ""
+
+#: ;2B059A211A1FB403
+msgid "WALTER font 6"
+msgstr ""
+
+#: ;2B0599211A1FB250
+msgid "WALTER font 7"
+msgstr ""
+
+#: ;2B05A8211A1FCBCD
+msgid "WALTER font 8"
+msgstr ""
+
+#: ;5DAE1AA0B4E46EEF
+msgid "Fader background when automation recording"
+msgstr ""
+
+#: ;7489AC77A88D66A2
+msgid "Fader background when automation playing"
+msgstr ""
+
+#: ;A5CF8C38EFC62E4F
+msgid "Fader background when in inactive touch/latch"
+msgstr ""
+
+#: ;EC4D31221167E72D
+msgid "Timeline foreground"
+msgstr ""
+
+#: ;75FF2EB13D73951E
+msgid "Timeline foreground (secondary markings)"
+msgstr ""
+
+#: ;7D56091807F9A798
+msgid "Timeline background"
+msgstr ""
+
+#: ;00234E8B36F6536B
+msgid "Time selection color"
+msgstr ""
+
+#: ;529B297581D198A0
+msgid "Time selection fill mode"
+msgstr ""
+
+#: ;6F524CFF4428CD01
+msgid "Timeline background (in loop points)"
+msgstr ""
+
+#: ;7511CE79116A6319
+msgid "Timeline font"
+msgstr ""
+
+#: ;80E0E7561B5C012A
+msgid "Transport status background"
+msgstr ""
+
+#: ;DF04AEB695760DE1
+msgid "Transport status text"
+msgstr ""
+
+#: ;B0CBF0208F901BFB
+msgid "Transport status font"
+msgstr ""
+
+#: ;43244BEE211F0D4F
+msgid "Project play rate control when not 1.0"
+msgstr ""
+
+#: ;7ACB506A80E43F0A
+msgid "Media item label"
+msgstr ""
+
+#: ;3F30F8ECCA298AC6
+msgid "Media item label (selected)"
+msgstr ""
+
+#: ;770256D0AF965422
+msgid "Floating media item label"
+msgstr ""
+
+#: ;4342C4E293DF4F7E
+msgid "Floating media item label (selected)"
+msgstr ""
+
+#: ;3B8B1A7D26ECAAFF
+msgid "Media item label font"
+msgstr ""
+
+#: ;B9085B2EA3B657E2
+msgid "Media item background (odd tracks)"
+msgstr ""
+
+#: ;408F8FBF2EED8FF3
+msgid "Media item background (even tracks)"
+msgstr ""
+
+#: ;BBD09452A966B459
+msgid "Media item background selected (odd tracks)"
+msgstr ""
+
+#: ;94BD6BAF6B690302
+msgid "Media item background selected (even tracks)"
+msgstr ""
+
+#: ;8FE06B24A4010F74
+msgid "Media item background fill mode"
+msgstr ""
+
+#: ;8419C9670249428E
+msgid "Media item peaks (odd tracks)"
+msgstr ""
+
+#: ;22EAEF70CEC4D9DF
+msgid "Media item peaks (even tracks)"
+msgstr ""
+
+#: ;7C212DF8A607B585
+msgid "Media item peaks when selected (odd tracks)"
+msgstr ""
+
+#: ;78F7E9F15BAA4E5E
+msgid "Media item peaks when selected (even tracks)"
+msgstr ""
+
+#: ;B5EDAA7409F6C299
+msgid "Media item peaks edge highlight (odd tracks)"
+msgstr ""
+
+#: ;0C959B28A6E32A42
+msgid "Media item peaks edge highlight (even tracks)"
+msgstr ""
+
+#: ;55384C51434182CE
+msgid "Media item peaks edge highlight when selected (odd tracks)"
+msgstr ""
+
+#: ;593D7CE01F3B8E1F
+msgid "Media item peaks edge highlight when selected (even tracks)"
+msgstr ""
+
+#: ;B7EBC614CE67ECB2
+msgid "Media item peaks when active in crossfade editor (fade-out)"
+msgstr ""
+
+#: ;C753CC4AD43390C5
+msgid "Media item peaks when active in crossfade editor (fade-in)"
+msgstr ""
+
+#: ;1892FEF1B7744A5D
+msgid "Media item fade/volume controls"
+msgstr ""
+
+#: ;51E359BFAEE7B3EA
+msgid "Media item fade quiet zone fill color"
+msgstr ""
+
+#: ;26BF7102F818B334
+msgid "Media item fade quiet zone fill mode"
+msgstr ""
+
+#: ;DC3C68B2E219902E
+msgid "Media item fade full area fill color"
+msgstr ""
+
+#: ;CE916EFA0F9623D8
+msgid "Media item fade full area fill mode"
+msgstr ""
+
+#: ;E224F5491050B273
+msgid "Media item edges of controls"
+msgstr ""
+
+#: ;E8B788244F81B9DF
+msgid "Media item edges of controls blend mode"
+msgstr ""
+
+#: ;CC24459D5B1A55B9
+msgid "Media item edge when selected via grouping"
+msgstr ""
+
+#: ;85E1CE29BDF80CC8
+msgid "Media item \"offline\" text"
+msgstr ""
+
+#: ;1ED37E1EA1A0AA31
+msgid "Media item stretch marker line"
+msgstr ""
+
+#: ;863EA265141CCC17
+msgid "Media item stretch marker handle (1x)"
+msgstr ""
+
+#: ;37F50C755D52579B
+msgid "Media item stretch marker handle (>1x)"
+msgstr ""
+
+#: ;1F9B8465E88DDCB9
+msgid "Media item stretch marker handle (<1x)"
+msgstr ""
+
+#: ;6F6B6EE0557E1B52
+msgid "Media item stretch marker handle edge"
+msgstr ""
+
+#: ;103560006E8C1055
+msgid "Media item stretch marker blend mode"
+msgstr ""
+
+#: ;371E1CD80662086C
+msgid "Media item stretch marker text"
+msgstr ""
+
+#: ;CE34D4E75754EAAC
+msgid "Media item transient guide handle"
+msgstr ""
+
+#: ;282DE48DCB29B50F
+msgid "Draw colored bar on selected media item"
+msgstr ""
+
+#: ;86120892792FBFAF
+msgid "Selected media item bar color"
+msgstr ""
+
+#: ;05152C91F7867EC5
+msgid "Draw colored bar on active media item take"
+msgstr ""
+
+#: ;2C49E16D76F3812D
+msgid "Active media item take bar color"
+msgstr ""
+
+#: ;980E8EB91BD9862C
+msgid "Track background (odd tracks)"
+msgstr ""
+
+#: ;B0B4B0D3BCC9C9C5
+msgid "Track background (even tracks)"
+msgstr ""
+
+#: ;380BD669BEE7D8F7
+msgid "Track divider line (odd tracks)"
+msgstr ""
+
+#: ;33E7EE00B895E388
+msgid "Track divider line (even tracks)"
+msgstr ""
+
+#: ;843ABB88EC718106
+msgid "Envelope lane divider line (odd tracks)"
+msgstr ""
+
+#: ;E691AE852D9F0F87
+msgid "Envelope lane divider line (even tracks)"
+msgstr ""
+
+#: ;42A8D04CF14EA41E
+msgid "Marquee fill"
+msgstr ""
+
+#: ;54E9503147602003
+msgid "Marquee outline"
+msgstr ""
+
+#: ;70A33A294F0DEB21
+msgid "Marquee fill mode"
+msgstr ""
+
+#: ;C8677F24EB2491A9
+msgid "Marquee zoom fill"
+msgstr ""
+
+#: ;40F88F8D9780DF3E
+msgid "Marquee zoom outline"
+msgstr ""
+
+#: ;7453524477C11EB4
+msgid "Marquee zoom fill mode"
+msgstr ""
+
+#: ;F9202D89774DD53A
+msgid "Edit cursor (alternate)"
+msgstr ""
+
+#: ;69BA732D19DAC2A5
+msgid "Play cursor"
+msgstr ""
+
+#: ;A50C27BC8B1617B9
+msgid "Play cursor fill mode"
+msgstr ""
+
+#: ;0D902549A65D6E64
+msgid "Grid lines (start of measure)"
+msgstr ""
+
+#: ;CD7581629C7B4723
+msgid "Grid lines (start of beats)"
+msgstr ""
+
+#: ;73B8450F6E7472A9
+msgid "Grid lines (in between beats)"
+msgstr ""
+
+#: ;08EC1AB0075E7F9E
+msgid "Editing guide line color"
+msgstr ""
+
+#: ;916AE65E81752D61
+msgid "Editing guide fill mode"
+msgstr ""
+
+#: ;3E08779201232AB5
+msgid "Region lane background"
+msgstr ""
+
+#: ;90348B53A1271FB6
+msgid "Region lane text"
+msgstr ""
+
+#: ;EAE17BDD6A6A69DB
+msgid "Marker lane background"
+msgstr ""
+
+#: ;1A03824363F301D0
+msgid "Marker lane text"
+msgstr ""
+
+#: ;B56E0937C64A1082
+msgid "Time signature change marker"
+msgstr ""
+
+#: ;A6B1F6423A3C917E
+msgid "Time signature lane background"
+msgstr ""
+
+#: ;EE261603A59EC7C5
+msgid "Time signature lane text"
+msgstr ""
+
+#: ;65416A0F317E74AD
+msgid "Time signature marker selected background"
+msgstr ""
+
+#: ;9ED060E119DB2A40
+msgid "Routing matrix row highlight"
+msgstr ""
+
+#: ;159BCC2558D0086E
+msgid "Routing matrix column highlight"
+msgstr ""
+
+#: ;020310CE11EBFF82
+msgid "Theme has interlaced VU meters"
+msgstr ""
+
+#: ;6BE9FF3805A93DF2
+msgid "VU meter clip indicator"
+msgstr ""
+
+#: ;91B214D94029F68C
+msgid "VU meter top"
+msgstr ""
+
+#: ;FF015348C4CE8FE8
+msgid "VU meter middle"
+msgstr ""
+
+#: ;6AA3AE3F7AEB87FA
+msgid "VU meter bottom"
+msgstr ""
+
+#: ;DB58195D4530C671
+msgid "VU meter interlace/edge color"
+msgstr ""
+
+#: ;0345900F40125341
+msgid "VU meter midi activity"
+msgstr ""
+
+#: ;D361F42A9FC10FC4
+msgid "VU (indicator) - no signal"
+msgstr ""
+
+#: ;1468DA4EC2D3CDAD
+msgid "VU (indicator) - low signal"
+msgstr ""
+
+#: ;0F4D66A19DD388A5
+msgid "VU (indicator) - med signal"
+msgstr ""
+
+#: ;E445E72A37B758AE
+msgid "VU (indicator) - hot signal"
+msgstr ""
+
+#: ;BC58132AB8BA68E0
+msgid "Mixer FX text: normal"
+msgstr ""
+
+#: ;62A8C353CF2BCBD2
+msgid "Mixer FX text: bypassed"
+msgstr ""
+
+#: ;5F11F72A2B1EE6B6
+msgid "Mixer FX text: offline"
+msgstr ""
+
+#: ;F0063A00C63B1413
+msgid "Mixer sends text: normal"
+msgstr ""
+
+#: ;8C431C203EC46267
+msgid "Mixer sends text: muted"
+msgstr ""
+
+#: ;FC31CB9B79443983
+msgid "Mixer sends text: MIDI hardware"
+msgstr ""
+
+#: ;5F475256EB39D961
+msgid "Mixer sends level"
+msgstr ""
+
+#: ;72A64DD56575F908
+msgid "Mixer FX knob text: normal"
+msgstr ""
+
+#: ;5046B3FE9D6988CA
+msgid "Mixer FX knob text: bypassed"
+msgstr ""
+
+#: ;E1815E329A836BEE
+msgid "Mixer FX knob text: offline"
+msgstr ""
+
+#: ;2367091EBCC6CA8D
+msgid "MIDI editor ruler background"
+msgstr ""
+
+#: ;E4936F98E269690E
+msgid "MIDI editor ruler text"
+msgstr ""
+
+#: ;070900B1E934CEB3
+msgid "MIDI editor grid line (start of measure)"
+msgstr ""
+
+#: ;C5738B426727ABCC
+msgid "MIDI editor grid line (start of beats)"
+msgstr ""
+
+#: ;6D03317E1EAC65B1
+msgid "MIDI editor grid line (between beats)"
+msgstr ""
+
+#: ;636F261F8F1D7D1F
+msgid "MIDI editor background color (naturals)"
+msgstr ""
+
+#: ;F7E75A9EC7477A83
+msgid "MIDI editor background color (sharps/flats)"
+msgstr ""
+
+#: ;E4E3CDEF7AA6459D
+msgid "MIDI editor background color, out of bounds (naturals)"
+msgstr ""
+
+#: ;559F88B5E31BC69D
+msgid "MIDI editor background color, out of bounds (sharps/flats)"
+msgstr ""
+
+#: ;B09B0490730DB44E
+msgid "MIDI editor background color, selected pitch (naturals)"
+msgstr ""
+
+#: ;B2F395A7E71E170E
+msgid "MIDI editor background color, selected pitch (sharps/flats)"
+msgstr ""
+
+#: ;8E6F804DD8F4E46D
+msgid "MIDI editor time selection color"
+msgstr ""
+
+#: ;0D419EF3C6436992
+msgid "MIDI editor time selection fill mode"
+msgstr ""
+
+#: ;2EE9A7EA04A0B02A
+msgid "MIDI editor octave line color"
+msgstr ""
+
+#: ;CC1C67F2A73FEECB
+msgid "MIDI inline background color (naturals)"
+msgstr ""
+
+#: ;B3E317CA0AD0438F
+msgid "MIDI inline background color (sharps/flats)"
+msgstr ""
+
+#: ;80794FA6DF523A96
+msgid "MIDI inline octave line color"
+msgstr ""
+
+#: ;235008F88DF3C1B0
+msgid "MIDI editor end marker"
+msgstr ""
+
+#: ;5BA00FC054E5E699
+msgid "MIDI editor note, unselected (midi_note_colormap overrides)"
+msgstr ""
+
+#: ;BB1871D50D37E428
+msgid "MIDI editor note, selected (midi_note_colormap overrides)"
+msgstr ""
+
+#: ;B482801CB8A88B0A
+msgid "MIDI editor note, muted, unselected (midi_note_colormap overrides)"
+msgstr ""
+
+#: ;D665B3A6E774EE33
+msgid "MIDI editor note, muted, selected (midi_note_colormap overrides)"
+msgstr ""
+
+#: ;E673881F880A2D15
+msgid "MIDI editor note controls"
+msgstr ""
+
+#: ;CAF9FD7CE71AB0C9
+msgid "MIDI editor note (offscreen)"
+msgstr ""
+
+#: ;D1998C25F1514422
+msgid "MIDI editor note (offscreen, selected)"
+msgstr ""
+
+#: ;71CD9F4995CA63F3
+msgid "MIDI editor cursor"
+msgstr ""
+
+#: ;FB09009EF1D7956C
+msgid "MIDI piano key color (naturals)"
+msgstr ""
+
+#: ;7102190FC6AA20F8
+msgid "MIDI piano key color (sharps/flats)"
+msgstr ""
+
+#: ;9314A33FA166497D
+msgid "MIDI piano key color (selected)"
+msgstr ""
+
+#: ;A942808BA462E5E0
+msgid "MIDI piano key note-on flash"
+msgstr ""
+
+#: ;97AB94C1C2CF161F
+msgid "MIDI editor note/CC text color (light)"
+msgstr ""
+
+#: ;EA0648A2D0CB48F7
+msgid "MIDI editor note/CC text color (dark)"
+msgstr ""
+
+#: ;548B95DAAC226103
+msgid "MIDI notation editor background"
+msgstr ""
+
+#: ;792ECD13D02A096C
+msgid "MIDI notation editor staff/notation/text"
+msgstr ""
+
+#: ;3166FE3262DBB7D3
+msgid "MIDI notation editor selected staff/notation/text"
+msgstr ""
+
+#: ;67E59C5CE185FAFC
+msgid "MIDI notation editor time selection"
+msgstr ""
+
+#: ;A11560DED0140FB7
+msgid "MIDI notation editor loop points, selected pitch"
+msgstr ""
+
+#: ;27135FB900DA4981
+msgid "MIDI list editor background"
+msgstr ""
+
+#: ;FC41DF5BF2365D12
+msgid "MIDI list editor text"
+msgstr ""
+
+#: ;F5C428DB77ADDCF2
+msgid "MIDI list editor grid lines"
+msgstr ""
+
+#: ;76AF225C13AD4EB4
+msgid "MIDI list editor selected row"
+msgstr ""
+
+#: ;8C962A8736337827
+msgid "MIDI list editor selected text"
+msgstr ""
+
+#: ;2E9DA3230176BEDC
+msgid "MIDI list editor selected row (inactive)"
+msgstr ""
+
+#: ;9B246E4351604125
+msgid "MIDI list editor selected text (inactive)"
+msgstr ""
+
+#: ;5F18242BE09A25A4
+msgid "MIDI list editor background (secondary)"
+msgstr ""
+
+#: ;110D670D992BC037
+msgid "MIDI list editor text (secondary)"
+msgstr ""
+
+#: ;7F671CB073F8865D
+msgid "MIDI list editor selected row (secondary)"
+msgstr ""
+
+#: ;64DEBB1B46DC42AE
+msgid "MIDI list editor selected text (secondary)"
+msgstr ""
+
+#: ;4613C0B0BAEC8191
+msgid "Tab control shadow"
+msgstr ""
+
+#: ;71E39193A98EC5CB
+msgid "Tab control selected tab"
+msgstr ""
+
+#: ;D9C23DF586FBFF00
+msgid "Tab control unselected tab"
+msgstr ""
+
+#: ;F26C25D910FB2D0E
+msgid "Tab control text"
+msgstr ""
+
+#: ;1795C5C493B98260
+msgid "Tab control text selected tab"
+msgstr ""
+
+#: ;B42E531B5CD36E8D
+msgid "Tab control background"
+msgstr ""
+
+#: ;91740876A017AC41
+msgid "Tab control background in windows"
+msgstr ""
+
+#: ;53B12E6E9670F6B5
+msgid "Envelope: Unselected automation item"
+msgstr ""
+
+#: ;BBABC70778DF5A0C
+msgid "Envelope: Volume (pre-FX)"
+msgstr ""
+
+#: ;553B6C2586DAA48B
+msgid "Envelope: Volume"
+msgstr ""
+
+#: ;92468FE02EB4C791
+msgid "Envelope: Pan (pre-FX)"
+msgstr ""
+
+#: ;F007AD510DF30238
+msgid "Envelope: Pan"
+msgstr ""
+
+#: ;29AA5D9149C42A70
+msgid "Envelope: Mute"
+msgstr ""
+
+#: ;7632CA8B316AEB69
+msgid "Envelope: Master playrate"
+msgstr ""
+
+#: ;17CD49C7AAD72038
+msgid "Envelope: Master tempo"
+msgstr ""
+
+#: ;CBCA027C47D01D83
+msgid "Envelope: Send volume"
+msgstr ""
+
+#: ;9CC10E448B6324C0
+msgid "Envelope: Send pan"
+msgstr ""
+
+#: ;0D3EED3545E1F9F1
+msgid "Envelope: Send volume 2"
+msgstr ""
+
+#: ;566C595986537016
+msgid "Envelope: Send pan 2"
+msgstr ""
+
+#: ;427082CB450B4FA8
+msgid "Envelope: Send mute"
+msgstr ""
+
+#: ;79C9898A1C69B7C6
+msgid "Envelope: Audio hardware output volume"
+msgstr ""
+
+#: ;42AB025A3D6AB55B
+msgid "Envelope: Audio hardware output pan"
+msgstr ""
+
+#: ;35EE198EBDBFB613
+msgid "Envelope: FX parameter 1"
+msgstr ""
+
+#: ;35EE1A8EBDBFB7C6
+msgid "Envelope: FX parameter 2"
+msgstr ""
+
+#: ;35EE1B8EBDBFB979
+msgid "Envelope: FX parameter 3"
+msgstr ""
+
+#: ;35EE1C8EBDBFBB2C
+msgid "Envelope: FX parameter 4"
+msgstr ""
+
+#: ;00AFD23BCD283939
+msgid "Envelope: Item take volume"
+msgstr ""
+
+#: ;7818079A9423BECE
+msgid "Envelope: Item take pan"
+msgstr ""
+
+#: ;F69E86C6102083F6
+msgid "Envelope: Item take mute"
+msgstr ""
+
+#: ;B565411E0B68006B
+msgid "Envelope: Item take pitch"
+msgstr ""
+
+#: ;E1E7C6CE4F2F3836
+msgid "Group #1"
+msgstr ""
+
+#: ;E1E7C5CE4F2F3683
+msgid "Group #2"
+msgstr ""
+
+#: ;E1E7C4CE4F2F34D0
+msgid "Group #3"
+msgstr ""
+
+#: ;E1E7CBCE4F2F40B5
+msgid "Group #4"
+msgstr ""
+
+#: ;E1E7CACE4F2F3F02
+msgid "Group #5"
+msgstr ""
+
+#: ;E1E7C9CE4F2F3D4F
+msgid "Group #6"
+msgstr ""
+
+#: ;E1E7C8CE4F2F3B9C
+msgid "Group #7"
+msgstr ""
+
+#: ;E1E7CFCE4F2F4781
+msgid "Group #8"
+msgstr ""
+
+#: ;E1E7CECE4F2F45CE
+msgid "Group #9"
+msgstr ""
+
+#: ;0C0ED6908D3C3232
+msgid "Group #10"
+msgstr ""
+
+#: ;0C0ED7908D3C33E5
+msgid "Group #11"
+msgstr ""
+
+#: ;0C0ED4908D3C2ECC
+msgid "Group #12"
+msgstr ""
+
+#: ;0C0ED5908D3C307F
+msgid "Group #13"
+msgstr ""
+
+#: ;0C0ED2908D3C2B66
+msgid "Group #14"
+msgstr ""
+
+#: ;0C0ED3908D3C2D19
+msgid "Group #15"
+msgstr ""
+
+#: ;0C0ED0908D3C2800
+msgid "Group #16"
+msgstr ""
+
+#: ;0C0ED1908D3C29B3
+msgid "Group #17"
+msgstr ""
+
+#: ;0C0EDE908D3C3FCA
+msgid "Group #18"
+msgstr ""
+
+#: ;0C0EDF908D3C417D
+msgid "Group #19"
+msgstr ""
+
+#: ;0C0BD0908D39F229
+msgid "Group #20"
+msgstr ""
+
+#: ;0C0BCF908D39F076
+msgid "Group #21"
+msgstr ""
+
+#: ;0C0BCE908D39EEC3
+msgid "Group #22"
+msgstr ""
+
+#: ;0C0BCD908D39ED10
+msgid "Group #23"
+msgstr ""
+
+#: ;0C0BD4908D39F8F5
+msgid "Group #24"
+msgstr ""
+
+#: ;0C0BD3908D39F742
+msgid "Group #25"
+msgstr ""
+
+#: ;0C0BD2908D39F58F
+msgid "Group #26"
+msgstr ""
+
+#: ;0C0BD1908D39F3DC
+msgid "Group #27"
+msgstr ""
+
+#: ;0C0BD8908D39FFC1
+msgid "Group #28"
+msgstr ""
+
+#: ;0C0BD7908D39FE0E
+msgid "Group #29"
+msgstr ""
+
+#: ;0C084A908D36D8A0
+msgid "Group #30"
+msgstr ""
+
+#: ;0C084B908D36DA53
+msgid "Group #31"
+msgstr ""
+
+#: ;0C084C908D36DC06
+msgid "Group #32"
+msgstr ""
+
+#: ;3BA92E5EBA228E4D
+msgid "0:00"
+msgstr ""
+
+#: ;50E6D6545BC8B9BC
+msgid "Choose image resource path"
+msgstr ""
+
+#: ;0C4385A315E74535
+msgid "Save theme as:"
+msgstr ""
+
+#: ;805B2FD8CB3CF2C5
+msgid "Can't overwrite default theme"
+msgstr ""
+
+#: ;B9E1C3CAD601A812
+msgid "Choose theme to open:"
+msgstr ""
+
+#: ;444E05E0FDA68F5E
+msgid "Load IDE theme from file..."
+msgstr ""
+
+#: ;1CFE55FACF7F6C20
+msgid "Save IDE theme to file..."
+msgstr ""
+
+#: ;1E78FBC2247B8F83
+msgid "Load default IDE theme"
+msgstr ""
+
+#: ;229B19D1BCA1D5AD
+msgid "Load jf1 IDE theme"
+msgstr ""
+
+#: ;2D170F313E52AF3B
+msgid "Load WT IDE theme"
+msgstr ""
+
+#: ;5232CCEC5985291F
+msgid "Load WT Pale IDE theme"
+msgstr ""
+
+#: ;32B5A9A576BDD955
+msgid "Load IDE colortheme"
+msgstr ""
+
+#: ;4B618DD9FA44789E
+msgid "Save IDE colortheme"
+msgstr ""
+
+#: ;^AF63BD4C8601B7DF
+msgid ""
+msgstr ""
+
+#: ;^BE8A32189AE58F83
+msgid "Edit cursor"
+msgstr ""
+
+#: ;^3896D8BF3E72ED2C
+msgid "Regions"
+msgstr ""
+
+#: ;^D35AD13842A55DEA
+msgid "Markers"
+msgstr ""
+
+#: ;^C93417DD40352E1B
+msgid "Error saving"
+msgstr ""
+
+#: ;^F685FB3A91025549
+msgid "Browse..."
+msgstr ""
+

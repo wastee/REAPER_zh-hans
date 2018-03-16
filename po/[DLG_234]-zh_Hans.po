@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;A6FB7369B03EE231
+msgid "Asynchronous unbuffered"
+msgstr ""
+
+#: ;B91BC4CC390A85CE
+msgid "Asynchronous buffered (default)"
+msgstr ""
+
+#: ;48B4E8D650F31D9F
+msgid "Asynchronous (default)"
+msgstr ""
+
+#: ;3D2F5132D190815D
+msgid "Asynchronous (write-through)"
+msgstr ""
+
+#: ;877A64C5D29D649C
+msgid "Buffered"
+msgstr ""
+
+#: ;29172D418AB12E2F
+msgid "Unbuffered (default)"
+msgstr ""
+
+#: ;642114DB116A71B4
+msgid "buffers (default is 8)"
+msgstr ""
+
+#: ;B46890047C5E3414
+msgid "Advanced Disk I/O settings"
+msgstr ""
+
+#: ;9B778A1478617CF8
+msgid "Preferred disk read mode:"
+msgstr ""
+
+#: ;707F91ED50D74CEA
+msgid "Read buffers:"
+msgstr ""
+
+#: ;643214DB1178E4E7
+msgid "buffers (default is 3)"
+msgstr ""
+
+#: ;CF805AC4A5E18D79
+msgid "Preferred disk write mode:"
+msgstr ""
+
+#: ;6DFB828065411C79
+msgid "Write buffers:"
+msgstr ""
+
+#: ;FC88066315D4CE5F
+msgid "bytes (default is 65536)"
+msgstr ""
+
+#: ;235A0D444D9A4C2A
+msgid "You may need to close and reopen your project for these settings to take effect."
+msgstr ""
+
+#: ;ABE2215BC145ED60
+msgid "Disk reads (used when playing/etc)"
+msgstr ""
+
+#: ;B193524BF9837051
+msgid "Disk writes (used when recording)"
+msgstr ""
+
+#: ;F54A983E84AA8FA5
+msgid "bytes (default is 262144)"
+msgstr ""
+
+#: ;78CF4E2C69A655CA
+msgid "Read buffer size:"
+msgstr ""
+
+#: ;3E527CADCEEF90B2
+msgid "Write buffers (maximum):"
+msgstr ""
+
+#: ;CA298C3EB94197D7
+msgid "buffers (default is 16)"
+msgstr ""
+
+#: ;A3F47C94B72E628B
+msgid "buffers (default is 128)"
+msgstr ""
+
+#: ;8CBA424E9913C381
+msgid "Write buffer size:"
+msgstr ""
+
+#: ;0A248C019A718522
+msgid "Note: Asynchronous modes are ignored on Windows 95/98/ME."
+msgstr ""
+
+#: ;02F9E53BF6E2C2A9
+msgid "Allow memory mapping of peak-files (faster, but uses more address space)"
+msgstr ""
+
+#: ;^2A487F4A2E60E324
+msgid "Synchronous"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^122368E92DE6E29F
+msgid "Reset to defaults"
+msgstr ""
+

@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;5BD74D193D4FB34D
+msgid "0TrackCtl"
+msgstr ""
+
+#: ;EDF254CB548FDE10
+msgid "Track Manager (show/hide tracks)..."
+msgstr ""
+
+#: ;E8A2505871BCB648
+msgid "Copy selected envelope points"
+msgstr ""
+
+#: ;8FC4A136809D9C89
+msgid "Cut selected envelope points"
+msgstr ""
+
+#: ;30524B98C197234C
+msgid "Set shape for all selected points"
+msgstr ""
+
+#: ;CB796832F14A03CA
+msgid "Delete selected envelope points"
+msgstr ""
+
+#: ;7E5922C933467DB9
+msgid "Delete envelope points in time selection"
+msgstr ""
+
+#: ;^6E9C1F47AE0AB01B
+msgid "Insert new track"
+msgstr ""
+
+#: ;^EB6AC1D6BBE0A433
+msgid "Insert new track at end of track list"
+msgstr ""
+
+#: ;^A6F3EA432AA410A4
+msgid "Insert virtual instrument on new track..."
+msgstr ""
+
+#: ;^14AB75DE2C24FEF3
+msgid "Insert track from template"
+msgstr ""
+
+#: ;^D9CD3B25D255019B
+msgid "Open template..."
+msgstr ""
+
+#: ;^65CA689C377C5655
+msgid "Offset template items by edit cursor"
+msgstr ""
+
+#: ;^3A390528F4DCEC5D
+msgid "(track template list)"
+msgstr ""
+
+#: ;^931D2CD599D2FEC9
+msgid "Save tracks as track template..."
+msgstr ""
+
+#: ;^FDFA2E97CD8FDE19
+msgid "Remove tracks"
+msgstr ""
+
+#: ;^23590995D822F51C
+msgid "Duplicate tracks"
+msgstr ""
+
+#: ;^475E591F3E135594
+msgid "Move tracks to new subproject"
+msgstr ""
+
+#: ;^BB2ECD751C866045
+msgid "Render/freeze tracks"
+msgstr ""
+
+#: ;^62060BAC51213CA3
+msgid "Render tracks to mono stem tracks (and mute originals)"
+msgstr ""
+
+#: ;^9BF0024003286A6E
+msgid "Render tracks to stereo stem tracks (and mute originals)"
+msgstr ""
+
+#: ;^6B80ADA8054A1976
+msgid "Render tracks to multichannel stem tracks (and mute originals)"
+msgstr ""
+
+#: ;^78957C8454DBB75F
+msgid "Freeze tracks to mono (render pre-fader, save/remove items and online FX)"
+msgstr ""
+
+#: ;^54DADE4C7B95FC5C
+msgid "Freeze tracks to stereo (render pre-fader, save/remove items and online FX)"
+msgstr ""
+
+#: ;^79AA43061BD49154
+msgid "Freeze tracks to multichannel (render pre-fader, save/remove items and online FX)"
+msgstr ""
+
+#: ;^EE5CF20F98160706
+msgid "Unfreeze tracks (restore previous items and FX)"
+msgstr ""
+
+#: ;^C524AA04CA044305
+msgid "MIDI track controls"
+msgstr ""
+
+#: ;^FC08989D53C1D223
+msgid "Show MIDI track control panel"
+msgstr ""
+
+#: ;^5C6FB2DCFD68EEF7
+msgid "Link track volume/pan to all MIDI channels"
+msgstr ""
+
+#: ;^66E5DC632BAFC67F
+msgid "Link track volume/pan to MIDI channel"
+msgstr ""
+
+#: ;^08329707B4EB896A
+msgid "1"
+msgstr ""
+
+#: ;^08329607B4EB87B7
+msgid "2"
+msgstr ""
+
+#: ;^08329507B4EB8604
+msgid "3"
+msgstr ""
+
+#: ;^08329407B4EB8451
+msgid "4"
+msgstr ""
+
+#: ;^08329307B4EB829E
+msgid "5"
+msgstr ""
+
+#: ;^08329207B4EB80EB
+msgid "6"
+msgstr ""
+
+#: ;^08329107B4EB7F38
+msgid "7"
+msgstr ""
+
+#: ;^08329007B4EB7D85
+msgid "8"
+msgstr ""
+
+#: ;^08328F07B4EB7BD2
+msgid "9"
+msgstr ""
+
+#: ;^D97FFC186C3A63EE
+msgid "10"
+msgstr ""
+
+#: ;^D97FFD186C3A65A1
+msgid "11"
+msgstr ""
+
+#: ;^D97FFA186C3A6088
+msgid "12"
+msgstr ""
+
+#: ;^D97FFB186C3A623B
+msgid "13"
+msgstr ""
+
+#: ;^D98000186C3A6ABA
+msgid "14"
+msgstr ""
+
+#: ;^D98001186C3A6C6D
+msgid "15"
+msgstr ""
+
+#: ;^D97FFE186C3A6754
+msgid "16"
+msgstr ""
+
+#: ;^522F483C3BDD4C72
+msgid "Do not link track volume/pan to MIDI"
+msgstr ""
+
+#: ;^F96490112D1B162F
+msgid "Lock track controls"
+msgstr ""
+
+#: ;^AE7E61A37889E975
+msgid "Free item positioning"
+msgstr ""
+
+#: ;^F1707CB9030B35E0
+msgid "Automatic record-arm when track selected"
+msgstr ""
+
+#: ;^9D4AE82B2A6E582F
+msgid "Multichannel track metering"
+msgstr ""
+
+#: ;^821B3CD32107333D
+msgid "Track color"
+msgstr ""
+
+#: ;^2A155A1A970AC2FE
+msgid "Set tracks to custom color..."
+msgstr ""
+
+#: ;^AB902561E815401D
+msgid "Set tracks to random colors"
+msgstr ""
+
+#: ;^27450F3A019ACFE8
+msgid "Set tracks to one random color"
+msgstr ""
+
+#: ;^639DD13915D0BDD2
+msgid "Set tracks to default color"
+msgstr ""
+
+#: ;^E8F72322AC27C447
+msgid "Track icon"
+msgstr ""
+
+#: ;^648DC6218B71EAE3
+msgid "Set track icon..."
+msgstr ""
+
+#: ;^D2F88B0EF54D2211
+msgid "Remove track icon"
+msgstr ""
+
+#: ;^12438EC5ABFDAC96
+msgid "Track timebase"
+msgstr ""
+
+#: ;^26C7502E02B01288
+msgid "Project timebase"
+msgstr ""
+
+#: ;^B98A031D9BEEF64E
+msgid "Time"
+msgstr ""
+
+#: ;^A5D5B4E847F44008
+msgid "Beats (position, length, rate)"
+msgstr ""
+
+#: ;^BA7A79B4D3479176
+msgid "Beats (position only)"
+msgstr ""
+
+#: ;^BAB20E52AB03A898
+msgid "Track automation mode"
+msgstr ""
+
+#: ;^E80224910029CDEC
+msgid "Trim/Read"
+msgstr ""
+
+#: ;^BB1FF02F46CC14C3
+msgid "Read"
+msgstr ""
+
+#: ;^83EA05809A680356
+msgid "Touch"
+msgstr ""
+
+#: ;^CBED1547C6300197
+msgid "Latch"
+msgstr ""
+
+#: ;^C7F67A5666962B47
+msgid "Latch Preview"
+msgstr ""
+
+#: ;^C9D51236E5A04162
+msgid "Write"
+msgstr ""
+
+#: ;^08C4A189ED06CFFA
+msgid "Track performance options"
+msgstr ""
+
+#: ;^BEDDCB0B40FD59A2
+msgid "Allow media buffering"
+msgstr ""
+
+#: ;^8A09A75D01EDDA59
+msgid "Prevent media buffering"
+msgstr ""
+
+#: ;^CF7AF55DCCD92445
+msgid "Allow anticipative FX"
+msgstr ""
+
+#: ;^B6616B85587122F2
+msgid "Prevent anticipative FX"
+msgstr ""
+
+#: ;^02ABE37861D00256
+msgid "Enable track metering"
+msgstr ""
+
+#: ;^832F70C2FB781E83
+msgid "Prevent spectral peaks/spectrogram"
+msgstr ""
+
+#: ;^F923F7795042C1F4
+msgid "Track layout"
+msgstr ""
+
+#: ;^AB2A3D4EF1C9D1A8
+msgid "Default"
+msgstr ""
+
+#: ;^3AF66241CE595B8C
+msgid "&Envelopes"
+msgstr ""
+
+#: ;^E9991E9C69A2E870
+msgid "Envelopes"
+msgstr ""
+
+#: ;^E29A8B5D1C16061F
+msgid "Toggle &volume active"
+msgstr ""
+
+#: ;^6909129551C0263B
+msgid "Toggle volume active"
+msgstr ""
+
+#: ;^6EEA4E6D1C299C1E
+msgid "Toggle &pan active"
+msgstr ""
+
+#: ;^8DF30F24527A956A
+msgid "Toggle pan active"
+msgstr ""
+
+#: ;^13D77626487877AE
+msgid "Toggle volume (pre-FX) active"
+msgstr ""
+
+#: ;^171CD8B223DA2025
+msgid "Toggle pan (pre-FX) active"
+msgstr ""
+
+#: ;^22BB6337A73E9205
+msgid "Toggle volume visible"
+msgstr ""
+
+#: ;^124E3F58D9D38C02
+msgid "Toggle pan visible"
+msgstr ""
+
+#: ;^EDAADDAE852D16DE
+msgid "Toggle volume (pre-FX) visible"
+msgstr ""
+
+#: ;^5137806840344CAF
+msgid "Toggle pan (pre-FX) visible"
+msgstr ""
+
+#: ;^47B6B0240DC76A6B
+msgid "Select all points"
+msgstr ""
+
+#: ;^58EB14692B28F25A
+msgid "Unselect all points"
+msgstr ""
+
+#: ;^6E708F217D28443C
+msgid "Select points in time selection"
+msgstr ""
+
+#: ;^CA47517BDEFA4232
+msgid "Linear"
+msgstr ""
+
+#: ;^AF908AD98D533548
+msgid "Square"
+msgstr ""
+
+#: ;^6A05662E2A1E77AC
+msgid "Slow start/end"
+msgstr ""
+
+#: ;^BC24D1B6349B5A89
+msgid "Fast start"
+msgstr ""
+
+#: ;^DB6FC995D09C7078
+msgid "Fast end"
+msgstr ""
+
+#: ;^919D1A7A385C125C
+msgid "Bezier"
+msgstr ""
+
+#: ;^595D1609A802357B
+msgid "Invert selected points"
+msgstr ""
+
+#: ;^20EE79BDD1264889
+msgid "Reset selected points to zero/center"
+msgstr ""
+
+#: ;^47C303DD6766CBE5
+msgid "Set envelope default point shape"
+msgstr ""
+
+#: ;^40B42F5B4E7F894C
+msgid "Clear envelope"
+msgstr ""
+
+#: ;^1002920B25015351
+msgid "Track grouping parameters..."
+msgstr ""
+
+#: ;^6478144A3C4FB7D2
+msgid "Track grouping enabled"
+msgstr ""
+

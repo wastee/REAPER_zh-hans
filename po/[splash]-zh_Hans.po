@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;377098E549677C30
+msgid "Removing track %d"
+msgstr ""
+
+#: ;E4DE2C7D9E7BCC06
+msgid "Importing file..."
+msgstr ""
+
+#: ;8C00464CAF319497
+msgid "Closing project..."
+msgstr ""
+
+#: ;6CFE202434BE0AEF
+msgid "Loading %s..."
+msgstr ""
+
+#: ;461A19441D3CBA25
+msgid "Loading..."
+msgstr ""
+
+#: ;FE9E5529CC151D5C
+msgid "Importing %s..."
+msgstr ""
+
+#: ;2549BF449F59124E
+msgid "Initializing UI Classes..."
+msgstr ""
+
+#: ;C3ED77175FF7A80D
+msgid "Initializing Main Window..."
+msgstr ""
+
+#: ;AA015E3EE6811B88
+msgid "Initializing ReWire Slave Mode"
+msgstr ""
+
+#: ;107EC5547FA000D8
+msgid "Checking for ReWire Slave Mode..."
+msgstr ""
+
+#: ;69B380B30FA53BFC
+msgid "Scanning VST plug-ins..."
+msgstr ""
+
+#: ;6EE741A56EC25D89
+msgid "Scanning DX plug-ins..."
+msgstr ""
+
+#: ;556790F6C2D4D47E
+msgid "Loading JS..."
+msgstr ""
+
+#: ;84B0AC419AB12F3D
+msgid "Initializing ReaMote..."
+msgstr ""
+
+#: ;1E644C966744BC0F
+msgid "Scanning MIDI hardware..."
+msgstr ""
+
+#: ;9FEED2881A8BB34D
+msgid "Loading native plug-ins..."
+msgstr ""
+
+#: ;95C14C31E2DBB229
+msgid "Initializing Control Surfaces..."
+msgstr ""
+
+#: ;E6A87EA06A513679
+msgid "Loading SoundTouch..."
+msgstr ""
+
+#: ;8EC8B78B087E740D
+msgid "Loading DiracLE..."
+msgstr ""
+
+#: ;40CAAF582132F5FF
+msgid "Loading élastique 2 Pro..."
+msgstr ""
+
+#: ;CD0C8A087BDCAD95
+msgid "Loading élastique Pro..."
+msgstr ""
+
+#: ;DA57C65EF182238A
+msgid "Loading élastique 3 Pro..."
+msgstr ""
+
+#: ;CCE0F0218F7E6DE2
+msgid "Project: loading file:"
+msgstr ""
+
+#: ;C4F4B0B3B434649F
+msgid "Loading plug-in:"
+msgstr ""
+
+#: ;2B35EDB88B113816
+msgid "Loading project..."
+msgstr ""
+
+#: ;CA015AD84E12FEF5
+msgid "Project: loading complete"
+msgstr ""
+
+#: ;A69A91A422E61DAD
+msgid "Loading undo history..."
+msgstr ""
+
+#: ;AEABA2BF41FB3594
+msgid "Rescanning project bay"
+msgstr ""
+
+#: ;F755FBBD9C58083F
+msgid "ReaMote: checking for host"
+msgstr ""
+
+#: ;8601F9CB8C293465
+msgid "Scanning VST"
+msgstr ""
+
+#: ;DB4EC9AD23B997E9
+msgid "Scanning VST plugins..."
+msgstr ""
+

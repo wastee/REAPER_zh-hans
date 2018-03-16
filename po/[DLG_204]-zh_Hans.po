@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;F06854788A1D9107
+msgid "Licensed to:"
+msgstr ""
+
+#: ;52F0480E83915AA8
+msgid "License type:"
+msgstr ""
+
+#: ;6F5769926BC1C226
+msgid "Purchase REAPER license key online"
+msgstr ""
+
+#: ;1B1B5CF87FA36D80
+msgid "Hide registered name from main titlebar"
+msgstr ""
+
+#: ;1D3EDF9A66681F71
+msgid "Hide \"commercial license\" text"
+msgstr ""
+
+#: ;D98D89186C45DDE1
+msgid "--"
+msgstr ""
+
+#: ;^756B500741E261D4
+msgid "Import license key..."
+msgstr ""
+

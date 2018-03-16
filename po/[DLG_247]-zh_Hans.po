@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;EFA35F79FFA15A4B
+msgid "Save Windows Screenset"
+msgstr ""
+
+#: ;1BA4E55531ADD653
+msgid "Last focus:"
+msgstr ""
+
+#: ;^5BD67845F0F0360D
+msgid "Main window position"
+msgstr ""
+
+#: ;^EE914AABB985B447
+msgid "Tool window positions"
+msgstr ""
+
+#: ;^AE0E8F593F20484B
+msgid "Docker selected tab"
+msgstr ""
+
+#: ;^CE00C3235E535EAA
+msgid "Save"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^A620AF611680A051
+msgid "Items"
+msgstr ""
+
+#: ;^48D899DD92FBC032
+msgid "Name:"
+msgstr ""
+
+#: ;^99B8B53D72CFEE9F
+msgid "Mixer flags"
+msgstr ""
+
+#: ;^A61CBD25C6796002
+msgid "Layouts"
+msgstr ""
+

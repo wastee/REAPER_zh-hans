@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;46B2F90EFC202F2F
+msgid "Automatically resize FX windows:"
+msgstr ""
+
+#: ;D898C4186B75D6AA
+msgid "up"
+msgstr ""
+
+#: ;C195B1ACA8F965EB
+msgid "down"
+msgstr ""
+
+#: ;5F4770DBE32AC217
+msgid "Set foreground to floating windows when selected"
+msgstr ""
+
+#: ;9907FEDD82A2071D
+msgid "Auto-float newly created FX windows"
+msgstr ""
+
+#: ;1550387FA6A569B5
+msgid "Auto-open FX windows after quick-add"
+msgstr ""
+
+#: ;C79A6C3B62E20D60
+msgid "Auto-dock new FX chain windows"
+msgstr ""
+
+#: ;DFFCF4A65D1E6FA1
+msgid "Auto-open FX add dialog when opening empty track FX chain"
+msgstr ""
+
+#: ;9595DB1667ACF7DF
+msgid "Auto-position new floating FX windows"
+msgstr ""
+
+#: ;DF6D0B9803A8FDB4
+msgid "Auto-position new FX chain windows"
+msgstr ""
+
+#: ;C7B479203D71CE7C
+msgid "Only allow one FX chain window open at a time"
+msgstr ""
+
+#: ;6DCB0D632CA6A596
+msgid "Open track FX window on track selection change"
+msgstr ""
+
+#: ;146BEFCAD3C82C9C
+msgid "Only if any FX window is open"
+msgstr ""
+
+#: ;20D2538F88926BA7
+msgid "Show current track FX in FX button right-click menu"
+msgstr ""
+
+#: ;0958FACBCAB8ED55
+msgid "Recently Added list max:"
+msgstr ""
+
+#: ;8E5AEF0B57EBCA22
+msgid "Only show FX matching filter string:"
+msgstr ""
+
+#: ;C7B549E0E6B82FD1
+msgid "reset to recommended default"
+msgstr ""
+
+#: ;^1EEF91D385882BBE
+msgid "Plug-ins"
+msgstr ""
+

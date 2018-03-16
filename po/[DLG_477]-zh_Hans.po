@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;68E8DD45C8033662
+msgid "Defaults for media items"
+msgstr ""
+
+#: ;46824055403B991D
+msgid "Create automatic fade-in/fade-out for new items, length:"
+msgstr ""
+
+#: ;A5A7A996DF2D17B7
+msgid "Overlap and crossfade items when splitting, length:"
+msgstr ""
+
+#: ;E7DA02B3D72195E5
+msgid "Default fade-in/fade-out shape:"
+msgstr ""
+
+#: ;0ECD19FA2DD06E9F
+msgid "Default crossfade shape:"
+msgstr ""
+
+#: ;8C101F7FFA7127FD
+msgid "Right-click on crossfade sets fade shape for only one side of the crossfade (shift toggles)"
+msgstr ""
+
+#: ;FEF3F95B755C2F5E
+msgid "Enable automatic fade-in/fade-out and autocrossfade for MIDI note velocity"
+msgstr ""
+
+#: ;BEFCAA56940B8887
+msgid "Loop source for imported items"
+msgstr ""
+
+#: ;6C6E4A4439C0D4F8
+msgid "Loop source for new MIDI items"
+msgstr ""
+
+#: ;945688A19C91E2AF
+msgid "Loop source for recorded items"
+msgstr ""
+
+#: ;81AD58C769B1844A
+msgid "Loop source for glued items"
+msgstr ""
+
+#: ;F86B38011657919B
+msgid "Time selection auto-punch audio recording creates loopable section"
+msgstr ""
+
+#: ;^3A2761697FE8C69E
+msgid "Trim content behind media items when editing"
+msgstr ""
+
