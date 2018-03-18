@@ -1,6 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: REAPER_zh-hans\n"
+msgstr "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +23,7 @@ msgstr ""
 msgid "ABR:"
 msgstr ""
 
-#: ;331CFD6838B20891=(0.0 = lowest, 1.0 
+#: ;331CFD6838B20891=(0.0 = lowest, 1.0
 msgid "(0.0 = lowest, 1.0 = highest):"
 msgstr ""
 

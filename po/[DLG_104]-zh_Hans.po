@@ -1,6 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: REAPER_zh-hans\n"
+msgstr "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "Language: zh_Hans\n"

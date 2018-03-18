@@ -1,6 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: REAPER_zh-hans\n"
+msgstr "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +15,7 @@ msgstr ""
 msgid "Encode transparency (bad for normal video, good for some things possibly)"
 msgstr ""
 
-#: ;C134703B1C276C93=Ignore changes in low bits of color (0-7, 0 
+#: ;C134703B1C276C93=Ignore changes in low bits of color (0-7, 0
 msgid "Ignore changes in low bits of color (0-7, 0 = full quality):"
 msgstr ""
 

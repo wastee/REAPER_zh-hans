@@ -1,6 +1,5 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: REAPER_zh-hans\n"
+msgstr "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -68,7 +67,7 @@ msgstr ""
 msgid "- INDEX1 is set to be at least 1 frame after INDEX0, if INDEX0 is defined"
 msgstr ""
 
-#: ;ADF8FA44F480A815=- the audio length is padded with silence to be frame aligned (1 frame 
+#: ;ADF8FA44F480A815=- the audio length is padded with silence to be frame aligned (1 frame
 msgid "- the audio length is padded with silence to be frame aligned (1 frame = 1/75 second)"
 msgstr ""
 
