@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;40B4F9BE88EA7D62
@@ -32,15 +33,22 @@ msgid "Enter a value into this field to set the number of output channels."
 msgstr ""
 
 #: ;9008BDA500A4D1F3
-msgid "Enter a value into this field to set the sample rate that will be used for recordings."
+msgid ""
+"Enter a value into this field to set the sample rate that will be used for "
+"recordings."
 msgstr ""
 
 #: ;368335EF82EE1C29
-msgid "This section allows you to alter the buffer settings for REAPER. A larger buffer will give more stable performance on some systems, at the expense of latency."
+msgid ""
+"This section allows you to alter the buffer settings for REAPER. A larger "
+"buffer will give more stable performance on some systems, at the expense of "
+"latency."
 msgstr ""
 
 #: ;926200AF2A68E63C
-msgid "Choose your desired audio system here. By default, REAPER uses WaveOut for compatibility, but ASIO is recommended for best performance."
+msgid ""
+"Choose your desired audio system here. By default, REAPER uses WaveOut for "
+"compatibility, but ASIO is recommended for best performance."
 msgstr ""
 
 #: ;ECA43EEB5860A20C
@@ -50,4 +58,3 @@ msgstr ""
 #: ;902C17B6A11D60F8
 msgid "Choose the priority for the main audio thread."
 msgstr ""
-
