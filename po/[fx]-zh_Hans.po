@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;C1FA445408219BF5
@@ -96,7 +97,9 @@ msgid "Save FX chain:"
 msgstr ""
 
 #: ;DBBC46B2994004C6
-msgid "Remove all existing FX before loading Track Default Chain?\r\n(if you select No, the Track Default Chain will be added to your FX list)"
+msgid ""
+"Remove all existing FX before loading Track Default Chain?\r\n"
+"(if you select No, the Track Default Chain will be added to your FX list)"
 msgstr ""
 
 #: ;4A3E3CE6B990FCAA
@@ -158,4 +161,3 @@ msgstr ""
 #: ;^B2BB1E7719F22B98
 msgid "Item"
 msgstr ""
-
