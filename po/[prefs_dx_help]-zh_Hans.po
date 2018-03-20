@@ -1,37 +1,50 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;D305F8049C9BA679
-msgid "Show any already-opened ReWire-aware applications/devices as available FX in the add-FX window."
+msgid ""
+"Show any already-opened ReWire-aware applications/devices as available FX in "
+"the add-FX window."
 msgstr ""
 
 #: ;EE70845A964B23C2
-msgid "When adding ReWired applications/devices, automatically open the device control panel."
+msgid ""
+"When adding ReWired applications/devices, automatically open the device "
+"control panel."
 msgstr ""
 
 #: ;1A45569F48452198
-msgid "Process all track FX even when playback is stopped, when any ReWire device is active."
+msgid ""
+"Process all track FX even when playback is stopped, when any ReWire device "
+"is active."
 msgstr ""
 
 #: ;1CECF7CDE17F142B
-msgid "If an application/device is already open that can act as ReWire master, automatically place Reaper in ReWire slave mode."
+msgid ""
+"If an application/device is already open that can act as ReWire master, "
+"automatically place Reaper in ReWire slave mode."
 msgstr ""
 
 #: ;F1B05EF1B553E3EE
-msgid "When running in ReWire slave mode, use a separate preferences configuration file so separate preferences and settings can be preserved for this mode only."
+msgid ""
+"When running in ReWire slave mode, use a separate preferences configuration "
+"file so separate preferences and settings can be preserved for this mode "
+"only."
 msgstr ""
 
 #: ;5BA7E753ADD1DED6
-msgid "Change ReWire slave settings for the current project. To save this project's settings as default, go to File/Project Settings."
+msgid ""
+"Change ReWire slave settings for the current project. To save this project's "
+"settings as default, go to File/Project Settings."
 msgstr ""
-
