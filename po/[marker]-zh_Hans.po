@@ -1,20 +1,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"Last-Translator: All Chinese REAPER Users\n"
-"Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
+"PO-Revision-Date: 2018-03-21 00:00+0000\n"
+"Last-Translator: Tee <imetee@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
+"reaper/marker/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Python Script\n"
-"X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 2.19.1\n"
+"X-Poedit-Basepath: .\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;84B7EB53E01864F4
 msgid "Add Marker"
-msgstr ""
+msgstr "添加标记"
 
 #: ;5681A0BC2DF9EB72
 msgid "Tempo/Time Signature Marker"
