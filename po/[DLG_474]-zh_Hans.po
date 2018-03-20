@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;81BBA2B36371EDB5
@@ -20,11 +21,15 @@ msgid "Default path to save new projects:"
 msgstr ""
 
 #: ;973B67107DB3B77C
-msgid "Default render path (if left empty the current project directory, if any, will be used):"
+msgid ""
+"Default render path (if left empty the current project directory, if any, "
+"will be used):"
 msgstr ""
 
 #: ;E19AF0FCD67934A5
-msgid "Default recording path, when project is unsaved and no recording path is configured:"
+msgid ""
+"Default recording path, when project is unsaved and no recording path is "
+"configured:"
 msgstr ""
 
 #: ;55FF305FB05C16EA
@@ -32,10 +37,11 @@ msgid "Store all peak caches (.reapeaks) in alternate path:"
 msgstr ""
 
 #: ;6934246FDA04EE9E
-msgid "Use alternate peak cache path for the following paths (multiple paths separated by semicolons):"
+msgid ""
+"Use alternate peak cache path for the following paths (multiple paths "
+"separated by semicolons):"
 msgstr ""
 
 #: ;^F685FB3A91025549
 msgid "Browse..."
 msgstr ""
-
