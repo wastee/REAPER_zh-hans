@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;9C4F9E297401BE7F
@@ -20,11 +21,14 @@ msgid "any whitespace"
 msgstr ""
 
 #: ;4FDC1EFF5C6004A7
-msgid "Lyrics should be in a text file, one measure per line, separated by spaces or tabs."
+msgid ""
+"Lyrics should be in a text file, one measure per line, separated by spaces "
+"or tabs."
 msgstr ""
 
 #: ;94FB231FB797C408
-msgid "Lyrics will be imported to the last touched track, as MIDI lyric events."
+msgid ""
+"Lyrics will be imported to the last touched track, as MIDI lyric events."
 msgstr ""
 
 #: ;67B478FBAAAE55DA
@@ -42,4 +46,3 @@ msgstr ""
 #: ;^268986373F235EF0
 msgid "beats"
 msgstr ""
-
