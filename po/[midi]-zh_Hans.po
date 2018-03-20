@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;A18A57ED9326617F
@@ -100,7 +101,9 @@ msgid "MUTED"
 msgstr ""
 
 #: ;A650E3CB840C930A
-msgid "The piano roll timebase only affects how MIDI notes and CC events are displayed, not how they are played back."
+msgid ""
+"The piano roll timebase only affects how MIDI notes and CC events are "
+"displayed, not how they are played back."
 msgstr ""
 
 #: ;5BFBA28BDD0CA8A4
@@ -108,7 +111,9 @@ msgid "Source beats:\r\n"
 msgstr ""
 
 #: ;B267457E3AD2B27E
-msgid "Beats are counted from the start of the media item; the project ruler is ignored.\r\n"
+msgid ""
+"Beats are counted from the start of the media item; the project ruler is "
+"ignored.\r\n"
 msgstr ""
 
 #: ;7E70D705203C8BC2
@@ -116,7 +121,8 @@ msgid "Only one loop iteration is displayed.\r\n"
 msgstr ""
 
 #: ;0AAAD083ED687363
-msgid "Beats are displayed evenly spaced, regardless of project tempo changes.\r\n"
+msgid ""
+"Beats are displayed evenly spaced, regardless of project tempo changes.\r\n"
 msgstr ""
 
 #: ;C0FFE47F9D0DBC8A
@@ -148,7 +154,8 @@ msgid "Display is identical to Project time.\r\n"
 msgstr ""
 
 #: ;1CE54065B8467E42
-msgid "The MIDI editor ruler is kept vertically aligned with the project ruler.\r\n"
+msgid ""
+"The MIDI editor ruler is kept vertically aligned with the project ruler.\r\n"
 msgstr ""
 
 #: ;267F1B0391A5697C
@@ -356,7 +363,8 @@ msgid "Options:"
 msgstr ""
 
 #: ;4273BD4C40BA9D47
-msgid "When transposing display, show transposed semitones below key signatures"
+msgid ""
+"When transposing display, show transposed semitones below key signatures"
 msgstr ""
 
 #: ;9F575D3BFBD55BDB
@@ -592,7 +600,9 @@ msgid "Add Sysex Event"
 msgstr ""
 
 #: ;7FB08F73DAE49C45=Sysex data contains %d bytes with value >
-msgid "Sysex data contains %d bytes with value >= 128 (0x80), which is technically illegal."
+msgid ""
+"Sysex data contains %d bytes with value >= 128 (0x80), which is technically "
+"illegal."
 msgstr ""
 
 #: ;7627286B54FDB1E0
@@ -652,15 +662,22 @@ msgid "Underlying MIDI note positions and lengths are not affected."
 msgstr ""
 
 #: ;4E204253DCED957C
-msgid "Notes shorter than the minimum note length will be rounded up to the minimum note length."
+msgid ""
+"Notes shorter than the minimum note length will be rounded up to the minimum "
+"note length."
 msgstr ""
 
 #: ;ADBD5837DE3EE9CB
-msgid "Notes longer than the minimum note length, but shorter than the display quantization, will be rounded to the nearest length that does not require a dot or tie."
+msgid ""
+"Notes longer than the minimum note length, but shorter than the display "
+"quantization, will be rounded to the nearest length that does not require a "
+"dot or tie."
 msgstr ""
 
 #: ;55C1A8ED0C6240F9
-msgid "Notes and rests longer than the display quantization will be rounded to the nearest multiple of the display quantization."
+msgid ""
+"Notes and rests longer than the display quantization will be rounded to the "
+"nearest multiple of the display quantization."
 msgstr ""
 
 #: ;15C0A2C717318977
@@ -922,4 +939,3 @@ msgstr ""
 #: ;^3D9702905AC5B44C
 msgid "Virtual MIDI keyboard"
 msgstr ""
-
