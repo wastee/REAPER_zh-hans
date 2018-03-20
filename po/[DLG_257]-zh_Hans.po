@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;98C4B9514D6A4C77
@@ -28,7 +29,9 @@ msgid "Pool MIDI source data when pasting or duplicating media items"
 msgstr ""
 
 #: ;F3E309FD188EF789
-msgid "Note: set pooling behavior for mouse edits in Editing Behavior/Mouse modifiers."
+msgid ""
+"Note: set pooling behavior for mouse edits in Editing Behavior/Mouse "
+"modifiers."
 msgstr ""
 
 #: ;9D3BF13E53E1F580
@@ -68,11 +71,14 @@ msgid "Import multichannel MIDI files:"
 msgstr ""
 
 #: ;B466B9F6A8F80E2B
-msgid "Always prompt to import tempo from MIDI files with simple tempo maps (holding ctrl toggles)"
+msgid ""
+"Always prompt to import tempo from MIDI files with simple tempo maps "
+"(holding ctrl toggles)"
 msgstr ""
 
 #: ;440F1C332D682150
-msgid "Snap time signature change events to whole bars when importing MIDI files"
+msgid ""
+"Snap time signature change events to whole bars when importing MIDI files"
 msgstr ""
 
 #: ;6DFAC1A8823DBDB3
@@ -86,4 +92,3 @@ msgstr ""
 #: ;^1E894CD06766E128
 msgid "octaves"
 msgstr ""
-
