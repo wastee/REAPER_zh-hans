@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-20 16:45+0000\n"
+"PO-Revision-Date: 2018-03-20 16:59+0000\n"
 "Last-Translator: TeeAdmin <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://127.0.0.1/projects/reaper/about/"
 "zh_Hans/>\n"
@@ -85,7 +85,7 @@ msgstr "我们显示这段文字，而不是限制试用版的功能，因为我
 
 #: ;04FA9C99A7E3E33F
 msgid "Remove license key"
-msgstr ""
+msgstr "删除授权码"
 
 #: ;8B9A76F494C70F92
 msgid ""
