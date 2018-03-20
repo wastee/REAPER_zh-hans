@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-20 16:17+0000\n"
+"PO-Revision-Date: 2018-03-20 16:22+0000\n"
 "Last-Translator: TeeAdmin <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://119.29.222.146/projects/reaper/"
 "common/zh_Hans/>\n"
@@ -72,7 +72,7 @@ msgstr ""
 
 #: ;3E83534995169108
 msgid "Request block size:"
-msgstr ""
+msgstr "请求的数据块大小:"
 
 #: ;0FF98CDC4588805A
 msgid "Request sample rate:"
