@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;F2DB7183BF18E607
@@ -80,7 +81,9 @@ msgid "Error parsing log line!"
 msgstr ""
 
 #: ;02D633F2229E73F0
-msgid "One or more channels were in session mode at some point. Import project as session (other tracks will be ignored)?"
+msgid ""
+"One or more channels were in session mode at some point. Import project as "
+"session (other tracks will be ignored)?"
 msgstr ""
 
 #: ;75C55F7F18E25742
@@ -88,7 +91,11 @@ msgid "NINJAM Import Option"
 msgstr ""
 
 #: ;5D26AF532759F375
-msgid "NINJAM session has %d items. Merge into larger .WAV files (recommended)?\r\n\r\n(if you do not merge, loading this project may take a large amount of memory)!"
+msgid ""
+"NINJAM session has %d items. Merge into larger .WAV files (recommended)?\r\n"
+"\r\n"
+"(if you do not merge, loading this project may take a large amount of "
+"memory)!"
 msgstr ""
 
 #: ;^356FEEC423F176E6
@@ -110,4 +117,3 @@ msgstr ""
 #: ;^15C4666BD022F937
 msgid "Import media at source tempo"
 msgstr ""
-
