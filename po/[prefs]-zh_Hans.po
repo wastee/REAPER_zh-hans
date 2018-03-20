@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;2B7D40F6D1DC609B
@@ -112,31 +113,50 @@ msgid "Open all MIDI on the same track"
 msgstr ""
 
 #: ;1813F02D3CB4A561
-msgid "By default, selecting multiple media items in the arrange view and double-clicking will open all selected items in the MIDI editor."
+msgid ""
+"By default, selecting multiple media items in the arrange view and double-"
+"clicking will open all selected items in the MIDI editor."
 msgstr ""
 
 #: ;55CA347DC74A0932
-msgid "This behavior depends on the setting for \"open items in built-in MIDI editor\", which can be changed on this page."
+msgid ""
+"This behavior depends on the setting for \"open items in built-in MIDI editor"
+"\", which can be changed on this page."
 msgstr ""
 
 #: ;B614425040C5BE9C
-msgid "Many users prefer to enable \"one MIDI editor per project\", and use the MIDI editor track list (Contents menu/Track list) to choose which tracks or items to display or edit."
+msgid ""
+"Many users prefer to enable \"one MIDI editor per project\", and use the "
+"MIDI editor track list (Contents menu/Track list) to choose which tracks or "
+"items to display or edit."
 msgstr ""
 
 #: ;4CE40209DB74EA3D
-msgid "Within a single MIDI editor, only one media item can be active, meaning that it can receive drawn or copy/pasted notes and CC data."
+msgid ""
+"Within a single MIDI editor, only one media item can be active, meaning that "
+"it can receive drawn or copy/pasted notes and CC data."
 msgstr ""
 
 #: ;42ED43C15F0598C8
-msgid "MIDI from other media items may be faintly visible, and optionally editable.  Use the MIDI editor track list or media item lane to control which items are visible and editable."
+msgid ""
+"MIDI from other media items may be faintly visible, and optionally "
+"editable.  Use the MIDI editor track list or media item lane to control "
+"which items are visible and editable."
 msgstr ""
 
 #: ;92FE1CC195B210C9
-msgid "You can switch the active MIDI media item by double-clicking within the bounds of a secondary media item, or by using the MIDI editor contents menu, the MIDI editor track list, or the MIDI editor media item lane."
+msgid ""
+"You can switch the active MIDI media item by double-clicking within the "
+"bounds of a secondary media item, or by using the MIDI editor contents menu, "
+"the MIDI editor track list, or the MIDI editor media item lane."
 msgstr ""
 
 #: ;A9A7271977DC8D6E
-msgid "With the same track as the active media item, double-click within the bounds of another media item will always switch the active media item.  Double-click outside the bounds of any media item can optionally extend the nearest media item."
+msgid ""
+"With the same track as the active media item, double-click within the bounds "
+"of another media item will always switch the active media item.  Double-"
+"click outside the bounds of any media item can optionally extend the nearest "
+"media item."
 msgstr ""
 
 #: ;9248E0C9C4694835
@@ -168,7 +188,9 @@ msgid "Choose ReaperConfigZip to import"
 msgstr ""
 
 #: ;^5945AF9182806811
-msgid "You must stop recording before importing configuration (as configuration import will require a restart)"
+msgid ""
+"You must stop recording before importing configuration (as configuration "
+"import will require a restart)"
 msgstr ""
 
 #: ;^D790926420BA2EB7
@@ -202,4 +224,3 @@ msgstr ""
 #: ;^71A76211A7CFDF12
 msgid "Open all MIDI in the project"
 msgstr ""
-
