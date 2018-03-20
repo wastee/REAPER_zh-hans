@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;FCF67B57094B9AE0
@@ -28,7 +29,9 @@ msgid "List3"
 msgstr ""
 
 #: ;C64D048E7E806999
-msgid "When drawn above media items, treat item label area the same as empty track space"
+msgid ""
+"When drawn above media items, treat item label area the same as empty track "
+"space"
 msgstr ""
 
 #: ;1E0ED16659199589
@@ -44,10 +47,11 @@ msgid "Edits affect all pooled automation items at the same time position"
 msgstr ""
 
 #: ;E02DEE53682EC25E
-msgid "Disable targeting bottom part of media item when take lane height is less than:"
+msgid ""
+"Disable targeting bottom part of media item when take lane height is less "
+"than:"
 msgstr ""
 
 #: ;^10EC54E7BB0B3282
 msgid "pixels"
 msgstr ""
-
