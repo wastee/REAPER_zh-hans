@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;99A0C5AAB4639AA7
@@ -144,11 +145,16 @@ msgid "Developers (requires plugin re-scan)"
 msgstr ""
 
 #: ;4BB7F075C3B19094
-msgid "Error renaming:\r\n\t"
+msgid ""
+"Error renaming:\r\n"
+"\t"
 msgstr ""
 
 #: ;7C5CDD7665745C0D
-msgid "\r\nto:\r\n\t"
+msgid ""
+"\r\n"
+"to:\r\n"
+"\t"
 msgstr ""
 
 #: ;AE59FA2FAFF05064
@@ -278,4 +284,3 @@ msgstr ""
 #: ;^82E42D2FF8D25A8D
 msgid "Could not get channel info for effects (are they multichannel?)"
 msgstr ""
-
