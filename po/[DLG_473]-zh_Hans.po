@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;0AE9C7C56AF2D331
@@ -20,11 +21,15 @@ msgid "Ignore running change notifications (may be required for some devices)"
 msgstr ""
 
 #: ;5BE762CA30ABAF67
-msgid "If you need to use multiple devices, open Audio MIDI Setup and create an aggregate device."
+msgid ""
+"If you need to use multiple devices, open Audio MIDI Setup and create an "
+"aggregate device."
 msgstr ""
 
 #: ;E9564FD174148DB7
-msgid "Allow use of different input and output devices (legacy option, not recommended)"
+msgid ""
+"Allow use of different input and output devices (legacy option, not "
+"recommended)"
 msgstr ""
 
 #: ;21A1FC512D832DC6
@@ -54,4 +59,3 @@ msgstr ""
 #: ;^A7BA0064C3A88716
 msgid "Output Device:"
 msgstr ""
-
