@@ -14,7 +14,8 @@ def comp2json():
         result.append({
             "name": fn,
             "slug": fn_thin,
-            "repo": "https://github.com/wastee/REAPER_zh-hans.git",
+            # "repo": "https://github.com/wastee/REAPER_zh-hans.git",
+            "repo": "weblate://reaper/about",
             "push": "git@github.com:wastee/REAPER_zh-hans.git",
             "branch": "master",
             "filemask": "po/{}-*.po".format(fn),
