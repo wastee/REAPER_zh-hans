@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;DDD54BF5EDDB4EC3
@@ -124,7 +125,10 @@ msgid "VCA pre-FX slave"
 msgstr ""
 
 #: ;F0B0635EC26A65A0
-msgid "Note: ganging will always take place if multiple tracks are selected.\r\n\r\nNote: hold shift when modifying most things to temporarily override grouping."
+msgid ""
+"Note: ganging will always take place if multiple tracks are selected.\r\n"
+"\r\n"
+"Note: hold shift when modifying most things to temporarily override grouping."
 msgstr ""
 
 #: ;E9C1E7A308009E30
@@ -154,4 +158,3 @@ msgstr ""
 #: ;^BAC64C1B2E060EE5
 msgid "Close"
 msgstr ""
-

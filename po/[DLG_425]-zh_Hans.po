@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;C0253B595D267AC2
@@ -36,7 +37,9 @@ msgid "Low precision system timestamp (TGT)"
 msgstr ""
 
 #: ;D0B425DFCB932550
-msgid "Timestamp precision should be set to match this MIDI input device driver. If the driver precision is unknown, let REAPER timestamp MIDI events."
+msgid ""
+"Timestamp precision should be set to match this MIDI input device driver. If "
+"the driver precision is unknown, let REAPER timestamp MIDI events."
 msgstr ""
 
 #: ;^84225D657EA873E2
@@ -58,4 +61,3 @@ msgstr ""
 #: ;^ABEC79059CAD0B0E
 msgid "Alias name:"
 msgstr ""
-

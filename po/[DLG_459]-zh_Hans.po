@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;EBD7E7474BD1718E
@@ -108,11 +109,15 @@ msgid "Unselected:"
 msgstr ""
 
 #: ;E4DC0CDFF2939210
-msgid "Automatically color any recording pass that adds new takes to existing media items"
+msgid ""
+"Automatically color any recording pass that adds new takes to existing media "
+"items"
 msgstr ""
 
 #: ;10EEA01CE7AD98F1
-msgid "Set custom track colors from the Track menu, custom item and take colors from the Item menu."
+msgid ""
+"Set custom track colors from the Track menu, custom item and take colors "
+"from the Item menu."
 msgstr ""
 
 #: ;7467DBA1281E1C66
@@ -122,4 +127,3 @@ msgstr ""
 #: ;^821B3CD32107333D
 msgid "Track color"
 msgstr ""
-

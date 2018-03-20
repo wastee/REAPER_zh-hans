@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;99AA745451FB03DE
@@ -16,7 +17,9 @@ msgid "ReWire/Direct-X plug-ins settings"
 msgstr ""
 
 #: ;3D0D0CE24C134644
-msgid "ReWire mixer support (act as ReWire mixer, show ReWire devices in plug-in browser)"
+msgid ""
+"ReWire mixer support (act as ReWire mixer, show ReWire devices in plug-in "
+"browser)"
 msgstr ""
 
 #: ;2F509ABA2BB63239
@@ -28,7 +31,9 @@ msgid "Run FX on stop when ReWire devices are active"
 msgstr ""
 
 #: ;3DBA1098DEF1A9A1
-msgid "Check for ReWire mixer/device on startup (and automatically enter slave mode if present)"
+msgid ""
+"Check for ReWire mixer/device on startup (and automatically enter slave mode "
+"if present)"
 msgstr ""
 
 #: ;229F2B0E80269DE0
@@ -66,4 +71,3 @@ msgstr ""
 #: ;^598D95450BED5823
 msgid "ReWire"
 msgstr ""
-

@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;0B23FB04199CFD2A
@@ -36,7 +37,10 @@ msgid "Do not scan VST names/types (deprecated)"
 msgstr ""
 
 #: ;C14B8D54F4D0074D
-msgid "If multiple VSTs are scanned with the same dll name, only one will be available: either the plugin found later in the path list, or highest in the directory structure for a given path."
+msgid ""
+"If multiple VSTs are scanned with the same dll name, only one will be "
+"available: either the plugin found later in the path list, or highest in the "
+"directory structure for a given path."
 msgstr ""
 
 #: ;B5A31DD6277997A5
@@ -64,15 +68,21 @@ msgid "Inform plug-ins of offline rendering state"
 msgstr ""
 
 #: ;EB5AD63A75E962D6
-msgid "Bypass audio while opening plug-in config window (good for some non-threadsafe VSTs)"
+msgid ""
+"Bypass audio while opening plug-in config window (good for some non-"
+"threadsafe VSTs)"
 msgstr ""
 
 #: ;9AFB50287E6BE13A
-msgid "UAD-1 synchronous mode (reduces CPU munch) - requires anticipative FX disabled"
+msgid ""
+"UAD-1 synchronous mode (reduces CPU munch) - requires anticipative FX "
+"disabled"
 msgstr ""
 
 #: ;D7D5E6EF54BF3AAB
-msgid "Allow complete unload of VST plug-ins (reduces memory use, but may not be compatible)"
+msgid ""
+"Allow complete unload of VST plug-ins (reduces memory use, but may not be "
+"compatible)"
 msgstr ""
 
 #: ;40D2555271B4D0B9
@@ -82,4 +92,3 @@ msgstr ""
 #: ;^1EB556E18D613E28
 msgid "Add..."
 msgstr ""
-

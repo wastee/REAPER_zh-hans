@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;2774BF0E396FA6EA
@@ -20,7 +21,9 @@ msgid "Action transition time:"
 msgstr ""
 
 #: ;F3407898EA587963
-msgid "Automatically add envelopes when tweaking parameters in automation write modes"
+msgid ""
+"Automatically add envelopes when tweaking parameters in automation write "
+"modes"
 msgstr ""
 
 #: ;A034ABCC948D1990
@@ -40,7 +43,8 @@ msgid "When recording automation and stopped:"
 msgstr ""
 
 #: ;28BEB3FF40AEB890
-msgid "When adding volume/pan envelopes, apply trim to envelope and reset trim:"
+msgid ""
+"When adding volume/pan envelopes, apply trim to envelope and reset trim:"
 msgstr ""
 
 #: ;D53F5AD8EB230214
@@ -52,7 +56,9 @@ msgid "Reset latch state when looping"
 msgstr ""
 
 #: ;7D419BFC78E5A168
-msgid "Insert new automation item when writing automation and underlying envelope enabled"
+msgid ""
+"Insert new automation item when writing automation and underlying envelope "
+"enabled"
 msgstr ""
 
 #: ;553CF5385ED037A6
@@ -90,4 +96,3 @@ msgstr ""
 #: ;^7B9DAB3CFFB093BC
 msgid "Automation items"
 msgstr ""
-
