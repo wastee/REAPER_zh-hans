@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-20 14:54+0000\n"
-"Last-Translator: Tee <imetee@qq.com>\n"
+"PO-Revision-Date: 2018-03-20 16:15+0000\n"
+"Last-Translator: TeeAdmin <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://119.29.222.146/projects/reaper/"
 "common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -36,7 +36,7 @@ msgstr ""
 
 #: ;DA38E298C189302F
 msgid "Input channels:"
-msgstr ""
+msgstr "输入通道:"
 
 #: ;9324D41856E3D6C5
 msgid "Input device:"
@@ -44,7 +44,7 @@ msgstr "输入通道:"
 
 #: ;C6FA709C7A5DB354
 msgid "Output channels:"
-msgstr ""
+msgstr "输出通道:"
 
 #: ;CD3ECB2096970F76
 msgid "Output device:"
