@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;F6BCB3EDA55C49B6
@@ -60,7 +61,10 @@ msgid "REAPER Recording Error"
 msgstr ""
 
 #: ;388B21358B3B4E4E
-msgid "Warning: The recording path has only %u %cB free!\r\n\r\nYou can configure whether you are notified of this in Preferences/Recording."
+msgid ""
+"Warning: The recording path has only %u %cB free!\r\n"
+"\r\n"
+"You can configure whether you are notified of this in Preferences/Recording."
 msgstr ""
 
 #: ;4F638CDD049E9642
@@ -76,7 +80,9 @@ msgid "Select output file to copy to:"
 msgstr ""
 
 #: ;C0B83AE69DBC62A5
-msgid "Reverse item not supported for MIDI, will open copy in the midi editor to reverse there."
+msgid ""
+"Reverse item not supported for MIDI, will open copy in the midi editor to "
+"reverse there."
 msgstr ""
 
 #: ;0C9B20EEE5B759CB
@@ -88,11 +94,15 @@ msgid "Open Copy Failed"
 msgstr ""
 
 #: ;83EF0F44F0F3A42A
-msgid "Error reading source file:\r\n\t"
+msgid ""
+"Error reading source file:\r\n"
+"\t"
 msgstr ""
 
 #: ;557546FF0DDAB18A
-msgid "Error writing output file:\r\n\t"
+msgid ""
+"Error writing output file:\r\n"
+"\t"
 msgstr ""
 
 #: ;B2AA069799475B2D
@@ -140,7 +150,9 @@ msgid "Error adding subproject"
 msgstr ""
 
 #: ;0236FDAE2600DAF5
-msgid "This action cannot be run if there are\r\nexisting tempo/time signature markers."
+msgid ""
+"This action cannot be run if there are\r\n"
+"existing tempo/time signature markers."
 msgstr ""
 
 #: ;3E3E28AD77BE7936
@@ -152,7 +164,9 @@ msgid "Clear envelope:"
 msgstr ""
 
 #: ;1C7FC759B4950FA9
-msgid "All envelope points will be deleted! Would you also like to remove the envelope completely?"
+msgid ""
+"All envelope points will be deleted! Would you also like to remove the "
+"envelope completely?"
 msgstr ""
 
 #: ;304B2A4F4B3C175B
@@ -196,11 +210,17 @@ msgid "Project Open Error"
 msgstr ""
 
 #: ;4CD6F1DD5E48252D
-msgid "Note: Control+Shift is being held while loading a project.\r\nWould you like to load this project with all FX offline? (useful for problematic plug-ins)\r\n"
+msgid ""
+"Note: Control+Shift is being held while loading a project.\r\n"
+"Would you like to load this project with all FX offline? (useful for "
+"problematic plug-ins)\r\n"
 msgstr ""
 
 #: ;D68545750197E7AC
-msgid "Cmd+Shift is being held while loading a project.\r\nWould you like to load this project with all FX offline? (useful for problematic plug-ins)\r\n"
+msgid ""
+"Cmd+Shift is being held while loading a project.\r\n"
+"Would you like to load this project with all FX offline? (useful for "
+"problematic plug-ins)\r\n"
 msgstr ""
 
 #: ;A96E13DF189FF9D6
@@ -220,7 +240,9 @@ msgid "REAPER Warning"
 msgstr ""
 
 #: ;FF1C8042785EFDE2
-msgid "Note: %d items in the project could not be added to EDL, since they are not simple files"
+msgid ""
+"Note: %d items in the project could not be added to EDL, since they are not "
+"simple files"
 msgstr ""
 
 #: ;3ECCF64BA181B7BB
@@ -232,7 +254,8 @@ msgid "Error pasting"
 msgstr ""
 
 #: ;F37426E7C5834E16
-msgid "Note: %d items could not be normalized because they lack peak information"
+msgid ""
+"Note: %d items could not be normalized because they lack peak information"
 msgstr ""
 
 #: ;B2081DC099EE6D13
@@ -288,7 +311,9 @@ msgid "Loop section failed for %d of %d media items:\r\n"
 msgstr ""
 
 #: ;CEA0C14DAA3BB124
-msgid "This action can only be used on audio items that do not loop within the time selection."
+msgid ""
+"This action can only be used on audio items that do not loop within the time "
+"selection."
 msgstr ""
 
 #: ;19217311566E0492
@@ -336,7 +361,9 @@ msgid "Apply track FX Error"
 msgstr ""
 
 #: ;B7B87EA07036FB51
-msgid "Error finding an unused filename to render to. Source file:\r\n\t"
+msgid ""
+"Error finding an unused filename to render to. Source file:\r\n"
+"\t"
 msgstr ""
 
 #: ;6CFBE6010F005CD1
@@ -348,7 +375,9 @@ msgid "Stop recording before apply track FX"
 msgstr ""
 
 #: ;CD17057F9F13E590
-msgid "View source properties for %d items?\r\n(you will have to view them all sequentially!)"
+msgid ""
+"View source properties for %d items?\r\n"
+"(you will have to view them all sequentially!)"
 msgstr ""
 
 #: ;FA76193619885B9B
@@ -376,7 +405,9 @@ msgid "Some items had no (usable) position information"
 msgstr ""
 
 #: ;69D9CFD7AFB7A82B
-msgid "Items could not be normalized to each other because one or more lack peak information"
+msgid ""
+"Items could not be normalized to each other because one or more lack peak "
+"information"
 msgstr ""
 
 #: ;7FB0C17561F491FB
@@ -412,19 +443,35 @@ msgid "Warning: the following tracks have active pre-fx sends:\r\n"
 msgstr ""
 
 #: ;357C9F47C8CE82FD
-msgid "If this track is frozen, the pre-fx sends may send different audio, changing the sound of the project.\r\n\r\nContinue?"
+msgid ""
+"If this track is frozen, the pre-fx sends may send different audio, changing "
+"the sound of the project.\r\n"
+"\r\n"
+"Continue?"
 msgstr ""
 
 #: ;959C4901D33B29D2
-msgid "If this track is rendered, the pre-fx sends may send different audio, changing the sound of the project.\r\n\r\nContinue?"
+msgid ""
+"If this track is rendered, the pre-fx sends may send different audio, "
+"changing the sound of the project.\r\n"
+"\r\n"
+"Continue?"
 msgstr ""
 
 #: ;020ABE0A118F38A3
-msgid "If these tracks are frozen, the pre-fx sends may send different audio, changing the sound of the project.\r\n\r\nContinue?"
+msgid ""
+"If these tracks are frozen, the pre-fx sends may send different audio, "
+"changing the sound of the project.\r\n"
+"\r\n"
+"Continue?"
 msgstr ""
 
 #: ;344937F4641C8F50
-msgid "If these tracks are rendered, the pre-fx sends may send different audio, changing the sound of the project.\r\n\r\nContinue?"
+msgid ""
+"If these tracks are rendered, the pre-fx sends may send different audio, "
+"changing the sound of the project.\r\n"
+"\r\n"
+"Continue?"
 msgstr ""
 
 #: ;BE596784ED8BAE4C
@@ -432,7 +479,9 @@ msgid "Freeze Warning"
 msgstr ""
 
 #: ;CEA654F3C60E323B
-msgid "Warning: some selected tracks may send from channels other than 1/2 (or pre-fx/post-fx sends) which may make this not function as desired. Continue?\r\n"
+msgid ""
+"Warning: some selected tracks may send from channels other than 1/2 (or pre-"
+"fx/post-fx sends) which may make this not function as desired. Continue?\r\n"
 msgstr ""
 
 #: ;5A9A6AA7D3CFBD27
@@ -456,39 +505,57 @@ msgid "Media items on 1 track have been edited after freezing!"
 msgstr ""
 
 #: ;712B3B8E9EA5C857
-msgid "\r\n(Media items added to track)"
+msgid ""
+"\r\n"
+"(Media items added to track)"
 msgstr ""
 
 #: ;10EF276FA1A05152
-msgid "\r\n(Media items moved)"
+msgid ""
+"\r\n"
+"(Media items moved)"
 msgstr ""
 
 #: ;B4ECCA8DEBD070B5
-msgid "\r\n(Fade-in/fade-out added)"
+msgid ""
+"\r\n"
+"(Fade-in/fade-out added)"
 msgstr ""
 
 #: ;9DC594239D4A8A97
-msgid "\r\n(New takes added)"
+msgid ""
+"\r\n"
+"(New takes added)"
 msgstr ""
 
 #: ;3271B4732C4578E9
-msgid "\r\n(Take deleted)"
+msgid ""
+"\r\n"
+"(Take deleted)"
 msgstr ""
 
 #: ;E9A42BD5B728D9EF
-msgid "\r\n(Take envelopes added)"
+msgid ""
+"\r\n"
+"(Take envelopes added)"
 msgstr ""
 
 #: ;950D0AF81A62AAF1
-msgid "\r\n(Playrate/pitch edited)"
+msgid ""
+"\r\n"
+"(Playrate/pitch edited)"
 msgstr ""
 
 #: ;616DCEC25AB77BA1
-msgid "\r\n(Media item length edited)"
+msgid ""
+"\r\n"
+"(Media item length edited)"
 msgstr ""
 
 #: ;AD98A586E0162A15
-msgid "\r\nUnfreezing tracks will discard these edits. Continue?"
+msgid ""
+"\r\n"
+"Unfreezing tracks will discard these edits. Continue?"
 msgstr ""
 
 #: ;E95C063F2AB2D603
@@ -504,7 +571,9 @@ msgid "ReaMote Error"
 msgstr ""
 
 #: ;B39DFED992FCB88A
-msgid "Error sending packet to ReaMote host (is your blocksize too large?). ReaMote disabled for chain"
+msgid ""
+"Error sending packet to ReaMote host (is your blocksize too large?). ReaMote "
+"disabled for chain"
 msgstr ""
 
 #: ;1013F95E5E56BDAB
@@ -516,7 +585,10 @@ msgid "The following MIDI outputs could not be opened:"
 msgstr ""
 
 #: ;5C004DD5C0CFA863
-msgid "You have not yet selected an audio device.\r\n\r\nWould you like to select your audio device driver now (recommended)?"
+msgid ""
+"You have not yet selected an audio device.\r\n"
+"\r\n"
+"Would you like to select your audio device driver now (recommended)?"
 msgstr ""
 
 #: ;4EF943653BC1F32A
@@ -548,11 +620,23 @@ msgid "REAPER Custom Menu Import Error"
 msgstr ""
 
 #: ;948B5857800727B3
-msgid "Import customized \"%s\"?\r\n\r\nIf you have previously customized \"%s\", your changes will be lost unless you export them first!\r\n\r\n(To export, choose \"Customize menus/toolbars\" from the Options menu.)"
+msgid ""
+"Import customized \"%s\"?\r\n"
+"\r\n"
+"If you have previously customized \"%s\", your changes will be lost unless "
+"you export them first!\r\n"
+"\r\n"
+"(To export, choose \"Customize menus/toolbars\" from the Options menu.)"
 msgstr ""
 
 #: ;5055108D8EF82813
-msgid "Import custom menu/toolbar set?\r\n\r\nIf you have previously customized menus or toolbars, your changes will be lost unless you export them first!\r\n\r\n (To export, choose \"Customize menus/toolbars\" from the Options menu.)"
+msgid ""
+"Import custom menu/toolbar set?\r\n"
+"\r\n"
+"If you have previously customized menus or toolbars, your changes will be "
+"lost unless you export them first!\r\n"
+"\r\n"
+" (To export, choose \"Customize menus/toolbars\" from the Options menu.)"
 msgstr ""
 
 #: ;AEC7B57E080C9CD3
@@ -676,7 +760,8 @@ msgid "Initializing Registration Info..."
 msgstr ""
 
 #: ;D716AE0DDC01B1D4
-msgid "Last load of Monitoring FX may have caused hang, load monitoring FX offline?"
+msgid ""
+"Last load of Monitoring FX may have caused hang, load monitoring FX offline?"
 msgstr ""
 
 #: ;681AFC49B9A18AF0
@@ -684,7 +769,9 @@ msgid "Batch file converter active, please stop before shutting down."
 msgstr ""
 
 #: ;75743B2C6A1AEB18
-msgid "Batch file converter has unconverted files. Shutting down will discard the file list."
+msgid ""
+"Batch file converter has unconverted files. Shutting down will discard the "
+"file list."
 msgstr ""
 
 #: ;3414B470D2211017
@@ -692,7 +779,9 @@ msgid "Batch file converter active, please stop before quitting."
 msgstr ""
 
 #: ;2F98DD56FE419813
-msgid "Batch file converter has unconverted files. Quitting will discard the file list."
+msgid ""
+"Batch file converter has unconverted files. Quitting will discard the file "
+"list."
 msgstr ""
 
 #: ;97A80BF5035AB3F8
@@ -832,7 +921,9 @@ msgid "Unknown Error"
 msgstr ""
 
 #: ;^4789C5332441688D
-msgid "Error finding an unused filename for output. Source file:\r\n\t"
+msgid ""
+"Error finding an unused filename for output. Source file:\r\n"
+"\t"
 msgstr ""
 
 #: ;^BBA33ABA3D67B8AA
@@ -864,7 +955,9 @@ msgid "Stop recording before rendering..."
 msgstr ""
 
 #: ;^5945AF9182806811
-msgid "You must stop recording before importing configuration (as configuration import will require a restart)"
+msgid ""
+"You must stop recording before importing configuration (as configuration "
+"import will require a restart)"
 msgstr ""
 
 #: ;^D790926420BA2EB7
@@ -890,4 +983,3 @@ msgstr ""
 #: ;^E1CA4E1B0C5C2DB6
 msgid "Can't open Reamote UDP port!"
 msgstr ""
-
