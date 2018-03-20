@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;E299BC7ED0CFEACC
+msgid "jan"
+msgstr ""
+
+#: ;039A847EE30A5128
+msgid "feb"
+msgstr ""
+
+#: ;C6184F7EBFF48F05
+msgid "mar"
+msgstr ""
+
+#: ;2EA9497EFB5B5344
+msgid "apr"
+msgstr ""
+
+#: ;C618547EBFF49784
+msgid "may"
+msgstr ""
+
+#: ;E2C2BC7ED0F2EFE0
+msgid "jun"
+msgstr ""
+
+#: ;E2C2BE7ED0F2F346
+msgid "jul"
+msgstr ""
+
+#: ;2EBA567EFB69DC8E
+msgid "aug"
+msgstr ""
+
+#: ;92EB537EA331D139
+msgid "sep"
+msgstr ""
+
+#: ;B758077EB853AA47
+msgid "oct"
+msgstr ""
+
+#: ;BE63207EBBDBC9F6
+msgid "nov"
+msgstr ""
+
+#: ;14EDBF7EECDAC3BD
+msgid "dec"
+msgstr ""
+

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;1493D83730821EE9
+msgid "Treble+bass"
+msgstr ""
+
+#: ;ABBFF867E08F445D
+msgid "Treble"
+msgstr ""
+
+#: ;E2DFF8B9560B8D17
+msgid "Alto"
+msgstr ""
+
+#: ;4BF5CA2D408322AB
+msgid "Tenor"
+msgstr ""
+
+#: ;8E675DE089816EB8
+msgid "Treble-8"
+msgstr ""
+
+#: ;8E7BE1E08992F80E
+msgid "Treble+8"
+msgstr ""
+
+#: ;AF610789C4A73394
+msgid "Treble+15"
+msgstr ""
+
+#: ;9A91180AD71C5A9D
+msgid "Bass-8"
+msgstr ""
+
+#: ;C0C7F66B85142005
+msgid "Bass-15"
+msgstr ""
+
+#: ;F069F6F867922302
+msgid "Percussion"
+msgstr ""
+
+#: ;061C930043407A05
+msgid "Percussion-oneline"
+msgstr ""
+
+#: ;A0B7873F04A42329
+msgid "Chart"
+msgstr ""
+
+#: ;^894F61B24A4D3AE0
+msgid "Bass"
+msgstr ""
+

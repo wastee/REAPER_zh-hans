@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;4D20578AB111ACF0
+msgid "15was2SendMixerCtx"
+msgstr ""
+
+#: ;B75CC57A4B1F89C5
+msgid "Show send parameters\tClick"
+msgstr ""
+
+#: ;AB3A6BCE325A5628
+msgid "Show send parameters"
+msgstr ""
+
+#: ;A3128BC4BBE6C116
+msgid "Mute send\tShift+Click"
+msgstr ""
+
+#: ;E42B7D098D9F7AD0
+msgid "Mute send"
+msgstr ""
+
+#: ;071444E5F7680782
+msgid "Remove send\tAlt+Click"
+msgstr ""
+
+#: ;74BCDB48801CC2DA
+msgid "Show track routing window\tCtrl+Click"
+msgstr ""
+
+#: ;B19A3615EADF772D
+msgid "Show track routing window"
+msgstr ""
+
+#: ;F0411A69BCF40C1B
+msgid "Go to send destination track"
+msgstr ""
+
+#: ;^476CA46F5CC9791B
+msgid "Remove send"
+msgstr ""
+

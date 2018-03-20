@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;84B7EB53E01864F4
+msgid "Add Marker"
+msgstr ""
+
+#: ;5681A0BC2DF9EB72
+msgid "Tempo/Time Signature Marker"
+msgstr ""
+
+#: ;0F39829489A7CAC9
+msgid "Set rhythm pattern:"
+msgstr ""
+
+#: ;AA1B9A3E6F206718
+msgid "This time signature marker will force the previous measure to end at"
+msgstr ""
+
+#: ;FC309F77FF9569CE
+msgid "but the marker itself will be positioned at"
+msgstr ""
+
+#: ;C7B4DAF847DAFE0C
+msgid "Move time signature change to"
+msgstr ""
+
+#: ;71DEB1BBF89CA7A9
+msgid "Time signature marker position"
+msgstr ""
+

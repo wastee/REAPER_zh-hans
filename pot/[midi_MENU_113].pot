@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;A910AA64E54FA7F0
+msgid "Event list toolbar"
+msgstr ""
+
+#: ;^C52E96757D127F12
+msgid "Save (.mid source only)"
+msgstr ""
+
+#: ;^B9E01E945963FBE3
+msgid "Revert (.mid source only)"
+msgstr ""
+
+#: ;^A94AD4A428E77297
+msgid "Piano roll"
+msgstr ""
+
+#: ;^BC42705B7ADECF45
+msgid "Named notes"
+msgstr ""
+
+#: ;^62FDF7F7A684A0AF
+msgid "Event list"
+msgstr ""
+
+#: ;^4102183C117A7763
+msgid "Musical notation"
+msgstr ""
+
+#: ;^C499FEFB8CC28F79
+msgid "Filter"
+msgstr ""
+
+#: ;^18E4377E5DDC2B7A
+msgid "Add"
+msgstr ""
+
+#: ;^AF3196AD6B727ABC
+msgid "Delete"
+msgstr ""
+
+#: ;^C0647C0C15A70DB9
+msgid "Dock editor"
+msgstr ""
+

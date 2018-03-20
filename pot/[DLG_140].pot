@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;^D9B12705AD844C62
+msgid "List1"
+msgstr ""
+
+#: ;^18E4377E5DDC2B7A
+msgid "Add"
+msgstr ""
+
+#: ;^F812C7145E261C23
+msgid "Remove"
+msgstr ""
+
+#: ;^28450354F52CB7AE
+msgid "Reset"
+msgstr ""
+
+#: ;^62C49C467C0C15D3
+msgid "Load..."
+msgstr ""
+
+#: ;^925B2CEB12D2D978
+msgid "Save..."
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

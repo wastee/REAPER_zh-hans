@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;0B23FB04199CFD2A
+msgid "VST plug-ins settings"
+msgstr ""
+
+#: ;12817484270109EC
+msgid "VST plug-in paths (can be multiple paths separated by semicolons):"
+msgstr ""
+
+#: ;5331091DCCA131E4
+msgid "Auto-detect"
+msgstr ""
+
+#: ;5F7990F286F5220C
+msgid "Re-scan"
+msgstr ""
+
+#: ;A858AA3DA9AB3CEC
+msgid "Clear cache/re-scan"
+msgstr ""
+
+#: ;2585479702B69241
+msgid "Do not scan VST names/types (deprecated)"
+msgstr ""
+
+#: ;C14B8D54F4D0074D
+msgid "If multiple VSTs are scanned with the same dll name, only one will be available: either the plugin found later in the path list, or highest in the directory structure for a given path."
+msgstr ""
+
+#: ;B5A31DD6277997A5
+msgid "Default VST to generic UI (instead of plug-in UI)"
+msgstr ""
+
+#: ;401188713EF0876C
+msgid "Knob mode:"
+msgstr ""
+
+#: ;BED87C6BBD50429C
+msgid "VST compatibility"
+msgstr ""
+
+#: ;62A7D2B1D8ABD3B3
+msgid "Don't flush synthesizer plug-ins on stop/reset"
+msgstr ""
+
+#: ;EF9F2D3E3EEF2505
+msgid "Don't send note-offs or pitch reset messages on stop/reset"
+msgstr ""
+
+#: ;F27EE9EB697AD546
+msgid "Inform plug-ins of offline rendering state"
+msgstr ""
+
+#: ;EB5AD63A75E962D6
+msgid "Bypass audio while opening plug-in config window (good for some non-threadsafe VSTs)"
+msgstr ""
+
+#: ;9AFB50287E6BE13A
+msgid "UAD-1 synchronous mode (reduces CPU munch) - requires anticipative FX disabled"
+msgstr ""
+
+#: ;D7D5E6EF54BF3AAB
+msgid "Allow complete unload of VST plug-ins (reduces memory use, but may not be compatible)"
+msgstr ""
+
+#: ;40D2555271B4D0B9
+msgid "Parameter automation notifications:"
+msgstr ""
+
+#: ;^1EB556E18D613E28
+msgid "Add..."
+msgstr ""
+

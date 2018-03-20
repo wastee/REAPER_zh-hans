@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;D71FC359E353E6C2
+msgid "Appearance settings"
+msgstr ""
+
+#: ;93DD3658B143DD45
+msgid "Tooltip delay:"
+msgstr ""
+
+#: ;29F167A56D81C267
+msgid "Tooltips for UI elements"
+msgstr ""
+
+#: ;6630700BA3872D6E
+msgid "Tooltips for items/envelopes"
+msgstr ""
+
+#: ;C9959CE9924AB7A0
+msgid "Envelope tooltips on hover"
+msgstr ""
+
+#: ;5103D7B3AF96E751
+msgid "Play cursor width:"
+msgstr ""
+
+#: ;750E37B6DDD93553
+msgid "Faster text rendering (reduces antialiasing)"
+msgstr ""
+
+#: ;B697FD49D09D8899
+msgid "Show last undo point in menu bar"
+msgstr ""
+
+#: ;4A37C58202F1D1E7
+msgid "Show guide lines when editing"
+msgstr ""
+
+#: ;0A4D4FC73A4F510F
+msgid "Solid edge on time selection highlight"
+msgstr ""
+
+#: ;C054DDF112689E1C
+msgid "Solid edge on loop selection"
+msgstr ""
+
+#: ;D91BC117098D4EC4
+msgid "Don't scale toolbar buttons below 1:1"
+msgstr ""
+
+#: ;558142A2C931366C
+msgid "Don't scale toolbar buttons above 1:1"
+msgstr ""
+
+#: ;7398F3D28D395CB7
+msgid "Frameless floating toolbar windows"
+msgstr ""
+
+#: ;7C19AABD4450CE2B
+msgid "Draw vertical text bottom-up"
+msgstr ""
+
+#: ;9E095E7D2135CFA9
+msgid "Pixels between items on adjacent tracks:"
+msgstr ""
+
+#: ;604E986E24512244
+msgid "Maximum number of lanes, when showing overlapping items in lanes:"
+msgstr ""
+
+#: ;99F74F79442093EF
+msgid "Antialiased fades and envelopes"
+msgstr ""
+
+#: ;61E70BF70F6CD68F
+msgid "Filled automation envelopes"
+msgstr ""
+
+#: ;56E0E33E38C074B4
+msgid "Filled envelopes when drawn over media"
+msgstr ""
+
+#: ;89E372315C3B2BF3
+msgid "Horizontal grid lines in automation lanes"
+msgstr ""
+
+#: ;6B38B6D690F4D2B5
+msgid "Grid line Z order:"
+msgstr ""
+
+#: ;2D6B74025CB78209
+msgid "Show dotted grid lines"
+msgstr ""
+
+#: ;7D6C52FCAEDCCFCF
+msgid "Marker line Z order:"
+msgstr ""
+
+#: ;980D5EC775E875B9
+msgid "Project regions/markers"
+msgstr ""
+
+#: ;36A386239E958667
+msgid "Display gridlines for:"
+msgstr ""
+
+#: ;F5CDF794388FA7B1
+msgid "Time signature changes"
+msgstr ""
+
+#: ;^649ECB151A2B4705
+msgid "Slider1"
+msgstr ""
+
+#: ;^E9991E9C69A2E870
+msgid "Envelopes"
+msgstr ""
+

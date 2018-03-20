@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;D945A0A776B76497
+msgid "Configure MIDI Output"
+msgstr ""
+
+#: ;37D26ECF826CFE54
+msgid "Enable output to this device"
+msgstr ""
+
+#: ;6CEB9F46B831161A
+msgid "Send clock to this device"
+msgstr ""
+
+#: ;CB06E9745C2B8A27
+msgid "No SPP/continue"
+msgstr ""
+
+#: ;B41C537F50256512
+msgid "Open device in low latency/low precision mode"
+msgstr ""
+
+#: ;EE0A946D9F3B72B5
+msgid "Offset output to this device by:"
+msgstr ""
+
+#: ;^84225D657EA873E2
+msgid "Device name:"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^D8B3B3186B8C817F
+msgid "ms"
+msgstr ""
+
+#: ;^ABEC79059CAD0B0E
+msgid "Alias name:"
+msgstr ""
+

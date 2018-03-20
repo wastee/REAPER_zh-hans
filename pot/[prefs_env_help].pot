@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;60E75E1C06143DD2
+msgid "Display newly created automation envelopes in separate lanes, as opposed to drawing the envelope over the media lane."
+msgstr ""
+
+#: ;8BE1457A66ECF551
+msgid "Envelopes are not normally drawn overlaid over one another. When drawing envelopes over media, overlay them if they would otherwise be too small."
+msgstr ""
+
+#: ;7EACC9195B6EAA97
+msgid "When activating an envelope in the track envelopes dialog or via menu selection, select the envelope after activation."
+msgstr ""
+
+#: ;CD28D7EE423403C2
+msgid "Selecting a different envelope via the envelope lane control panel menu will either hide the old envelope or move it to the media lane."
+msgstr ""
+
+#: ;F8C8FB0CC40DE7CB
+msgid "Decibel range of volume envelopes, from the bottom to the top of the envelope."
+msgstr ""
+
+#: ;C90D6FAF98654767
+msgid "Semitone range of per-take pitch envelopes. A value of 3 means the envelope range is -3 to +3 semitones."
+msgstr ""
+
+#: ;C981C912EB56CE08
+msgid "Per-take pitch envelope points can be snapped to semitones, or fractional semitones."
+msgstr ""
+
+#: ;B3FAF44B3E38F204
+msgid "Transition time between envelope points that are automatically added when moving the lane slider with a time selection, moving media items, etc."
+msgstr ""
+
+#: ;6115B93DB8CE3A5A
+msgid "When mouse modifier preferences are set to insert an envelope point, clicking an inactive envelope can just select the envelope, or insert a point."
+msgstr ""
+
+#: ;957EBDEA38928EDF
+msgid "When clicking without modifiers on an envelope to select it, allow creation of new points on the same click."
+msgstr ""
+
+#: ;FE8EE594477C7178
+msgid "When editing a single envelope point with the mouse, the edit can be constrained to the the space between adjacent envelope points."
+msgstr ""
+
+#: ;0F8D0ED7C3445C45
+msgid "When moving media items across tracks, make sure all envelopes that are modified are made visible so that you are aware of the changes being made."
+msgstr ""
+
+#: ;86A807A735044B6D
+msgid "Envelope point selection can follow time selection for the currently active envelope."
+msgstr ""
+
+#: ;CE6D0EE9AF534919
+msgid "Moving or copying items can automatically create edge points for envelopes, preserving the existing envelope shape around the edits."
+msgstr ""
+
+#: ;6110AA5E7762FC3E
+msgid "Moving or copying multiple envelope points can automatically create edge points, to preserve the existing envelope shape around the edits."
+msgstr ""
+
+#: ;2FEA27A4E351D863
+msgid "Ripple editing or inserting time can automatically create edge points, to preserve the existing envelope shape."
+msgstr ""
+
+#: ;4528DEE372A35468
+msgid "The BPM display range for the project tempo map envelope can be changed. You can still enter an out-of-range BPM value manually."
+msgstr ""
+
+#: ;99590307CA2801DD
+msgid "Relative mouse edits provide more Y-axis resolution at the expense of envelope points not following the mouse pointer."
+msgstr ""
+
+#: ;58F5A7A879125045
+msgid "When editing fader-scaled volume envelopes, one vertical pixel of mouse movement translates to 0.2dB of gain (or 1dB when below -60dB)."
+msgstr ""
+
+#: ;1CFA79E2A57A99DA
+msgid "When editing envelopes that are not fader-scaled volume envelopes, one vertical pixel of mouse movement translates to 0.5% of value adjustment."
+msgstr ""
+
+#: ;DD36120EC558DEC1
+msgid "Automation items will be automatically assigned a user-editable label. The envelope name can be automatically appended to this label."
+msgstr ""
+

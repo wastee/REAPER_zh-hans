@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;33B269E297E20712
+msgid "There was an error opening the audio hardware"
+msgstr ""
+
+#: ;ACB796CB312B30A0
+msgid "Error initializing ASIO"
+msgstr ""
+
+#: ;31C2ECA2825D4707
+msgid "No ASIO drivers"
+msgstr ""
+
+#: ;4B9CD2A99562AE66
+msgid "ASIO driver not found"
+msgstr ""
+
+#: ;72B530CFB1259D21
+msgid "Error loading ASIO driver"
+msgstr ""
+
+#: ;D38FBFB1DBD28EBE
+msgid "Error initializing ASIO driver"
+msgstr ""
+
+#: ;5EA53B1CFF7B4EDB
+msgid "Error getting ASIO channels"
+msgstr ""
+
+#: ;2A7EC12851401A3A
+msgid "Error getting ASIO buffer size"
+msgstr ""
+
+#: ;76726B8CFD17C26B
+msgid "Error getting ASIO samplerate"
+msgstr ""
+
+#: ;03302C2A49590A2B
+msgid "Warning: could not set requested ASIO sample rate"
+msgstr ""
+
+#: ;6872352C07D51959
+msgid "Different ASIO sample types per stream, not compatible"
+msgstr ""
+
+#: ;5380C09EE63084AB
+msgid "Error initializing ASIO buffers"
+msgstr ""
+
+#: ;F3BBBA22791028DB
+msgid "Unknown ASIO sample type (%d), currently 16/24/32bps LSB and 32/64bps float LSB are supported (report this type number and we will try to support it)"
+msgstr ""
+
+#: ;D356C978B6D1EBA7
+msgid "Error starting ASIO"
+msgstr ""
+
+#: ;B8FAC0A1523ABF3F
+msgid "No CoreAudio devices found!"
+msgstr ""
+
+#: ;7CD620C712782D85
+msgid "CoreAudio device lacks input buffers"
+msgstr ""
+
+#: ;5325077F4397A5DC
+msgid "CoreAudio device lacks output buffers"
+msgstr ""
+
+#: ;841E661992C688FA
+msgid "Error opening CoreAudio device"
+msgstr ""
+
+#: ;7175FEF940041394
+msgid "WASAPI error: could not open device enumerator"
+msgstr ""
+
+#: ;5683CCAD1C8D68AD
+msgid "WASAPI error: could not enumerate input devices"
+msgstr ""
+
+#: ;DAB8C6743040FE94
+msgid "WASAPI error: could not enumerate output devices"
+msgstr ""
+
+#: ;D36E8246E4C01A2F
+msgid "WASAPI error: could not find input device"
+msgstr ""
+
+#: ;F5049B9E4419D7C6
+msgid "WASAPI error: could not find output device"
+msgstr ""
+
+#: ;12FBBB88BE73B1DD
+msgid "WASAPI error: could not activate input device"
+msgstr ""
+
+#: ;FFB549F57F0708C8
+msgid "WASAPI error: could not activate output device"
+msgstr ""
+
+#: ;02CE701A46A0740A
+msgid "WASAPI error: could not find input device format"
+msgstr ""
+
+#: ;D2287BB5E39110F1
+msgid "WASAPI error: could not find output device format"
+msgstr ""
+
+#: ;62EFC0C7FEEB15CB
+msgid "WASAPI error: could not initialize shared input device"
+msgstr ""
+
+#: ;9E75CD6A3319263A
+msgid "WASAPI error: could not initialize shared output device"
+msgstr ""
+
+#: ;407CE148DFDD29EC
+msgid "WASAPI error: could not initialize exclusive input device"
+msgstr ""
+
+#: ;D6212BD819DEC5EF
+msgid "WASAPI error: could not initialize exclusive output device"
+msgstr ""
+
+#: ;750D92D32F762E23
+msgid "WASAPI error: could not set event for input device"
+msgstr ""
+
+#: ;25BCD076D22E6272
+msgid "WASAPI error: could not set event for output device"
+msgstr ""
+
+#: ;A094F8E33FE8F3D3
+msgid "WASAPI error: could not get render service"
+msgstr ""
+
+#: ;092E68FE8DA8C54D
+msgid "WASAPI error: could not get capture service"
+msgstr ""
+
+#: ;640EECA9F113778E
+msgid "WASAPI error: no input or output channels defined"
+msgstr ""
+
+#: ;CD2C890CFFD16B0A
+msgid "WASAPI exclusive mode device error: input device samplerate does not match output device samplerate!"
+msgstr ""
+
+#: ;CE46775951D346E3
+msgid "WASAPI shared mode device error: input device samplerate does not match output device samplerate!\r\n\r\nYou should change the device samplerates in the control panel to match, or use exclusive mode"
+msgstr ""
+
+#: ;A0F6586BD617A0C9
+msgid "WASAPI error allocating buffers"
+msgstr ""
+
+#: ;^73532F71FB46906C
+msgid "(not connected)"
+msgstr ""
+

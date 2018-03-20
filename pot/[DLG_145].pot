@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;26A41802E656AB2D
+msgid "Theme development/tweaker"
+msgstr ""
+
+#: ;76CA49A564380AB8
+msgid "Theme color/font settings:"
+msgstr ""
+
+#: ;72E77C5A7CC1D2B0
+msgid "Load Theme..."
+msgstr ""
+
+#: ;C63F867B1B382AE3
+msgid "Save Theme..."
+msgstr ""
+
+#: ;A439058D27884637
+msgid "Image resource path:"
+msgstr ""
+
+#: ;80682754268B716C
+msgid "Show in explorer"
+msgstr ""
+
+#: ;3AAC7E082D07235C
+msgid "Reload images"
+msgstr ""
+
+#: ;^81F584F9FDAE6C4F
+msgid "Show in finder"
+msgstr ""
+
+#: ;^F685FB3A91025549
+msgid "Browse..."
+msgstr ""
+

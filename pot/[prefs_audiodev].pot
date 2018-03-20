@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;2DF91730D72FFD6E
+msgid "(error getting info)"
+msgstr ""
+
+#: ;3EF994B7D37DC445
+msgid "(latency: %d ms)"
+msgstr ""
+
+#: ;34D436BFAA4E8EDA
+msgid "No ASIO drivers found!"
+msgstr ""
+
+#: ;B7C2AD767B61F5A6
+msgid "WDM Kernel Streaming (Windows XP)"
+msgstr ""
+
+#: ;9BF5F65011E69DC5
+msgid "DirectSound"
+msgstr ""
+
+#: ;0C5C12F89052285A
+msgid "WaveOut"
+msgstr ""
+
+#: ;8931E3B9B4BEB40B
+msgid "ASIO"
+msgstr ""
+
+#: ;E60104721C668F07
+msgid "Dummy Audio"
+msgstr ""
+
+#: ;5A361F136F60C54E
+msgid "WASAPI (Windows 7/8/10/Vista)"
+msgstr ""
+
+#: ;F62BB8ADCA1ACFB4
+msgid "ASIO Default / MMCSS Pro Audio / Time Critical"
+msgstr ""
+
+#: ;99BC561DFE103323
+msgid "MMCSS / Time Critical"
+msgstr ""
+
+#: ;B8ECBD868F6E6AFE
+msgid "Not found:"
+msgstr ""
+
+#: ;C71F29716DFFC020
+msgid "JACK"
+msgstr ""
+
+#: ;892179F42F48DAF5
+msgid "JACK [not installed on system]"
+msgstr ""
+
+#: ;07B7BD1A9CF2127C
+msgid "JACK [not supported in this build]"
+msgstr ""
+
+#: ;F86B2EB9F35979C6
+msgid "ALSA"
+msgstr ""
+
+#: ;32B6A866216B55D2
+msgid "PulseAudio"
+msgstr ""
+
+#: ;8507A7EA023AF513
+msgid "PulseAudio [not installed on system]"
+msgstr ""
+
+#: ;61605C281C172E72
+msgid "(non-RT)"
+msgstr ""
+
+#: ;DC524F263483B189
+msgid "(suggested setting for RT use)"
+msgstr ""
+
+#: ;07531569388B6383
+msgid "(default hardware priority)"
+msgstr ""
+
+#: ;BB9D155CE82F9870
+msgid "(maximum priority)"
+msgstr ""
+
+#: ;^63ACD193C4316F68
+msgid "Normal"
+msgstr ""
+
+#: ;^B726931672EE1B2F
+msgid "Above Normal"
+msgstr ""
+
+#: ;^76036DCB216B5D75
+msgid "Highest"
+msgstr ""
+
+#: ;^FC0E6CF88C55D677
+msgid "Time Critical"
+msgstr ""
+
+#: ;^B5431ED426EE5CA5
+msgid "Input Device:"
+msgstr ""
+
+#: ;^7A1E9510735905CF
+msgid "Audio Device:"
+msgstr ""
+

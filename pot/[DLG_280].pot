@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;FE116402CB3788B9
+msgid "Generate guides"
+msgstr ""
+
+#: ;A43E9F62576B8288
+msgid "Write stretch markers"
+msgstr ""
+
+#: ;48867AD65E380310
+msgid "Dynamic split items"
+msgstr ""
+
+#: ;510C378B5623AFE4
+msgid "Split points"
+msgstr ""
+
+#: ;2C4C3A5A957AA431
+msgid "At transients"
+msgstr ""
+
+#: ;D56E84CC78F5A6D3
+msgid "When gate opens"
+msgstr ""
+
+#: ;90DB984314AE8A1F
+msgid "When gate closes"
+msgstr ""
+
+#: ;3C9E457152A390EC
+msgid "Reduce splits:"
+msgstr ""
+
+#: ;ABC4A8F33CBAC511
+msgid "Min slice length:"
+msgstr ""
+
+#: ;8A4F022AED293868
+msgid "Min silence length:"
+msgstr ""
+
+#: ;C10260CAB400E860
+msgid "Constrain slice length:"
+msgstr ""
+
+#: ;88E8162102A028F5
+msgid "Left to right"
+msgstr ""
+
+#: ;1BAE0A2B4119A549
+msgid "Best to worst"
+msgstr ""
+
+#: ;7A610788A4C23F18
+msgid "Gate"
+msgstr ""
+
+#: ;1980371DC145AC63
+msgid "Gate threshold:"
+msgstr ""
+
+#: ;BEE7431BB471C779
+msgid "Set new items forced to beat timebase"
+msgstr ""
+
+#: ;966AB54DE9AC1DAF
+msgid "Auto-adjust snap offset to peak value within first:"
+msgstr ""
+
+#: ;A79EFAA78FD76085
+msgid "Remove silent areas (requires splitting on gate close)"
+msgstr ""
+
+#: ;0905109F3F2CD4D2
+msgid "Create chromatic MIDI item from slices"
+msgstr ""
+
+#: ;D92D281636166CEF
+msgid "Action to perform"
+msgstr ""
+
+#: ;208D6B0BE497C908
+msgid "Set transient sensitivity"
+msgstr ""
+
+#: ;^15E7199686AA193D
+msgid "Split"
+msgstr ""
+
+#: ;^649ECB151A2B4705
+msgid "Slider1"
+msgstr ""
+
+#: ;^D8B3B3186B8C817F
+msgid "ms"
+msgstr ""
+
+#: ;^D8D27C186BA6D499
+msgid "dB"
+msgstr ""
+
+#: ;^D92F489AE81E13F2
+msgid "Hysteresis:"
+msgstr ""
+
+#: ;^0D2DD411CE90EA28
+msgid "Leading pad:"
+msgstr ""
+
+#: ;^1E386FB5FE43C9CC
+msgid "Trailing pad:"
+msgstr ""
+
+#: ;^C44624AFE5B908A4
+msgid "Fade pad"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

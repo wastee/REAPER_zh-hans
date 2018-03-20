@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;9C329F9649D79AD0
+msgid "MIDI/OSC Learn"
+msgstr ""
+
+#: ;0C19B96552E821B2
+msgid "Command:"
+msgstr ""
+
+#: ;DFD31304567AB676
+msgid "CC mode:"
+msgstr ""
+
+#: ;BECD011FF0FC55E8
+msgid "Arm envelope for selected parameter"
+msgstr ""
+
+#: ;7FC0770162E37102
+msgid "Move the MIDI or OSC controller you wish to assign."
+msgstr ""
+
+#: ;BBA1029B1D147679
+msgid "Note: a MIDI device must be enabled and set to \"control\" in Preferences/Audio/MIDI devices. An OSC device must be enabled for learn bindings in Preferences/Control Surfaces."
+msgstr ""
+
+#: ;^542A194EAA789AB0
+msgid "Enable only when track or item is selected"
+msgstr ""
+
+#: ;^DDD50B6B9C96D4AA
+msgid "Enable only when effect configuration is focused"
+msgstr ""
+
+#: ;^41BAD65DE621E179
+msgid "Soft takeover (absolute mode only)"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^F812C7145E261C23
+msgid "Remove"
+msgstr ""
+

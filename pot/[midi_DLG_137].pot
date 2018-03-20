@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;08328E07B4EB7A1F
+msgid ":"
+msgstr ""
+
+#: ;A77F2843D5933805
+msgid "Note length:"
+msgstr ""
+
+#: ;8F90B8B4371D0EB3
+msgid "Staff:"
+msgstr ""
+
+#: ;A6BEBD80AC902C6A
+msgid "Edits modify note positions"
+msgstr ""
+
+#: ;^2545832814C62E1B
+msgid "Edit Tuplet"
+msgstr ""
+
+#: ;^0897D550A9582F1B
+msgid "Voice:"
+msgstr ""
+
+#: ;^F812C7145E261C23
+msgid "Remove"
+msgstr ""
+
+#: ;^D7323C887B0A2951
+msgid "Apply"
+msgstr ""
+
+#: ;^AB2A3D4EF1C9D1A8
+msgid "Default"
+msgstr ""
+
+#: ;^62D61C82DFC06ED3
+msgid "High"
+msgstr ""
+
+#: ;^BA5E537E2889F79F
+msgid "Low"
+msgstr ""
+
+#: ;^7622187E02308D3E
+msgid "Top"
+msgstr ""
+
+#: ;^BADA204837504C00
+msgid "Bottom"
+msgstr ""
+

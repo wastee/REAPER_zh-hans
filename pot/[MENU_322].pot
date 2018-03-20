@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;7E02CFB8966DECE8
+msgid "22MidiPrefs"
+msgstr ""
+
+#: ;F09282AB2265717E
+msgid "Configure input...\t(Doubleclick)"
+msgstr ""
+
+#: ;6786B0C60EFD69C5
+msgid "Configure input..."
+msgstr ""
+
+#: ;1D543734374ACE0C
+msgid "Enable input"
+msgstr ""
+
+#: ;0E5C993D86877C8B
+msgid "Configure output...\t(Doubleclick)"
+msgstr ""
+
+#: ;1E683F71A896913C
+msgid "Configure output..."
+msgstr ""
+
+#: ;A9344E96F9B31CB5
+msgid "Enable output"
+msgstr ""
+
+#: ;420833D46E8B25F9
+msgid "Send clock to output"
+msgstr ""
+
+#: ;77B5751763B344FC
+msgid "Do not send SPP to output"
+msgstr ""
+
+#: ;477300E83FE78CB0
+msgid "Low latency output mode (low precision)"
+msgstr ""
+
+#: ;EB5E8375C34F1C4B
+msgid "JoystickInput"
+msgstr ""
+
+#: ;CCAAFAE3CB594CFC
+msgid "Edit joystick definition"
+msgstr ""
+
+#: ;D9BD69B4051BEF73
+msgid "Remove joystick"
+msgstr ""
+
+#: ;^C5531D0DEE1F0D0D
+msgid "Input"
+msgstr ""
+
+#: ;^4F32BF040299F0AA
+msgid "Enable input for control messages"
+msgstr ""
+
+#: ;^2555373B75AA89B2
+msgid "Output"
+msgstr ""
+

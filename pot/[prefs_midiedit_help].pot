@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;B903973979C81B00
+msgid "Show a brief color flash on the MIDI editor keyboard when the track receives MIDI note-on input."
+msgstr ""
+
+#: ;C0B9362E91BD0449
+msgid "Show horizontal grid lines in CC lanes in the MIDI editor, height permitting."
+msgstr ""
+
+#: ;A14BF0025A865D5D
+msgid "Set the MIDI event density when drawing in CC lanes with the mouse."
+msgstr ""
+
+#: ;1A7A22B9337D0931
+msgid "CC event drawing density will be greater when the view is zoomed in, and lower when zoomed out."
+msgstr ""
+
+#: ;762391302F04E128
+msgid "Set the default behavior when double-clicking a MIDI media item."
+msgstr ""
+
+#: ;BE45AA5CE407ABC8
+msgid "The MIDI item active in the MIDI editor can follow the media item selection in the arrange view."
+msgstr ""
+
+#: ;8A0CCA6F04960F40
+msgid "Media item selection in the arrange view can determine whether a MIDI item is visible in the MIDI editor."
+msgstr ""
+
+#: ;BD77360516B83B36
+msgid "Media item selection in the arrange view can determine whether a MIDI item is editable in the MIDI editor."
+msgstr ""
+
+#: ;38748BD61880FF8A
+msgid "By default all displayed MIDI items can be editable, or only those on the same track."
+msgstr ""
+
+#: ;0BC0E872C17D4C55
+msgid "When displaying multiple MIDI media items in a single editor, the editor can be set to remain open if the active media item is deleted."
+msgstr ""
+
+#: ;8BC16DD5EBF937E4
+msgid "More information about displaying multiple MIDI media items within a single MIDI editor."
+msgstr ""
+
+#: ;DE1875B6CABFB266
+msgid "When displaying multiple MIDI media items at once, choose how to switch the active media item within the MIDI editor."
+msgstr ""
+
+#: ;9B2ACE664429DF8D
+msgid "MIDI notes/CC in inactive media items can be drawn more or less faintly."
+msgstr ""
+
+#: ;C486CCEB98553CDB
+msgid "Colormap image to use for drawing notes in the MIDI editor. If no colormap is specified here, the colormap in the current color theme will be used."
+msgstr ""
+
+#: ;644B168704079A8D
+msgid "Browse for a colormap image to use as the default for drawing notes in the MIDI editor."
+msgstr ""
+
+#: ;78E87B9ABF742494
+msgid "Enable various editing behaviors to aid in RBN song authoring, such as only attaching lyric events to valid playable notes."
+msgstr ""
+

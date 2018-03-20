@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;EB0AA55DCB1360D8
+msgid "kbps, 6-256 per channel, only an average target in VBR mode"
+msgstr ""
+
+#: ;E78E0DEFF53B4BF3
+msgid "Complexity:"
+msgstr ""
+
+#: ;1947FE678014C0F4
+msgid "0-10, 10 gives the highest quality but slower encoding"
+msgstr ""
+
+#: ;^46F1486DB9B6A7A6
+msgid "Mode:"
+msgstr ""
+
+#: ;^6355A67DF71FA0FB
+msgid "VBR"
+msgstr ""
+
+#: ;^9567E9AB777E07DA
+msgid "CVBR"
+msgstr ""
+
+#: ;^D3F87301A0059CA6
+msgid "Hard-CBR"
+msgstr ""
+
+#: ;^47721B0B3BD6F596
+msgid "Bitrate:"
+msgstr ""
+

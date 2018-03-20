@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;B2AE811100D0DBB6
+msgid "Automute: track output exceeds"
+msgstr ""
+
+#: ;A565C29A3016483F
+msgid "(no tracks automuted)"
+msgstr ""
+
+#: ;^F420AC1723391ECE
+msgid "Master track"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+

@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;798FEF0F530409BA
+msgid "no params"
+msgstr ""
+
+#: ;87660D0A7857FB75
+msgid "Param %d"
+msgstr ""
+
+#: ;DB9EF2872E47B399
+msgid "Loaded preset"
+msgstr ""
+
+#: ;B84E8D60868D062E
+msgid "Delete preset \"%s\"?"
+msgstr ""
+
+#: ;366F89065DCFE700
+msgid "Error compiling code:"
+msgstr ""
+
+#: ;08EABAE745FE2924
+msgid "unknown error, no code?"
+msgstr ""
+
+#: ;096A77B94AB3BCBF
+msgid "Save bad code?"
+msgstr ""
+
+#: ;604E97A0E0332146
+msgid "Code updated successfully"
+msgstr ""
+
+#: ;830D76EB44451B94
+msgid "Unsaved code, save before closing?"
+msgstr ""
+
+#: ;^11B3B66593F236CF
+msgid "Confirm Preset Delete"
+msgstr ""
+
+#: ;^7C0BD7F6D6C1126C
+msgid "Code error"
+msgstr ""
+
+#: ;^4D0B7C1B0447364A
+msgid "Video processor"
+msgstr ""
+
+#: ;^28450354F52CB7AE
+msgid "Reset"
+msgstr ""
+
+#: ;^0EC28D42C155A657
+msgid "----  User Presets (.rpl)  ----"
+msgstr ""
+
+#: ;^93244D3BB94E6F33
+msgid "No preset"
+msgstr ""
+

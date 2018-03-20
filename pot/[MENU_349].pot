@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;D4AA9FA4DD87DCBB
+msgid "ToolbarCtx"
+msgstr ""
+
+#: ;8AC3F18DED018764
+msgid "Open toolbar"
+msgstr ""
+
+#: ;177808ACA4766FD7
+msgid "Position toolbar"
+msgstr ""
+
+#: ;0E304AE7AAD82688
+msgid "At main toolbar"
+msgstr ""
+
+#: ;A4E01EE011312CD9
+msgid "At top of main window"
+msgstr ""
+
+#: ;7CA48A79F9CA04C2
+msgid "In MIDI Editor"
+msgstr ""
+
+#: ;202467FAD2786E8D
+msgid "Floating"
+msgstr ""
+
+#: ;01437BA20D04BEC5
+msgid "In Toolbar Docker"
+msgstr ""
+
+#: ;8E33C7D293D09496
+msgid "Close toolbar"
+msgstr ""
+
+#: ;820BD2CADF2656A5
+msgid "Customize toolbar..."
+msgstr ""
+
+#: ;^7C3B88238C71DAA1
+msgid "Main toolbar"
+msgstr ""
+
+#: ;^27C488257589FFA9
+msgid "Toolbar 1"
+msgstr ""
+
+#: ;^27C485257589FA90
+msgid "Toolbar 2"
+msgstr ""
+
+#: ;^27C486257589FC43
+msgid "Toolbar 3"
+msgstr ""
+
+#: ;^27C48B25758A04C2
+msgid "Toolbar 4"
+msgstr ""
+
+#: ;^27C48C25758A0675
+msgid "Toolbar 5"
+msgstr ""
+
+#: ;^27C48925758A015C
+msgid "Toolbar 6"
+msgstr ""
+
+#: ;^27C48A25758A030F
+msgid "Toolbar 7"
+msgstr ""
+
+#: ;^27C48F25758A0B8E
+msgid "Toolbar 8"
+msgstr ""
+
+#: ;^27C49025758A0D41
+msgid "Toolbar 9"
+msgstr ""
+
+#: ;^1CF2F0A6B97D50FB
+msgid "Toolbar 10"
+msgstr ""
+
+#: ;^1CF2EFA6B97D4F48
+msgid "Toolbar 11"
+msgstr ""
+
+#: ;^1CF2F2A6B97D5461
+msgid "Toolbar 12"
+msgstr ""
+
+#: ;^1CF2F1A6B97D52AE
+msgid "Toolbar 13"
+msgstr ""
+
+#: ;^1CF2F4A6B97D57C7
+msgid "Toolbar 14"
+msgstr ""
+
+#: ;^1CF2F3A6B97D5614
+msgid "Toolbar 15"
+msgstr ""
+
+#: ;^1CF2F6A6B97D5B2D
+msgid "Toolbar 16"
+msgstr ""
+
+#: ;^8C591324B04C3AED
+msgid "MIDI piano roll toolbar"
+msgstr ""
+
+#: ;^1A6E49AB086243F9
+msgid "MIDI 1"
+msgstr ""
+
+#: ;^1A6E46AB08623EE0
+msgid "MIDI 2"
+msgstr ""
+
+#: ;^1A6E47AB08624093
+msgid "MIDI 3"
+msgstr ""
+
+#: ;^1A6E4CAB08624912
+msgid "MIDI 4"
+msgstr ""
+
+#: ;^1A6E4DAB08624AC5
+msgid "MIDI 5"
+msgstr ""
+
+#: ;^1A6E4AAB086245AC
+msgid "MIDI 6"
+msgstr ""
+
+#: ;^1A6E4BAB0862475F
+msgid "MIDI 7"
+msgstr ""
+
+#: ;^1A6E50AB08624FDE
+msgid "MIDI 8"
+msgstr ""
+

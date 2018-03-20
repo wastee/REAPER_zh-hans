@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;20F90FF8D46C94CE
+msgid "Split selected items"
+msgstr ""
+
+#: ;1A900F68165FDC25
+msgid "Split selected and grouped items"
+msgstr ""
+
+#: ;BCDD01C8B53448D2
+msgid "Write stretch markers to selected items"
+msgstr ""
+
+#: ;CA75087D62903387
+msgid "Write stretch markers to selected items and add to grouped items"
+msgstr ""
+
+#: ;9FBCED0BAAF0FE14
+msgid "Add transient guide markers to items"
+msgstr ""
+
+#: ;BE0AAD79340CB0B6
+msgid "Gate closes at"
+msgstr ""
+
+#: ;5AA85530749D1CB0
+msgid "reopens at"
+msgstr ""
+

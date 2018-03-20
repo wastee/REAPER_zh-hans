@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;C92B788D0BB92260
+msgid "Consolidate Tracks"
+msgstr ""
+
+#: ;7CDFF1D2B38BE006
+msgid "Consolidation Settings"
+msgstr ""
+
+#: ;CA2A2B5DBD0A0E62
+msgid "Custom:"
+msgstr ""
+
+#: ;B80BDA0C01658F27
+msgid "Tracks:"
+msgstr ""
+
+#: ;3EE82E06F8C5EE8E
+msgid "Selected"
+msgstr ""
+
+#: ;94066D118035EEF6
+msgid "Ignore silence shorter than"
+msgstr ""
+
+#: ;0971916D9810DAA7
+msgid "seconds (can cause multiple files per track)"
+msgstr ""
+
+#: ;D1717A5C482193AF
+msgid "Resample mode:"
+msgstr ""
+
+#: ;7877FCEAC5B8AC76
+msgid "(if required)"
+msgstr ""
+
+#: ;788A6BC029A47D7D
+msgid "Consolidate to:"
+msgstr ""
+
+#: ;6D599A80EBBBB9D4
+msgid "Export MIDI as:"
+msgstr ""
+
+#: ;3F4B0D372B3C8847
+msgid "reference in .RPP file (for export to REAPER only)"
+msgstr ""
+
+#: ;30E7E042FD04F183
+msgid ".MID file"
+msgstr ""
+
+#: ;A0138F029D3F9F6A
+msgid "Output consolidated files to directory:"
+msgstr ""
+
+#: ;BF7FC25E072FBD3F
+msgid "Update project with consolidated files"
+msgstr ""
+
+#: ;9F7A79448A2AADDB
+msgid "Save new project as:"
+msgstr ""
+
+#: ;9745F60ABA894258
+msgid "Save current project before updating project"
+msgstr ""
+
+#: ;^79DCBE1CDE37B4F3
+msgid "Entire project"
+msgstr ""
+
+#: ;^97D6D411868C112C
+msgid "Time selection"
+msgstr ""
+
+#: ;^720CB39E31676E27
+msgid "Start:"
+msgstr ""
+
+#: ;^61B7599A40AF0062
+msgid "End:"
+msgstr ""
+
+#: ;^309B13D6E0AC1A0F
+msgid "Length:"
+msgstr ""
+
+#: ;^18C90F7E5DC51FCA
+msgid "All"
+msgstr ""
+
+#: ;^E19CAC48E2E6EA85
+msgid "Sample rate:"
+msgstr ""
+
+#: ;^D858BC186B3FE51D
+msgid "Hz"
+msgstr ""
+
+#: ;^67EF32DE1BAE7097
+msgid "Channels:"
+msgstr ""
+
+#: ;^2555373B75AA89B2
+msgid "Output"
+msgstr ""
+
+#: ;^F685FB3A91025549
+msgid "Browse..."
+msgstr ""
+
+#: ;^0629736B3FAE9E4C
+msgid "Process"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

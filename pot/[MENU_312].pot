@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;90EE71234A070984
+msgid "12PerfCtx"
+msgstr ""
+
+#: ;1E06E4405DEA8BB9
+msgid "Display CPU graph"
+msgstr ""
+
+#: ;A92306A0DFCF9F5C
+msgid "Display realtime (RT) CPU on graph"
+msgstr ""
+
+#: ;B262FAD75BA8BA4A
+msgid "Display CPU use"
+msgstr ""
+
+#: ;27A29CDA117BD72F
+msgid "Display realtime (RT) CPU"
+msgstr ""
+
+#: ;15F8208C8ADE370D
+msgid "Display RT longest-block processing time"
+msgstr ""
+
+#: ;1D8E0673D38702E7
+msgid "Display disk use"
+msgstr ""
+
+#: ;7B7E834E49D135B0
+msgid "Display RAM use"
+msgstr ""
+
+#: ;EC37BCC6C18B2137
+msgid "Show free system RAM rather than use"
+msgstr ""
+
+#: ;0B046CABAC6AEF1E
+msgid "Display FX CPU use"
+msgstr ""
+
+#: ;1A64FFC5FC821B62
+msgid "Reset graph"
+msgstr ""
+
+#: ;EEB77FAA4A9ACCDA
+msgid "Dock performance meter in Docker"
+msgstr ""
+
+#: ;^BAC64C1B2E060EE5
+msgid "Close"
+msgstr ""
+

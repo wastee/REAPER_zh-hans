@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;A18A57ED9326617F
+msgid "Load MIDI color map from file:"
+msgstr ""
+
+#: ;394D5C4E34531167
+msgid "Hide lane"
+msgstr ""
+
+#: ;C98CC625866DAF62
+msgid "Clear lane"
+msgstr ""
+
+#: ;8CF43A159717583C
+msgid "Add lane"
+msgstr ""
+
+#: ;94CCCCF3DF57D4E5
+msgid "Set lane"
+msgstr ""
+
+#: ;20E9D9591D9A464A
+msgid "More"
+msgstr ""
+
+#: ;FDB578659538E420
+msgid "Select touched notes"
+msgstr ""
+
+#: ;010F8FEEC3B0CA7E
+msgid "Remove time selection"
+msgstr ""
+
+#: ;79D4BBF32121AE96
+msgid "Remove loop points"
+msgstr ""
+
+#: ;3547B294F721DD33
+msgid "grid"
+msgstr ""
+
+#: ;0E20B188F8964553
+msgid "Grid"
+msgstr ""
+
+#: ;CDE08800BC2608FE
+msgid "Rename Track"
+msgstr ""
+
+#: ;845D09F2FB14692F
+msgid "Edit Notation"
+msgstr ""
+
+#: ;CC3A754F05D6B4F9
+msgid "Enter Chord"
+msgstr ""
+
+#: ;42F5EDCA46E48579
+msgid "Edit Ornament"
+msgstr ""
+
+#: ;13BD7B6CBDDF067E
+msgid "MIDI file:"
+msgstr ""
+
+#: ;EAACD8794B0458D9
+msgid "MIDI take"
+msgstr ""
+
+#: ;5B1F0064C6DCBDD5
+msgid "straight"
+msgstr ""
+
+#: ;0AF9E3975E109E45
+msgid "triplet"
+msgstr ""
+
+#: ;AEEA4E75D9D1139B
+msgid "dotted"
+msgstr ""
+
+#: ;786552F5E9DDDDD7
+msgid "swing"
+msgstr ""
+
+#: ;94BBDD6E63E47F18
+msgid "MUTED"
+msgstr ""
+
+#: ;A650E3CB840C930A
+msgid "The piano roll timebase only affects how MIDI notes and CC events are displayed, not how they are played back."
+msgstr ""
+
+#: ;5BFBA28BDD0CA8A4
+msgid "Source beats:\r\n"
+msgstr ""
+
+#: ;B267457E3AD2B27E
+msgid "Beats are counted from the start of the media item; the project ruler is ignored.\r\n"
+msgstr ""
+
+#: ;7E70D705203C8BC2
+msgid "Only one loop iteration is displayed.\r\n"
+msgstr ""
+
+#: ;0AAAD083ED687363
+msgid "Beats are displayed evenly spaced, regardless of project tempo changes.\r\n"
+msgstr ""
+
+#: ;C0FFE47F9D0DBC8A
+msgid "Project beats:\r\n"
+msgstr ""
+
+#: ;C79DE25B128B7FC3
+msgid "The project ruler is used.\r\n"
+msgstr ""
+
+#: ;EC8985719DF1B441
+msgid "The entire media item is displayed, with all loop iterations.\r\n"
+msgstr ""
+
+#: ;EE8BE2BF2A5354CE
+msgid "Project time:\r\n"
+msgstr ""
+
+#: ;9BE9978007CDA893
+msgid "Beats are spaced according to changes in the project tempo.\r\n"
+msgstr ""
+
+#: ;D8BD614D4AF0E42C
+msgid "Project sync:\r\n"
+msgstr ""
+
+#: ;9DEC775324252C1C
+msgid "Display is identical to Project time.\r\n"
+msgstr ""
+
+#: ;1CE54065B8467E42
+msgid "The MIDI editor ruler is kept vertically aligned with the project ruler.\r\n"
+msgstr ""
+
+#: ;267F1B0391A5697C
+msgid "MIDI Editor timebase help"
+msgstr ""
+
+#: ;31B1F4CED4C68632
+msgid "load/edit..."
+msgstr ""
+
+#: ;54DFB256F726077E
+msgid "Save MIDI note names to file:"
+msgstr ""
+
+#: ;F71E8E8B44005EAC
+msgid "Load MIDI note names from file:"
+msgstr ""
+
+#: ;479539512FD8054C
+msgid "File modified, save before closing?"
+msgstr ""
+
+#: ;EE43467925ADD10F
+msgid "MIDI Editor Query"
+msgstr ""
+
+#: ;7A67E3B0334D4328
+msgid "<user>"
+msgstr ""
+
+#: ;DA2A77C440A46CFF
+msgid "Load MIDI instrument bank/program definition file:"
+msgstr ""
+
+#: ;D7DFBC1671BB609F
+msgid "Load lyrics from file:"
+msgstr ""
+
+#: ;DBFC480F845291B3
+msgid "Multichannel"
+msgstr ""
+
+#: ;113E15FEE38E75E5
+msgid "Current view timebase:"
+msgstr ""
+
+#: ;24AF7DBF3B7D6241
+msgid "project beats"
+msgstr ""
+
+#: ;4554CB8B05E4C70F
+msgid "source beats"
+msgstr ""
+
+#: ;D3055186D9DAF9F5
+msgid "project time"
+msgstr ""
+
+#: ;927FA4024A0BC886
+msgid "project time (synced)"
+msgstr ""
+
+#: ;DE7E6A3663E36BAA
+msgid "(unnamed MIDI take)"
+msgstr ""
+
+#: ;A8E873FE758BFAED
+msgid "Export Notation:"
+msgstr ""
+
+#: ;418978CBFA446838
+msgid "Can't open file for export!"
+msgstr ""
+
+#: ;7E6CE5B40F854DB6
+msgid "MIDI Export Error"
+msgstr ""
+
+#: ;B6962ADBCB48EEF9
+msgid "%d bytes"
+msgstr ""
+
+#: ;93295A23026D5D33
+msgid "first %d bytes"
+msgstr ""
+
+#: ;3AAF9497B87AD456
+msgid "invalid"
+msgstr ""
+
+#: ;6D8C20E128873475
+msgid "built-in MIDI editor"
+msgstr ""
+
+#: ;76E466233D8060D8
+msgid "File is offline"
+msgstr ""
+
+#: ;2352FDE8A8C128C2
+msgid "MIDI item properties"
+msgstr ""
+
+#: ;15A9C253226734CA
+msgid "Item info:"
+msgstr ""
+
+#: ;8C43FCC94CBB4F8D
+msgid "events in file"
+msgstr ""
+
+#: ;4A1C665B72205A6A
+msgid "events"
+msgstr ""
+
+#: ;412CFB9C8E234604
+msgid "quarter notes"
+msgstr ""
+
+#: ;3848926C77A245A1
+msgid "Ticks per beat (legacy mode)"
+msgstr ""
+
+#: ;7FF5483BD6B55F1C
+msgid "Ticks per quarter note"
+msgstr ""
+
+#: ;DCA17DEA2CC1E589
+msgid "ticks per frame:"
+msgstr ""
+
+#: ;339C0C74D555993B
+msgid "Pooled MIDI events are shared by %d media items:"
+msgstr ""
+
+#: ;F4F64CE6099F5457
+msgid "MIDI events are not pooled"
+msgstr ""
+
+#: ;1FD14F546803D585
+msgid "MIDI files"
+msgstr ""
+
+#: ;AF97CB93CC0FC73B
+msgid "MIDI System Exclusive Message files"
+msgstr ""
+
+#: ;82515C007F6B6CBA
+msgid "MIDI-karaoke files"
+msgstr ""
+
+#: ;472A6D9C25A111D8
+msgid "MusicXML files"
+msgstr ""
+
+#: ;936F5174ADCA6ACF
+msgid "Track settings:"
+msgstr ""
+
+#: ;16488DC78BBB6890
+msgid "Default clef"
+msgstr ""
+
+#: ;AB4DAC91E6C5E4C8
+msgid "Octaves"
+msgstr ""
+
+#: ;C72F2AD1C4867233
+msgid "Transposing instruments"
+msgstr ""
+
+#: ;72EDA9B70B7F7687
+msgid "Transpose display (disabled)"
+msgstr ""
+
+#: ;C864D0FE26156484
+msgid "Transpose display"
+msgstr ""
+
+#: ;55F1C960BEFE38B0
+msgid "Measure settings:"
+msgstr ""
+
+#: ;A27BFBB4510C4CE5
+msgid "Change clef"
+msgstr ""
+
+#: ;BACA00D21CA8FF95
+msgid "Change tempo / time signature / rhythm pattern"
+msgstr ""
+
+#: ;ED5ED62F62C46063
+msgid "Root"
+msgstr ""
+
+#: ;7F7D2D07196E72D9
+msgid "Project settings:"
+msgstr ""
+
+#: ;D6F10D42ACFD3DCD
+msgid "Display accidentals as flats in C major"
+msgstr ""
+
+#: ;945549DCCD77ED13
+msgid "Options:"
+msgstr ""
+
+#: ;4273BD4C40BA9D47
+msgid "When transposing display, show transposed semitones below key signatures"
+msgstr ""
+
+#: ;9F575D3BFBD55BDB
+msgid "Disable transposing display"
+msgstr ""
+
+#: ;6A0CE31D1687BE3D
+msgid "Edit clef"
+msgstr ""
+
+#: ;13DFE688FE9AAAA7
+msgid "Transpose track display"
+msgstr ""
+
+#: ;266B8669933B3612
+msgid "Move note up one semitone (%s)"
+msgstr ""
+
+#: ;F726E800965F72B3
+msgid "Move note down one semitone (%s)"
+msgstr ""
+
+#: ;F3AF234CE4E4BD70
+msgid "Notate as %s%s"
+msgstr ""
+
+#: ;377263FE9AF0A647
+msgid "Edit tuplet..."
+msgstr ""
+
+#: ;65500F33F18457FB
+msgid "Select pedal event"
+msgstr ""
+
+#: ;146D0EB6F3C6032C
+msgid "Select lyric"
+msgstr ""
+
+#: ;D90A74112735ED83
+msgid "Select notation"
+msgstr ""
+
+#: ;6E7A90B0CBC9B047
+msgid "Select tuplet"
+msgstr ""
+
+#: ;E1CB8C927247C06E
+msgid "Delete notation"
+msgstr ""
+
+#: ;1D225A6AE490DEBF
+msgid "Create Tuplet"
+msgstr ""
+
+#: ;A30211799ECFF867
+msgid "Create"
+msgstr ""
+
+#: ;98775877DE227BF0
+msgid "Insert tuplet"
+msgstr ""
+
+#: ;1CEF818E288F9497
+msgid "(can't identify chord)"
+msgstr ""
+
+#: ;4EF710BBEEA79D67
+msgid "Other..."
+msgstr ""
+
+#: ;E081D9096F4E9EE5
+msgid "Hide octave"
+msgstr ""
+
+#: ;B115552AF289CF18
+msgid "Edit lyric"
+msgstr ""
+
+#: ;DFFDB3192841E422
+msgid "Default voice"
+msgstr ""
+
+#: ;29F964EFB466ADED
+msgid "High voice"
+msgstr ""
+
+#: ;0C7CEFCA5EE64411
+msgid "Low voice"
+msgstr ""
+
+#: ;415B793643570F20
+msgid "Slide"
+msgstr ""
+
+#: ;6536DEB235724214
+msgid "Bend"
+msgstr ""
+
+#: ;5465D46D8381C085
+msgid "Hammer/Pull"
+msgstr ""
+
+#: ;0A4FE0310932D43F
+msgid "Make phrase/slur"
+msgstr ""
+
+#: ;D01171626FDBC967
+msgid "Technique"
+msgstr ""
+
+#: ;DDDD68F420918CC9
+msgid "Remove phrase/slur"
+msgstr ""
+
+#: ;74352B884A020FEA
+msgid "Select all notes in phrase/slur"
+msgstr ""
+
+#: ;6292FFA9FE61FE87
+msgid "Phrase/slur"
+msgstr ""
+
+#: ;C41F7BB84344D370
+msgid "Enter text..."
+msgstr ""
+
+#: ;56D33DDD0B484EBC
+msgid "Custom notation..."
+msgstr ""
+
+#: ;FCB6A065AA82EC7F
+msgid "Selected notes"
+msgstr ""
+
+#: ;0BAD2B04C6555F73
+msgid "All notes at selected pitch"
+msgstr ""
+
+#: ;EE982930FF9BE280
+msgid "Remove articulation"
+msgstr ""
+
+#: ;DC3B007FAEF2E349
+msgid "Remove ornament"
+msgstr ""
+
+#: ;C48DD153F9F5DBEE
+msgid "Articulation"
+msgstr ""
+
+#: ;94D8D1F7EDD780E6
+msgid "Ornament/Technique"
+msgstr ""
+
+#: ;0C897A20FA6D6A2E
+msgid "Text/Custom"
+msgstr ""
+
+#: ;1862C9A62761060B
+msgid "Note head"
+msgstr ""
+
+#: ;78FE326D05A35B65
+msgid "Dynamics"
+msgstr ""
+
+#: ;64898F5C88971A23
+msgid "Note notation"
+msgstr ""
+
+#: ;0C4DA967C2BD043C
+msgid "Track notation"
+msgstr ""
+
+#: ;6667957C8C41726D
+msgid "<all events>"
+msgstr ""
+
+#: ;C94C8D8478AEC5F5
+msgid "Control Change (CC)"
+msgstr ""
+
+#: ;578EE637D614EE41
+msgid "Program Change (PC)"
+msgstr ""
+
+#: ;D66E58BFB6F2E64F
+msgid "Sysex/Meta"
+msgstr ""
+
+#: ;BA4F35537A20EC32
+msgid "Multiple Note Properties"
+msgstr ""
+
+#: ;43EF1FB6CB72A1F0
+msgid "Note Properties (no selection)"
+msgstr ""
+
+#: ;DE8EBF663A88E11A
+msgid "Add Event"
+msgstr ""
+
+#: ;15786A9A5AFB7A73
+msgid "(mixed)"
+msgstr ""
+
+#: ;CC04A8F1288AF417
+msgid "Co&ntroller:"
+msgstr ""
+
+#: ;3DF73709E0113DE5
+msgid "&Program:"
+msgstr ""
+
+#: ;096E2BEDB38E729B
+msgid "Controller:"
+msgstr ""
+
+#: ;259D4515D8B2EC55
+msgid "Add Text Event"
+msgstr ""
+
+#: ;3A777C50796DB082
+msgid "Load text file:"
+msgstr ""
+
+#: ;D8959FFAD14FB0E5
+msgid "Can't load any text strings from"
+msgstr ""
+
+#: ;33768227F231955E
+msgid "Add Sysex Event"
+msgstr ""
+
+#: ;7FB08F73DAE49C45=Sysex data contains %d bytes with value >
+msgid "Sysex data contains %d bytes with value >= 128 (0x80), which is technically illegal."
+msgstr ""
+
+#: ;7627286B54FDB1E0
+msgid "Save anyway?"
+msgstr ""
+
+#: ;D9B1474DCB7840DD
+msgid "Sysex warning"
+msgstr ""
+
+#: ;CEC9948C81B9746B
+msgid "All notes"
+msgstr ""
+
+#: ;840BF6B1FB41ABDB
+msgid "All events"
+msgstr ""
+
+#: ;D9053923DC189BCF
+msgid "Selected events"
+msgstr ""
+
+#: ;41A56518CB296CB2
+msgid "Position and note end"
+msgstr ""
+
+#: ;769244F91783998D
+msgid "Position and note length"
+msgstr ""
+
+#: ;1557292A9277FA10
+msgid "Note end only"
+msgstr ""
+
+#: ;AF2CF148F1D855C9
+msgid "Note length only"
+msgstr ""
+
+#: ;5EC645ECCFF5CA9A
+msgid "Use grid"
+msgstr ""
+
+#: ;65FC9E1A6677C6D1
+msgid "Manual"
+msgstr ""
+
+#: ;4462E9AF43EA764B
+msgid "octave"
+msgstr ""
+
+#: ;333906C9E345F0E9
+msgid "Display quantization affects notation editor display only."
+msgstr ""
+
+#: ;086995CDAC3F085A
+msgid "Underlying MIDI note positions and lengths are not affected."
+msgstr ""
+
+#: ;4E204253DCED957C
+msgid "Notes shorter than the minimum note length will be rounded up to the minimum note length."
+msgstr ""
+
+#: ;ADBD5837DE3EE9CB
+msgid "Notes longer than the minimum note length, but shorter than the display quantization, will be rounded to the nearest length that does not require a dot or tie."
+msgstr ""
+
+#: ;55C1A8ED0C6240F9
+msgid "Notes and rests longer than the display quantization will be rounded to the nearest multiple of the display quantization."
+msgstr ""
+
+#: ;15C0A2C717318977
+msgid "About Display Quantization"
+msgstr ""
+
+#: ;AEF753AB8D13173D
+msgid "ReWire Bus"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^D722FAC57CDCD58A
+msgid "%d media items"
+msgstr ""
+
+#: ;^B817B56070E01709
+msgid "<MIDI media item list>"
+msgstr ""
+
+#: ;^D52782E5368E8EA1
+msgid "Error writing to MIDI file"
+msgstr ""
+
+#: ;^6D6F3C9161BBF878
+msgid "Edit Lyric"
+msgstr ""
+
+#: ;^05AE6808A1E816A9
+msgid "Rename MIDI Take"
+msgstr ""
+
+#: ;^D726E2A6E8466B26
+msgid "Create new MIDI file:"
+msgstr ""
+
+#: ;^5EF7E5C1AEA8878B
+msgid "Load note names from file..."
+msgstr ""
+
+#: ;^01DA63B41FEE389F
+msgid "<no patch file loaded>"
+msgstr ""
+
+#: ;^D3D2747652BD318E
+msgid "All channels"
+msgstr ""
+
+#: ;^F3238895531F739E
+msgid "Channel"
+msgstr ""
+
+#: ;^90803304EBE7C40E
+msgid "track"
+msgstr ""
+
+#: ;^DD491F831B629F78
+msgid "item"
+msgstr ""
+
+#: ;^FEAA833C7533B5D0
+msgid "File not found"
+msgstr ""
+
+#: ;^439CE51FC4707DDD
+msgid "Length:"
+msgstr ""
+
+#: ;^D8B3B3186B8C817F
+msgid "ms"
+msgstr ""
+
+#: ;^9B29B2AE84FDC449
+msgid "Show project tempo changes"
+msgstr ""
+
+#: ;^EF9B6744B3A3252C
+msgid "Show project markers"
+msgstr ""
+
+#: ;^8AECF7AB9A62250A
+msgid "Show project regions"
+msgstr ""
+
+#: ;^AF3196AD6B727ABC
+msgid "Delete"
+msgstr ""
+
+#: ;^E3B4DC554BBF6002
+msgid "Semitones"
+msgstr ""
+
+#: ;^F10F4B1B4D6DC250
+msgid "Clear"
+msgstr ""
+
+#: ;^5FD74DE73CBAB0FA
+msgid "Display quantization..."
+msgstr ""
+
+#: ;^2D126F1D4BD6B8C7
+msgid "Type"
+msgstr ""
+
+#: ;^9936FD536FA95041
+msgid "Delete key signature"
+msgstr ""
+
+#: ;^50B1DD4586A4B192
+msgid "Change key signature"
+msgstr ""
+
+#: ;^B686BA8838F18A6F
+msgid "Key signature changes affect all tracks"
+msgstr ""
+
+#: ;^C98EE5432BA46B65
+msgid "Transposing display affects key signatures"
+msgstr ""
+
+#: ;^F4944DF4957B0C53
+msgid "(default)"
+msgstr ""
+
+#: ;^E78FFFE5EA715BBB
+msgid "Create tuplet..."
+msgstr ""
+
+#: ;^2545832814C62E1B
+msgid "Edit Tuplet"
+msgstr ""
+
+#: ;^D7323C887B0A2951
+msgid "Apply"
+msgstr ""
+
+#: ;^EBBFDA9189F52B3B
+msgid "Edit tuplet"
+msgstr ""
+
+#: ;^E733F90D010E8468
+msgid "Notation: Identify chords on editor grid"
+msgstr ""
+
+#: ;^DC1BFC2EC50777D8
+msgid "Notation: Remove all chord notation"
+msgstr ""
+
+#: ;^C244DB21860623E6
+msgid "Unhide all notes"
+msgstr ""
+
+#: ;^56A71EF19F6D546B
+msgid "Octave"
+msgstr ""
+
+#: ;^63D8223008357593
+msgid "Select all notes in default voice"
+msgstr ""
+
+#: ;^B4806B0B80335AE6
+msgid "Select all notes in high voice"
+msgstr ""
+
+#: ;^A025E53729E41E20
+msgid "Select all notes in low voice"
+msgstr ""
+
+#: ;^0EE3E56F69BB58C3
+msgid "Voice"
+msgstr ""
+
+#: ;^63ACD193C4316F68
+msgid "Normal"
+msgstr ""
+
+#: ;^F812C7145E261C23
+msgid "Remove"
+msgstr ""
+
+#: ;^33A5C54D35029E6F
+msgid "Note"
+msgstr ""
+
+#: ;^C645D4DB5297312E
+msgid "Poly Aftertouch"
+msgstr ""
+
+#: ;^BC585B6FF340DD35
+msgid "Channel Pressure"
+msgstr ""
+
+#: ;^57F28E456CC0FEEB
+msgid "Pitch"
+msgstr ""
+
+#: ;^430304A419B0E574
+msgid "Note Properties"
+msgstr ""
+
+#: ;^18E4377E5DDC2B7A
+msgid "Add"
+msgstr ""
+
+#: ;^9ED6EEF5EE379522
+msgid "Song Select"
+msgstr ""
+
+#: ;^4EC7F7461DF2D993
+msgid "&Note:"
+msgstr ""
+
+#: ;^742F5D29C7564242
+msgid "&Velocity:"
+msgstr ""
+
+#: ;^7026A011104B1446
+msgid "&Value:"
+msgstr ""
+
+#: ;^B376015F8643AFD1
+msgid "Program:"
+msgstr ""
+
+#: ;^C54C973113730A6F
+msgid "Note:"
+msgstr ""
+
+#: ;^02E6C28F6CC5D246
+msgid "Velocity:"
+msgstr ""
+
+#: ;^5892A20D9BBBE54A
+msgid "Value:"
+msgstr ""
+
+#: ;^E4DA54B8178F9F4F
+msgid "Edit Sysex Event"
+msgstr ""
+
+#: ;^361AF2206DE0E16A
+msgid "bytes"
+msgstr ""
+
+#: ;^2ADD7A879D22FA5C
+msgid "Position"
+msgstr ""
+
+#: ;^1E894CD06766E128
+msgid "octaves"
+msgstr ""
+
+#: ;^A2BF58A6DFD853DC
+msgid "Project"
+msgstr ""
+
+#: ;^3D9702905AC5B44C
+msgid "Virtual MIDI keyboard"
+msgstr ""
+

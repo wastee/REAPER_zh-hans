@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;A1ECEA29C444236B
+msgid "44_FxAddVstFolderCtx"
+msgstr ""
+
+#: ;88F334DEA91EE003
+msgid "Include plugins found in subfolders"
+msgstr ""
+
+#: ;2CE99B208A9CC604
+msgid "Include Cockos plugins in VST folder view"
+msgstr ""
+
+#: ;A77977CDCE6B436E
+msgid "Show full paths to VSTs"
+msgstr ""
+

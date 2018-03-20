@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;C88A5D93461CCAE6
+msgid "Pitch Envelope Settings"
+msgstr ""
+
+#: ;3EFA2E44C1A47045
+msgid "Custom envelope range:"
+msgstr ""
+
+#: ;940DE794B9D8FF93
+msgid "Snap values:"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^83C05BCE6E0BA462
+msgid "semitones"
+msgstr ""
+

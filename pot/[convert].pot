@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;DF3828969B41772D
+msgid "Converter"
+msgstr ""
+
+#: ;B3F5BF1B16548D16
+msgid "Queued"
+msgstr ""
+
+#: ;A038D55811405CA7
+msgid "Converting: %d%%"
+msgstr ""
+
+#: ;96B2B5A0A740BA8B
+msgid "Done"
+msgstr ""
+
+#: ;CEAEE7A333DCADF2
+msgid "Aborted"
+msgstr ""
+
+#: ;ACD3FB6DDC3170C6
+msgid "Add files to file converter list:"
+msgstr ""
+
+#: ;5A9484C5B05BD001
+msgid "Can't open source file"
+msgstr ""
+
+#: ;E646D5239C857F26
+msgid "Can't open destination file"
+msgstr ""
+
+#: ;D07889E3AEED7783
+msgid "INIT: REAPER %s: batch converter loading job file %s\n"
+msgstr ""
+
+#: ;6DFE63E45D8A02BD
+msgid "Error loading batch converter list"
+msgstr ""
+
+#: ;A59B14E5D337B43E
+msgid "REAPER -batchconvert error"
+msgstr ""
+
+#: ;A82BE434A42C0E9B
+msgid "Error loading FX chain state"
+msgstr ""
+
+#: ;6A8F37299DE4C5C0
+msgid "Error loading FX chain file"
+msgstr ""
+
+#: ;DAE5814446B8B4CC
+msgid "Error initializing one or more items in FX chain"
+msgstr ""
+
+#: ;666808265EA4A933
+msgid "(source)"
+msgstr ""
+
+#: ;05ED68EDE7875DDC
+msgid "File Converter FX Chain"
+msgstr ""
+
+#: ;83AF965762B83885
+msgid "Add files..."
+msgstr ""
+
+#: ;784BBA608AB475FA
+msgid "Add selected media item(s)"
+msgstr ""
+
+#: ;580B8CA7D89F7839
+msgid "File conversion list is empty!"
+msgstr ""
+
+#: ;6F13FF51863927AD
+msgid "File conversion error"
+msgstr ""
+
+#: ;8505C3F245AA0D03
+msgid "You need to specify the output folder!"
+msgstr ""
+
+#: ;7D90B15ECF32752A
+msgid "Start Convert"
+msgstr ""
+
+#: ;00C29E7A0D653CCE
+msgid "Conversion queue done (%d items processed)."
+msgstr ""
+
+#: ;23366F155A653024
+msgid "One or more errors occurred, check the list for errors."
+msgstr ""
+
+#: ;BD3C73534E9B6153
+msgid "File conversion"
+msgstr ""
+
+#: ;^C5531D0DEE1F0D0D
+msgid "Input"
+msgstr ""
+
+#: ;^2A6ED1B48E88BCC9
+msgid "Status"
+msgstr ""
+
+#: ;^2555373B75AA89B2
+msgid "Output"
+msgstr ""
+
+#: ;^2112CF591DBD3A60
+msgid "Mono"
+msgstr ""
+
+#: ;^21D9AFD3561EE5AB
+msgid "Stereo"
+msgstr ""
+
+#: ;^BABD655B2A5AED87
+msgid "Select a directory:"
+msgstr ""
+
+#: ;^9EC3E20500624AAF
+msgid "Error"
+msgstr ""
+
+#: ;^2F799723962762C7
+msgid "Stop"
+msgstr ""
+

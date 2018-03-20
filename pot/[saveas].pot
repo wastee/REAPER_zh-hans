@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;3B508B94B6FF03B7
+msgid "Save as format configuration"
+msgstr ""
+
+#: ;10267E73AF167E04
+msgid "Set format to save as:"
+msgstr ""
+
+#: ;9148B0BCF0B138B3
+msgid "Save project template"
+msgstr ""
+
+#: ;F358F85B084C7F3F
+msgid "Save Project"
+msgstr ""
+
+#: ;1D660BB3BCFDAF0F
+msgid "You have chosen to save to a subdirectory where a file with this name already exists:\r\n\r\n\t%s\r\n\r\nOverwrite this file?"
+msgstr ""
+
+#: ;4E0241866EAFE7E7
+msgid "Overwrite file?"
+msgstr ""
+
+#: ;C8A8D1DE39277BF0
+msgid "Cannot save with copy/move media, no path specified"
+msgstr ""
+
+#: ;FD8C66831553CF14
+msgid "REAPER"
+msgstr ""
+
+#: ;5B0AAD670346064A
+msgid "Cannot save with copy/move media when recording, stop recording first"
+msgstr ""
+
+#: ;8B985B499A6FAF73
+msgid "Error copying media, user aborted!"
+msgstr ""
+
+#: ;8C9E08D02BE5C9E9
+msgid "Errors saving project with media - REAPER"
+msgstr ""
+
+#: ;DB773E3D6D958F52
+msgid "There were errors copying media for this project:"
+msgstr ""
+
+#: ;515AF746DB344C2B
+msgid "%d files could not have filenames found that did not exist"
+msgstr ""
+
+#: ;1572253A9006D7C2
+msgid "%d files could not be copied/moved"
+msgstr ""
+
+#: ;A72489997DD870D1
+msgid "%d files were copied but could not be updated in the project (plug-in doesn't support SetFileName()?)"
+msgstr ""
+
+#: ;D0BD7075DBCF5BDC
+msgid "%d files were allegedly copied but could not be imported back into the project"
+msgstr ""
+

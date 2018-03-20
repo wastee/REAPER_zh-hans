@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;4D8F7A5A9245F919
+msgid "Editing behavior"
+msgstr ""
+
+#: ;23C01768B8090D2F
+msgid "Move edit cursor to start of time selection on time selection change"
+msgstr ""
+
+#: ;4C88CB0B79BBCE00
+msgid "Move edit cursor when pasting/inserting media"
+msgstr ""
+
+#: ;D4CCD39898DAEF23
+msgid "Move edit cursor to end of recorded items on record stop"
+msgstr ""
+
+#: ;5E6B52214FFB6F82
+msgid "Link loop points to time selection"
+msgstr ""
+
+#: ;FCBF848D058095E1
+msgid "Clear loop points on click in ruler"
+msgstr ""
+
+#: ;46FE32F3924ECB82
+msgid "Clear time selection when edit cursor moves on click in arrange view"
+msgstr ""
+
+#: ;347BEF6E7C817645
+msgid "Vertical zoom center:"
+msgstr ""
+
+#: ;584AC3CE0E6BC82B
+msgid "Horizontal zoom center:"
+msgstr ""
+
+#: ;AF239E1DB5AA0E08
+msgid "Transient detection"
+msgstr ""
+
+#: ;5FC0AC4569E4E2AF
+msgid "Adjust sensitivity..."
+msgstr ""
+
+#: ;5597FFD1F336E75D
+msgid "Tab through MIDI notes"
+msgstr ""
+
+#: ;8EB832E42FDC2501
+msgid "Treat media item edges as transients"
+msgstr ""
+
+#: ;2EB90B46315D20B6
+msgid "Locked item ripple editing behavior:"
+msgstr ""
+
+#: ;E11DAEF2BBEB112C
+msgid "Allow dual trim (edit shared media item edges) only if both items are selected"
+msgstr ""
+
+#: ;32B5CB1F9A8B8705
+msgid "Crossfades stay together during fade edits when trim content behind media items is enabled"
+msgstr ""
+
+#: ;AA5A7A99565E6043
+msgid "Automatically delete empty tracks created by dragging items below the last track and back"
+msgstr ""
+
+#: ;93565C719250C592
+msgid "Dragging the source start offset of the active take adjusts the offset for all takes"
+msgstr ""
+
+#: ;6F6DCD0B40734C2E
+msgid "If no items are selected, some split/trim/delete actions affect all items at the edit cursor"
+msgstr ""
+

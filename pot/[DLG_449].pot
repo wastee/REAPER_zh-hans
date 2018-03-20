@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;BCDE457135D00394
+msgid "Video decoder information not available, is reaper_video installed?"
+msgstr ""
+
+#: ;7954E9122CA508AE
+msgid "Allow I420/YV12 colorspace output (recommended)"
+msgstr ""
+
+#: ;2E24F350046A4A41
+msgid "Allow YUY2 colorspace output"
+msgstr ""
+
+#: ;7F328777555E7298
+msgid "Use Enhanced Video Renderer (EVR)"
+msgstr ""
+
+#: ;46810F836EA5D01F
+msgid "Show available decoder information"
+msgstr ""
+
+#: ;CEE3274FAE46E954
+msgid "Video decoder priority:"
+msgstr ""
+
+#: ;400B3E030D735B46
+msgid "Append :ext or :ext1,ext2 or :!ext3 to limit decoder to particular extensions"
+msgstr ""
+
+#: ;CED21E2589F4296E
+msgid "Video output delay:"
+msgstr ""
+
+#: ;4022F90F6DC5E484
+msgid "Disable high-resolution peaks for video items"
+msgstr ""
+
+#: ;F5ADF056B3709BDD
+msgid "Video window follows edits"
+msgstr ""
+
+#: ;F4981427F70572B6
+msgid "When moving audio items, seek video frame to:"
+msgstr ""
+
+#: ;B5CF8BA44C2A22BC
+msgid "Auto-rotate videos and images with orientation tags on import"
+msgstr ""
+
+#: ;87A44A7E0C28614A
+msgid "REX"
+msgstr ""
+
+#: ;B811EB066DE6BA44
+msgid "Import REX files as:"
+msgstr ""
+
+#: ;1EF04D314BED369F
+msgid "REX slice tails:"
+msgstr ""
+
+#: ;CDD7AC65A6AE255A
+msgid "Media with embedded tempo information"
+msgstr ""
+
+#: ;92F6FF254897F352
+msgid "When importing media:"
+msgstr ""
+
+#: ;5C4D4DC7B43CD041
+msgid "Note: when importing media from REAPER's Media Explorer, the tempo match setting in the Media Explorer will override this preference."
+msgstr ""
+
+#: ;^BDB27E5D914EF9E2
+msgid "Video"
+msgstr ""
+
+#: ;^04F8C491E59F6D16
+msgid "Reset to default"
+msgstr ""
+
+#: ;^D8B3B3186B8C817F
+msgid "ms"
+msgstr ""
+

@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;E6F0110D73CCC5BD
+msgid "No lyric destination track selected"
+msgstr ""
+
+#: ;726E625C9D2BE6B4
+msgid "Lyric Export"
+msgstr ""
+
+#: ;37C5DEEAFE8EA22E
+msgid "Import Lyrics"
+msgstr ""
+
+#: ;8957A6738B233017
+msgid "File contains no tabs"
+msgstr ""
+
+#: ;408B7E96AA844B83
+msgid "Lyric Import"
+msgstr ""
+
+#: ;9EEEFDC9EDB68B6E
+msgid "File contains only one measure of lyrics. Import anyway?"
+msgstr ""
+
+#: ;036514EF5EFE5124
+msgid "No lyric source track selected"
+msgstr ""
+
+#: ;35BDFED15FBE8E93
+msgid "Export Lyrics"
+msgstr ""
+
+#: ;C70154D17552CC8A
+msgid "No lyrics found on track"
+msgstr ""
+

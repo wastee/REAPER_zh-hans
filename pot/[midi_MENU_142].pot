@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;5268877E4543F2DC
+msgid "(track notation menu)"
+msgstr ""
+
+#: ;D065266873DF25A9
+msgid "Pedal"
+msgstr ""
+
+#: ;2A63668657241DFC
+msgid "Engage"
+msgstr ""
+
+#: ;D38D48BF6672F634
+msgid "Release"
+msgstr ""
+
+#: ;2228437C3D34F9B6
+msgid "(pitch list)"
+msgstr ""
+
+#: ;479C1CD79D6CA108
+msgid "Identify chords on editor grid"
+msgstr ""
+
+#: ;B24120B38D08F178
+msgid "Remove all chord notation"
+msgstr ""
+
+#: ;^2BE3837BF3278C55
+msgid "Context Menu"
+msgstr ""
+
+#: ;^30B968FF1A533857
+msgid "Lyrics..."
+msgstr ""
+
+#: ;^3E04EF2C595D4859
+msgid "Tuplet"
+msgstr ""
+
+#: ;^E78FFFE5EA715BBB
+msgid "Create tuplet..."
+msgstr ""
+
+#: ;^662197EEE0495B80
+msgid "Automatically detect triplets"
+msgstr ""
+
+#: ;^4301D6719DEA0900
+msgid "Display pedal events"
+msgstr ""
+
+#: ;^0EE3E56F69BB58C3
+msgid "Voice"
+msgstr ""
+
+#: ;^63D8223008357593
+msgid "Select all notes in default voice"
+msgstr ""
+
+#: ;^B4806B0B80335AE6
+msgid "Select all notes in high voice"
+msgstr ""
+
+#: ;^A025E53729E41E20
+msgid "Select all notes in low voice"
+msgstr ""
+
+#: ;^8DBCC7402CA5D3B2
+msgid "Hide notes"
+msgstr ""
+
+#: ;^F4D94A4971240B8C
+msgid "Chords"
+msgstr ""
+
+#: ;^83CEDDAC8FB7324E
+msgid "Copy"
+msgstr ""
+
+#: ;^09CFC77E55F475C5
+msgid "Cut"
+msgstr ""
+
+#: ;^13A51C8BEEDFCE52
+msgid "Paste"
+msgstr ""
+
+#: ;^4AAE40A08510E47F
+msgid "Paste preserving position in measure"
+msgstr ""
+
+#: ;^86891682F6F2D16C
+msgid "Select all"
+msgstr ""
+
+#: ;^AF3196AD6B727ABC
+msgid "Delete"
+msgstr ""
+
+#: ;^1D4EDA35A99AEFAE
+msgid "Insert note"
+msgstr ""
+

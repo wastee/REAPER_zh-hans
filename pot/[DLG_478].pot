@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;4DD2B47DA4D97292
+msgid "Rendering settings"
+msgstr ""
+
+#: ;BA67DC3729684BA7
+msgid "Block size to use when rendering:"
+msgstr ""
+
+#: ;2B9B793C0245346A
+msgid "samples (leave blank for auto)"
+msgstr ""
+
+#: ;EC400AB11F1ABACB
+msgid "Allow anticipative FX processing when rendering (better multiprocessing)"
+msgstr ""
+
+#: ;45BB0225F77E6549
+msgid "Limit apply FX/render stems to realtime (good for some plug-ins)"
+msgstr ""
+
+#: ;789CC946B6370D63
+msgid "Process all tracks during stem render (some hardware-based plugins may need this)"
+msgstr ""
+
+#: ;733EA0FFFFA8C4A0
+msgid "Default tail length:"
+msgstr ""
+
+#: ;4706AF598E8387DE
+msgid "ms, render tails when:"
+msgstr ""
+
+#: ;AF29E9BD16427376
+msgid "Rendering stems for full project via action"
+msgstr ""
+
+#: ;11D0193A7C70E42B
+msgid "Rendering stems for time selection via action"
+msgstr ""
+
+#: ;35A79557A5DF99E2
+msgid "Include tail when freezing entire tracks"
+msgstr ""
+
+#: ;363E7FC94526FBB0
+msgid "When freezing, render the entire track length if there are track or per-take FX"
+msgstr ""
+
+#: ;FF077D0854B674D7
+msgid "These settings also affect the default tail options in the render window (projects can override the render tail options)."
+msgstr ""
+

@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;26FC58CEF44C94A5
+msgid "Thank you for purchasing REAPER!"
+msgstr ""
+
+#: ;11D589F8494A554B
+msgid "Thank you for purchasing a previous version of REAPER!\r\n\r\nUnfortunately the license key you have is not valid for REAPER v5.x.\r\n\r\nPlease evaluate this version for 60 days, then visit www.reaper.fm to purchase a new license, or download v4.x."
+msgstr ""
+
+#: ;154224048230E8E2
+msgid "REAPER IS NOT FREE.\r\n\r\nIt is a paid software product just like one you buy in a box from a store.\r\nIf you use it more than 60 days you are required to purchase a license."
+msgstr ""
+
+#: ;B447AAFC75584E81
+msgid "You have been using REAPER for approximately"
+msgstr ""
+
+#: ;11F529656E722695
+msgid "You have been evaluating REAPER for approximately"
+msgstr ""
+
+#: ;8814EC6D42D9DBCC
+msgid "1 day"
+msgstr ""
+
+#: ;D0E83932879B1FE1
+msgid "%d days"
+msgstr ""
+
+#: ;91A3A621CEA91E58
+msgid "You have run REAPER"
+msgstr ""
+
+#: ;26693E25829DF457
+msgid "1 time"
+msgstr ""
+
+#: ;DEAD0DB0B630B538
+msgid "%d times"
+msgstr ""
+
+#: ;E1724295AF0E72B0
+msgid "for a total of"
+msgstr ""
+
+#: ;41C57231FB923701
+msgid "REAPER licenses are very reasonably priced.\r\nWe offer discounts for personal non-commercial use, and for very small businesses."
+msgstr ""
+
+#: ;0035F90FBE34516F
+msgid "We are showing you this message, instead of crippling this evaluation version of REAPER, because we do not feel that technological enforcement of licensing policy is in the best interest of our customers."
+msgstr ""
+
+#: ;04FA9C99A7E3E33F
+msgid "Remove license key"
+msgstr ""
+
+#: ;8B9A76F494C70F92
+msgid "Are you sure you wish to remove the current license key?\r\n\r\n(you must have a copy of the key file in order to re-authorize this installation)"
+msgstr ""
+
+#: ;63A8748786CE1342
+msgid "Confirm removal of license key"
+msgstr ""
+
+#: ;1233760996DC4604
+msgid "Import license key:"
+msgstr ""
+
+#: ;510C2D221F9562E4
+msgid "Error importing license key"
+msgstr ""
+
+#: ;9ED57C7769D0C7C0
+msgid "Could not write file"
+msgstr ""
+
+#: ;7F8EA1BD935B9BFF
+msgid "Could not read file"
+msgstr ""
+
+#: ;254ABC5AE33BD903
+msgid "Error writing file"
+msgstr ""
+
+#: ;28E12469A3271389
+msgid "Thank You!"
+msgstr ""
+
+#: ;D03DC131AB7C4B2C
+msgid "Buy Me [%d]"
+msgstr ""
+
+#: ;32EE0E776F726A01
+msgid "Still Evaluating"
+msgstr ""
+
+#: ;D38A26905AC66F97
+msgid "Credits"
+msgstr ""
+
+#: ;20BDED648E738AA0
+msgid "Purchase"
+msgstr ""
+
+#: ;E347F43935F8D866
+msgid "License and User Agreement"
+msgstr ""
+
+#: ;C6013D59706F3AEB
+msgid "Changelog"
+msgstr ""
+
+#: ;^756B500741E261D4
+msgid "Import license key..."
+msgstr ""
+

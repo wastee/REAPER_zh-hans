@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;7603F4809C8E5192
+msgid "M&ixer"
+msgstr ""
+
+#: ;9BB0621424D5DF48
+msgid "Show in mixer"
+msgstr ""
+
+#: ;D342A139D4FE9114
+msgid "Show on right side of mixer"
+msgstr ""
+
+#: ;68732E0CB1C4A9E6
+msgid "Show in separate window"
+msgstr ""
+
+#: ;3B57CE2AB074678B
+msgid "Show in docker"
+msgstr ""
+
+#: ;722D7A2B645D90AF
+msgid "Show folders"
+msgstr ""
+
+#: ;8A23F34FB7A5FB94
+msgid "Show normal top level tracks"
+msgstr ""
+
+#: ;9032B6D2F8CCF061
+msgid "Show tracks that are in folders"
+msgstr ""
+
+#: ;C1F1F9270510EE17
+msgid "Show tracks that have receives"
+msgstr ""
+
+#: ;91DBBF271685793C
+msgid "Scroll view when tracks activated"
+msgstr ""
+
+#: ;47BCD4D4C65CC0CF
+msgid "Auto-arrange tracks in Mixer"
+msgstr ""
+
+#: ;2D012CC520C22751
+msgid "Group folders to left"
+msgstr ""
+
+#: ;C1EB5BB70B3F6A09
+msgid "Group tracks that have receives to left"
+msgstr ""
+
+#: ;382C305B9A540BF7
+msgid "Clickable icon for folder tracks to show/hide children"
+msgstr ""
+
+#: ;CDF148F44232EA69
+msgid "Show multiple rows of tracks when size permits"
+msgstr ""
+
+#: ;221F1A051812933A
+msgid "Show maximum rows even when tracks would fit in less rows"
+msgstr ""
+
+#: ;F1032A8BE9BB2080
+msgid "Show sends when size permits"
+msgstr ""
+
+#: ;6857739668D3B9A3
+msgid "Show FX inserts when size permits"
+msgstr ""
+
+#: ;885CED319D4F31AD
+msgid "Show FX parameters when size permits"
+msgstr ""
+
+#: ;61CE1B0A09D0F2B3
+msgid "Show track icons in Mixer"
+msgstr ""
+
+#: ;9A9CC96E950DDAAE
+msgid "Show icon for last track in folder"
+msgstr ""
+
+#: ;BE29F73DED2A5B44
+msgid "Dock Mixer in Docker"
+msgstr ""
+
+#: ;0722451274F43B5D
+msgid "Close\tCtrl+M"
+msgstr ""
+
+#: ;^D66D409D600C2D04
+msgid "Mixer"
+msgstr ""
+
+#: ;^DDDBC4B59922776E
+msgid "Master Track"
+msgstr ""
+
+#: ;^BAC64C1B2E060EE5
+msgid "Close"
+msgstr ""
+

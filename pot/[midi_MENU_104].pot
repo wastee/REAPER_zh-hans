@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;84AF6BF27B779619
+msgid "&Save MIDI file to disk"
+msgstr ""
+
+#: ;553CE52272560B64
+msgid "&Revert to last saved MIDI file"
+msgstr ""
+
+#: ;109608EBA667B4D6
+msgid "&Close editor"
+msgstr ""
+
+#: ;1BF6FB25AB0DCD48
+msgid "&Dock window"
+msgstr ""
+
+#: ;^DB25337315BFD655
+msgid "&File"
+msgstr ""
+
+#: ;^9A01878F90736611
+msgid "File"
+msgstr ""
+
+#: ;^05FB670725A5ED0D
+msgid "Save MIDI file to disk"
+msgstr ""
+
+#: ;^EF804F82ECC05838
+msgid "Revert to last saved MIDI file"
+msgstr ""
+
+#: ;^A38F6B757E6A088D
+msgid "Rename MIDI take..."
+msgstr ""
+
+#: ;^E2DC5AE969186DD5
+msgid "&Export to new MIDI file..."
+msgstr ""
+
+#: ;^951BA9E25A69B529
+msgid "Export to new MIDI file..."
+msgstr ""
+
+#: ;^EEBCA8FA5CC3B5A6
+msgid "Notation: Export (PDF, MusicXML)..."
+msgstr ""
+
+#: ;^8AE9AE7D7775A16B
+msgid "Lyrics"
+msgstr ""
+
+#: ;^2730763EB716675B
+msgid "Import track lyrics..."
+msgstr ""
+
+#: ;^6B9A1E235CAF7E24
+msgid "Export track lyrics..."
+msgstr ""
+
+#: ;^63D15D644F4CF217
+msgid "Note names"
+msgstr ""
+
+#: ;^45E4A687094FD052
+msgid "Rename current note..."
+msgstr ""
+
+#: ;^F6715C668E6BE54F
+msgid "Load note names from file"
+msgstr ""
+
+#: ;^C29296DABF54ABEE
+msgid "Choose file..."
+msgstr ""
+
+#: ;^6BFE2688487DD768
+msgid "<recent note name files>"
+msgstr ""
+
+#: ;^E97016D7BAEA01EB
+msgid "Save note names to file..."
+msgstr ""
+
+#: ;^D6CA8B3F64E91704
+msgid "Clear note names"
+msgstr ""
+
+#: ;^FDC0150F035A09D8
+msgid "Note name actions apply to the active channel only"
+msgstr ""
+
+#: ;^FBF491E7479B4779
+msgid "Note colors"
+msgstr ""
+
+#: ;^DFBC279E68B89582
+msgid "Load color map from file..."
+msgstr ""
+
+#: ;^D6FAC22FB212CB64
+msgid "Clear color map (use default)"
+msgstr ""
+
+#: ;^76CD8A8C7B0631AB
+msgid "Automatically save modified file on close"
+msgstr ""
+
+#: ;^5631674AC3232EB2
+msgid "Close editor"
+msgstr ""
+
+#: ;^386DCB7A24A75D67
+msgid "&Edit"
+msgstr ""
+
+#: ;^B90A279A7257C793
+msgid "Edit"
+msgstr ""
+
+#: ;^0E28C6126A0CF889
+msgid "Undo"
+msgstr ""
+
+#: ;^BB0EF92F46BDB0DB
+msgid "Redo"
+msgstr ""
+
+#: ;^83CEDDAC8FB7324E
+msgid "Copy"
+msgstr ""
+
+#: ;^09CFC77E55F475C5
+msgid "Cut"
+msgstr ""
+
+#: ;^13A51C8BEEDFCE52
+msgid "Paste"
+msgstr ""
+
+#: ;^4AAE40A08510E47F
+msgid "Paste preserving position in measure"
+msgstr ""
+
+#: ;^86891682F6F2D16C
+msgid "Select all"
+msgstr ""
+
+#: ;^AF3196AD6B727ABC
+msgid "Delete"
+msgstr ""
+
+#: ;^61946358B1034B76
+msgid "Mute"
+msgstr ""
+
+#: ;^1D4EDA35A99AEFAE
+msgid "Insert note"
+msgstr ""
+
+#: ;^3AECB68ED5632B6C
+msgid "Split notes"
+msgstr ""
+
+#: ;^F15A7C7042D0D2C2
+msgid "Join notes"
+msgstr ""
+
+#: ;^C37C016F07A7F9E3
+msgid "Set note ends to start of next note (legato)"
+msgstr ""
+
+#: ;^596C077CE46E04EE
+msgid "Quantize..."
+msgstr ""
+
+#: ;^094D37BBB2035D08
+msgid "Quantize"
+msgstr ""
+
+#: ;^3410CCD7F87501B1
+msgid "Quantize using last settings"
+msgstr ""
+
+#: ;^809D9AA3B4306FA0
+msgid "Quantize position to grid"
+msgstr ""
+
+#: ;^5F02ABE17A3B29CB
+msgid "Unquantize"
+msgstr ""
+
+#: ;^EFEE658757CE9229
+msgid "Freeze quantization"
+msgstr ""
+
+#: ;^97A35548BE7EAAB4
+msgid "Humanize..."
+msgstr ""
+
+#: ;^7CFDC5E4E1F4B4C0
+msgid "Transpose..."
+msgstr ""
+
+#: ;^331179D476F216EC
+msgid "Navigate"
+msgstr ""
+
+#: ;^C49755DA0BFA8192
+msgid "Move cursor left by grid"
+msgstr ""
+
+#: ;^CAD1ABE1EFE17F39
+msgid "Move cursor right by grid"
+msgstr ""
+
+#: ;^549F9638FD443E6B
+msgid "Move pitch cursor up one semitone"
+msgstr ""
+
+#: ;^372B7A417CE84AB0
+msgid "Move pitch cursor down one semitone"
+msgstr ""
+
+#: ;^2E4824657E9919FB
+msgid "Select note nearest cursor"
+msgstr ""
+
+#: ;^84D4D5DA0837EE21
+msgid "Add note nearest cursor to selection"
+msgstr ""
+
+#: ;^06031C90037D1F1C
+msgid "Select previous note"
+msgstr ""
+
+#: ;^0A80E4A5D91679BC
+msgid "Select next note"
+msgstr ""
+
+#: ;^DBF66490E7BE7504
+msgid "Select previous note with same pitch"
+msgstr ""
+
+#: ;^37277D8125A38624
+msgid "Select next note with same pitch"
+msgstr ""
+
+#: ;^00AE9EFDE5806889
+msgid "Select all notes with same pitch"
+msgstr ""
+
+#: ;^71AFE5DB5650A1AC
+msgid "Add previous note to selection"
+msgstr ""
+
+#: ;^478CB748FDBE3CCC
+msgid "Add next note to selection"
+msgstr ""
+
+#: ;^E3F7820C74DA6C74
+msgid "Move edit cursor to start of selection"
+msgstr ""
+
+#: ;^1686A8969AFE3B9F
+msgid "&Options"
+msgstr ""
+
+#: ;^5493EE7052DCF71B
+msgid "Options"
+msgstr ""
+
+#: ;^75B1CEA2CFE0653C
+msgid "Dock window"
+msgstr ""
+
+#: ;^7311049CDCA4C175
+msgid "Sync editor transport to project transport"
+msgstr ""
+
+#: ;^8ADF290B4AAF99F9
+msgid "Use the same grid division in arrange view and MIDI editor"
+msgstr ""
+
+#: ;^676E901B91B41FD8
+msgid "Chase MIDI note-ons in project playback"
+msgstr ""
+
+#: ;^0B32ABB1DB8D2C46
+msgid "Time format for ruler, transport, event properties"
+msgstr ""
+
+#: ;^404B3253FA5D1109
+msgid "Measures.Beats.100ths"
+msgstr ""
+
+#: ;^54BEE420D92D3721
+msgid "Measures.Beats.MIDI_ticks"
+msgstr ""
+
+#: ;^3B68BA781FCC92D8
+msgid "Ruler in Measures.Beats only"
+msgstr ""
+
+#: ;^00F8AF1A6A14D288
+msgid "Snap settings"
+msgstr ""
+
+#: ;^986AFE7AA5793206
+msgid "Snap notes/CC to grid"
+msgstr ""
+
+#: ;^EB9FA0AD5BAE2D57
+msgid "Soft-snap notes to other notes"
+msgstr ""
+
+#: ;^A958A4ED6B3FE77D
+msgid "Always snap notes/CC to the left"
+msgstr ""
+
+#: ;^CBB62A841502FD76
+msgid "Snap note ends to grid"
+msgstr ""
+
+#: ;^B97C90B7FAB41974
+msgid "Snap notes/CC relative to grid"
+msgstr ""
+
+#: ;^B86D86AEB9B256EF
+msgid "Note preview"
+msgstr ""
+
+#: ;^1CB344D7A3966A1C
+msgid "Preview notes when inserting or editing"
+msgstr ""
+
+#: ;^20E9ED3176CA103F
+msgid "Preview on velocity change"
+msgstr ""
+
+#: ;^DCA1F9FA124A043F
+msgid "Preview on keyboard action"
+msgstr ""
+
+#: ;^50F94031ED758F24
+msgid "Preview all selected notes that overlap with the edited note"
+msgstr ""
+
+#: ;^AE1C4652DA3C4CFB
+msgid "CC events in multiple media items"
+msgstr ""
+
+#: ;^7B070861BE3E039A
+msgid "Draw and edit on all tracks"
+msgstr ""
+
+#: ;^615BB99EE4DB6A1D
+msgid "Edit on all tracks"
+msgstr ""
+
+#: ;^1B9478CA8663CEAE
+msgid "Velocity editing lane"
+msgstr ""
+
+#: ;^B98C4C5CF62E1612
+msgid "Edit only when mouse is over velocity bar"
+msgstr ""
+
+#: ;^FF74C5FAC8666B6D
+msgid "Edit previous note within current grid division"
+msgstr ""
+
+#: ;^CBA3F4617B7ED4EB
+msgid "Drawing or selecting a note sets the new note length"
+msgstr ""
+
+#: ;^6B25D8449FD79DF4
+msgid "Allow MIDI note edit to extend the media item"
+msgstr ""
+
+#: ;^3615D619BF30D578
+msgid "Display 14-bit MSB/LSB CC data as a single entry in event list/properties"
+msgstr ""
+
+#: ;^84DBA574F27F3A00
+msgid "Automatically correct overlapping notes"
+msgstr ""
+
+#: ;^19A497F8ACEBBCD9
+msgid "Use F1-F12 for step recording"
+msgstr ""
+
+#: ;^1EF9DD5F05BC8D89
+msgid "Use all MIDI inputs for step recording"
+msgstr ""
+
+#: ;^67D1CB88D6D1EB6C
+msgid "MIDI editor mouse modifiers..."
+msgstr ""
+
+#: ;^91E3DBF71C5D78E4
+msgid "Customize menus/toolbar..."
+msgstr ""
+
+#: ;^87B550EB3F37F8CE
+msgid "&View"
+msgstr ""
+
+#: ;^C2EA750B659102CA
+msgid "View"
+msgstr ""
+
+#: ;^0B0113E292076F0C
+msgid "Filter events..."
+msgstr ""
+
+#: ;^22F2CC2A38A97EDC
+msgid "Event properties..."
+msgstr ""
+
+#: ;^9D3EBA1E7D7E3B42
+msgid "Raw MIDI data..."
+msgstr ""
+
+#: ;^FF666E7FCCA22D1A
+msgid "Mode: piano roll"
+msgstr ""
+
+#: ;^5BF8CF14CD14864A
+msgid "Mode: named notes"
+msgstr ""
+
+#: ;^9FFBE5433EFE0406
+msgid "Mode: event list"
+msgstr ""
+
+#: ;^2EDF82495F660F36
+msgid "Mode: musical notation"
+msgstr ""
+
+#: ;^DFB842604B04659A
+msgid "Piano roll notes"
+msgstr ""
+
+#: ;^6F5879A58A373F2D
+msgid "Rectangles"
+msgstr ""
+
+#: ;^22E2AB4758B4B1A6
+msgid "Triangles (drum mode)"
+msgstr ""
+
+#: ;^458E371D81F5AF00
+msgid "Diamonds (drum mode)"
+msgstr ""
+
+#: ;^8D4D0B4B0B6A41EE
+msgid "Show velocity handles on notes"
+msgstr ""
+
+#: ;^F2C5D93EA511931D
+msgid "Show velocity numbers on notes"
+msgstr ""
+
+#: ;^B3A278DCD3CFC6D2
+msgid "Show note names on notes"
+msgstr ""
+
+#: ;^9E9DB29C59430C85
+msgid "Show velocity and names only on the active media item"
+msgstr ""
+
+#: ;^AAD780F2936DFA0C
+msgid "Color notes by"
+msgstr ""
+
+#: ;^073F0BD84FB2C598
+msgid "Velocity"
+msgstr ""
+
+#: ;^F3238895531F739E
+msgid "Channel"
+msgstr ""
+
+#: ;^57F28E456CC0FEEB
+msgid "Pitch"
+msgstr ""
+
+#: ;^1A360D9AC072403B
+msgid "Source, using color map"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^0B3E0029A01A16F4
+msgid "Media item"
+msgstr ""
+
+#: ;^0349058E1C6FCD22
+msgid "Show/hide note rows"
+msgstr ""
+
+#: ;^F63AE8DA71068B90
+msgid "Show all note rows"
+msgstr ""
+
+#: ;^EC7AC3AA42C4D72E
+msgid "Hide unused note rows"
+msgstr ""
+
+#: ;^DBDB8690C26086AF
+msgid "Hide unused and unnamed note rows"
+msgstr ""
+
+#: ;^87105FFEE70C5A43
+msgid "Piano roll ruler"
+msgstr ""
+
+#: ;^EF9B6744B3A3252C
+msgid "Show project markers"
+msgstr ""
+
+#: ;^8AECF7AB9A62250A
+msgid "Show project regions"
+msgstr ""
+
+#: ;^C4C608138A054AEE
+msgid "Show tempo/time signature markers"
+msgstr ""
+
+#: ;^AC73D1BFD8821FC1
+msgid "Piano roll timebase"
+msgstr ""
+
+#: ;^8881802479A8CAAF
+msgid "Source beats"
+msgstr ""
+
+#: ;^08A04EC237FB2661
+msgid "Project beats"
+msgstr ""
+
+#: ;^2B9FBBB7B42D2295
+msgid "Project time"
+msgstr ""
+
+#: ;^8CFE0E2A8D9A34F6
+msgid "Project synced"
+msgstr ""
+
+#: ;^62C6BA8296D6CBAC
+msgid "Timebase help..."
+msgstr ""
+
+#: ;^BA55F2C7F7CC04C8
+msgid "Notation view options"
+msgstr ""
+
+#: ;^45CAFF28A65AECF2
+msgid "Proportional (musical) note spacing"
+msgstr ""
+
+#: ;^CD47DFA0273657A2
+msgid "Continuous view always, regardless of zoom level"
+msgstr ""
+
+#: ;^2DF49C37B8D4B099
+msgid "Minimize ties for all notes by default"
+msgstr ""
+
+#: ;^A2D6900BDE25A89B
+msgid "Automatically double dot notes"
+msgstr ""
+
+#: ;^B3A2924B68A32EC2
+msgid "Automatically triple dot notes"
+msgstr ""
+
+#: ;^4301D6719DEA0900
+msgid "Display pedal events"
+msgstr ""
+
+#: ;^A8B092DA55DB685C
+msgid "Bracket tracks by folder"
+msgstr ""
+
+#: ;^4EE4CA7435A0D22D
+msgid "Color note heads"
+msgstr ""
+
+#: ;^CE20A3C4594B477A
+msgid "Position dynamics below the staff by default"
+msgstr ""
+
+#: ;^662197EEE0495B80
+msgid "Automatically detect triplets"
+msgstr ""
+
+#: ;^F5C0144DB696F06C
+msgid "Automatically voice overlapping notes"
+msgstr ""
+
+#: ;^9B29B2AE84FDC449
+msgid "Show project tempo changes"
+msgstr ""
+
+#: ;^0350C15B07A61D91
+msgid "Key signatures"
+msgstr ""
+
+#: ;^B686BA8838F18A6F
+msgid "Key signature changes affect all tracks"
+msgstr ""
+
+#: ;^C98EE5432BA46B65
+msgid "Transposing display affects key signatures"
+msgstr ""
+
+#: ;^5FD74DE73CBAB0FA
+msgid "Display quantization..."
+msgstr ""
+
+#: ;^5479D7FA9A2ADB81
+msgid "Contents"
+msgstr ""
+
+#: ;^6401143383A78B46
+msgid "Track List"
+msgstr ""
+
+#: ;^652EF93F64A683F6
+msgid "Media Item Lane"
+msgstr ""
+
+#: ;^3A84A1513B5B67C0
+msgid "One MIDI editor per"
+msgstr ""
+
+#: ;^A2BF58A6DFD853DC
+msgid "Project"
+msgstr ""
+
+#: ;^8AEA4F30E06A7A87
+msgid "Behavior for \"open items in built-in MIDI editor\""
+msgstr ""
+
+#: ;^E964640878017639
+msgid "Open the clicked MIDI item only"
+msgstr ""
+
+#: ;^BBC1706D3B8635E2
+msgid "Open all selected MIDI items"
+msgstr ""
+
+#: ;^7D87735CC6F0E8CF
+msgid "Open all MIDI items on the same track as the clicked item"
+msgstr ""
+
+#: ;^71A76211A7CFDF12
+msgid "Open all MIDI in the project"
+msgstr ""
+
+#: ;^9535442A6F8D5561
+msgid "Options when using one MIDI editor per project"
+msgstr ""
+
+#: ;^AD510FC22D6EECAC
+msgid "Active MIDI item follows selection changes in arrange view"
+msgstr ""
+
+#: ;^19E78BE8A7F79DE0
+msgid "Media item selection is linked to visibility"
+msgstr ""
+
+#: ;^37430F40BB8B352E
+msgid "Media item selection is linked to editability"
+msgstr ""
+
+#: ;^05E07D2942EFF739
+msgid "Only MIDI items on the same track as the active item are editable"
+msgstr ""
+
+#: ;^725B164EA8340BE9
+msgid "Close editor when the active media item is deleted in arrange view"
+msgstr ""
+
+#: ;^7EDC3D0D26BF2D8C
+msgid "All media items are editable in notation view"
+msgstr ""
+
+#: ;^B817B56070E01709
+msgid "<MIDI media item list>"
+msgstr ""
+
+#: ;^744B2F6CFBA0A242
+msgid "Actions"
+msgstr ""
+
+#: ;^A0CB20A955DAF552
+msgid "Show action list..."
+msgstr ""
+
+#: ;^593D5AC384550ADA
+msgid "Show recent actions"
+msgstr ""
+

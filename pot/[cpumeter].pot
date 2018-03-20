@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;AC9CE5BD66CC273B
+msgid "Monitor FX"
+msgstr ""
+
+#: ;1B23661F1BBB9A19
+msgid "%sCPU: %.1lf%%\n"
+msgstr ""
+
+#: ;93279AF94ECAFA8D
+msgid "RT CPU: %.1lf%%\n"
+msgstr ""
+
+#: ;18791B7F420857E5
+msgid "Total"
+msgstr ""
+
+#: ;CCF46344B8E72E2D=RT longest-block
+msgid "RT longest-block=%.2fms/%.2fms%s\n"
+msgstr ""
+
+#: ;D3B5EF10274FAA3D
+msgid "(hold)"
+msgstr ""
+
+#: ;B9A9937766A29768
+msgid "Disk read:"
+msgstr ""
+
+#: ;A87379FE917563C7
+msgid "Disk write:"
+msgstr ""
+
+#: ;770B69EEFA83809E
+msgid "RAM use: %uMB\r\n"
+msgstr ""
+
+#: ;FC19414CC54B044B
+msgid "System %s: %uMB/%uMB\r\n\r\n"
+msgstr ""
+
+#: ;74E4179B6447E89D
+msgid "free"
+msgstr ""
+
+#: ;8168147E99383416
+msgid "use"
+msgstr ""
+
+#: ;23DFDEDC9CF04735
+msgid "%d FX: %.2f%% CPU"
+msgstr ""
+
+#: ;36A965ABAC0E2CF3
+msgid "Performance"
+msgstr ""
+
+#: ;953C6D46CA27A548
+msgid "CPU use"
+msgstr ""
+
+#: ;0F2A70052EBB526C
+msgid "Latency: %.0fms"
+msgstr ""
+
+#: ;4CF6043E6041E61E
+msgid "cur/avg:"
+msgstr ""
+
+#: ;01FDED75265EB99E
+msgid "range:"
+msgstr ""
+
+#: ;^E53622684802B745
+msgid "Master"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^EE1268CA4B845A22
+msgid "# FX"
+msgstr ""
+
+#: ;^9747AB7E1489B5C8
+msgid "PDC"
+msgstr ""
+
+#: ;^43855E7B817F2992
+msgid "ReaMote"
+msgstr ""
+

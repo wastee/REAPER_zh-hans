@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;15AA65451FBB7AB4
+msgid "DDP is a Registered Trademark of DCA Inc., 1989-2008"
+msgstr ""
+
+#: ;8289D94FDB76144D
+msgid "DDP format is used to make exchangable files for CD Audio manufacturing."
+msgstr ""
+
+#: ;0CAF30396057EDBC
+msgid "The CD Audio format is 44100Hz, 16-bit, stereo. Please set this format, otherwise the export will be cancelled."
+msgstr ""
+
+#: ;E17F7F8449C401F5
+msgid "DDP format consists of many files, which must all be sent to the CD manufacturing plant."
+msgstr ""
+
+#: ;3D33D9F4D70D2359
+msgid "In order to create standard CD\'s, Red Book specification limitations are included:"
+msgstr ""
+
+#: ;F46651C2F20A5AEC
+msgid "- at least one track is automaticaly created"
+msgstr ""
+
+#: ;3001E81F417325E9
+msgid "- INDEX0 is required only for the first track, and set to 0 seconds"
+msgstr ""
+
+#: ;49C78F8A1AC92D15
+msgid "- first track\'s INDEX1 position is limited to at least 2 seconds,"
+msgstr ""
+
+#: ;C68576AA76FCCF93
+msgid "please consider this, to make at least 2 seconds of silence in the beginning,"
+msgstr ""
+
+#: ;CD8970415D9DC7B8
+msgid "otherwise the audio content will be ignored"
+msgstr ""
+
+#: ;0279EDA5D0196020
+msgid "- minimum track length (distance of the next track\'s INDEX0/INDEX1"
+msgstr ""
+
+#: ;AA502A266D789E09
+msgid "to the previous INDEX1) is set to 4 seconds, please consider this,"
+msgstr ""
+
+#: ;F651F6FD2BBDCB3E
+msgid "otherwise the INDEX0 and 1 are automatically moved in the next track\'s audio."
+msgstr ""
+
+#: ;FB1ED348C6500FD3
+msgid "- INDEX1 is set to be at least 1 frame after INDEX0, if INDEX0 is defined"
+msgstr ""
+
+#: ;ADF8FA44F480A815=- the audio length is padded with silence to be frame aligned (1 frame 
+msgid "- the audio length is padded with silence to be frame aligned (1 frame = 1/75 second)"
+msgstr ""
+
+#: ;E7B4C01D859D878F
+msgid "------------------------------------------------"
+msgstr ""
+
+#: ;112895DFC7E712BF
+msgid "Album and track metadata is set by the format of marker names:"
+msgstr ""
+
+#: ;98D777A7F6A4FA3A
+msgid "- markers starting with \"@\" character represent album metadata"
+msgstr ""
+
+#: ;F40265BB80830887
+msgid "- markers starting with \"!\" character represent INDEX0 position for the following \"#\" track"
+msgstr ""
+
+#: ;1CE3D62176A296B8
+msgid "- markers starting with \"#\" character represent track metadata and INDEX1 position"
+msgstr ""
+
+#: ;829C22BD4EB2F4BC
+msgid "If there is more than one @ marker, each one overwrites the previous one\'s defined values."
+msgstr ""
+
+#: ;4BC414C233A03FC1
+msgid "If there are more ! markers in one track, only the last one before # is used"
+msgstr ""
+
+#: ;291D125977438E08
+msgid "The number of # markers represent the number of CD tracks."
+msgstr ""
+
+#: ;BF1A3D9283ECB9BF
+msgid "The position of @ marker(s) can be anywhere, the most readable position is at the end of the album."
+msgstr ""
+
+#: ;0BE2F8B8A5B4A683
+msgid "If the audio data is too short, only the (! and #) markers before the end of audio + 10 seconds are used."
+msgstr ""
+
+#: ;2C4DF5BC30F9A8EE
+msgid "The audio is padded with silence until the last used marker (and aligned to 1/75 second)."
+msgstr ""
+
+#: ;8954DDEF73351605=The metadata is in \"KEY1=VALUE1|KEY2=VALUE2|KEY3
+msgid "The metadata is in \"KEY1=VALUE1|KEY2=VALUE2|KEY3=VALUE3\" format. There can be any number of"
+msgstr ""
+
+#: ;49DA32D88A786D82=KEY
+msgid "KEY=VALUE pairs. KEYs are case insensitive."
+msgstr ""
+
+#: ;10534E5F3F0575CC
+msgid "@ markers recognize this keys:"
+msgstr ""
+
+#: ;D4EAFC825258A91E
+msgid "- \"CATALOG\", \"EAN\" or \"UPC\" for the same EAN/UPC number, which is included in the CD"
+msgstr ""
+
+#: ;8C4360DA672DBBB0
+msgid "- \"ALBUM\", \"TITLE\" or without a key for album\'s title"
+msgstr ""
+
+#: ;B8CBCB0D19586BF4
+msgid "- \"PERFORMER\""
+msgstr ""
+
+#: ;73D07F210A97238C
+msgid "- \"SONGWRITER\""
+msgstr ""
+
+#: ;FD85991FCE07E0A8
+msgid "- \"COMPOSER\""
+msgstr ""
+
+#: ;01F5B8F511351264
+msgid "- \"ARRANGER\""
+msgstr ""
+
+#: ;EA62DF879DB6E8AF
+msgid "- \"MESSAGE\""
+msgstr ""
+
+#: ;1D6FE7BF92062624
+msgid "- \"IDENTIFICATION\""
+msgstr ""
+
+#: ;947F1A1DBCCEC32F
+msgid "- \"GENRE\" - write any text or use one of the predefined genres in the list at the bottom of this text."
+msgstr ""
+
+#: ;E16D2128D3FF3B52
+msgid "- \"LANGUAGE\" - use one of the names from the list at the bottom of this text."
+msgstr ""
+
+#: ;CE1142641FC3E067
+msgid "# markers recognize this keys:"
+msgstr ""
+
+#: ;7E2053B530210A4A
+msgid "- \"ISRC\" number for audio track"
+msgstr ""
+
+#: ;17EACD9FA3785CE9
+msgid "- \"TITLE\" or without a key for track\'s title"
+msgstr ""
+
+#: ;5AFC6264E68ADD81
+msgid "! markers ignore any metadata, only the position is used."
+msgstr ""
+
+#: ;082C3C3645B48392
+msgid "CD-TEXT will be exported only, if any of the CD-TEXT keys is specified."
+msgstr ""
+
+#: ;40F17336F8611D09
+msgid "Every key except the \"CATALOG\", \"EAN\", \"UPC\" and \"ISRC\" is a CD-TEXT key."
+msgstr ""
+
+#: ;826DA9B42A127D2E
+msgid "MARKERS EXAMPLE:"
+msgstr ""
+
+#: ;96956B1C50589459=1. \"#Intro|ISRC
+msgid "1. \"#Intro|ISRC=012345678901\""
+msgstr ""
+
+#: ;92D53927B190EBCC=2. \"#Second track|ISRC
+msgid "2. \"#Second track|ISRC=012345678902\""
+msgstr ""
+
+#: ;8FEC9804BF26616B
+msgid "3. \"!\""
+msgstr ""
+
+#: ;4C1D08AE9FE8CA6D=4. \"#TITLE=Third track|ISRC
+msgid "4. \"#TITLE=Third track|ISRC=012345678903\""
+msgstr ""
+
+#: ;FBBC004D2CAE86B5
+msgid "5. \"!\""
+msgstr ""
+
+#: ;C34067D1D4BE3691
+msgid "6. \"#Last track\""
+msgstr ""
+
+#: ;6C7D0110549E4802=7. \"@My first album|PERFORMER=A good band|EAN=0123456789012|GENRE=Pop|LANGUAGE
+msgid "7. \"@My first album|PERFORMER=A good band|EAN=0123456789012|GENRE=Pop|LANGUAGE=English\""
+msgstr ""
+
+#: ;0D0A488B415FD493
+msgid "GENRES:"
+msgstr ""
+
+#: ;50E7839A4C514644
+msgid "LANGUAGES:"
+msgstr ""
+
+#: ;^AF63BD4C8601B7DF
+msgid ""
+msgstr ""
+

@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;DDD54BF5EDDB4EC3
+msgid "Track grouping"
+msgstr ""
+
+#: ;F1D02154F5AD56F4
+msgid "Group:"
+msgstr ""
+
+#: ;0EA400A56E2B78DF
+msgid "Group enabled"
+msgstr ""
+
+#: ;ADBA0F646E1153C9
+msgid "Volume Master"
+msgstr ""
+
+#: ;98A95EFB1AF96512
+msgid "Volume Slave"
+msgstr ""
+
+#: ;E40BCA0B63AD1E98
+msgid "Pan Master"
+msgstr ""
+
+#: ;96C7994AEB8A8CE1
+msgid "Pan Slave"
+msgstr ""
+
+#: ;85645DB1B0A535C1
+msgid "Width Master"
+msgstr ""
+
+#: ;54BA81BA673A9BDA
+msgid "Width Slave"
+msgstr ""
+
+#: ;E16575B2BFF22980
+msgid "Mute Master"
+msgstr ""
+
+#: ;A882BAEF5C63CAD9
+msgid "Mute Slave"
+msgstr ""
+
+#: ;D1DE6C4B216497BE
+msgid "Solo Master"
+msgstr ""
+
+#: ;8EFCF6966DB2F29B
+msgid "Solo Slave"
+msgstr ""
+
+#: ;4108C629BE960AB7
+msgid "Polarity/Phase Master"
+msgstr ""
+
+#: ;8B85BD347864588C
+msgid "Polarity/Phase Slave"
+msgstr ""
+
+#: ;9DBE513B192C737A
+msgid "Record Arm Master"
+msgstr ""
+
+#: ;C6F0BA7855E84CCF
+msgid "Record Arm Slave"
+msgstr ""
+
+#: ;AAD4E381751A2697
+msgid "Automation Mode Master"
+msgstr ""
+
+#: ;3542170B2D1561EC
+msgid "Automation Mode Slave"
+msgstr ""
+
+#: ;606E7FD79109B6A7
+msgid "VCA Master"
+msgstr ""
+
+#: ;9B73A4F40602F6FC
+msgid "VCA Slave"
+msgstr ""
+
+#: ;CC1F45AD0966C3CF
+msgid "Select:"
+msgstr ""
+
+#: ;8669E5366A629ED6
+msgid "Slave"
+msgstr ""
+
+#: ;F3469FCCC27C727B
+msgid "Reverse volume"
+msgstr ""
+
+#: ;25D21B9457AE5EE8
+msgid "Reverse pan"
+msgstr ""
+
+#: ;3AADE202920DAF3B
+msgid "Reverse width"
+msgstr ""
+
+#: ;8EE6318F206D7E95
+msgid "Do not master when slaving"
+msgstr ""
+
+#: ;D5AB179301B74F6C
+msgid "VCA pre-FX slave"
+msgstr ""
+
+#: ;F0B0635EC26A65A0
+msgid "Note: ganging will always take place if multiple tracks are selected.\r\n\r\nNote: hold shift when modifying most things to temporarily override grouping."
+msgstr ""
+
+#: ;E9C1E7A308009E30
+msgid "Save default flags"
+msgstr ""
+
+#: ;A27C8B01FFF12305
+msgid "Load default flags"
+msgstr ""
+
+#: ;^66D8B92631859FE9
+msgid "Rename..."
+msgstr ""
+
+#: ;^18C90F7E5DC51FCA
+msgid "All"
+msgstr ""
+
+#: ;^3390D94D34F06461
+msgid "None"
+msgstr ""
+
+#: ;^E53622684802B745
+msgid "Master"
+msgstr ""
+
+#: ;^BAC64C1B2E060EE5
+msgid "Close"
+msgstr ""
+

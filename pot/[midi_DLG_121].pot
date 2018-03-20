@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;0790B9C557D74789
+msgid "Quantize Events"
+msgstr ""
+
+#: ;24158E92756CFAB8
+msgid "Settings:"
+msgstr ""
+
+#: ;D192E5EF7BB75BF6
+msgid "Quantize:"
+msgstr ""
+
+#: ;87133F2060B6E2CE
+msgid "Swing strength:"
+msgstr ""
+
+#: ;21EDE924FF68D810
+msgid "Allow notes to:"
+msgstr ""
+
+#: ;842B5EA54043E4AF
+msgid "Move left"
+msgstr ""
+
+#: ;B5BCAF595CD802A0
+msgid "Move right"
+msgstr ""
+
+#: ;E74D3C6A8F24B632
+msgid "Shrink"
+msgstr ""
+
+#: ;0E0BC288F884062C
+msgid "Grow"
+msgstr ""
+
+#: ;9772AEFE96C582EE=Only quantize range (0% = on grid, 50%
+msgid "Only quantize range (0% = on grid, 50%=between grid):"
+msgstr ""
+
+#: ;D0E7BAA4C2DCF08B
+msgid "From:"
+msgstr ""
+
+#: ;7621CE7E02300F80
+msgid "To:"
+msgstr ""
+
+#: ;70434732832EDB46
+msgid "Fix overlaps"
+msgstr ""
+
+#: ;1DCA8B56D201E716
+msgid "Commit"
+msgstr ""
+
+#: ;^1C9976E435832BEB
+msgid "Bypass"
+msgstr ""
+
+#: ;^576D3C1F8C34C670
+msgid "Strength:"
+msgstr ""
+
+#: ;^649ECB151A2B4705
+msgid "Slider1"
+msgstr ""
+
+#: ;^0832A307B4EB9DCE
+msgid "%"
+msgstr ""
+
+#: ;^97D314BE6757F16B
+msgid "Grid:"
+msgstr ""
+
+#: ;^309B13D6E0AC1A0F
+msgid "Length:"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+

@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;3CE9A734B44D17C3
+msgid "Error parsing file"
+msgstr ""
+
+#: ;968EEBDF7F90BA4E
+msgid "Error reading w64 chunk header"
+msgstr ""
+
+#: ;0E784C0861931BD1
+msgid "Invalid w64 chunk length (<24)"
+msgstr ""
+
+#: ;E313EB7E56CBEDA4
+msgid "Error reading w64 bext chunk"
+msgstr ""
+
+#: ;49A9A1EAF6EF78DF
+msgid "Error reading w64 fact chunk"
+msgstr ""
+
+#: ;DC7E1107022BABD6
+msgid "Error reading w64 fmt chunk"
+msgstr ""
+
+#: ;F79D725DCD1D79E4
+msgid "w64 ex-type is not PCM or floating point PCM"
+msgstr ""
+
+#: ;1C3F96F53446B010
+msgid "w64 type is not PCM or floating point PCM"
+msgstr ""
+
+#: ;DA7E17CC51C0968F=w64 fmt nch is not >
+msgid "w64 fmt nch is not >= 1 channels"
+msgstr ""
+
+#: ;F1F1C27F2500E4BA
+msgid "w64 fmt type is floating point PCM but not 32/64 bit"
+msgstr ""
+
+#: ;D2BFA342F28B7D30
+msgid "w64 fmt type is PCM but not 8/16/20/24/32 bit"
+msgstr ""
+
+#: ;2987384AC4E8C881
+msgid "w64 is MSADPCM, but invalid parameters"
+msgstr ""
+
+#: ;D94FDF29BF833CA0
+msgid "w64 is IMA ADPCM, but invalid parameters"
+msgstr ""
+
+#: ;2CAEAE38E4D803B6
+msgid "w64 is cADPCM, but invalid parameters"
+msgstr ""
+
+#: ;6225F7AC29A4B6CB
+msgid "Error reading AIFF chunk header"
+msgstr ""
+
+#: ;E1713959A5C6C38C
+msgid "Error reading AIFF COMM chunk"
+msgstr ""
+
+#: ;811CA9545833F0C2
+msgid "AIFF is not 8/16/20/24/32/64 bit"
+msgstr ""
+
+#: ;BD808EC26C501FBF=AIFF is not >
+msgid "AIFF is not >= 1ch"
+msgstr ""
+
+#: ;C006FF1E57D191A6
+msgid "AIFC has invalid compressed data type"
+msgstr ""
+
+#: ;808043BC24769C06
+msgid "Error reading AIFF SSND header"
+msgstr ""
+
+#: ;0378C899A572C859
+msgid "Error reading WAV chunk header"
+msgstr ""
+
+#: ;D08255B00457859E
+msgid "RF64 ds64 chunk is too small"
+msgstr ""
+
+#: ;94C2B7954A48AF43
+msgid "Error reading RF64 ds64 chunk"
+msgstr ""
+
+#: ;DD8F88E9BF007BE3
+msgid "RF64 requires ds64 chunk"
+msgstr ""
+
+#: ;1E99B24D91ACF613
+msgid "Error reading WAV fmt chunk"
+msgstr ""
+
+#: ;A890C1B945532BCF
+msgid "WAV ex-type is not PCM or floating point PCM"
+msgstr ""
+
+#: ;4D40F778CF943B45
+msgid "WAV type is not PCM or floating point PCM"
+msgstr ""
+
+#: ;08FF0718C8D2C849=WAV is not >
+msgid "WAV is not >= 1ch"
+msgstr ""
+
+#: ;8AD70C5E629183A8
+msgid "WAV is floating point PCM, but not 32/64 bit"
+msgstr ""
+
+#: ;8D0E752EFAFD79FE
+msgid "WAV is PCM, but not 8/16/20/24/32 bit"
+msgstr ""
+
+#: ;72D14F95752DDCF6
+msgid "WAV is MSADPCM, but invalid parameters"
+msgstr ""
+
+#: ;2508C719EC2FE30F
+msgid "WAV is IMA ADPCM, but invalid parameters"
+msgstr ""
+
+#: ;CD0B60BDF34C1E87
+msgid "WAV is cADPCM, but invalid parameters"
+msgstr ""
+
+#: ;2616F823FDFFF608
+msgid "Error reading WAV fact chunk"
+msgstr ""
+
+#: ;DDD5B1BBE71ADDA7
+msgid "Error reading WAV acid chunk"
+msgstr ""
+
+#: ;B63351815735F84B
+msgid "Error reading WAV bext chunk"
+msgstr ""
+
+#: ;D31AE23EAA68C24C
+msgid "Unknown file header"
+msgstr ""
+
+#: ;0D2EC08C6EDCDEBD
+msgid "Couldn't find format chunk in file"
+msgstr ""
+
+#: ;72C8427D7190CFC6
+msgid "Couldn't find data chunk in file"
+msgstr ""
+
+#: ;F3C9CEA6622D4D95
+msgid "Invalid data in file"
+msgstr ""
+
+#: ;E9B5EB7ED466A310
+msgid "int"
+msgstr ""
+
+#: ;D8CEC2215E3FE160
+msgid "WAV files"
+msgstr ""
+
+#: ;E2E2BED8A694857A
+msgid "AIFF files"
+msgstr ""
+
+#: ;^439CE51FC4707DDD
+msgid "Length:"
+msgstr ""
+

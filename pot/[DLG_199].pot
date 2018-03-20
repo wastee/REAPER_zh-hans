@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;D20AEAB230E8A915
+msgid "Snap/Grid Settings"
+msgstr ""
+
+#: ;FAB43CC8C74911B4
+msgid "Grid settings"
+msgstr ""
+
+#: ;80A302C4720204A1
+msgid "Show grid, line spacing:"
+msgstr ""
+
+#: ;909EA4BEDF903541
+msgid "minimum:"
+msgstr ""
+
+#: ;FAB803D939CA7101
+msgid "Swing grid:"
+msgstr ""
+
+#: ;09D57473EE1D1EF9
+msgid "swing amount"
+msgstr ""
+
+#: ;5ECA3B6DF8877E70
+msgid "Adjust"
+msgstr ""
+
+#: ;6ED03F0307407314
+msgid "items when changing swing"
+msgstr ""
+
+#: ;5A440BC2BE969608
+msgid "Snap distance:"
+msgstr ""
+
+#: ;F34BB15DA08E0D6E
+msgid "Snap relative to grid"
+msgstr ""
+
+#: ;46CF8C43686D1A27
+msgid "Snap:"
+msgstr ""
+
+#: ;89B473D8A650A4CB
+msgid "Selection"
+msgstr ""
+
+#: ;E96D65E8C4F421BD
+msgid "Cursor"
+msgstr ""
+
+#: ;0E6C9C7A0BA6B1CD
+msgid "to selection/markers/cursor"
+msgstr ""
+
+#: ;9210A71F28FFEED4
+msgid "to grid"
+msgstr ""
+
+#: ;B0CF6CB38AA786EF
+msgid "Grid snap settings follow grid visibility"
+msgstr ""
+
+#: ;79BF2A7701C47BF6
+msgid "Snap to grid at any distance"
+msgstr ""
+
+#: ;FB6C4377177082CE
+msgid "Grid snap spacing:"
+msgstr ""
+
+#: ;1593661A56EFAEDD
+msgid "Snap cursor to edges of media items on any track"
+msgstr ""
+
+#: ;52642B06790DC836
+msgid "Media items snap at:"
+msgstr ""
+
+#: ;3F4726E1BC2836A1
+msgid "Snap media items to nearby media items up to:"
+msgstr ""
+
+#: ;9F89DCC4637F103B
+msgid "tracks away"
+msgstr ""
+
+#: ;FDBA8D3410BD68C8
+msgid "Snap media items apart by:"
+msgstr ""
+
+#: ;9934781AD1C1A171
+msgid "Snap to project sample rate"
+msgstr ""
+
+#: ;974DE9D993F1F22B
+msgid "Force selections to be multiples of:"
+msgstr ""
+
+#: ;^10EC54E7BB0B3282
+msgid "pixels"
+msgstr ""
+
+#: ;^0832A307B4EB9DCE
+msgid "%"
+msgstr ""
+
+#: ;^00F8AF1A6A14D288
+msgid "Snap settings"
+msgstr ""
+
+#: ;^59111F850FAE5C14
+msgid "Enable snapping"
+msgstr ""
+
+#: ;^3470CDBB0C544765
+msgid "Media items"
+msgstr ""
+
+#: ;^8ADF290B4AAF99F9
+msgid "Use the same grid division in arrange view and MIDI editor"
+msgstr ""
+

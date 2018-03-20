@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;08B4634CC77FCE14
+msgid "19FxBrowseCtx2"
+msgstr ""
+
+#: ;53DC5790656E0F99
+msgid "&Rename FX..."
+msgstr ""
+
+#: ;49DCAE59C5BD3783
+msgid "&Scan for new plugins"
+msgstr ""
+
+#: ;^CC9253BC8BC18E8D
+msgid "Rename FX..."
+msgstr ""
+
+#: ;^3683BEB2CD7D7896
+msgid "&Edit JS FX..."
+msgstr ""
+
+#: ;^2A31DB0B5883713A
+msgid "Edit JS FX..."
+msgstr ""
+
+#: ;^D6DB6AF3F0039A90
+msgid "Create new &JS FX..."
+msgstr ""
+
+#: ;^D1015785000960A4
+msgid "Create new JS FX..."
+msgstr ""
+
+#: ;^A179E53BE5D2EC67
+msgid "Scan for new plugins"
+msgstr ""
+
+#: ;^5B982DEEA8952FF4
+msgid "Auto-float new FX windows"
+msgstr ""
+
+#: ;^0EE7D967B88BFC63
+msgid "&FX Plug-ins settings..."
+msgstr ""
+
+#: ;^91C05340E1D72E6F
+msgid "FX Plug-ins settings..."
+msgstr ""
+
+#: ;^DD4C8B57B6C4F338
+msgid "Show in left pane list"
+msgstr ""
+
+#: ;^D865D2186B4A94DB
+msgid "DX"
+msgstr ""
+
+#: ;^FF98B17E4FBAAA76
+msgid "DXi"
+msgstr ""
+
+#: ;^6388A67DF74AFA94
+msgid "VST"
+msgstr ""
+
+#: ;^6C2DE50B34687BE7
+msgid "VSTi"
+msgstr ""
+
+#: ;^6C2D8F0B3467E9C5
+msgid "VST3"
+msgstr ""
+
+#: ;^3953BC0A0C920F44
+msgid "VST3i"
+msgstr ""
+
+#: ;^D86FE1186B5302DD
+msgid "AU"
+msgstr ""
+
+#: ;^191E307E5E0D97DC
+msgid "AUi"
+msgstr ""
+
+#: ;^D851E3186B3A08B4
+msgid "JS"
+msgstr ""
+
+#: ;^598D95450BED5823
+msgid "ReWire"
+msgstr ""
+
+#: ;^F1288C037F484D01
+msgid "Cockos"
+msgstr ""
+
+#: ;^EFDD0AC32D858D23
+msgid "Instruments"
+msgstr ""
+
+#: ;^44914FDF8A0DA00C
+msgid "Recent"
+msgstr ""
+
+#: ;^40B8E8A7530FEAA1
+msgid "VST folders"
+msgstr ""
+
+#: ;^CAC6D9B556053C93
+msgid "Categories"
+msgstr ""
+
+#: ;^83ACA278C2C00834
+msgid "Developers"
+msgstr ""
+
+#: ;^C004CD40F2057E29
+msgid "FX chains"
+msgstr ""
+
+#: ;^DFE075A0849636D1
+msgid "Clear cache and re-scan all plugins"
+msgstr ""
+
+#: ;^E7D728BB6DC1259F
+msgid "Show in FX list"
+msgstr ""
+
+#: ;^2D4BDC5DCCE1B42E
+msgid "Default FX presets"
+msgstr ""
+
+#: ;^7A8F70DCF15158A9
+msgid "JSFX descriptions"
+msgstr ""
+
+#: ;^A1957B451EAC9B78
+msgid "JSFX filenames"
+msgstr ""
+
+#: ;^4D0B7C1B0447364A
+msgid "Video processor"
+msgstr ""
+
+#: ;^D2A68B678498F805
+msgid "Plug-ins that begin with '#'"
+msgstr ""
+
+#: ;^4018D271D54282D1
+msgid "Auto-clear search field on folder change"
+msgstr ""
+
+#: ;^6EFA7E4EF87CA485
+msgid "Auto-clear search field on close"
+msgstr ""
+
+#: ;^32C5A9224C3188A6
+msgid "Auto-clear folder view on close"
+msgstr ""
+
+#: ;^240086858F17503C
+msgid "Remove all empty folders"
+msgstr ""
+
+#: ;^146E11E319517217
+msgid "Dock FX browser in Docker"
+msgstr ""
+
+#: ;^BAC64C1B2E060EE5
+msgid "Close"
+msgstr ""
+

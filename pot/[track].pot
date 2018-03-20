@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;DB621C961B01736A
+msgid "Surround track"
+msgstr ""
+
+#: ;141567A3F6188C4D
+msgid "Hardware:"
+msgstr ""
+
+#: ;1E7DE9407D998715
+msgid "[MASTER]"
+msgstr ""
+
+#: ;ECD3692CB7D58B0E
+msgid "[inactive]"
+msgstr ""
+
+#: ;8B6AF9AC93B99233
+msgid "Chan"
+msgstr ""
+
+#: ;B367367394E04578
+msgid "[muted]"
+msgstr ""
+
+#: ;4898F1BD608F2660
+msgid "[automated mute]"
+msgstr ""
+
+#: ;DA17B00AE0D8421B
+msgid "Settings will affect %d selected tracks"
+msgstr ""
+
+#: ;B1CBBBC86D855EB0
+msgid "Settings will affect %d tracks selected in track manager"
+msgstr ""
+
+#: ;^B3D2C76823B56BAB
+msgid "Channel %d"
+msgstr ""
+
+#: ;^BA0039FB59D95325
+msgid "MASTER"
+msgstr ""
+
+#: ;^F3238895531F739E
+msgid "Channel"
+msgstr ""
+
+#: ;^43632077D6FCDE72
+msgid "- NOT FULLY CONNECTED"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^480A73B43C308366
+msgid "(folder)"
+msgstr ""
+
+#: ;^112BF17E59C1097F
+msgid "Bus"
+msgstr ""
+
+#: ;^18C90F7E5DC51FCA
+msgid "All"
+msgstr ""
+

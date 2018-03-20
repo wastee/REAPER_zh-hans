@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;F6B884BE6F5BDBB3
+msgid "&Off velocity:"
+msgstr ""
+
+#: ;^430304A419B0E574
+msgid "Note Properties"
+msgstr ""
+
+#: ;^4EC7F7461DF2D993
+msgid "&Note:"
+msgstr ""
+
+#: ;^366298521A7B6338
+msgid "&Channel:"
+msgstr ""
+
+#: ;^742F5D29C7564242
+msgid "&Velocity:"
+msgstr ""
+
+#: ;^CEEE8377C1EF8C86
+msgid "&Position:"
+msgstr ""
+
+#: ;^E2071FAD9CE62FAB
+msgid "&Length:"
+msgstr ""
+
+#: ;^D840E3186B2B9581
+msgid "OK"
+msgstr ""
+
+#: ;^F09E4B5C35AA14B9
+msgid "Cancel"
+msgstr ""
+
+#: ;^12848776E53AAD00
+msgid "Use + -* / for relative changes in any field.\r\nUse +1o2  to add 1 octave and 2 semitones."
+msgstr ""
+
+#: ;^D7323C887B0A2951
+msgid "Apply"
+msgstr ""
+

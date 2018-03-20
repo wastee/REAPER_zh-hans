@@ -1,0 +1,706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;8C7CE7F8145EB873
+msgid "Arm for recording"
+msgstr ""
+
+#: ;D169E5F2B7AF020D
+msgid "Hide/Clear"
+msgstr ""
+
+#: ;E8DAF949EEB811B1
+msgid "Bypass (removes if empty)"
+msgstr ""
+
+#: ;7EBA99618E7E2CC4
+msgid "MIDI learn"
+msgstr ""
+
+#: ;CC5DC9FCE0B4A2D7
+msgid "Modulate this parameter"
+msgstr ""
+
+#: ;8929F487053CDAFA
+msgid "Start: %s\nEnd: %s\nLength: %s"
+msgstr ""
+
+#: ;39F400C2686B690E
+msgid "Position: %s"
+msgstr ""
+
+#: ;19D5E3F4F4F6F558
+msgid "Master Output:"
+msgstr ""
+
+#: ;E537B423EF029D39
+msgid "\n  none"
+msgstr ""
+
+#: ;7EDD20633162E6FE
+msgid "channel"
+msgstr ""
+
+#: ;9DC458669ECBB6A0
+msgid "Master/parent send disabled"
+msgstr ""
+
+#: ;E525FF23F748B74D
+msgid "Receives:"
+msgstr ""
+
+#: ;6768BD8303CF2A4C
+msgid "Sends:"
+msgstr ""
+
+#: ;E585FD64AC36AB50
+msgid "Audio Hardware Output:"
+msgstr ""
+
+#: ;FF17B2D16C266A2B
+msgid "MIDI Output:"
+msgstr ""
+
+#: ;DA192334A9AAB304
+msgid "Pan(L): %s (double click to set to center)"
+msgstr ""
+
+#: ;CD150E479821A143
+msgid "Pan: %s (double click to set to center)"
+msgstr ""
+
+#: ;B202F17E64D390EA
+msgid "Pan(R): %s (double click to set to center)"
+msgstr ""
+
+#: ;BB0C93A301E24788
+msgid "Width: %.0f%%  (double click to set to 0%%)"
+msgstr ""
+
+#: ;FDDD149766120897
+msgid "MIDI volume: %d (double click to set to 127)"
+msgstr ""
+
+#: ;8750D8810D34BEC0
+msgid "Volume: %s (double click to set to +0.0)"
+msgstr ""
+
+#: ;4964241B94039C9F
+msgid "Output: mono (L+R)"
+msgstr ""
+
+#: ;6DFE5DA1D256E670
+msgid "Output: mono (L)"
+msgstr ""
+
+#: ;6E56C9A1D2A213CA
+msgid "Output: mono (R)"
+msgstr ""
+
+#: ;5C77721B9F504E59
+msgid "Output: mono (L-R)"
+msgstr ""
+
+#: ;7CE2FDD00EDB1ED4
+msgid "Output: stereo"
+msgstr ""
+
+#: ;9CC036C3AB1AE679
+msgid "INPUT FX:\n"
+msgstr ""
+
+#: ;F74049BC4F320B2B
+msgid "Show Track Input FX Window"
+msgstr ""
+
+#: ;D7E111CA46B51531
+msgid "FX:\n"
+msgstr ""
+
+#: ;76C0BBFC509E28BC
+msgid "BYPASSED FX:\n"
+msgstr ""
+
+#: ;F901921D72014622
+msgid "Show Master FX Window"
+msgstr ""
+
+#: ;958E15559FBE8843
+msgid "Show Track FX Window"
+msgstr ""
+
+#: ;FBCE7FD896917E60
+msgid "[offline]"
+msgstr ""
+
+#: ;48576B8E22F18006
+msgid "[bypassed]"
+msgstr ""
+
+#: ;ACC5AD24A62EF595
+msgid "[track FX bypassed]"
+msgstr ""
+
+#: ;AA29E27B9BEE39EF
+msgid "Track Insert FX"
+msgstr ""
+
+#: ;80C5C2F8B9B1E0C3
+msgid "MIDI hardware output"
+msgstr ""
+
+#: ;1642F2A3840F4EAB
+msgid "(to channel %d):"
+msgstr ""
+
+#: ;6677CD830302C2DB
+msgid "Send:"
+msgstr ""
+
+#: ;9F4424F736F61BF6
+msgid "Hardware output:"
+msgstr ""
+
+#: ;AC8AAF4FFD13F4C1
+msgid "Track Sends"
+msgstr ""
+
+#: ;C4207566F9134683
+msgid "FX parameters"
+msgstr ""
+
+#: ;61E05A1205AD8B12
+msgid "Set Master Output"
+msgstr ""
+
+#: ;00D04D45D9A8962E
+msgid "Sends, Receives, and Hardware Output Options"
+msgstr ""
+
+#: ;B788A5920484034B
+msgid "Pan(L):"
+msgstr ""
+
+#: ;B74B168C4B4D25F4
+msgid "Pan:"
+msgstr ""
+
+#: ;AC37D49971F328D9
+msgid "Pan(R):"
+msgstr ""
+
+#: ;414C960462675503
+msgid "Width:"
+msgstr ""
+
+#: ;18901E0F01015C8D
+msgid "MIDI volume: %d"
+msgstr ""
+
+#: ;2190F5FAF07A005B
+msgid "Volume:"
+msgstr ""
+
+#: ;77D84864F0D52742
+msgid "Track is folder"
+msgstr ""
+
+#: ;3E587C6C967C4EEC
+msgid "Track is last track in folder"
+msgstr ""
+
+#: ;B5B3B84563FF1D9E
+msgid "Cycles whether this track is a track, a folder, or the last track in a folder"
+msgstr ""
+
+#: ;AB46079468197E84
+msgid "Compacts the view of all tracks in this folder"
+msgstr ""
+
+#: ;F5D0422D71FF3CB6
+msgid "Master muted"
+msgstr ""
+
+#: ;71F617D36BAC0C47
+msgid "Master not muted"
+msgstr ""
+
+#: ;80B4E1C1D4167D59
+msgid "Master soloed"
+msgstr ""
+
+#: ;03A564E030AA0305
+msgid "Master not soloed - all track outputs are active"
+msgstr ""
+
+#: ;F0514A8411B8C67D
+msgid "Solo-defeated"
+msgstr ""
+
+#: ;5B1B1EAAA1A2468B
+msgid "Soloed in place"
+msgstr ""
+
+#: ;51C6EA3CAE1782B9
+msgid "Soloed"
+msgstr ""
+
+#: ;6660420CFF2EE27E
+msgid "Not soloed"
+msgstr ""
+
+#: ;88A4D1B9FBAE0527
+msgid "Phase Inverted"
+msgstr ""
+
+#: ;92C89B1F21C3071D
+msgid "Phase Normal"
+msgstr ""
+
+#: ;479C0C6FEA0A90B8
+msgid "Envelopes/Automation\nAutomation mode:"
+msgstr ""
+
+#: ;3C32F136603DDDA3
+msgid "read"
+msgstr ""
+
+#: ;43A9ECE70C7D55B6
+msgid "touch"
+msgstr ""
+
+#: ;E56DF14239FA57C2
+msgid "write"
+msgstr ""
+
+#: ;8BACFCAE384553F7
+msgid "latch"
+msgstr ""
+
+#: ;34D6770C6B6D5CC7
+msgid "latch preview"
+msgstr ""
+
+#: ;77FB9CAA6C6C842C
+msgid "trim/read"
+msgstr ""
+
+#: ;5BD448217F161425
+msgid "Record Armed"
+msgstr ""
+
+#: ;C3723DA8A78DA743
+msgid "Record Arm/Disarm"
+msgstr ""
+
+#: ;EC08294ACB5BE864
+msgid "(record armed)"
+msgstr ""
+
+#: ;928CD43854F563DC
+msgid "Meter"
+msgstr ""
+
+#: ;FAB082B85CF8C185
+msgid "Meter;"
+msgstr ""
+
+#: ;2FDF35B2673D3891
+msgid "record armed,"
+msgstr ""
+
+#: ;D748741F38C29037
+msgid "Record Monitoring: ON"
+msgstr ""
+
+#: ;4CAAC64C0643D901
+msgid "Record Monitoring: AUTO"
+msgstr ""
+
+#: ;9292920D728456BB
+msgid "Record Monitoring: OFF"
+msgstr ""
+
+#: ;17FBFB3A6D101C00
+msgid "FX enabled"
+msgstr ""
+
+#: ;99B8430257B315EB
+msgid "FX disabled"
+msgstr ""
+
+#: ;2DE6EA156BDE1A34
+msgid "Position: %s\nStart offset: %s\nEnd: %s"
+msgstr ""
+
+#: ;4A775CF9191B3176
+msgid "Start offset: %s"
+msgstr ""
+
+#: ;A780DAEB7F029FC3
+msgid "Position: %s\nEnd: %s"
+msgstr ""
+
+#: ;7B72EAA88AD44F5A
+msgid "Start: %s\nLength: %s\nStart offset: %s\nRate: %.5f"
+msgstr ""
+
+#: ;417DC2E1DAF6AD7C
+msgid "Start: %s\nLength: %s\nStart offset: %s\nRate: %.5f (%s%.2f)"
+msgstr ""
+
+#: ;2E1D128CEA4937B8
+msgid "Start: %s\nLength: %s\nStart offset: %s"
+msgstr ""
+
+#: ;29C2BC5996E7DF1E
+msgid "Length: %s\nStart: %s\nEnd: %s\nRate: %.5f"
+msgstr ""
+
+#: ;0E3CC1FFB25BFF68
+msgid "Length: %s\nStart: %s\nEnd: %s\nRate: %.5f (%s%.2f)"
+msgstr ""
+
+#: ;0DE99E87D9102454
+msgid "Length: %s\nStart: %s\nEnd: %s"
+msgstr ""
+
+#: ;05818A2E3E077F3F
+msgid "Snap offset: %s\nPosition: %s"
+msgstr ""
+
+#: ;989A3C1D719BA505
+msgid "Velocity: x%.2f [%+.2fx]"
+msgstr ""
+
+#: ;37EF5C4ECA5ED501
+msgid "Velocity: x%.2f"
+msgstr ""
+
+#: ;F2A8B63D67366A2B
+msgid "Item volume: %.2fdB [%+.2fdB]"
+msgstr ""
+
+#: ;5D8FCCEB5F0F8049
+msgid "Item volume: %.2fdB"
+msgstr ""
+
+#: ;A0C32973C86F54DF
+msgid "Fade out: %s"
+msgstr ""
+
+#: ;1E41A6091A4CA4CA
+msgid "Fade in: %s"
+msgstr ""
+
+#: ;A8A2830AD908952D
+msgid "Stretch marker: %.2fx / %.2fx\r\nPosition: %s\r\nMedia position: %s"
+msgstr ""
+
+#: ;A7824DB56C878E11
+msgid "Spectral Region Time Adjustment"
+msgstr ""
+
+#: ;65DEA559D9C2A961
+msgid "Spectral Region Frequency Range: %.0fHz-%.0fHz"
+msgstr ""
+
+#: ;D96B052780553BCB
+msgid "Spectral Region Gain: %.2fdB"
+msgstr ""
+
+#: ;279682B4A20AAD29
+msgid "Spectral Region Fade In: %.0f%%"
+msgstr ""
+
+#: ;42164C732DF85E38
+msgid "Spectral Region Fade Out: %.0f%%"
+msgstr ""
+
+#: ;BFE5F5E7135C910C
+msgid "Spectral Region High Frequency Fade: %.0f%%"
+msgstr ""
+
+#: ;1622A33D633296F8
+msgid "Spectral Region Low Frequency Fade: %.0f%%"
+msgstr ""
+
+#: ;54324C3CF7BC1F33
+msgid "Spectral Region Compression Threshold: %.2fdB"
+msgstr ""
+
+#: ;A3E3BE16E10C4F97
+msgid "Spectral Region Compression Ratio: %.1f:1"
+msgstr ""
+
+#: ;C3FEF4ABA64F6B6E
+msgid "Spectral Region Expansion Ratio: 1:%.1f"
+msgstr ""
+
+#: ;C574059A4D595FAC
+msgid "Spectral Region Gate Threshold: %.2fdB"
+msgstr ""
+
+#: ;556D18CD9E812DBD
+msgid "Spectral Region Gate Floor: %.2fdB"
+msgstr ""
+
+#: ;3B884C955D1CD81A
+msgid "Envelope: %s\n%s at %s\nTension: %.3f"
+msgstr ""
+
+#: ;1B735764E2331F1A
+msgid "Envelope: %s\n%s at %s"
+msgstr ""
+
+#: ;C4BA31BFA9460908
+msgid "Stretch marker slope: %.2fx / %.2fx"
+msgstr ""
+
+#: ;B9DAECFFD3F117BB
+msgid "Take pitch: %s%.2f"
+msgstr ""
+
+#: ;20A27478BE15E145
+msgid "Take pan: %s"
+msgstr ""
+
+#: ;55D6D03BD8FBD81D
+msgid "\nAdjusted: -inf dB"
+msgstr ""
+
+#: ;5AC126113FD0DE45
+msgid "\nAdjusted: %+.2fdB"
+msgstr ""
+
+#: ;5B976311408700D5
+msgid "\nAdjusted: %+.2f%%"
+msgstr ""
+
+#: ;F1B13E128583A378
+msgid ", moved:"
+msgstr ""
+
+#: ;CF4356C508B56CBC
+msgid "\nMoved:"
+msgstr ""
+
+#: ;04A1381AA6C99D6F
+msgid "Fade in shape: %s"
+msgstr ""
+
+#: ;409524D25B055E02
+msgid "Fade out shape: %s"
+msgstr ""
+
+#: ;1E99E8ABBD5B8E76
+msgid "Envelope: %s\n%s at %s Tension: %s"
+msgstr ""
+
+#: ;0278FACDB78C59E8
+msgid "[%s at %s]"
+msgstr ""
+
+#: ;25AD567ECA15774D
+msgid "[%s]"
+msgstr ""
+
+#: ;79AF656A3F330C0E
+msgid "Insert stretch marker at transient"
+msgstr ""
+
+#: ;386272100A958FD5
+msgid "Adjust stretch marker"
+msgstr ""
+
+#: ;C2EA7D8774FF761E
+msgid "Adjust stretch marker slope"
+msgstr ""
+
+#: ;93341D80CFA3130A
+msgid "Edit item snap offset ignoring snap"
+msgstr ""
+
+#: ;8FE430135B23ACD1
+msgid "Edit item snap offset"
+msgstr ""
+
+#: ;8FD0600A3801157E
+msgid "Fine edit item volume"
+msgstr ""
+
+#: ;021238D4AC142678
+msgid "Edit item volume"
+msgstr ""
+
+#: ;DA2C52B3028A7093
+msgid "Resampled from %.1fkHz"
+msgstr ""
+
+#: ;0E7DBEE0187335F0
+msgid "ARMED: %s"
+msgstr ""
+
+#: ;A765A46EFA4B9E2E
+msgid "Edit region edge"
+msgstr ""
+
+#: ;E2B15D16BF5D59D1
+msgid "Scroll timeline"
+msgstr ""
+
+#: ;FC3A9D3127DB631B
+msgid "Tap tempo"
+msgstr ""
+
+#: ;6EA574A38C93BFFA
+msgid "Play (slave to timecode)"
+msgstr ""
+
+#: ;7CEB6A016182E22C
+msgid "Record/Punch-out"
+msgstr ""
+
+#: ;84C6C5437860B90E
+msgid "- Mode: Autopunch Items"
+msgstr ""
+
+#: ;261533F60A9B0DB1
+msgid "- Mode: Autopunch Time Selection"
+msgstr ""
+
+#: ;0EF6D94043029DB8
+msgid "(slave to timecode)"
+msgstr ""
+
+#: ;3062D9C83C010A42
+msgid "Playback Rate:"
+msgstr ""
+
+#: ;D86BA99DBD8A5B05
+msgid "Time signature at play cursor"
+msgstr ""
+
+#: ;1FC900C6ADDBF863
+msgid "Time signature at edit cursor"
+msgstr ""
+
+#: ;361D4BA039ADD9D6
+msgid "Toggle Repeat"
+msgstr ""
+
+#: ;457E30D2727505F6
+msgid "Start time of time selection"
+msgstr ""
+
+#: ;EAA323FB45E9082D
+msgid "End time of time selection"
+msgstr ""
+
+#: ;2D3E6047B19A07C7
+msgid "Length of time selection [indicates %.1f or %.1f BPM]"
+msgstr ""
+
+#: ;6A73D4699BC0BDDF
+msgid "Length of time selection"
+msgstr ""
+
+#: ;3ECE069CB4B62347
+msgid "Tempo at play cursor"
+msgstr ""
+
+#: ;D121DAD8615D7265
+msgid "Tempo at edit cursor"
+msgstr ""
+
+#: ;^DD8A091DA2BE9107
+msgid "Move envelope to media lane"
+msgstr ""
+
+#: ;^D26FE1B4C8988F96
+msgid "Muted"
+msgstr ""
+
+#: ;^272E5D69D552CDA7
+msgid "Not muted"
+msgstr ""
+
+#: ;^E53622684802B745
+msgid "Master"
+msgstr ""
+
+#: ;^D0C04B9E79D271AE
+msgid "Track"
+msgstr ""
+
+#: ;^6B4795AB9EC37475
+msgid "Input:"
+msgstr ""
+
+#: ;^480A73B43C308366
+msgid "(folder)"
+msgstr ""
+
+#: ;^AEF53FB432FD3810
+msgid "Tempo map"
+msgstr ""
+
+#: ;^44BE2B196101CBBE
+msgid "Move region"
+msgstr ""
+
+#: ;^37B990D4112E1A98
+msgid "Move marker"
+msgstr ""
+
+#: ;^11769ACBDEF004CC
+msgid "Edit tempo/time signature marker"
+msgstr ""
+
+#: ;^3D9CBC3C216900AD
+msgid "Play"
+msgstr ""
+
+#: ;^DD8F228BCFA37CFF
+msgid "Pause"
+msgstr ""
+
+#: ;^2F799723962762C7
+msgid "Stop"
+msgstr ""
+
+#: ;^FC57ED035694C1B9
+msgid "Global automation override"
+msgstr ""
+
+#: ;^5F00BE84E91B6C9B
+msgid "Go to previous marker"
+msgstr ""
+
+#: ;^E4053920A9B5A25A
+msgid "Go to start of project"
+msgstr ""
+
+#: ;^51B4B159DD69FD3B
+msgid "Go to next marker"
+msgstr ""
+
+#: ;^5D5B152A913BF2D1
+msgid "Go to end of project"
+msgstr ""
+
+#: ;^F0EBC9DF5B847ED6
+msgid "Record"
+msgstr ""
+

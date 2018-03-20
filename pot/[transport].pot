@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;629C54803B0AC212
+msgid "/"
+msgstr ""
+
+#: ;00B9D2E30D69BE2F
+msgid "[%s]"
+msgstr ""
+
+#: ;014216EEA08B6600
+msgid "BOUNCING"
+msgstr ""
+
+#: ;455B12DE92C1A943
+msgid "WAITING FOR TIMECODE"
+msgstr ""
+
+#: ;5086F582D5199414
+msgid "Home"
+msgstr ""
+
+#: ;4E45CA229B084583
+msgid "Selection:"
+msgstr ""
+
+#: ;6413E5E8A8CC3003
+msgid "Selection start"
+msgstr ""
+
+#: ;B0113A49F4AF3516
+msgid "Selection end"
+msgstr ""
+
+#: ;707292B451272E69
+msgid "Selection length"
+msgstr ""
+
+#: ;37AC65CA184CE3EA
+msgid "<no project markers>"
+msgstr ""
+
+#: ;75F2047E02074780
+msgid "Tap"
+msgstr ""
+
+#: ;178831D54E3E203C
+msgid "Stopped"
+msgstr ""
+
+#: ;BAB71146CCAE9A32
+msgid "Loopskip"
+msgstr ""
+
+#: ;DE52D01EAD59A275
+msgid "Record: Synchronizing"
+msgstr ""
+
+#: ;5412663EBF5879E9
+msgid "Record: Waiting for TC"
+msgstr ""
+
+#: ;658CCBBFDFEFEF4F
+msgid "Record: Sync with other projects"
+msgstr ""
+
+#: ;735500BD68145C0A
+msgid "Record: Buffering"
+msgstr ""
+
+#: ;05155D8D8337E652
+msgid "Record (Count-in)"
+msgstr ""
+
+#: ;B98C7456E97717F8
+msgid "Record (Pre-roll)"
+msgstr ""
+
+#: ;30B0F13A975C373D
+msgid "Record: Chasing"
+msgstr ""
+
+#: ;500A6541D54D2626
+msgid "Waiting for TC"
+msgstr ""
+
+#: ;B6BBE51A70CB8100
+msgid "Record Paused"
+msgstr ""
+
+#: ;7E0A33A911327680
+msgid "Synchronizing"
+msgstr ""
+
+#: ;D52331AC44A557BC
+msgid "Sync with other projects"
+msgstr ""
+
+#: ;B2BC91BFD2A4552B
+msgid "Play (Count-in)"
+msgstr ""
+
+#: ;F1D3B9779DCAFBC4
+msgid "Chasing"
+msgstr ""
+
+#: ;F6401B10D2F0B0F1
+msgid "Playing/loopskip"
+msgstr ""
+
+#: ;8B23FA1341BAE553
+msgid "Playing"
+msgstr ""
+
+#: ;1DB44E91D2CCBB61
+msgid "Paused"
+msgstr ""
+
+#: ;^3D9CBC3C216900AD
+msgid "Play"
+msgstr ""
+
+#: ;^DD8F228BCFA37CFF
+msgid "Pause"
+msgstr ""
+
+#: ;^2F799723962762C7
+msgid "Stop"
+msgstr ""
+
+#: ;^F7B45F7E4B7A392C
+msgid "End"
+msgstr ""
+
+#: ;^F0EBC9DF5B847ED6
+msgid "Record"
+msgstr ""
+
+#: ;^3E38EF62B047CD38
+msgid "Repeat"
+msgstr ""
+
+#: ;^FC57ED035694C1B9
+msgid "Global automation override"
+msgstr ""
+
+#: ;^10D0E37E59744608
+msgid "BPM"
+msgstr ""
+
+#: ;^140944783E61BE8D
+msgid "Rate:"
+msgstr ""
+
+#: ;^D99EA6A0E05B0BEC
+msgid "Transport"
+msgstr ""
+
+#: ;^6EE06EBD8BEB3E6D
+msgid "Seeking"
+msgstr ""
+
+#: ;^D3E64988F293BA3A
+msgid "Recording"
+msgstr ""
+
+#: ;^37CA03251A2D7A8B
+msgid "Buffering"
+msgstr ""
+
+#: ;^B420EF3AC9B07180
+msgid "Pre-roll"
+msgstr ""
+

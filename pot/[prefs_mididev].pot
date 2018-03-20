@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;6B1D65CC9AFF4105
+msgid "<disabled>"
+msgstr ""
+
+#: ;4B1F49AD75A98455
+msgid "[low latency]"
+msgstr ""
+
+#: ;C6A800DD714D71FA
+msgid "+Clock"
+msgstr ""
+
+#: ;9A2FCC4EA3C46B0D
+msgid "+Clock/NoSPP"
+msgstr ""
+
+#: ;8232A51E86B3CA66
+msgid "Enabled+Control"
+msgstr ""
+
+#: ;3C6DAE00D3EADC22
+msgid "Control Only"
+msgstr ""
+
+#: ;2134D5591DDA2AF8
+msgid "Mode"
+msgstr ""
+
+#: ;DA015F02DEB19798
+msgid "[use cautiously]"
+msgstr ""
+
+#: ;^D9B22A6B63054364
+msgid "Enabled"
+msgstr ""
+
+#: ;^08A52B89A26D4975
+msgid "Device"
+msgstr ""
+

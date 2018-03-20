@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;0A9476D2DAF58CB5
+msgid "General"
+msgstr ""
+
+#: ;D61B178BCBC28C11
+msgid "Paths"
+msgstr ""
+
+#: ;1A898A131B917D7B
+msgid "Keyboard/Multitouch"
+msgstr ""
+
+#: ;0F28C70F6D5B8981
+msgid "Track/Send Defaults"
+msgstr ""
+
+#: ;F6CF18DD8FBE4F06
+msgid "Media Item Defaults"
+msgstr ""
+
+#: ;5E1EE8B2642F9F1B
+msgid "Audio"
+msgstr ""
+
+#: ;BB844E058DECEFE5
+msgid "MIDI Devices"
+msgstr ""
+
+#: ;A8617B784628DEDC
+msgid "Mute/Solo"
+msgstr ""
+
+#: ;D5332FC0BB3C598A
+msgid "Loop Recording"
+msgstr ""
+
+#: ;6CC2B91DE323C665
+msgid "Rendering"
+msgstr ""
+
+#: ;96F551BDA5577675
+msgid "Appearance"
+msgstr ""
+
+#: ;3DE55555674DF9F6
+msgid "Peaks/Waveforms"
+msgstr ""
+
+#: ;AA16F711CE3B92D4
+msgid "Fades/Crossfades"
+msgstr ""
+
+#: ;13DCDA4237FF0CF9
+msgid "Editing Behavior"
+msgstr ""
+
+#: ;5B302E13AF38D591
+msgid "Envelope Display"
+msgstr ""
+
+#: ;B31A6E6D65CF70FA
+msgid "Mouse"
+msgstr ""
+
+#: ;A81E91F59FE5A440
+msgid "Mouse Modifiers"
+msgstr ""
+
+#: ;243E59CF21CC1F33
+msgid "Video/REX/Misc"
+msgstr ""
+
+#: ;FB993B4366B6DAE5
+msgid "Compatibility"
+msgstr ""
+
+#: ;997D337F16F51D28
+msgid "ReWire/DX"
+msgstr ""
+
+#: ;A8FEC034E02A2E55
+msgid "Control/OSC/web"
+msgstr ""
+
+#: ;FA3FBBA0B7D7E042
+msgid "External Editors"
+msgstr ""
+
+#: ;^A2BF58A6DFD853DC
+msgid "Project"
+msgstr ""
+
+#: ;^08A52B89A26D4975
+msgid "Device"
+msgstr ""
+
+#: ;^37CA03251A2D7A8B
+msgid "Buffering"
+msgstr ""
+
+#: ;^2ACB121355B0007A
+msgid "Playback"
+msgstr ""
+
+#: ;^6EE06EBD8BEB3E6D
+msgid "Seeking"
+msgstr ""
+
+#: ;^D3E64988F293BA3A
+msgid "Recording"
+msgstr ""
+
+#: ;^09D15F38080A7701
+msgid "Media"
+msgstr ""
+
+#: ;^24254706AC60DF9A
+msgid "Track Control Panels"
+msgstr ""
+
+#: ;^2715653EC997D088
+msgid "Automation"
+msgstr ""
+
+#: ;^271D7187C80C7F43
+msgid "MIDI Editor"
+msgstr ""
+
+#: ;^3DC3C3589C65D706
+msgid "MIDI"
+msgstr ""
+
+#: ;^1EEF91D385882BBE
+msgid "Plug-ins"
+msgstr ""
+
+#: ;^6388A67DF74AFA94
+msgid "VST"
+msgstr ""
+
+#: ;^598D95450BED5823
+msgid "ReWire"
+msgstr ""
+
+#: ;^2C626DCBF2E2019A
+msgid "ReaScript"
+msgstr ""
+
+#: ;^43855E7B817F2992
+msgid "ReaMote"
+msgstr ""
+
+#: ;^7E11B9683132FA9E
+msgid "Keyboard"
+msgstr ""
+
