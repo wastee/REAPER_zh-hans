@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;BCDE457135D00394
@@ -36,7 +37,8 @@ msgid "Video decoder priority:"
 msgstr ""
 
 #: ;400B3E030D735B46
-msgid "Append :ext or :ext1,ext2 or :!ext3 to limit decoder to particular extensions"
+msgid ""
+"Append :ext or :ext1,ext2 or :!ext3 to limit decoder to particular extensions"
 msgstr ""
 
 #: ;CED21E2589F4296E
@@ -80,7 +82,9 @@ msgid "When importing media:"
 msgstr ""
 
 #: ;5C4D4DC7B43CD041
-msgid "Note: when importing media from REAPER's Media Explorer, the tempo match setting in the Media Explorer will override this preference."
+msgid ""
+"Note: when importing media from REAPER's Media Explorer, the tempo match "
+"setting in the Media Explorer will override this preference."
 msgstr ""
 
 #: ;^BDB27E5D914EF9E2
@@ -94,4 +98,3 @@ msgstr ""
 #: ;^D8B3B3186B8C817F
 msgid "ms"
 msgstr ""
-
