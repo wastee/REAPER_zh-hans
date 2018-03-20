@@ -1,26 +1,33 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;540A61168A6B08AF
-msgid "When the track automation mode is touch, latch, or write, moving any track control or FX knob will create an automation envelope for it."
+msgid ""
+"When the track automation mode is touch, latch, or write, moving any track "
+"control or FX knob will create an automation envelope for it."
 msgstr ""
 
 #: ;24A7B4635A17AF3A
-msgid "After recording an automation write pass, automation can automatically switch to a different mode (to avoid overwriting just-written automation)."
+msgid ""
+"After recording an automation write pass, automation can automatically "
+"switch to a different mode (to avoid overwriting just-written automation)."
 msgstr ""
 
 #: ;6A4D25A321A15123
-msgid "The time it takes for the envelope to return to its previous or default value after the end of recording an automation pass."
+msgid ""
+"The time it takes for the envelope to return to its previous or default "
+"value after the end of recording an automation pass."
 msgstr ""
 
 #: ;6776B9975D1EC19A
@@ -28,38 +35,55 @@ msgid "The transition time applied when writing envelope ranges via actions."
 msgstr ""
 
 #: ;F53D738206169462
-msgid "If a track fader is at -X dB, the track volume envelopes can be created at -X dB or +0 dB. In both cases the track output will be automatically adjusted."
+msgid ""
+"If a track fader is at -X dB, the track volume envelopes can be created at -"
+"X dB or +0 dB. In both cases the track output will be automatically adjusted."
 msgstr ""
 
 #: ;441FBC5ED51CF71F
-msgid "Automatically reduce (prune) redundant points when recording or drawing automation. To reduce points afterwards, use the envelope right-click menu."
+msgid ""
+"Automatically reduce (prune) redundant points when recording or drawing "
+"automation. To reduce points afterwards, use the envelope right-click menu."
 msgstr ""
 
 #: ;7B05B46C0FCCED48
-msgid "When recording automation while playback is stopped, choose whether to add points before/after edit position."
+msgid ""
+"When recording automation while playback is stopped, choose whether to add "
+"points before/after edit position."
 msgstr ""
 
 #: ;9C3914B6F3A67C90
-msgid "Like media items, automation items can be looped or unlooped by default."
+msgid ""
+"Like media items, automation items can be looped or unlooped by default."
 msgstr ""
 
 #: ;8A324097713011D9
-msgid "By default, each instance of a pooled automation item has a separate baseline and amplitude setting."
+msgid ""
+"By default, each instance of a pooled automation item has a separate "
+"baseline and amplitude setting."
 msgstr ""
 
 #: ;DFC1BE2EA2856F00
-msgid "By default, automation will be written into existing automation items if any, and the underlying envelope if not."
+msgid ""
+"By default, automation will be written into existing automation items if "
+"any, and the underlying envelope if not."
 msgstr ""
 
 #: ;176CF83941C8803F
-msgid "By default, copy/pasting automation items will not create pooled copies."
+msgid ""
+"By default, copy/pasting automation items will not create pooled copies."
 msgstr ""
 
 #: ;8F3B80CEA19A6F2D
-msgid "Editing automation item position or edges to overlap existing automation items can either play both items together, or trim content from the existing items."
+msgid ""
+"Editing automation item position or edges to overlap existing automation "
+"items can either play both items together, or trim content from the existing "
+"items."
 msgstr ""
 
 #: ;6EC99BA864D739E4
-msgid "Automation items can lie on top of the underlying envelope, or connect the the underlying envelope on the right side (chase/latch behavior), or both sides."
+msgid ""
+"Automation items can lie on top of the underlying envelope, or connect the "
+"the underlying envelope on the right side (chase/latch behavior), or both "
+"sides."
 msgstr ""
-
