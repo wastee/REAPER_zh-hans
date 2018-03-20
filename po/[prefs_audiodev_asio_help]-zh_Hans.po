@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;F723649F4D3E0D6E
@@ -16,7 +17,9 @@ msgid "Select your desired ASIO driver here."
 msgstr ""
 
 #: ;B2D72D05025E924C
-msgid "ASIO inputs are enabled by default. Clearing this check box will disable the inputs on your ASIO device, which can lower the load on your CPU."
+msgid ""
+"ASIO inputs are enabled by default. Clearing this check box will disable the "
+"inputs on your ASIO device, which can lower the load on your CPU."
 msgstr ""
 
 #: ;B38FC80A6F50E7D6
@@ -28,7 +31,10 @@ msgid "Select which input to use as the last of the input range."
 msgstr ""
 
 #: ;67529A1EFFA68A87
-msgid "The Output range section operates in the same way as the input range section, allowing you to choose which ASIO outputs are accessible within REAPER."
+msgid ""
+"The Output range section operates in the same way as the input range "
+"section, allowing you to choose which ASIO outputs are accessible within "
+"REAPER."
 msgstr ""
 
 #: ;D5ED4592D5E98A4C
@@ -44,18 +50,26 @@ msgid "Click this button to open the Control Panel for your ASIO driver."
 msgstr ""
 
 #: ;BC73016B9A446708
-msgid "Select this check box to request a specific sample rate for your audio device. If this option is not checked, then the soundcards current or default sample rate will be used."
+msgid ""
+"Select this check box to request a specific sample rate for your audio "
+"device. If this option is not checked, then the soundcards current or "
+"default sample rate will be used."
 msgstr ""
 
 #: ;B052BA4DBB7F2AAC
-msgid "This option will zero the output buffers of the hardware BEFORE rendering to them, which on some hardware can reduce \"stuck buffer sounds\" in certain instances."
+msgid ""
+"This option will zero the output buffers of the hardware BEFORE rendering to "
+"them, which on some hardware can reduce \"stuck buffer sounds\" in certain "
+"instances."
 msgstr ""
 
 #: ;903E6B2546019666
-msgid "Some buggy ASIO drivers might need this option for proper ASIO operation."
+msgid ""
+"Some buggy ASIO drivers might need this option for proper ASIO operation."
 msgstr ""
 
 #: ;4A88F01965AA54EB
-msgid "Setting a higher Thread Priority will force REAPER to process audio ahead of other tasks (e.g. drawing graphics)."
+msgid ""
+"Setting a higher Thread Priority will force REAPER to process audio ahead of "
+"other tasks (e.g. drawing graphics)."
 msgstr ""
-
