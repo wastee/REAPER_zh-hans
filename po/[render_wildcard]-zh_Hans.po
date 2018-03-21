@@ -1,22 +1,27 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;EE38F39D428A5FF8
-msgid "Capitalizing the first character of the wildcard will capitalize the first letter of the substitution."
+msgid ""
+"Capitalizing the first character of the wildcard will capitalize the first "
+"letter of the substitution."
 msgstr ""
 
 #: ;5D40C262AFC1C1F7
-msgid "Capitalizing the first two characters of the wildcard will capitalize all letters."
+msgid ""
+"Capitalizing the first two characters of the wildcard will capitalize all "
+"letters."
 msgstr ""
 
 #: ;1C1690ED96F475D5
@@ -24,7 +29,9 @@ msgid "Directories will be created if necessary."
 msgstr ""
 
 #: ;D732139667FE1006
-msgid "For example if the render target is \"$project/track\", the directory \"$project\" will be created."
+msgid ""
+"For example if the render target is \"$project/track\", the directory "
+"\"$project\" will be created."
 msgstr ""
 
 #: ;5DFBB2BCD0E02AD0
@@ -92,11 +99,14 @@ msgid "project tempo at the start of the render region"
 msgstr ""
 
 #: ;24EA83DE764AAB76
-msgid "project time signature at the start of the render region, formatted as 4-4"
+msgid ""
+"project time signature at the start of the render region, formatted as 4-4"
 msgstr ""
 
 #: ;5905B506F4A128EC
-msgid "blank (optionally 1) for the first file rendered, 1 (optionally 2) for the second..."
+msgid ""
+"blank (optionally 1) for the first file rendered, 1 (optionally 2) for the "
+"second..."
 msgstr ""
 
 #: ;C5E297D4F9C6A9A6
@@ -108,7 +118,9 @@ msgid "C0 for the first file rendered,C#0 for the second..."
 msgstr ""
 
 #: ;2BC4663E8DB83036
-msgid "X (example: B2) for the first file rendered, X+1 (example: C3) for the second..."
+msgid ""
+"X (example: B2) for the first file rendered, X+1 (example: C3) for the "
+"second..."
 msgstr ""
 
 #: ;F4E00D6FE0F5368B
@@ -116,7 +128,9 @@ msgid "C0 for the first file rendered, D0 for the second..."
 msgstr ""
 
 #: ;DFBE7A48A6A6D2FB
-msgid "X (example: F2) for the first file rendered, X+1 (example: G2) for the second..."
+msgid ""
+"X (example: F2) for the first file rendered, X+1 (example: G2) for the "
+"second..."
 msgstr ""
 
 #: ;B01E91D37141A0EF
@@ -186,4 +200,3 @@ msgstr ""
 #: ;63DAD07505D14873
 msgid "computer name, currently %s"
 msgstr ""
-
