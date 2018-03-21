@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;3B508B94B6FF03B7
@@ -28,7 +29,13 @@ msgid "Save Project"
 msgstr ""
 
 #: ;1D660BB3BCFDAF0F
-msgid "You have chosen to save to a subdirectory where a file with this name already exists:\r\n\r\n\t%s\r\n\r\nOverwrite this file?"
+msgid ""
+"You have chosen to save to a subdirectory where a file with this name "
+"already exists:\r\n"
+"\r\n"
+"\t%s\r\n"
+"\r\n"
+"Overwrite this file?"
 msgstr ""
 
 #: ;4E0241866EAFE7E7
@@ -68,10 +75,13 @@ msgid "%d files could not be copied/moved"
 msgstr ""
 
 #: ;A72489997DD870D1
-msgid "%d files were copied but could not be updated in the project (plug-in doesn't support SetFileName()?)"
+msgid ""
+"%d files were copied but could not be updated in the project (plug-in "
+"doesn't support SetFileName()?)"
 msgstr ""
 
 #: ;D0BD7075DBCF5BDC
-msgid "%d files were allegedly copied but could not be imported back into the project"
+msgid ""
+"%d files were allegedly copied but could not be imported back into the "
+"project"
 msgstr ""
-
