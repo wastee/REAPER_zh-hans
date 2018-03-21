@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "PO-Revision-Date: 2018-03-21 07:04+0000\n"
-"Last-Translator: Tee <i@lado.me>\n"
+"Last-Translator: kevin <2386898267@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/about/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -74,7 +74,7 @@ msgstr ""
 
 #: ;04FA9C99A7E3E33F
 msgid "Remove license key"
-msgstr ""
+msgstr "删除授权码"
 
 #: ;8B9A76F494C70F92
 msgid "Are you sure you wish to remove the current license key?\r\n\r\n(you must have a copy of the key file in order to re-authorize this installation)"
