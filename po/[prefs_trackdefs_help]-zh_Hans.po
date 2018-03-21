@@ -1,26 +1,33 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;4EE204156D89D4D5
-msgid "Volume envelopes can be scaled by amplitude (half as high is half as loud), or by the track fader scale (envelope height corresponds to the track fader)."
+msgid ""
+"Volume envelopes can be scaled by amplitude (half as high is half as loud), "
+"or by the track fader scale (envelope height corresponds to the track fader)."
 msgstr ""
 
 #: ;058F8E251BC33C9E
-msgid "Changing scaling for an existing envelope may change the sound, because changes on the track fader are not linearly equivalent to changes in amplitude."
+msgid ""
+"Changing scaling for an existing envelope may change the sound, because "
+"changes on the track fader are not linearly equivalent to changes in "
+"amplitude."
 msgstr ""
 
 #: ;0614CE6C05F547EB
-msgid "The default fader gain for newly created tracks. The factory default is +0dB"
+msgid ""
+"The default fader gain for newly created tracks. The factory default is +0dB"
 msgstr ""
 
 #: ;583D434BE1F4936A
@@ -28,7 +35,9 @@ msgid "When enabled, new tracks will be visible in the mixer."
 msgstr ""
 
 #: ;A7D59AB48C99ED23
-msgid "When enabled, new tracks created within a folder will send audio and MIDI to the folder parent track."
+msgid ""
+"When enabled, new tracks created within a folder will send audio and MIDI to "
+"the folder parent track."
 msgstr ""
 
 #: ;8435D40B1A543A8E
@@ -56,15 +65,21 @@ msgid "Default point shape for new track envelopes."
 msgstr ""
 
 #: ;798A8BC8BB77A088
-msgid "The default automation mode for new tracks.  The factory default is Trim/Read Mode."
+msgid ""
+"The default automation mode for new tracks.  The factory default is Trim/"
+"Read Mode."
 msgstr ""
 
 #: ;01966E3463989F62
-msgid "Default track height in new projects. This is also set via File/Project Settings/Save as default project settings."
+msgid ""
+"Default track height in new projects. This is also set via File/Project "
+"Settings/Save as default project settings."
 msgstr ""
 
 #: ;7D71B6C52AB0A7DE
-msgid "When enabled, new track envelopes will be automatically armed for recording automation."
+msgid ""
+"When enabled, new track envelopes will be automatically armed for recording "
+"automation."
 msgstr ""
 
 #: ;3314D8F8A63D0350
@@ -98,4 +113,3 @@ msgstr ""
 #: ;4EB8C05F0CB68BBA
 msgid "When enabled, new sends will send audio from the source track."
 msgstr ""
-
