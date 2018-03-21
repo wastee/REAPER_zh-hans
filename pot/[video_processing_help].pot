@@ -252,11 +252,3 @@ msgstr ""
 msgid "Video processor reference"
 msgstr ""
 
-#: ;^AF63BD4C8601B7DF
-msgid ""
-msgstr ""
-
-#: ;^0832A807B4EBA64D
-msgid " "
-msgstr ""
-

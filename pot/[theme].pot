@@ -1124,10 +1124,6 @@ msgstr ""
 msgid "Save IDE colortheme"
 msgstr ""
 
-#: ;^AF63BD4C8601B7DF
-msgid ""
-msgstr ""
-
 #: ;^BE8A32189AE58F83
 msgid "Edit cursor"
 msgstr ""

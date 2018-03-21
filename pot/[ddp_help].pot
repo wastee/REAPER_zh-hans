@@ -232,7 +232,3 @@ msgstr ""
 msgid "LANGUAGES:"
 msgstr ""
 
-#: ;^AF63BD4C8601B7DF
-msgid ""
-msgstr ""
-

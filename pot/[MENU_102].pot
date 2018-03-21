@@ -1892,10 +1892,6 @@ msgstr ""
 msgid "About REAPER"
 msgstr ""
 
-#: ;^0832A807B4EBA64D
-msgid " "
-msgstr ""
-
 #: ;^62473318FFD2829F
 msgid "[recording settings]"
 msgstr ""
