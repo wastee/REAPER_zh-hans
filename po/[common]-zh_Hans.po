@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 03:30+0000\n"
+"PO-Revision-Date: 2018-03-21 03:51+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -216,7 +216,7 @@ msgstr ""
 
 #: ;309B13D6E0AC1A0F
 msgid "Length:"
-msgstr ""
+msgstr "长度:"
 
 #: ;8D96C4FE778D9CA7
 msgid "Source properties..."
