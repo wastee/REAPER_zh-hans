@@ -1,18 +1,21 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;9BC0C987FB152EF3
-msgid "The project timebase controls how media items, track envelopes, and project markers behave when the project tempo changes."
+msgid ""
+"The project timebase controls how media items, track envelopes, and project "
+"markers behave when the project tempo changes."
 msgstr ""
 
 #: ;22FA51842F34ED1C
@@ -20,11 +23,15 @@ msgid "Timebase beats (position, length, rate):"
 msgstr ""
 
 #: ;258B8B4C29B47F3A
-msgid "Project elements will keep their position and length constant as measured in beats."
+msgid ""
+"Project elements will keep their position and length constant as measured in "
+"beats."
 msgstr ""
 
 #: ;F9875EFDC712951D
-msgid "Media item playback rate will speed up if the tempo is increased, or slow down if the tempo is decreased."
+msgid ""
+"Media item playback rate will speed up if the tempo is increased, or slow "
+"down if the tempo is decreased."
 msgstr ""
 
 #: ;A7FD975F9982EA5E
@@ -36,7 +43,9 @@ msgid "Timebase beats (position only):"
 msgstr ""
 
 #: ;7B01F9885A6B05D3
-msgid "Project elements will keep their position constant as measured in beats, but media item length will remain constant as measured in seconds."
+msgid ""
+"Project elements will keep their position constant as measured in beats, but "
+"media item length will remain constant as measured in seconds."
 msgstr ""
 
 #: ;F1E4CF9D444F2E8E
@@ -44,11 +53,15 @@ msgid "Timebase time:"
 msgstr ""
 
 #: ;881F82A3EF7FB5F6
-msgid "Project elements will keep their position and length constant as measured in seconds."
+msgid ""
+"Project elements will keep their position and length constant as measured in "
+"seconds."
 msgstr ""
 
 #: ;43FF89D771CB0002
-msgid "Positions and media item length will change as measured in beats, if the tempo is changed."
+msgid ""
+"Positions and media item length will change as measured in beats, if the "
+"tempo is changed."
 msgstr ""
 
 #: ;602BE0E5EB4C411A
@@ -56,7 +69,9 @@ msgid "This was the default project timebase prior to REAPER version 4.25."
 msgstr ""
 
 #: ;9BF9B3C72DA9AA9D
-msgid "Tempo and time signature change markers have timebase beats by default, regardless of the project timebase."
+msgid ""
+"Tempo and time signature change markers have timebase beats by default, "
+"regardless of the project timebase."
 msgstr ""
 
 #: ;AE7BB4D8A52481FB
@@ -64,7 +79,9 @@ msgid "This behavior can also be changed in File/Project Settings."
 msgstr ""
 
 #: ;ABB2015608E8899E
-msgid "The timebase for individual tracks and media items can be set independently of the project timebase."
+msgid ""
+"The timebase for individual tracks and media items can be set independently "
+"of the project timebase."
 msgstr ""
 
 #: ;6BF51A7CD81FAB00
@@ -72,7 +89,9 @@ msgid "MIDI media items always have timebase beats (position, length, rate)."
 msgstr ""
 
 #: ;F95AEE56B041FBEA
-msgid "The timebase for individual MIDI media items can be locked to a specific tempo regardless of the project tempo, in the media item source properties."
+msgid ""
+"The timebase for individual MIDI media items can be locked to a specific "
+"tempo regardless of the project tempo, in the media item source properties."
 msgstr ""
 
 #: ;66C99ED0CD0E0C90
@@ -162,4 +181,3 @@ msgstr ""
 #: ;^C54C5E311372A994
 msgid "Notes"
 msgstr ""
-
