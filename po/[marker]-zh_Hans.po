@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 06:54+0000\n"
-"Last-Translator: kevin <2386898267@qq.com>\n"
+"PO-Revision-Date: 2018-03-21 06:55+0000\n"
+"Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/marker/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: ;84B7EB53E01864F4
 msgid "Add Marker"
-msgstr "test"
+msgstr ""
 
 #: ;5681A0BC2DF9EB72
 msgid "Tempo/Time Signature Marker"
