@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 07:03+0000\n"
-"Last-Translator: kevin <2386898267@qq.com>\n"
+"PO-Revision-Date: 2018-03-21 07:04+0000\n"
+"Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/about/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: ;26FC58CEF44C94A5
 msgid "Thank you for purchasing REAPER!"
-msgstr "感谢您购买 REAPER！"
+msgstr "感谢您购买 REAPER!"
 
 #: ;11D589F8494A554B
 msgid "Thank you for purchasing a previous version of REAPER!\r\n\r\nUnfortunately the license key you have is not valid for REAPER v5.x.\r\n\r\nPlease evaluate this version for 60 days, then visit www.reaper.fm to purchase a new license, or download v4.x."
