@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +25,7 @@ msgid "RT CPU: %.1lf%%\n"
 msgstr ""
 
 #: ;18791B7F420857E5
-msgid "Total"
+msgid "Total "
 msgstr ""
 
 #: ;CCF46344B8E72E2D=RT longest-block
@@ -32,15 +33,15 @@ msgid "RT longest-block=%.2fms/%.2fms%s\n"
 msgstr ""
 
 #: ;D3B5EF10274FAA3D
-msgid "(hold)"
+msgid " (hold)"
 msgstr ""
 
 #: ;B9A9937766A29768
-msgid "Disk read:"
+msgid "Disk read: "
 msgstr ""
 
 #: ;A87379FE917563C7
-msgid "Disk write:"
+msgid "Disk write: "
 msgstr ""
 
 #: ;770B69EEFA83809E
@@ -76,11 +77,11 @@ msgid "Latency: %.0fms"
 msgstr ""
 
 #: ;4CF6043E6041E61E
-msgid "cur/avg:"
+msgid "cur/avg: "
 msgstr ""
 
 #: ;01FDED75265EB99E
-msgid "range:"
+msgid "range: "
 msgstr ""
 
 #: ;^E53622684802B745

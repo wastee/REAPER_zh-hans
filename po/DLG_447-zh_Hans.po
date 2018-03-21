@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;A3CFC4EDE3BDAA1A
@@ -61,20 +61,15 @@ msgid "Envelope point selection follows time selection for the active envelope"
 msgstr ""
 
 #: ;CB6F1A1FA9E2367C
-msgid ""
-"First click on unselected envelope can insert a point (depends on mouse "
-"modifier settings)"
+msgid "First click on unselected envelope can insert a point (depends on mouse modifier settings)"
 msgstr ""
 
 #: ;380C326E3C68071C
-msgid ""
-"Prevent mouse edits of single envelope points from moving past other "
-"envelope points"
+msgid "Prevent mouse edits of single envelope points from moving past other envelope points"
 msgstr ""
 
 #: ;CCA504D42501588F
-msgid ""
-"Automatically show affected envelopes when moving media items across tracks"
+msgid "Automatically show affected envelopes when moving media items across tracks"
 msgstr ""
 
 #: ;35A6C3D61C6D0FBF
@@ -120,3 +115,4 @@ msgstr ""
 #: ;^3470CDBB0C544765
 msgid "Media items"
 msgstr ""
+

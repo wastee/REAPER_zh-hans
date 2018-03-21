@@ -25,7 +25,7 @@ msgid "When unchecked and any ReWire devices are in use, then REAPER will not sh
 msgstr ""
 
 #: ;2C9DA92A74FFB037
-msgid "When checked, REAPER will close the audio devices whenever not playing back audio."
+msgid "When checked, REAPER will close the audio devices whenever not playing back audio. "
 msgstr ""
 
 #: ;F4C34E3A62159EDB

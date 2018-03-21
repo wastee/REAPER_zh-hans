@@ -101,11 +101,11 @@ msgid "Loading élastique 3 Pro..."
 msgstr ""
 
 #: ;CCE0F0218F7E6DE2
-msgid "Project: loading file:"
+msgid "Project: loading file: "
 msgstr ""
 
 #: ;C4F4B0B3B434649F
-msgid "Loading plug-in:"
+msgid "Loading plug-in: "
 msgstr ""
 
 #: ;2B35EDB88B113816

@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -16,7 +17,7 @@ msgid "CPU: %.1f%%  RAM: %uMB"
 msgstr ""
 
 #: ;6561DE4499D14662
-msgid "last save:"
+msgid "  last save: "
 msgstr ""
 
 #: ;858AD7CDB1332348
@@ -60,7 +61,7 @@ msgid "[input]"
 msgstr ""
 
 #: ;B8EE889E524209C1
-msgid "[IO] none"
+msgid " [IO] none"
 msgstr ""
 
 #: ;464FDD80C56381B9

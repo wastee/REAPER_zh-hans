@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -208,7 +209,7 @@ msgid "master send"
 msgstr ""
 
 #: ;24EA41048755292A
-msgid "Muted,"
+msgid "Muted, "
 msgstr ""
 
 #: ;686CBDF778971C6F
@@ -224,19 +225,19 @@ msgid "Vol %d"
 msgstr ""
 
 #: ;BFC92B617929CC4D
-msgid "- pre fx"
+msgid " - pre fx"
 msgstr ""
 
 #: ;0E9494A9719F1E08
-msgid "- post fx (v1)"
+msgid " - post fx (v1)"
 msgstr ""
 
 #: ;9F6AE3BC13CE2DD0
-msgid "- post fx"
+msgid " - post fx"
 msgstr ""
 
 #: ;7E2AFF6A9BE471D6
-msgid "- NOT CONNECTED"
+msgid " - NOT CONNECTED"
 msgstr ""
 
 #: ;44D502BC3E71FBB7
@@ -260,15 +261,15 @@ msgid "MIDI All"
 msgstr ""
 
 #: ;D8CA33C2B48414C2
-msgid "MUTED"
+msgid "MUTED "
 msgstr ""
 
 #: ;A63C8EAB8ED6A533
-msgid "- invert phase"
+msgid " - invert phase"
 msgstr ""
 
 #: ;4BE746518EF96E2A
-msgid "- mix to mono"
+msgid " - mix to mono"
 msgstr ""
 
 #: ;FEC110FC1A48BC19
@@ -284,7 +285,7 @@ msgid "set,"
 msgstr ""
 
 #: ;989A709FCB56F552
-msgid "Armed,"
+msgid "Armed, "
 msgstr ""
 
 #: ;ECC9A80133B0E90A
@@ -372,7 +373,7 @@ msgid "Channel"
 msgstr ""
 
 #: ;^43632077D6FCDE72
-msgid "- NOT FULLY CONNECTED"
+msgid " - NOT FULLY CONNECTED"
 msgstr ""
 
 #: ;^003BD938FD8D368D

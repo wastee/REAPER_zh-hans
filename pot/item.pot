@@ -21,15 +21,15 @@ msgid "Timecode Generator"
 msgstr ""
 
 #: ;BB0933C8B47C4405
-msgid "render"
+msgid " render"
 msgstr ""
 
 #: ;67315EB1A6721691
-msgid "- stem"
+msgid " - stem"
 msgstr ""
 
 #: ;9AB728E60A3C72BB
-msgid "- freeze"
+msgid " - freeze"
 msgstr ""
 
 #: ;2FB1F82E179D9B8B
@@ -37,7 +37,7 @@ msgid "Empty Item"
 msgstr ""
 
 #: ;91C5B6489FFA9947
-msgid "%dch"
+msgid "%dch "
 msgstr ""
 
 #: ;FA81D7955F3A1414
@@ -53,7 +53,7 @@ msgid "REBUILD PEAKS FOR SPECTROGRAM AT THIS ZOOM LEVEL"
 msgstr ""
 
 #: ;7614507E0224AF0A
-msgid "Tk"
+msgid "Tk "
 msgstr ""
 
 #: ;D8367C186B2291F7
@@ -65,11 +65,11 @@ msgid "P:"
 msgstr ""
 
 #: ;D828EE186B171651
-msgid "V"
+msgid "V "
 msgstr ""
 
 #: ;2BB29E0BA1275956
-msgid "Vel"
+msgid "Vel "
 msgstr ""
 
 #: ;B065B304327EEDEE
@@ -105,7 +105,7 @@ msgid "Pitch"
 msgstr ""
 
 #: ;^2C5B8309D9FC8004
-msgid "Take"
+msgid "Take "
 msgstr ""
 
 #: ;^140944783E61BE8D

@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +21,7 @@ msgid "copy"
 msgstr ""
 
 #: ;7CB3FDDD05E6B5A3
-msgid "loop"
+msgid " loop"
 msgstr ""
 
 #: ;^80E92B8E090EA373

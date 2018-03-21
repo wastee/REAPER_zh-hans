@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +61,7 @@ msgid "[no selected items]"
 msgstr ""
 
 #: ;7734AB47D63BB4A9
-msgid "Edit cursor:"
+msgid "Edit cursor:   "
 msgstr ""
 
 #: ;428700C0757D64D1
@@ -80,11 +81,11 @@ msgid "Source start"
 msgstr ""
 
 #: ;25D39857D4C9F5C8
-msgid "of first selected item:"
+msgid " of first selected item:   "
 msgstr ""
 
 #: ;B8E8B76B307EEA46
-msgid "of last selected item:"
+msgid " of last selected item:   "
 msgstr ""
 
 #: ;96C8409F4854E949

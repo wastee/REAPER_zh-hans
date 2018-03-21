@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +13,7 @@ msgstr "Project-Id-Version: REAPER_zh-hans\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;^D86980186B4DF25C
-msgid "C"
+msgid "C "
 msgstr ""
 
 #: ;^D8659C186B4A3919
@@ -20,7 +21,7 @@ msgid "Db"
 msgstr ""
 
 #: ;^D865DA186B4AA273
-msgid "D"
+msgid "D "
 msgstr ""
 
 #: ;^D862B2186B4828A4
@@ -28,11 +29,11 @@ msgid "Eb"
 msgstr ""
 
 #: ;^D86274186B47BF4A
-msgid "E"
+msgid "E "
 msgstr ""
 
 #: ;^D85F0E186B44DC21
-msgid "F"
+msgid "F "
 msgstr ""
 
 #: ;^D85F0B186B44D708
@@ -40,7 +41,7 @@ msgid "F#"
 msgstr ""
 
 #: ;^D85BE8186B4265B8
-msgid "G"
+msgid "G "
 msgstr ""
 
 #: ;^D85BEB186B426AD1
@@ -48,7 +49,7 @@ msgid "G#"
 msgstr ""
 
 #: ;^D8700C186B534BEE
-msgid "A"
+msgid "A "
 msgstr ""
 
 #: ;^D86CA4186B50655F
@@ -56,6 +57,6 @@ msgid "Bb"
 msgstr ""
 
 #: ;^D86CE6186B50D585
-msgid "B"
+msgid "B "
 msgstr ""
 

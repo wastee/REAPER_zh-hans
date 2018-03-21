@@ -25,15 +25,15 @@ msgid "Set rhythm pattern:"
 msgstr ""
 
 #: ;AA1B9A3E6F206718
-msgid "This time signature marker will force the previous measure to end at"
+msgid "This time signature marker will force the previous measure to end at "
 msgstr ""
 
 #: ;FC309F77FF9569CE
-msgid "but the marker itself will be positioned at"
+msgid "but the marker itself will be positioned at "
 msgstr ""
 
 #: ;C7B4DAF847DAFE0C
-msgid "Move time signature change to"
+msgid "Move time signature change to "
 msgstr ""
 
 #: ;71DEB1BBF89CA7A9

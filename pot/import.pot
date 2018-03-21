@@ -17,7 +17,7 @@ msgid "Expand %d MIDI tracks to new REAPER tracks"
 msgstr ""
 
 #: ;A63D743372B8C12C
-msgid "Import MIDI tempo map to project tempo map at"
+msgid "Import MIDI tempo map to project tempo map at "
 msgstr ""
 
 #: ;184B87392D910376

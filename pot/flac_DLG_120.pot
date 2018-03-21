@@ -37,7 +37,7 @@ msgid "Unknown error/status"
 msgstr ""
 
 #: ;^439CE51FC4707DDD
-msgid "Length:"
+msgid "Length: "
 msgstr ""
 
 #: ;^9570937682166424

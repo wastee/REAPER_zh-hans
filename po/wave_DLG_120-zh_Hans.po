@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +53,7 @@ msgid "cADPCM"
 msgstr ""
 
 #: ;CE74F19535C05BF6
-msgid "Total samples:"
+msgid "Total samples: "
 msgstr ""
 
 #: ;E45F0509A90F69DE

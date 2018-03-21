@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -148,11 +149,11 @@ msgid "Cut items/tracks/envelope points within time selection if any"
 msgstr ""
 
 #: ;91744677B089B79A
-msgid "Cu&t items/tracks/envelope points ignoring time selection"
+msgid "Cu&t items/tracks/envelope points ignoring time selection "
 msgstr ""
 
 #: ;9375899C7F37954E
-msgid "Cut items/tracks/envelope points ignoring time selection"
+msgid "Cut items/tracks/envelope points ignoring time selection "
 msgstr ""
 
 #: ;17E43694AE696DE2
@@ -1889,10 +1890,6 @@ msgstr ""
 
 #: ;^9BC67B482921A263
 msgid "About REAPER"
-msgstr ""
-
-#: ;^0832A807B4EBA64D
-msgid ""
 msgstr ""
 
 #: ;^62473318FFD2829F

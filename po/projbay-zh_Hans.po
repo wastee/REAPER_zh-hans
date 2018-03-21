@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -188,7 +189,7 @@ msgid "Multiple FX parameters"
 msgstr ""
 
 #: ;2EBCBDFB951E132D
-msgid "(track FX only)"
+msgid " (track FX only)"
 msgstr ""
 
 #: ;96D56A605E644BF6
@@ -529,10 +530,6 @@ msgstr ""
 
 #: ;^E763E06A994AAAFB
 msgid "Learn"
-msgstr ""
-
-#: ;^AF63BD4C8601B7DF
-msgid ""
 msgstr ""
 
 #: ;^2ADD7A879D22FA5C

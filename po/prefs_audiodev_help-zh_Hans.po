@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -48,6 +49,6 @@ msgid "If checked, the audio device system will use the project sample rate."
 msgstr ""
 
 #: ;902C17B6A11D60F8
-msgid "Choose the priority for the main audio thread."
+msgid "Choose the priority for the main audio thread. "
 msgstr ""
 

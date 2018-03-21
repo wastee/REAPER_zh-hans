@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: =\n"
 
 #: ;D5A501B764C3031A
-msgid "Locking:"
+msgid "Locking: "
 msgstr ""
 
 #: ;1D220B8A48E6DBC2
@@ -173,15 +173,15 @@ msgid "Redo:"
 msgstr ""
 
 #: ;7BE4CB9163476DF4
-msgid "ARMED:"
+msgid "ARMED: "
 msgstr ""
 
 #: ;F770C210FB4C167F
-msgid "(off)"
+msgid " (off)"
 msgstr ""
 
 #: ;2AA45B1375C830E9
-msgid "(on)"
+msgid " (on)"
 msgstr ""
 
 #: ;AEEA0266259DEFC0

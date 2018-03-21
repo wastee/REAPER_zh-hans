@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -76,11 +77,11 @@ msgid "Error writing to preset library file! Disk full?"
 msgstr ""
 
 #: ;A812A7FC8E6BC23F
-msgid "OFFLINE -"
+msgid "OFFLINE - "
 msgstr ""
 
 #: ;F5BFBD4D49BA078B
-msgid "BYPASSED -"
+msgid "BYPASSED - "
 msgstr ""
 
 #: ;F025E1B89F09259C
@@ -112,11 +113,11 @@ msgid "The following effects were in the loaded chain but are not available."
 msgstr ""
 
 #: ;46D03EC1B9E16763
-msgid "(input FX chain)"
+msgid " (input FX chain)"
 msgstr ""
 
 #: ;E561B4BD0979C906
-msgid "[BYPASSED]"
+msgid " [BYPASSED]"
 msgstr ""
 
 #: ;340461BC0069FBA9
@@ -124,7 +125,7 @@ msgid "Monitoring"
 msgstr ""
 
 #: ;2B37998FE21F1A9B
-msgid "FX:"
+msgid "FX: "
 msgstr ""
 
 #: ;^1C9976E435832BEB
@@ -140,7 +141,7 @@ msgid "Rename FX instance"
 msgstr ""
 
 #: ;^17E7264672EB4EC9
-msgid "FX comment for:"
+msgid "FX comment for: "
 msgstr ""
 
 #: ;^DDDBC4B59922776E
@@ -152,7 +153,7 @@ msgid "Track"
 msgstr ""
 
 #: ;^480A73B43C308366
-msgid "(folder)"
+msgid " (folder)"
 msgstr ""
 
 #: ;^B2BB1E7719F22B98

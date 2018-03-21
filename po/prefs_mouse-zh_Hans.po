@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -324,11 +325,11 @@ msgid "Reset modifiers to factory default in all contexts"
 msgstr ""
 
 #: ;28F420D69FE03929
-msgid "Load mousemap to"
+msgid "Load mousemap to "
 msgstr ""
 
 #: ;4B588004C598AE72
-msgid "Save mousemap for"
+msgid "Save mousemap for "
 msgstr ""
 
 #: ;851566D4D0ACB6EE

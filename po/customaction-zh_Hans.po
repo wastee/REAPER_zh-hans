@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +13,7 @@ msgstr "Project-Id-Version: REAPER_zh-hans\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;BFC3306F54935DAB
-msgid "Continue custom action"
+msgid "Continue custom action "
 msgstr ""
 
 #: ;60604BB42DF6B781
@@ -20,10 +21,10 @@ msgid "Action paused"
 msgstr ""
 
 #: ;86330CD225C99482
-msgid "Loop custom action"
+msgid "Loop custom action "
 msgstr ""
 
 #: ;78759B7EBE0076EF
-msgid "from step"
+msgid " from step "
 msgstr ""
 

@@ -13,19 +13,19 @@ msgstr ""
 "X-Poedit-KeywordsList: =\n"
 
 #: ;3D781F4D51AC0219
-msgid "Remove from list:"
+msgid "Remove from list: "
 msgstr ""
 
 #: ;201E6F9517E04589
-msgid "Learn:"
+msgid "Learn: "
 msgstr ""
 
 #: ;BDEEA53C88DD085E
-msgid "Modulate:"
+msgid "Modulate: "
 msgstr ""
 
 #: ;C3FB94BE32BA2A3B
-msgid "Alias:"
+msgid "Alias: "
 msgstr ""
 
 #: ;BFB99C70CB51B59E
@@ -41,35 +41,35 @@ msgid "No recently touched FX parameters"
 msgstr ""
 
 #: ;47E34E9BF22EC4A3
-msgid "Last touched:"
+msgid "Last touched: "
 msgstr ""
 
 #: ;33621D309922B1D8
-msgid "Show in track controls"
+msgid "  Show in track controls"
 msgstr ""
 
 #: ;04EC844EDCA961AB
-msgid "Show track envelope"
+msgid "  Show track envelope"
 msgstr ""
 
 #: ;01EC15ADB3A34EEC
-msgid "Show media item take envelope"
+msgid "  Show media item take envelope"
 msgstr ""
 
 #: ;1752375A4204A3D0
-msgid "Parameter modulation/MIDI link"
+msgid "  Parameter modulation/MIDI link"
 msgstr ""
 
 #: ;620E3B5BAAAE19C2
-msgid "MIDI link"
+msgid "  MIDI link"
 msgstr ""
 
 #: ;EC6D8F5AEF77CB03
-msgid "Learn"
+msgid "  Learn"
 msgstr ""
 
 #: ;64AF36D1C56A8A9A
-msgid "Alias parameter"
+msgid "  Alias parameter"
 msgstr ""
 
 #: ;0AD292FBFCD786F2
@@ -101,7 +101,7 @@ msgid "Clear default"
 msgstr ""
 
 #: ;^915C69C77F31F221
-msgid "Envelope:"
+msgid "Envelope: "
 msgstr ""
 
 #: ;^EDD67828D248E210

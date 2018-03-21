@@ -3,23 +3,21 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;F20359390E0CC35E
-msgid ""
-"ReaScript can be used to create simple macros to perform frequently repeated "
-"tasks, or to create complex REAPER extensions."
+msgid "ReaScript can be used to create simple macros to perform frequently repeated tasks, or to create complex REAPER extensions."
 msgstr ""
 
 #: ;E6D764D466D14077
-msgid "View online ReaScript overview"
+msgid "View online ReaScript overview "
 msgstr ""
 
 #: ;C5BD660AE06DB168
@@ -77,3 +75,4 @@ msgstr ""
 #: ;^F685FB3A91025549
 msgid "Browse..."
 msgstr ""
+

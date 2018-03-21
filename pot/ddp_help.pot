@@ -45,23 +45,23 @@ msgid "- first track\'s INDEX1 position is limited to at least 2 seconds,"
 msgstr ""
 
 #: ;C68576AA76FCCF93
-msgid "please consider this, to make at least 2 seconds of silence in the beginning,"
+msgid "  please consider this, to make at least 2 seconds of silence in the beginning,"
 msgstr ""
 
 #: ;CD8970415D9DC7B8
-msgid "otherwise the audio content will be ignored"
+msgid "  otherwise the audio content will be ignored"
 msgstr ""
 
 #: ;0279EDA5D0196020
-msgid "- minimum track length (distance of the next track\'s INDEX0/INDEX1"
+msgid "- minimum track length (distance of the next track\'s INDEX0/INDEX1 "
 msgstr ""
 
 #: ;AA502A266D789E09
-msgid "to the previous INDEX1) is set to 4 seconds, please consider this,"
+msgid "  to the previous INDEX1) is set to 4 seconds, please consider this,"
 msgstr ""
 
 #: ;F651F6FD2BBDCB3E
-msgid "otherwise the INDEX0 and 1 are automatically moved in the next track\'s audio."
+msgid "  otherwise the INDEX0 and 1 are automatically moved in the next track\'s audio."
 msgstr ""
 
 #: ;FB1ED348C6500FD3
@@ -117,7 +117,7 @@ msgid "The audio is padded with silence until the last used marker (and aligned 
 msgstr ""
 
 #: ;8954DDEF73351605=The metadata is in \"KEY1=VALUE1|KEY2=VALUE2|KEY3
-msgid "The metadata is in \"KEY1=VALUE1|KEY2=VALUE2|KEY3=VALUE3\" format. There can be any number of"
+msgid "The metadata is in \"KEY1=VALUE1|KEY2=VALUE2|KEY3=VALUE3\" format. There can be any number of "
 msgstr ""
 
 #: ;49DA32D88A786D82=KEY
@@ -165,7 +165,7 @@ msgid "- \"GENRE\" - write any text or use one of the predefined genres in the l
 msgstr ""
 
 #: ;E16D2128D3FF3B52
-msgid "- \"LANGUAGE\" - use one of the names from the list at the bottom of this text."
+msgid "- \"LANGUAGE\" - use one of the names from the list at the bottom of this text. "
 msgstr ""
 
 #: ;CE1142641FC3E067
@@ -230,9 +230,5 @@ msgstr ""
 
 #: ;50E7839A4C514644
 msgid "LANGUAGES:"
-msgstr ""
-
-#: ;^AF63BD4C8601B7DF
-msgid ""
 msgstr ""
 

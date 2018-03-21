@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -56,11 +57,11 @@ msgid "Hardware outputs (select none to use all master outs):"
 msgstr ""
 
 #: ;ACDF321F02BFF00A
-msgid "Mono:"
+msgid "Mono: "
 msgstr ""
 
 #: ;D296E073FBA420D9
-msgid "Stereo:"
+msgid "Stereo: "
 msgstr ""
 
 #: ;2F26993C883FB22B

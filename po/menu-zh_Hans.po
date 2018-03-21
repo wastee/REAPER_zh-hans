@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +101,7 @@ msgid "Rename active comp..."
 msgstr ""
 
 #: ;6B09693F49F5C7CC
-msgid "Open associated project in tab:"
+msgid "Open associated project in tab: "
 msgstr ""
 
 #: ;77737B73A0C7AB4B
@@ -120,7 +121,7 @@ msgid "Open item copies in"
 msgstr ""
 
 #: ;E2804B9BFBF48369
-msgid "(recording)"
+msgid " (recording)"
 msgstr ""
 
 #: ;60A4456384726C15
@@ -188,7 +189,7 @@ msgid "Solo (ignore routing)"
 msgstr ""
 
 #: ;^D96196186C20B90D
-msgid ":"
+msgid ": "
 msgstr ""
 
 #: ;^2430BBE52E3FC625
@@ -228,7 +229,7 @@ msgid "Can't redo"
 msgstr ""
 
 #: ;^2C5B8309D9FC8004
-msgid "Take"
+msgid "Take "
 msgstr ""
 
 #: ;^64835E1E0CE30E3B
@@ -240,6 +241,6 @@ msgid "Comp"
 msgstr ""
 
 #: ;^915C69C77F31F221
-msgid "Envelope:"
+msgid "Envelope: "
 msgstr ""
 

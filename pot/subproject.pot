@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: =\n"
 
 #: ;8E37237DA775FC83
-msgid "- subproject"
+msgid " - subproject"
 msgstr ""
 
 #: ;11ACF64D3C045BD0
@@ -45,7 +45,7 @@ msgid "\r\n\r\nDo you wish to continue?"
 msgstr ""
 
 #: ;9C0440D03D5D0D27
-msgid "Routing will be removed!"
+msgid " Routing will be removed!"
 msgstr ""
 
 #: ;3016F3D69B163286

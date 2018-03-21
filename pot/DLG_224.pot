@@ -21,7 +21,7 @@ msgid "Move grouped items with selected items"
 msgstr ""
 
 #: ;E79764031E9008D0
-msgid "Extend starts of items to overlap with earlier items by"
+msgid "Extend starts of items to overlap with earlier items by "
 msgstr ""
 
 #: ;447B4AAD0BD404E2

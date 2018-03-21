@@ -49,7 +49,7 @@ msgid "Export preset library (.rpl)..."
 msgstr ""
 
 #: ;^7F8BE88D07D058A1
-msgid "Link to MIDI program change"
+msgid "Link to MIDI program change "
 msgstr ""
 
 #: ;^DF45382BC646671C

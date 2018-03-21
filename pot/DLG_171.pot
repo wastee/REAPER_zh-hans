@@ -89,7 +89,7 @@ msgid "Time selection"
 msgstr ""
 
 #: ;^720CB39E31676E27
-msgid "Start:"
+msgid "Start: "
 msgstr ""
 
 #: ;^61B7599A40AF0062

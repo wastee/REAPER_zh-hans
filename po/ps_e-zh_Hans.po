@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -48,11 +49,11 @@ msgid "Monophonic"
 msgstr ""
 
 #: ;4AD97576ACC6C119
-msgid "[Mid/Side]"
+msgid " [Mid/Side]"
 msgstr ""
 
 #: ;E71804A85237B88B
-msgid "Synchronized:"
+msgid "Synchronized: "
 msgstr ""
 
 #: ;6E54C92E66ED4B8F

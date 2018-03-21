@@ -72,10 +72,6 @@ msgstr ""
 msgid "Hide in MIDI editor track list"
 msgstr ""
 
-#: ;^AF63BD4C8601B7DF
-msgid ""
-msgstr ""
-
 #: ;^0832A507B4EBA134
 msgid "#"
 msgstr ""

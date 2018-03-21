@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -68,15 +69,15 @@ msgid "Trim Volume"
 msgstr ""
 
 #: ;1492DE21DC65EF91
-msgid "Folder"
+msgid "Folder "
 msgstr ""
 
 #: ;E471A461788E4141
-msgid "Track %d"
+msgid "Track %d "
 msgstr ""
 
 #: ;4A4784FB012F3B7B
-msgid "Send"
+msgid "Send "
 msgstr ""
 
 #: ;^8FC86C263760ACB9

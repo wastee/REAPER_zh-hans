@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;4CEF25468B1C4064
@@ -61,15 +61,11 @@ msgid "Close editor when the active item is deleted in the arrange view"
 msgstr ""
 
 #: ;E785DA0D49AF80A7
-msgid ""
-"Double-click outside the bounds of any media item to extend the nearest "
-"media item"
+msgid "Double-click outside the bounds of any media item to extend the nearest media item"
 msgstr ""
 
 #: ;E5CADFDB40896B05
-msgid ""
-"More information about displaying multiple media items in a single MIDI "
-"editor"
+msgid "More information about displaying multiple media items in a single MIDI editor"
 msgstr ""
 
 #: ;CD16A4A833CF3F6A
@@ -107,3 +103,4 @@ msgstr ""
 #: ;^F685FB3A91025549
 msgid "Browse..."
 msgstr ""
+

@@ -69,15 +69,15 @@ msgid "Trim Volume"
 msgstr ""
 
 #: ;1492DE21DC65EF91
-msgid "Folder"
+msgid "Folder "
 msgstr ""
 
 #: ;E471A461788E4141
-msgid "Track %d"
+msgid "Track %d "
 msgstr ""
 
 #: ;4A4784FB012F3B7B
-msgid "Send"
+msgid "Send "
 msgstr ""
 
 #: ;^8FC86C263760ACB9

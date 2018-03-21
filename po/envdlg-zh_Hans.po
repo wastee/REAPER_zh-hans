@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -88,6 +89,6 @@ msgid "Automation mode:"
 msgstr ""
 
 #: ;^480A73B43C308366
-msgid "(folder)"
+msgid " (folder)"
 msgstr ""
 

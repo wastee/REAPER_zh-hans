@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -2112,11 +2113,11 @@ msgid "Select all notes with the same pitch"
 msgstr ""
 
 #: ;DCC57A9B0AE7F903
-msgid "Navigate: Select previous note with the same channel"
+msgid "Navigate: Select previous note with the same channel "
 msgstr ""
 
 #: ;610D3372D2A4054B
-msgid "Navigate: Select next note with the same channel"
+msgid "Navigate: Select next note with the same channel "
 msgstr ""
 
 #: ;A52A4069B4A8F589
@@ -2564,19 +2565,19 @@ msgid "CC: Set CC lane to"
 msgstr ""
 
 #: ;DBBAB3326B686454
-msgid "Insert note:"
+msgid "Insert note: "
 msgstr ""
 
 #: ;39E2633651F5ADAD
-msgid "Cursor: Advance"
+msgid "Cursor: Advance "
 msgstr ""
 
 #: ;1D1C89DBB1032FAB
-msgid "Set length for next inserted note:"
+msgid "Set length for next inserted note: "
 msgstr ""
 
 #: ;14B9227A11B91CFC
-msgid "Edit: Set note length to"
+msgid "Edit: Set note length to "
 msgstr ""
 
 #: ;^887AC55D66DDCCA9

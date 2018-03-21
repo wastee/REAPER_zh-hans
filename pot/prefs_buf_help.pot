@@ -85,7 +85,7 @@ msgid "Use system events for timing and synchronizing. Recommended for newer Int
 msgstr ""
 
 #: ;E6A5539CBB66A335
-msgid "Use system events for timing and synchronizing."
+msgid "Use system events for timing and synchronizing. "
 msgstr ""
 
 #: ;5522B2898DF46E8F

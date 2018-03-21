@@ -25,11 +25,11 @@ msgid "REAPER IS NOT FREE.\r\n\r\nIt is a paid software product just like one yo
 msgstr ""
 
 #: ;B447AAFC75584E81
-msgid "You have been using REAPER for approximately"
+msgid "You have been using REAPER for approximately "
 msgstr ""
 
 #: ;11F529656E722695
-msgid "You have been evaluating REAPER for approximately"
+msgid "You have been evaluating REAPER for approximately "
 msgstr ""
 
 #: ;8814EC6D42D9DBCC
@@ -41,7 +41,7 @@ msgid "%d days"
 msgstr ""
 
 #: ;91A3A621CEA91E58
-msgid "You have run REAPER"
+msgid "You have run REAPER "
 msgstr ""
 
 #: ;26693E25829DF457

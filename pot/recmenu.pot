@@ -25,7 +25,7 @@ msgid "..%s [%d chan]"
 msgstr ""
 
 #: ;1D7096F08B3D7195
-msgid "[multichannel]"
+msgid " [multichannel]"
 msgstr ""
 
 #: ;017CD91CBF3AC663

@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -1121,10 +1122,6 @@ msgstr ""
 
 #: ;4B618DD9FA44789E
 msgid "Save IDE colortheme"
-msgstr ""
-
-#: ;^AF63BD4C8601B7DF
-msgid ""
 msgstr ""
 
 #: ;^BE8A32189AE58F83

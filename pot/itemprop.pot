@@ -29,7 +29,7 @@ msgid "Media Item Properties (no items selected)"
 msgstr ""
 
 #: ;DEB8A732FC3B1C09
-msgid "Media Item Properties:"
+msgid "Media Item Properties:  "
 msgstr ""
 
 #: ;B93F61D167C6E146

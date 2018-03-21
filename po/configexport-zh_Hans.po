@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -196,19 +197,19 @@ msgid "Import will install %d files"
 msgstr ""
 
 #: ;5A21EFEDAB4F44FF
-msgid "and modify 1 file"
+msgid " and modify 1 file"
 msgstr ""
 
 #: ;BD7CFFF2A0861E1A
-msgid "and modify %d files"
+msgid " and modify %d files"
 msgstr ""
 
 #: ;3BC962712055D904
-msgid "and REMOVE 1 file!"
+msgid " and REMOVE 1 file!"
 msgstr ""
 
 #: ;BC15D33B8E7A1967
-msgid "and REMOVE %d files!"
+msgid " and REMOVE %d files!"
 msgstr ""
 
 #: ;18347C10C98CD94D

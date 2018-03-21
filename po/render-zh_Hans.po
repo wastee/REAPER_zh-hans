@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -196,11 +197,11 @@ msgid "No output"
 msgstr ""
 
 #: ;EC49E0E8CD09DA7D
-msgid "Error:"
+msgid "Error: "
 msgstr ""
 
 #: ;30A51D2AB058900D
-msgid "Error opening"
+msgid "Error opening "
 msgstr ""
 
 #: ;BBF55C06EC9B05FE
@@ -212,11 +213,11 @@ msgid "The target drive/path does not exist, is unavailable, or is in use."
 msgstr ""
 
 #: ;49EC68EBB394EAF7
-msgid "Elapsed:"
+msgid "Elapsed: "
 msgstr ""
 
 #: ;AB04BBC7DB9FF4B1
-msgid ", Estimated Remaining:"
+msgid ", Estimated Remaining: "
 msgstr ""
 
 #: ;A429CCD0AE500AF2
@@ -224,7 +225,7 @@ msgid "realtime"
 msgstr ""
 
 #: ;37F6A411C66E7D98
-msgid "Finished in"
+msgid "Finished in "
 msgstr ""
 
 #: ;88F05070C85C276B

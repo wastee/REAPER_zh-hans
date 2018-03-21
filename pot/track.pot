@@ -17,7 +17,7 @@ msgid "Surround track"
 msgstr ""
 
 #: ;141567A3F6188C4D
-msgid "Hardware:"
+msgid "Hardware: "
 msgstr ""
 
 #: ;1E7DE9407D998715
@@ -25,7 +25,7 @@ msgid "[MASTER]"
 msgstr ""
 
 #: ;ECD3692CB7D58B0E
-msgid "[inactive]"
+msgid " [inactive]"
 msgstr ""
 
 #: ;8B6AF9AC93B99233
@@ -33,11 +33,11 @@ msgid "Chan"
 msgstr ""
 
 #: ;B367367394E04578
-msgid "[muted]"
+msgid " [muted]"
 msgstr ""
 
 #: ;4898F1BD608F2660
-msgid "[automated mute]"
+msgid " [automated mute]"
 msgstr ""
 
 #: ;DA17B00AE0D8421B
@@ -61,7 +61,7 @@ msgid "Channel"
 msgstr ""
 
 #: ;^43632077D6FCDE72
-msgid "- NOT FULLY CONNECTED"
+msgid " - NOT FULLY CONNECTED"
 msgstr ""
 
 #: ;^D0C04B9E79D271AE
@@ -69,7 +69,7 @@ msgid "Track"
 msgstr ""
 
 #: ;^480A73B43C308366
-msgid "(folder)"
+msgid " (folder)"
 msgstr ""
 
 #: ;^112BF17E59C1097F

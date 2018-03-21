@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +21,7 @@ msgid "Scanning project directory..."
 msgstr ""
 
 #: ;0D74709687427C94
-msgid "%d of %d files are not used in"
+msgid "%d of %d files are not used in "
 msgstr ""
 
 #: ;E1B7D88D39E1EB01

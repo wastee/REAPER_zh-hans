@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -20,11 +21,11 @@ msgid "--- Session loaded ---"
 msgstr ""
 
 #: ;310B8AA25BD2479D
-msgid "Undo History Memory Usage:"
+msgid "Undo History Memory Usage: "
 msgstr ""
 
 #: ;0D7F13166E00574B
-msgid "Undo:"
+msgid "Undo: "
 msgstr ""
 
 #: ;39034C3D41E988FE

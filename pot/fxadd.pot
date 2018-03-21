@@ -29,7 +29,7 @@ msgid "[no category]"
 msgstr ""
 
 #: ;AAE28D38F6A00A4B
-msgid "Add FX to"
+msgid "Add FX to "
 msgstr ""
 
 #: ;517BED36B8C7A8B7
@@ -113,7 +113,7 @@ msgid "Folders"
 msgstr ""
 
 #: ;B5C75A7C3228E714
-msgid "Replace FX #%d in"
+msgid "Replace FX #%d in "
 msgstr ""
 
 #: ;FC8F326485F29D24
@@ -169,7 +169,7 @@ msgid "Do you want to add the following tracks for this effect?\r\n"
 msgstr ""
 
 #: ;13BFC6DC2333E980
-msgid "If not, only the"
+msgid "If not, only the "
 msgstr ""
 
 #: ;D936E33A722937BB
@@ -181,7 +181,7 @@ msgid "mono 1+2 outputs"
 msgstr ""
 
 #: ;2B562A0344F10199
-msgid "will be audible without further routing.\r\n"
+msgid " will be audible without further routing.\r\n"
 msgstr ""
 
 #: ;74DD7AE924E641B5
@@ -201,7 +201,7 @@ msgid "Build Routing Confirmation"
 msgstr ""
 
 #: ;FF225ECB120E936B
-msgid "Add FX to:"
+msgid "Add FX to: "
 msgstr ""
 
 #: ;^83ACA278C2C00834

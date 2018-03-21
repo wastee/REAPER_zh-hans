@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;FD46A57F2E4690CC
@@ -37,9 +37,7 @@ msgid "Allow a partial measure before this marker"
 msgstr ""
 
 #: ;693EFD8361285A5D
-msgid ""
-"Time signature changes always start a new measure. If necessary, the marker "
-"will be moved to the start of the next measure."
+msgid "Time signature changes always start a new measure. If necessary, the marker will be moved to the start of the next measure."
 msgstr ""
 
 #: ;8B7DD898CEBF416B
@@ -69,3 +67,4 @@ msgstr ""
 #: ;^F09E4B5C35AA14B9
 msgid "Cancel"
 msgstr ""
+

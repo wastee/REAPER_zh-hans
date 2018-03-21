@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;8FFF66C9C9744E1E
@@ -49,9 +49,7 @@ msgid "Take FX tail length:"
 msgstr ""
 
 #: ;1671927D71A9F819
-msgid ""
-"Duplicate take FX when splitting items (including splits caused by recording "
-"new takes)"
+msgid "Duplicate take FX when splitting items (including splits caused by recording new takes)"
 msgstr ""
 
 #: ;434D0D3D16C885EF
@@ -87,9 +85,7 @@ msgid "Put new peak files in peaks/ subfolder relative to media"
 msgstr ""
 
 #: ;2755B2A0D5082B14
-msgid ""
-"Store peak caches in alternate path if unable to write to media file "
-"directory"
+msgid "Store peak caches in alternate path if unable to write to media file directory"
 msgstr ""
 
 #: ;A08F2A18EFFE446E
@@ -97,9 +93,7 @@ msgid "Alternate peak cache path can be set in Preferences/General/Path"
 msgstr ""
 
 #: ;9F75720C21818591
-msgid ""
-"Always generate spectral peak information (default is only when spectral "
-"peaks enabled)"
+msgid "Always generate spectral peak information (default is only when spectral peaks enabled)"
 msgstr ""
 
 #: ;682D26505F615AFB
@@ -113,3 +107,4 @@ msgstr ""
 #: ;^D8B3B3186B8C817F
 msgid "ms"
 msgstr ""
+

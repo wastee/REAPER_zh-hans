@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +13,11 @@ msgstr "Project-Id-Version: REAPER_zh-hans\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;B2752BD2D1A63C8E
-msgid "Scanning DX plug-in:"
+msgid "Scanning DX plug-in: "
 msgstr ""
 
 #: ;A6373A10EB021B50
-msgid "Scanning"
+msgid "Scanning "
 msgstr ""
 
 #: ;^274E7C84B3E58DB8

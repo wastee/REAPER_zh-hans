@@ -17,7 +17,7 @@ msgid "ReaScript can be used to create simple macros to perform frequently repea
 msgstr ""
 
 #: ;E6D764D466D14077
-msgid "View online ReaScript overview"
+msgid "View online ReaScript overview "
 msgstr ""
 
 #: ;C5BD660AE06DB168

@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -32,10 +33,10 @@ msgid "Add transient guide markers to items"
 msgstr ""
 
 #: ;BE0AAD79340CB0B6
-msgid "Gate closes at"
+msgid "Gate closes at "
 msgstr ""
 
 #: ;5AA85530749D1CB0
-msgid "reopens at"
+msgid "reopens at "
 msgstr ""
 

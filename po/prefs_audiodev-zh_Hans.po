@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +57,7 @@ msgid "MMCSS / Time Critical"
 msgstr ""
 
 #: ;B8ECBD868F6E6AFE
-msgid "Not found:"
+msgid "Not found: "
 msgstr ""
 
 #: ;C71F29716DFFC020
@@ -84,19 +85,19 @@ msgid "PulseAudio [not installed on system]"
 msgstr ""
 
 #: ;61605C281C172E72
-msgid "(non-RT)"
+msgid " (non-RT)"
 msgstr ""
 
 #: ;DC524F263483B189
-msgid "(suggested setting for RT use)"
+msgid " (suggested setting for RT use)"
 msgstr ""
 
 #: ;07531569388B6383
-msgid "(default hardware priority)"
+msgid " (default hardware priority)"
 msgstr ""
 
 #: ;BB9D155CE82F9870
-msgid "(maximum priority)"
+msgid " (maximum priority)"
 msgstr ""
 
 #: ;^63ACD193C4316F68

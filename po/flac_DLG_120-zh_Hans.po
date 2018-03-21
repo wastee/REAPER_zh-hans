@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +37,7 @@ msgid "Unknown error/status"
 msgstr ""
 
 #: ;^439CE51FC4707DDD
-msgid "Length:"
+msgid "Length: "
 msgstr ""
 
 #: ;^9570937682166424

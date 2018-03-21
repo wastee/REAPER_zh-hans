@@ -117,7 +117,7 @@ msgid "Output: stereo"
 msgstr ""
 
 #: ;9CC036C3AB1AE679
-msgid "INPUT FX:\n"
+msgid "INPUT FX:\n  "
 msgstr ""
 
 #: ;F74049BC4F320B2B
@@ -125,11 +125,11 @@ msgid "Show Track Input FX Window"
 msgstr ""
 
 #: ;D7E111CA46B51531
-msgid "FX:\n"
+msgid "FX:\n  "
 msgstr ""
 
 #: ;76C0BBFC509E28BC
-msgid "BYPASSED FX:\n"
+msgid "BYPASSED FX:\n  "
 msgstr ""
 
 #: ;F901921D72014622
@@ -141,15 +141,15 @@ msgid "Show Track FX Window"
 msgstr ""
 
 #: ;FBCE7FD896917E60
-msgid "[offline]"
+msgid " [offline]"
 msgstr ""
 
 #: ;48576B8E22F18006
-msgid "[bypassed]"
+msgid " [bypassed]"
 msgstr ""
 
 #: ;ACC5AD24A62EF595
-msgid "[track FX bypassed]"
+msgid " [track FX bypassed]"
 msgstr ""
 
 #: ;AA29E27B9BEE39EF
@@ -161,15 +161,15 @@ msgid "MIDI hardware output"
 msgstr ""
 
 #: ;1642F2A3840F4EAB
-msgid "(to channel %d):"
+msgid " (to channel %d): "
 msgstr ""
 
 #: ;6677CD830302C2DB
-msgid "Send:"
+msgid "Send: "
 msgstr ""
 
 #: ;9F4424F736F61BF6
-msgid "Hardware output:"
+msgid "Hardware output: "
 msgstr ""
 
 #: ;AC8AAF4FFD13F4C1
@@ -189,27 +189,27 @@ msgid "Sends, Receives, and Hardware Output Options"
 msgstr ""
 
 #: ;B788A5920484034B
-msgid "Pan(L):"
+msgid "Pan(L): "
 msgstr ""
 
 #: ;B74B168C4B4D25F4
-msgid "Pan:"
+msgid "Pan: "
 msgstr ""
 
 #: ;AC37D49971F328D9
-msgid "Pan(R):"
+msgid "Pan(R): "
 msgstr ""
 
 #: ;414C960462675503
-msgid "Width:"
+msgid "Width: "
 msgstr ""
 
 #: ;18901E0F01015C8D
-msgid "MIDI volume: %d"
+msgid " MIDI volume: %d"
 msgstr ""
 
 #: ;2190F5FAF07A005B
-msgid "Volume:"
+msgid "Volume: "
 msgstr ""
 
 #: ;77D84864F0D52742
@@ -269,7 +269,7 @@ msgid "Phase Normal"
 msgstr ""
 
 #: ;479C0C6FEA0A90B8
-msgid "Envelopes/Automation\nAutomation mode:"
+msgid "Envelopes/Automation\nAutomation mode: "
 msgstr ""
 
 #: ;3C32F136603DDDA3
@@ -305,7 +305,7 @@ msgid "Record Arm/Disarm"
 msgstr ""
 
 #: ;EC08294ACB5BE864
-msgid "(record armed)"
+msgid " (record armed)"
 msgstr ""
 
 #: ;928CD43854F563DC
@@ -317,7 +317,7 @@ msgid "Meter;"
 msgstr ""
 
 #: ;2FDF35B2673D3891
-msgid "record armed,"
+msgid "record armed, "
 msgstr ""
 
 #: ;D748741F38C29037
@@ -465,7 +465,7 @@ msgid "Envelope: %s\n%s at %s"
 msgstr ""
 
 #: ;C4BA31BFA9460908
-msgid "Stretch marker slope: %.2fx / %.2fx"
+msgid "Stretch marker slope: %.2fx / %.2fx "
 msgstr ""
 
 #: ;B9DAECFFD3F117BB
@@ -489,11 +489,11 @@ msgid "\nAdjusted: %+.2f%%"
 msgstr ""
 
 #: ;F1B13E128583A378
-msgid ", moved:"
+msgid ", moved: "
 msgstr ""
 
 #: ;CF4356C508B56CBC
-msgid "\nMoved:"
+msgid "\nMoved: "
 msgstr ""
 
 #: ;04A1381AA6C99D6F
@@ -509,11 +509,11 @@ msgid "Envelope: %s\n%s at %s Tension: %s"
 msgstr ""
 
 #: ;0278FACDB78C59E8
-msgid "[%s at %s]"
+msgid " [%s at %s]"
 msgstr ""
 
 #: ;25AD567ECA15774D
-msgid "[%s]"
+msgid " [%s]"
 msgstr ""
 
 #: ;79AF656A3F330C0E
@@ -573,15 +573,15 @@ msgid "Record/Punch-out"
 msgstr ""
 
 #: ;84C6C5437860B90E
-msgid "- Mode: Autopunch Items"
+msgid " - Mode: Autopunch Items"
 msgstr ""
 
 #: ;261533F60A9B0DB1
-msgid "- Mode: Autopunch Time Selection"
+msgid " - Mode: Autopunch Time Selection"
 msgstr ""
 
 #: ;0EF6D94043029DB8
-msgid "(slave to timecode)"
+msgid " (slave to timecode)"
 msgstr ""
 
 #: ;3062D9C83C010A42
@@ -649,7 +649,7 @@ msgid "Input:"
 msgstr ""
 
 #: ;^480A73B43C308366
-msgid "(folder)"
+msgid " (folder)"
 msgstr ""
 
 #: ;^AEF53FB432FD3810

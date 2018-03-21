@@ -27,12 +27,14 @@ def lp2po(filename):
         for po in pos:
             p = (
                 '#: ' + re.findall('^(.*)(?==)', po)[0],
-                'msgid "' + re.findall('\=(.*)', po)[0].strip() + '"',
+                'msgid "' + re.findall('\=(.*)', po)[0] + '"',
                 'msgstr ""',
                 '',
                 '',
             )
-            potext += '\n'.join(p)
+            if re.findall('\=(.*)', po)[0] != '' and re.findall('\=(.*)', po)[0] != ' ':
+                potext += '\n'.join(p)
+
         with open('./pot/{}.pot'.format(component_name), 'w+', encoding='utf-8') as f:
             f.write(potext)
 

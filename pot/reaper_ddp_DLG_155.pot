@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: =\n"
 
 #: ;E591BC144611AF3B
-msgid "DDP is only compatible with"
+msgid "DDP is only compatible with "
 msgstr ""
 
 #: ;9AAF7F0BC3B0425F

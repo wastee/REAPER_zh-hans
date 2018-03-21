@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +13,7 @@ msgstr "Project-Id-Version: REAPER_zh-hans\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;DF91E9E358286DAE
-msgid "bpm"
+msgid " bpm"
 msgstr ""
 
 #: ;0341AABCE43C87F9
@@ -20,7 +21,7 @@ msgid "UNMUTE"
 msgstr ""
 
 #: ;6221B0803AA24F2A
-msgid "st"
+msgid " st"
 msgstr ""
 
 #: ;B0252D72546573F7
@@ -32,7 +33,7 @@ msgid "Move to media lane"
 msgstr ""
 
 #: ;2A392CE051D488A2
-msgid "Reduce points:"
+msgid "Reduce points: "
 msgstr ""
 
 #: ;EB289C99B437F75A

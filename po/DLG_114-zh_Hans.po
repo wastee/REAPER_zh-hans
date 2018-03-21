@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;6DB700CA3D9D5729
@@ -25,9 +25,7 @@ msgid "Restart"
 msgstr ""
 
 #: ;D2E6B7E7B657D1D1
-msgid ""
-"The script %s has been modified externally.\r\n"
-"Do you want to reload it?"
+msgid "The script %s has been modified externally.\r\nDo you want to reload it?"
 msgstr ""
 
 #: ;3B79C565F246167A
@@ -85,3 +83,4 @@ msgstr ""
 #: ;^D9B12705AD844C62
 msgid "List1"
 msgstr ""
+

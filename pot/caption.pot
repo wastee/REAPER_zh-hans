@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: =\n"
 
 #: ;8F03A4DEE959DBBC
-msgid "[modified]"
+msgid " [modified]"
 msgstr ""
 
 #: ;F7DE204A45AD8C16
@@ -29,7 +29,7 @@ msgid "[proj %d/%d]"
 msgstr ""
 
 #: ;EAFB81B53B649538
-msgid "Registered to"
+msgid "Registered to "
 msgstr ""
 
 #: ;0E1FBBE2C5CA3DA5
@@ -37,6 +37,6 @@ msgid "[Unsaved]"
 msgstr ""
 
 #: ;^629548803B048F00
-msgid "-"
+msgid " - "
 msgstr ""
 

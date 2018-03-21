@@ -69,7 +69,7 @@ msgid "Locked item ripple editing behavior:"
 msgstr ""
 
 #: ;E11DAEF2BBEB112C
-msgid "Allow dual trim (edit shared media item edges) only if both items are selected"
+msgid "Allow dual trim (edit shared media item edges) only if both items are selected "
 msgstr ""
 
 #: ;32B5CB1F9A8B8705

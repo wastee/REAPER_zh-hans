@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +13,7 @@ msgstr "Project-Id-Version: REAPER_zh-hans\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;E591BC144611AF3B
-msgid "DDP is only compatible with"
+msgid "DDP is only compatible with "
 msgstr ""
 
 #: ;9AAF7F0BC3B0425F

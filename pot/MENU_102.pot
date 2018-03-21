@@ -149,11 +149,11 @@ msgid "Cut items/tracks/envelope points within time selection if any"
 msgstr ""
 
 #: ;91744677B089B79A
-msgid "Cu&t items/tracks/envelope points ignoring time selection"
+msgid "Cu&t items/tracks/envelope points ignoring time selection "
 msgstr ""
 
 #: ;9375899C7F37954E
-msgid "Cut items/tracks/envelope points ignoring time selection"
+msgid "Cut items/tracks/envelope points ignoring time selection "
 msgstr ""
 
 #: ;17E43694AE696DE2
@@ -1890,10 +1890,6 @@ msgstr ""
 
 #: ;^9BC67B482921A263
 msgid "About REAPER"
-msgstr ""
-
-#: ;^0832A807B4EBA64D
-msgid ""
 msgstr ""
 
 #: ;^62473318FFD2829F

@@ -45,11 +45,11 @@ msgid "Error importing markers from file"
 msgstr ""
 
 #: ;75C7E1516D9F2C59
-msgid "The file should have 1-6 fields per line, separated by whitespace or commas."
+msgid "The file should have 1-6 fields per line, separated by whitespace or commas. "
 msgstr ""
 
 #: ;F977CC75F7FF827D
-msgid "The first line of the file may be a header row. Allowable header fields are:"
+msgid "The first line of the file may be a header row. Allowable header fields are: "
 msgstr ""
 
 #: ;92D50CDF8BD3B427

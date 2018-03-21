@@ -61,6 +61,6 @@ msgid "Set default mouse modifier action for \"%s %s\" to \"%s\""
 msgstr ""
 
 #: ;8C9BD4F57CFD1931
-msgid "(factory default)"
+msgid " (factory default)"
 msgstr ""
 

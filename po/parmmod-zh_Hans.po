@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -36,11 +37,11 @@ msgid "random"
 msgstr ""
 
 #: ;0EA9CF700D8CA502
-msgid "Bus %d"
+msgid " Bus %d"
 msgstr ""
 
 #: ;0B948F5EE0E33CC2
-msgid "Chan %d"
+msgid " Chan %d"
 msgstr ""
 
 #: ;6D13B5B72BD78E27
@@ -80,7 +81,7 @@ msgid "(not found)"
 msgstr ""
 
 #: ;43DDA011529770E8
-msgid "(self)"
+msgid " (self)"
 msgstr ""
 
 #: ;9CE9D1319F320AA2
@@ -88,7 +89,7 @@ msgid "Parameter Modulation/Link for"
 msgstr ""
 
 #: ;5E51D88A6E39AA30
-msgid "- (Master Track)"
+msgid " - (Master Track)"
 msgstr ""
 
 #: ;^57F28E456CC0FEEB

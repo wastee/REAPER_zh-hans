@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -148,7 +149,7 @@ msgid "No time selected"
 msgstr ""
 
 #: ;EEB74D39BC3CDC46
-msgid "Clear envelope:"
+msgid "Clear envelope: "
 msgstr ""
 
 #: ;1C7FC759B4950FA9
@@ -508,11 +509,11 @@ msgid "Error sending packet to ReaMote host (is your blocksize too large?). ReaM
 msgstr ""
 
 #: ;1013F95E5E56BDAB
-msgid "The following MIDI inputs could not be opened:"
+msgid "The following MIDI inputs could not be opened: "
 msgstr ""
 
 #: ;E469C2406A17223C
-msgid "The following MIDI outputs could not be opened:"
+msgid "The following MIDI outputs could not be opened: "
 msgstr ""
 
 #: ;5C004DD5C0CFA863

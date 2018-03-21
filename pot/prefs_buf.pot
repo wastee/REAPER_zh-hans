@@ -41,23 +41,23 @@ msgid "Automatic (default)"
 msgstr ""
 
 #: ;02BB391D11C4BF27
-msgid "- Relaxed"
+msgid " - Relaxed"
 msgstr ""
 
 #: ;26FEA9DB7D84BB3D
-msgid "- Default"
+msgid " - Default"
 msgstr ""
 
 #: ;0CB154CE14C9703F
-msgid "- Medium"
+msgid " - Medium"
 msgstr ""
 
 #: ;BE86650F54F7AC10
-msgid "- Aggressive"
+msgid " - Aggressive"
 msgstr ""
 
 #: ;CAF2BD75C8084664
-msgid "- Very Aggressive"
+msgid " - Very Aggressive"
 msgstr ""
 
 #: ;^63ACD193C4316F68

@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -60,6 +61,6 @@ msgid "Set default mouse modifier action for \"%s %s\" to \"%s\""
 msgstr ""
 
 #: ;8C9BD4F57CFD1931
-msgid "(factory default)"
+msgid " (factory default)"
 msgstr ""
 

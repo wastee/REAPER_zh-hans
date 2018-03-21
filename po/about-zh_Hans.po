@@ -1,129 +1,119 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"Last-Translator: All Chinese REAPER Users\n"
-"Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
+"PO-Revision-Date: 2018-03-21 08:17+0000\n"
+"Last-Translator: kevin <2386898267@qq.com>\n"
+"Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
+"reaper/about/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Python Script\n"
-"X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 2.19.1\n"
+"X-Poedit-Basepath: .\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;26FC58CEF44C94A5
 msgid "Thank you for purchasing REAPER!"
-msgstr ""
+msgstr "感谢您购买 REAPER!"
 
 #: ;11D589F8494A554B
-msgid ""
-"Thank you for purchasing a previous version of REAPER!\r\n"
-"\r\n"
-"Unfortunately the license key you have is not valid for REAPER v5.x.\r\n"
-"\r\n"
-"Please evaluate this version for 60 days, then visit www.reaper.fm to "
-"purchase a new license, or download v4.x."
+msgid "Thank you for purchasing a previous version of REAPER!\r\n\r\nUnfortunately the license key you have is not valid for REAPER v5.x.\r\n\r\nPlease evaluate this version for 60 days, then visit www.reaper.fm to purchase a new license, or download v4.x."
 msgstr ""
 
 #: ;154224048230E8E2
-msgid ""
-"REAPER IS NOT FREE.\r\n"
-"\r\n"
-"It is a paid software product just like one you buy in a box from a store."
-"\r\n"
-"If you use it more than 60 days you are required to purchase a license."
+msgid "REAPER IS NOT FREE.\r\n\r\nIt is a paid software product just like one you buy in a box from a store.\r\nIf you use it more than 60 days you are required to purchase a license."
 msgstr ""
+"REAPER 不是免费软件。\n"
+"\n"
+"它是一款付费的软件产品，就像您从商店里面购买的盒装产品一样。\n"
+"如果您使用它超过 60 天，您需要购买许可证。"
 
 #: ;B447AAFC75584E81
-msgid "You have been using REAPER for approximately"
-msgstr ""
+msgid "You have been using REAPER for approximately "
+msgstr "您已经使用 REAPER 大约 "
 
 #: ;11F529656E722695
-msgid "You have been evaluating REAPER for approximately"
-msgstr ""
+msgid "You have been evaluating REAPER for approximately "
+msgstr "您已经评估 REAPER 大约 "
 
 #: ;8814EC6D42D9DBCC
 msgid "1 day"
-msgstr ""
+msgstr "1 天"
 
 #: ;D0E83932879B1FE1
 msgid "%d days"
-msgstr ""
+msgstr "%d 天"
 
 #: ;91A3A621CEA91E58
-msgid "You have run REAPER"
-msgstr ""
+msgid "You have run REAPER "
+msgstr "您已经运行 REAPER "
 
 #: ;26693E25829DF457
 msgid "1 time"
-msgstr ""
+msgstr "1 次"
 
 #: ;DEAD0DB0B630B538
 msgid "%d times"
-msgstr ""
+msgstr "%d 次"
 
 #: ;E1724295AF0E72B0
 msgid "for a total of"
-msgstr ""
+msgstr "总时间大概"
 
 #: ;41C57231FB923701
-msgid ""
-"REAPER licenses are very reasonably priced.\r\n"
-"We offer discounts for personal non-commercial use, and for very small "
-"businesses."
+msgid "REAPER licenses are very reasonably priced.\r\nWe offer discounts for personal non-commercial use, and for very small businesses."
 msgstr ""
+"REAPER 的许可证价格非常划算。\n"
+"我们为个人非商业用途和小型企业提供折扣。"
 
 #: ;0035F90FBE34516F
-msgid ""
-"We are showing you this message, instead of crippling this evaluation "
-"version of REAPER, because we do not feel that technological enforcement of "
-"licensing policy is in the best interest of our customers."
-msgstr ""
+msgid "We are showing you this message, instead of crippling this evaluation version of REAPER, because we do not feel that technological enforcement of licensing policy is in the best interest of our customers."
+msgstr "我们并没有限制 REAPER 评估版本的功能，而是为您显示这条消息，因为我们认为通过技术手段来实施软件授权政策不符合我们客户的最佳利益。"
 
 #: ;04FA9C99A7E3E33F
 msgid "Remove license key"
-msgstr ""
+msgstr "删除授权密钥"
 
 #: ;8B9A76F494C70F92
-msgid ""
-"Are you sure you wish to remove the current license key?\r\n"
-"\r\n"
-"(you must have a copy of the key file in order to re-authorize this "
-"installation)"
+msgid "Are you sure you wish to remove the current license key?\r\n\r\n(you must have a copy of the key file in order to re-authorize this installation)"
 msgstr ""
+"您确定要删除当前的授权密钥吗?\n"
+"\n"
+"(您必须拥有密钥文件的副本才能重新授权此软件)"
 
 #: ;63A8748786CE1342
 msgid "Confirm removal of license key"
-msgstr ""
+msgstr "确认删除授权密钥"
 
 #: ;1233760996DC4604
 msgid "Import license key:"
-msgstr ""
+msgstr "导入授权密钥:"
 
 #: ;510C2D221F9562E4
 msgid "Error importing license key"
-msgstr ""
+msgstr "导入授权密钥出错"
 
 #: ;9ED57C7769D0C7C0
 msgid "Could not write file"
-msgstr ""
+msgstr "无法写入文件"
 
 #: ;7F8EA1BD935B9BFF
 msgid "Could not read file"
-msgstr ""
+msgstr "无法读取文件"
 
 #: ;254ABC5AE33BD903
 msgid "Error writing file"
-msgstr ""
+msgstr "写入文件出错"
 
 #: ;28E12469A3271389
 msgid "Thank You!"
-msgstr ""
+msgstr "谢谢!"
 
 #: ;D03DC131AB7C4B2C
 msgid "Buy Me [%d]"
-msgstr ""
+msgstr "购买软件 [%d]"
 
 #: ;32EE0E776F726A01
 msgid "Still Evaluating"
@@ -131,11 +121,11 @@ msgstr ""
 
 #: ;D38A26905AC66F97
 msgid "Credits"
-msgstr ""
+msgstr "制作人员"
 
 #: ;20BDED648E738AA0
 msgid "Purchase"
-msgstr ""
+msgstr "购买"
 
 #: ;E347F43935F8D866
 msgid "License and User Agreement"
@@ -143,8 +133,8 @@ msgstr ""
 
 #: ;C6013D59706F3AEB
 msgid "Changelog"
-msgstr ""
+msgstr "更新日志"
 
 #: ;^756B500741E261D4
 msgid "Import license key..."
-msgstr ""
+msgstr "导入授权密钥..."

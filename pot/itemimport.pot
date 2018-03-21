@@ -25,6 +25,6 @@ msgid "Import %d-channel %s as %d mono tracks?"
 msgstr ""
 
 #: ;^629548803B048F00
-msgid "-"
+msgid " - "
 msgstr ""
 

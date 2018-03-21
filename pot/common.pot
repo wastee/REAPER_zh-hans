@@ -453,7 +453,7 @@ msgid "Sample rate:"
 msgstr ""
 
 #: ;720CB39E31676E27
-msgid "Start:"
+msgid "Start: "
 msgstr ""
 
 #: ;97D6D411868C112C
@@ -1240,12 +1240,8 @@ msgstr ""
 msgid "REAPER Query"
 msgstr ""
 
-#: ;0832A807B4EBA64D
-msgid ""
-msgstr ""
-
 #: ;D990EA186C48B88B
-msgid ","
+msgid ", "
 msgstr ""
 
 #: ;BE72ADED52927C3E
@@ -3117,7 +3113,7 @@ msgid "Inform plug-in when track channel count changes"
 msgstr ""
 
 #: ;7F8BE88D07D058A1
-msgid "Link to MIDI program change"
+msgid "Link to MIDI program change "
 msgstr ""
 
 #: ;E485FC63E796EFFA
@@ -3713,7 +3709,7 @@ msgid "Master track"
 msgstr ""
 
 #: ;629548803B048F00
-msgid "-"
+msgid " - "
 msgstr ""
 
 #: ;7110EEEF2B77963B
@@ -3776,10 +3772,6 @@ msgstr ""
 msgid "Length: %s"
 msgstr ""
 
-#: ;AF63BD4C8601B7DF
-msgid ""
-msgstr ""
-
 #: ;4B1F235812EEE9D6
 msgid "MUTE"
 msgstr ""
@@ -3789,7 +3781,7 @@ msgid "Tempo map"
 msgstr ""
 
 #: ;480A73B43C308366
-msgid "(folder)"
+msgid " (folder)"
 msgstr ""
 
 #: ;65971737BB8DFA2C
@@ -4089,7 +4081,7 @@ msgid "File offline"
 msgstr ""
 
 #: ;439CE51FC4707DDD
-msgid "Length:"
+msgid "Length: "
 msgstr ""
 
 #: ;9570937682166424
@@ -4133,7 +4125,7 @@ msgid "Bypass"
 msgstr ""
 
 #: ;17E7264672EB4EC9
-msgid "FX comment for:"
+msgid "FX comment for: "
 msgstr ""
 
 #: ;67D35DD28653A00A
@@ -4153,7 +4145,7 @@ msgid "Alias parameter"
 msgstr ""
 
 #: ;915C69C77F31F221
-msgid "Envelope:"
+msgid "Envelope: "
 msgstr ""
 
 #: ;E763E06A994AAAFB
@@ -4237,7 +4229,7 @@ msgid "Rate:"
 msgstr ""
 
 #: ;2C5B8309D9FC8004
-msgid "Take"
+msgid "Take "
 msgstr ""
 
 #: ;63ACD193C4316F68
@@ -4357,7 +4349,7 @@ msgid "You must stop recording before importing configuration (as configuration 
 msgstr ""
 
 #: ;D96196186C20B90D
-msgid ":"
+msgid ": "
 msgstr ""
 
 #: ;BA8A5EA843F33060
@@ -4377,7 +4369,7 @@ msgid "MASTER"
 msgstr ""
 
 #: ;F4944DF4957B0C53
-msgid "(default)"
+msgid " (default)"
 msgstr ""
 
 #: ;D722FAC57CDCD58A
@@ -5637,7 +5629,7 @@ msgid "Sends"
 msgstr ""
 
 #: ;43632077D6FCDE72
-msgid "- NOT FULLY CONNECTED"
+msgid " - NOT FULLY CONNECTED"
 msgstr ""
 
 #: ;E105F71E035CFC28
@@ -5685,31 +5677,31 @@ msgid "Preserve aspect ratio (black bars if necessary)"
 msgstr ""
 
 #: ;D8700C186B534BEE
-msgid "A"
+msgid "A "
 msgstr ""
 
 #: ;D86CE6186B50D585
-msgid "B"
+msgid "B "
 msgstr ""
 
 #: ;D86980186B4DF25C
-msgid "C"
+msgid "C "
 msgstr ""
 
 #: ;D865DA186B4AA273
-msgid "D"
+msgid "D "
 msgstr ""
 
 #: ;D86274186B47BF4A
-msgid "E"
+msgid "E "
 msgstr ""
 
 #: ;D85F0E186B44DC21
-msgid "F"
+msgid "F "
 msgstr ""
 
 #: ;D85BE8186B4265B8
-msgid "G"
+msgid "G "
 msgstr ""
 
 #: ;EEC6BB6E4FD26C7D

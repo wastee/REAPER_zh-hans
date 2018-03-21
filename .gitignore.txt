@@ -1,3 +1,4 @@
 dictionary\
 *.bak
 *.tmx
+*.po~

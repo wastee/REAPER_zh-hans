@@ -33,23 +33,23 @@ msgid "No unmuted"
 msgstr ""
 
 #: ;61C3BC34D088588C
-msgid "selected"
+msgid " selected"
 msgstr ""
 
 #: ;F67BA54E46A7550F
-msgid "tracks containing"
+msgid " tracks containing"
 msgstr ""
 
 #: ;9E02A0E4B7ACC2E8
-msgid "MIDI items"
+msgid " MIDI items"
 msgstr ""
 
 #: ;CE45E911046E8174
-msgid "within the time selection"
+msgid " within the time selection"
 msgstr ""
 
 #: ;AF912F456FE0F4BA
-msgid "were found."
+msgid " were found."
 msgstr ""
 
 #: ;582D1D4106C95CFC
