@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;6D5D90510FB69C2A
@@ -16,7 +17,9 @@ msgid "Choose how to place imported media items on import/drag and drop/etc"
 msgstr ""
 
 #: ;69070241C7B1090D
-msgid "If checked, copy imported media items to the project media path (if they are not already in the project path)"
+msgid ""
+"If checked, copy imported media items to the project media path (if they are "
+"not already in the project path)"
 msgstr ""
 
 #: ;703EE29F62AAD911
@@ -24,27 +27,38 @@ msgid "If checked, name unnamed tracks after the media on media import"
 msgstr ""
 
 #: ;AB4066F22744D3A5
-msgid "If auto-naming tracks on import, remove trailing numbers from track names"
+msgid ""
+"If auto-naming tracks on import, remove trailing numbers from track names"
 msgstr ""
 
 #: ;B170F8FE480761BC
-msgid "Sets project media inactive when REAPER is inactive, so that other programs can access/modify the media"
+msgid ""
+"Sets project media inactive when REAPER is inactive, so that other programs "
+"can access/modify the media"
 msgstr ""
 
 #: ;837ADBF34235C0DC
-msgid "If project media is set inactive when REAPER is inactive, having this checked will cause peaks to be rebuilt on demand if necessary."
+msgid ""
+"If project media is set inactive when REAPER is inactive, having this "
+"checked will cause peaks to be rebuilt on demand if necessary."
 msgstr ""
 
 #: ;AA2E20F87ABF9B32
-msgid "Allow choosing the filename used when using \"open copy\" action. If unchecked, the default filename will be used."
+msgid ""
+"Allow choosing the filename used when using \"open copy\" action. If "
+"unchecked, the default filename will be used."
 msgstr ""
 
 #: ;9E9982D536949C1E
-msgid "When using apply FX action, allow this much extra time at the end for reverb tails/etc"
+msgid ""
+"When using apply FX action, allow this much extra time at the end for reverb "
+"tails/etc"
 msgstr ""
 
 #: ;A18271E55C7E58C7
-msgid "When using per-item/take FX, render FX tails for this much time past the item end"
+msgid ""
+"When using per-item/take FX, render FX tails for this much time past the "
+"item end"
 msgstr ""
 
 #: ;821F929BB8BB41ED
@@ -60,26 +74,39 @@ msgid "Display a status window when generating peaks."
 msgstr ""
 
 #: ;FA14F6695C42A6BE
-msgid "The highest resolution peaks generated in peak cache files. 300 is recommended. Higher or lower can result in diminished performance in different scenarios."
+msgid ""
+"The highest resolution peaks generated in peak cache files. 300 is "
+"recommended. Higher or lower can result in diminished performance in "
+"different scenarios."
 msgstr ""
 
 #: ;0AFC077605BAFB72
-msgid "If unable to write to the media directory, use the alternate path (set in Preferences/General/Path) to store peak cache files."
+msgid ""
+"If unable to write to the media directory, use the alternate path (set in "
+"Preferences/General/Path) to store peak cache files."
 msgstr ""
 
 #: ;22D88B25908D6899
-msgid "Prefers to store newly created peak cache files in a directory named \"peaks\" relative to the media file."
+msgid ""
+"Prefers to store newly created peak cache files in a directory named \"peaks"
+"\" relative to the media file."
 msgstr ""
 
 #: ;3E30281017B53D27
-msgid "When using take FX, duplicate take FX when splitting (so that new split items get copies of the FX). Caution, this can use a lot of RAM if you aren't careful."
+msgid ""
+"When using take FX, duplicate take FX when splitting (so that new split "
+"items get copies of the FX). Caution, this can use a lot of RAM if you "
+"aren't careful."
 msgstr ""
 
 #: ;78DE8A31904C1141
-msgid "Calculate spectral information for peaks files even when spectral peaks are not enabled (larger peak files, higher RAM use)"
+msgid ""
+"Calculate spectral information for peaks files even when spectral peaks are "
+"not enabled (larger peak files, higher RAM use)"
 msgstr ""
 
 #: ;5EF284FB2B799EF0
-msgid "Automatically re-generate peaks files with spectral information when enabling spectral peaks."
+msgid ""
+"Automatically re-generate peaks files with spectral information when "
+"enabling spectral peaks."
 msgstr ""
-
