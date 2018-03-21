@@ -21,7 +21,8 @@ def comp2json():
                 "filemask": "po/{}-*.po".format(fn),
                 "new_base": "pot/{}.pot".format(fn),
                 "committer_name": "REAPER Weblate",
-                "committer_email": "i@lado.me"
+                "committer_email": "i@lado.me",
+                "allow_translation_propagation": False
             })
 
     with open('./import_components.json', 'w+', encoding='utf-8') as f:
