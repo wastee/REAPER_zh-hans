@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 07:04+0000\n"
-"Last-Translator: kevin <2386898267@qq.com>\n"
+"PO-Revision-Date: 2018-03-21 07:11+0000\n"
+"Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/about/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -60,13 +60,13 @@ msgstr "%d 次"
 
 #: ;E1724295AF0E72B0
 msgid "for a total of"
-msgstr "共计"
+msgstr "总时间大概"
 
 #: ;41C57231FB923701
 msgid "REAPER licenses are very reasonably priced.\r\nWe offer discounts for personal non-commercial use, and for very small businesses."
 msgstr ""
-"REAPER 的许可证价格十分合理。\n"
-"我们为个人非商业用途和微型企业提供折扣。"
+"REAPER 的许可证价格非常划算。\n"
+"我们为个人非商业用途和小型企业提供折扣。"
 
 #: ;0035F90FBE34516F
 msgid "We are showing you this message, instead of crippling this evaluation version of REAPER, because we do not feel that technological enforcement of licensing policy is in the best interest of our customers."
@@ -74,7 +74,7 @@ msgstr ""
 
 #: ;04FA9C99A7E3E33F
 msgid "Remove license key"
-msgstr "删除授权码"
+msgstr "删除授权密钥"
 
 #: ;8B9A76F494C70F92
 msgid "Are you sure you wish to remove the current license key?\r\n\r\n(you must have a copy of the key file in order to re-authorize this installation)"
