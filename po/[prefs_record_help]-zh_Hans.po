@@ -1,26 +1,33 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;F1E406C6866C1FE5
-msgid "While recording, respect the options menu setting to automatically scroll the arrange view when the record cursor moves offscreen."
+msgid ""
+"While recording, respect the options menu setting to automatically scroll "
+"the arrange view when the record cursor moves offscreen."
 msgstr ""
 
 #: ;3ED0EE7DECD1ABC5
-msgid "Display a medium-resolution peak/waveform preview of audio items while recording. Regardless, a high-resolution display will be shown afterwards."
+msgid ""
+"Display a medium-resolution peak/waveform preview of audio items while "
+"recording. Regardless, a high-resolution display will be shown afterwards."
 msgstr ""
 
 #: ;364EC3F8B830CEF5
-msgid "Update speed of peak/waveform preview for recording items, in frames per second (lower values leave more resources free for the actual recording)."
+msgid ""
+"Update speed of peak/waveform preview for recording items, in frames per "
+"second (lower values leave more resources free for the actual recording)."
 msgstr ""
 
 #: ;DF053C93A346E434
@@ -28,15 +35,20 @@ msgid "Peak/waveform display data files are created for every audio item."
 msgstr ""
 
 #: ;7E1E093FC1CA1EF1
-msgid "Create audio peak/waveform display data files while recording audio (recommended)"
+msgid ""
+"Create audio peak/waveform display data files while recording audio "
+"(recommended)"
 msgstr ""
 
 #: ;BC44FACEABC6616F
-msgid "Create audio peak/waveform display data files only after recording stops."
+msgid ""
+"Create audio peak/waveform display data files only after recording stops."
 msgstr ""
 
 #: ;EFA651F088ADA17C
-msgid "Create audio peak/waveform display data files only when manually selecting the menu item item/peaks/build peaks."
+msgid ""
+"Create audio peak/waveform display data files only when manually selecting "
+"the menu item item/peaks/build peaks."
 msgstr ""
 
 #: ;C0E929B7ED6219F8
@@ -44,35 +56,51 @@ msgid "New recorded files can be automatically saved, or selectively deleted."
 msgstr ""
 
 #: ;182508B411978611
-msgid "Prompt to selectively save or delete new recorded files after recording stops."
+msgid ""
+"Prompt to selectively save or delete new recorded files after recording "
+"stops."
 msgstr ""
 
 #: ;AB6F99DD766BD82B
-msgid "Prompt to selectively save or delete new recorded files when punching out of recording (by pressing the play button)."
+msgid ""
+"Prompt to selectively save or delete new recorded files when punching out of "
+"recording (by pressing the play button)."
 msgstr ""
 
 #: ;53CD657F5A0080B3
-msgid "Record-armed tracks can automatically expand to show the recording source and input level meters."
+msgid ""
+"Record-armed tracks can automatically expand to show the recording source "
+"and input level meters."
 msgstr ""
 
 #: ;677DA212DC60E11B
-msgid "When recording a single, very long uninterrupted take, create new files (gaplessly) to avoid file-format size limitations."
+msgid ""
+"When recording a single, very long uninterrupted take, create new files "
+"(gaplessly) to avoid file-format size limitations."
 msgstr ""
 
 #: ;736BBCAB623EB2FD
-msgid "During lengthy recording, switching files creates a momentary CPU load, which can be lessened by offsetting file switches when recording multiple tracks."
+msgid ""
+"During lengthy recording, switching files creates a momentary CPU load, "
+"which can be lessened by offsetting file switches when recording multiple "
+"tracks."
 msgstr ""
 
 #: ;346A6474363C5A9F
-msgid "Abort recording if no tracks are record-armed. Tracks can always be record-armed and unarmed after recording has started."
+msgid ""
+"Abort recording if no tracks are record-armed. Tracks can always be record-"
+"armed and unarmed after recording has started."
 msgstr ""
 
 #: ;6470DCD830DD71D7
-msgid "Customize the filename that is automatically created for new recordings."
+msgid ""
+"Customize the filename that is automatically created for new recordings."
 msgstr ""
 
 #: ;50EEB2322C8B4CDE
-msgid "Check the available disk space for recording when recording starts, and warn if the available recording space falls below a threshold."
+msgid ""
+"Check the available disk space for recording when recording starts, and warn "
+"if the available recording space falls below a threshold."
 msgstr ""
 
 #: ;CD73680957ADE0BD
@@ -80,14 +108,19 @@ msgid "Always display the available disk space in the menu bar."
 msgstr ""
 
 #: ;66ADD7B1AA2DB685
-msgid "Automatically adjust recorded media positioning to compensate for the audio driver's reported latency. (Prefer ASIO drivers for accuracy.)"
+msgid ""
+"Automatically adjust recorded media positioning to compensate for the audio "
+"driver's reported latency. (Prefer ASIO drivers for accuracy.)"
 msgstr ""
 
 #: ;52979CD2C4ADCEA4
-msgid "Record audio during pre-roll (if enabled in metronome settings). Allows access to parts played early, etc."
+msgid ""
+"Record audio during pre-roll (if enabled in metronome settings). Allows "
+"access to parts played early, etc."
 msgstr ""
 
 #: ;5D1DBABB03A644E0
-msgid "Set or adjust the recording latency compensation. If auto adjust is enabled, these values are added to the automatic offset. Offsets can be negative."
+msgid ""
+"Set or adjust the recording latency compensation. If auto adjust is enabled, "
+"these values are added to the automatic offset. Offsets can be negative."
 msgstr ""
-
