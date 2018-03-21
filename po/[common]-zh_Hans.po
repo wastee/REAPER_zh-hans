@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 02:36+0000\n"
+"PO-Revision-Date: 2018-03-21 03:30+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -244,7 +244,7 @@ msgstr ""
 
 #: ;D3E64988F293BA3A
 msgid "Recording"
-msgstr ""
+msgstr "录音"
 
 #: ;5565002CCE1DFBC7
 msgid "Prompt to save/delete/rename new files:"
