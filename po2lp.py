@@ -18,7 +18,7 @@ def po2lp():
     for pofile in pofiles: # each component files
 
         component_name = os.path.splitext(os.path.basename(pofile))[0]
-        component_name = ['\n' + component_name[:-8]]
+        component_name = ['\n' + '[' + component_name[:-8] + ']']
 
         with open(pofile, 'r', encoding='utf-8') as f:
             empty = True

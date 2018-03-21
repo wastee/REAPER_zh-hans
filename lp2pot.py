@@ -9,7 +9,7 @@ def lp2po(filename):
     for pre_pot in all_pre_pot:
         pre_component_name = pre_pot.split('\n')[0]
         pcn = pre_component_name
-        component_name = re.findall('\[.*?\]', pcn)[0]
+        component_name = re.findall('\[.*?\]', pcn)[0][1:-1]
         pos = pre_pot.split('\n')[1:]  
         potext = 'msgid ""\n'\
         'msgstr ""\n'\
