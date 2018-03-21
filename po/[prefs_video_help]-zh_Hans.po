@@ -1,61 +1,87 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;05640D9A35610C0F
-msgid "The YV12 colorspace allows for best video performance. Disable this colorspace if you have problems playing back videos."
+msgid ""
+"The YV12 colorspace allows for best video performance. Disable this "
+"colorspace if you have problems playing back videos."
 msgstr ""
 
 #: ;F0DACFB3BCE8A9EE
-msgid "The YUY2 colorspace allows for better video performance. Disable this colorspace if you have problems playing back videos."
+msgid ""
+"The YUY2 colorspace allows for better video performance. Disable this "
+"colorspace if you have problems playing back videos."
 msgstr ""
 
 #: ;2638C2CDFE86E6B3
-msgid "Choose the priority of available video decoders. Available options are vlc, ffmpeg, qt, and dshow."
+msgid ""
+"Choose the priority of available video decoders. Available options are vlc, "
+"ffmpeg, qt, and dshow."
 msgstr ""
 
 #: ;420A84F538E3F44E
-msgid "Choose the priority of available video decoders. Available options are vlc, ffmpeg, qt, and avfoundation."
+msgid ""
+"Choose the priority of available video decoders. Available options are vlc, "
+"ffmpeg, qt, and avfoundation."
 msgstr ""
 
 #: ;78BDA0870F6E89A1
-msgid "Choose the priority of available video decoders. Available options are vlc and ffmpeg."
+msgid ""
+"Choose the priority of available video decoders. Available options are vlc "
+"and ffmpeg."
 msgstr ""
 
 #: ;A0C1D94D92A5F2D6
-msgid "The video window will sync to the specified seek point when moving/resizing audio items."
+msgid ""
+"The video window will sync to the specified seek point when moving/resizing "
+"audio items."
 msgstr ""
 
 #: ;C20E71F57D592AED
-msgid "The Enhanced Video Renderer improves the video display quality on modern Windows OSes."
+msgid ""
+"The Enhanced Video Renderer improves the video display quality on modern "
+"Windows OSes."
 msgstr ""
 
 #: ;A5FC1E33CB77C43B
-msgid "Disable high resolution peaks (displayed when zoomed-in) for video items, good for performance. You can also override on each video file using the video file properties."
+msgid ""
+"Disable high resolution peaks (displayed when zoomed-in) for video items, "
+"good for performance. You can also override on each video file using the "
+"video file properties."
 msgstr ""
 
 #: ;7344EE7BCC876172
-msgid "Delay video output during playback by a small (and possibly negative) amount to allow best possible sychronization."
+msgid ""
+"Delay video output during playback by a small (and possibly negative) amount "
+"to allow best possible sychronization."
 msgstr ""
 
 #: ;D3ECC20078A86E9E
-msgid "If you expect to continue to modify the project tempo, import as beat slices. If you want to immediately loop the REX file, import as a single item."
+msgid ""
+"If you expect to continue to modify the project tempo, import as beat "
+"slices. If you want to immediately loop the REX file, import as a single "
+"item."
 msgstr ""
 
 #: ;B3C4B50F69716479
-msgid "Each REX slice may contain tail audio that can play underneath later slices. These tails can be played, or chopped off on import."
+msgid ""
+"Each REX slice may contain tail audio that can play underneath later slices. "
+"These tails can be played, or chopped off on import."
 msgstr ""
 
 #: ;6CB275BF34BC6754
-msgid "Media containing embedded tempo information can be automatically playrate-adjusted to match the project tempo."
+msgid ""
+"Media containing embedded tempo information can be automatically playrate-"
+"adjusted to match the project tempo."
 msgstr ""
-
