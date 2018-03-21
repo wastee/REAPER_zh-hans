@@ -73,7 +73,7 @@ msgid "Edit Ornament"
 msgstr ""
 
 #: ;13BD7B6CBDDF067E
-msgid "MIDI file:"
+msgid "MIDI file: "
 msgstr ""
 
 #: ;EAACD8794B0458D9
@@ -97,7 +97,7 @@ msgid "swing"
 msgstr ""
 
 #: ;94BBDD6E63E47F18
-msgid "MUTED"
+msgid " MUTED"
 msgstr ""
 
 #: ;A650E3CB840C930A
@@ -193,7 +193,7 @@ msgid "Multichannel"
 msgstr ""
 
 #: ;113E15FEE38E75E5
-msgid "Current view timebase:"
+msgid "Current view timebase: "
 msgstr ""
 
 #: ;24AF7DBF3B7D6241
@@ -645,7 +645,7 @@ msgid "octave"
 msgstr ""
 
 #: ;333906C9E345F0E9
-msgid "Display quantization affects notation editor display only."
+msgid "Display quantization affects notation editor display only. "
 msgstr ""
 
 #: ;086995CDAC3F085A
@@ -729,7 +729,7 @@ msgid "File not found"
 msgstr ""
 
 #: ;^439CE51FC4707DDD
-msgid "Length:"
+msgid "Length: "
 msgstr ""
 
 #: ;^D8B3B3186B8C817F
@@ -785,7 +785,7 @@ msgid "Transposing display affects key signatures"
 msgstr ""
 
 #: ;^F4944DF4957B0C53
-msgid "(default)"
+msgid " (default)"
 msgstr ""
 
 #: ;^E78FFFE5EA715BBB

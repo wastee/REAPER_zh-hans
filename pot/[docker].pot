@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: =\n"
 
 #: ;D15BC93ABD1F68D8
-msgid "(docked)"
+msgid " (docked)"
 msgstr ""
 
 #: ;0BFC771F1F9FBEDB

@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: =\n"
 
 #: ;629C54803B0AC212
-msgid "/"
+msgid " / "
 msgstr ""
 
 #: ;00B9D2E30D69BE2F

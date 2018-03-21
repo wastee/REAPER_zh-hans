@@ -25,7 +25,7 @@ msgid "Automatically add envelopes when tweaking parameters in automation write 
 msgstr ""
 
 #: ;A034ABCC948D1990
-msgid "Hidden envelopes:"
+msgid "Hidden envelopes: "
 msgstr ""
 
 #: ;0C24BC2FF418AD7F

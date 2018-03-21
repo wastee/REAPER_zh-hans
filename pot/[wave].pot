@@ -185,6 +185,6 @@ msgid "AIFF files"
 msgstr ""
 
 #: ;^439CE51FC4707DDD
-msgid "Length:"
+msgid "Length: "
 msgstr ""
 

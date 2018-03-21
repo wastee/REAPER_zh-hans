@@ -113,6 +113,6 @@ msgid "Advanced Disk I/O options..."
 msgstr ""
 
 #: ;3CF333030AFB4087
-msgid "[enables multiprocessing of live input, but may reduce performance at low latencies]"
+msgid "[enables multiprocessing of live input, but may reduce performance at low latencies] "
 msgstr ""
 

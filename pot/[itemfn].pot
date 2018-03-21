@@ -21,7 +21,7 @@ msgid "copy"
 msgstr ""
 
 #: ;7CB3FDDD05E6B5A3
-msgid "loop"
+msgid " loop"
 msgstr ""
 
 #: ;^80E92B8E090EA373

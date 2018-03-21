@@ -101,7 +101,7 @@ msgid "Output manual offset:"
 msgstr ""
 
 #: ;E9CD14D3777EDAD6
-msgid "ms +"
+msgid "ms + "
 msgstr ""
 
 #: ;1AB7E546958711C6

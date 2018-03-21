@@ -33,11 +33,11 @@ msgid "slave"
 msgstr ""
 
 #: ;558DAB99A9407F4B
-msgid "Master"
+msgid " Master"
 msgstr ""
 
 #: ;0290B261F50F69E8
-msgid "Slave"
+msgid " Slave"
 msgstr ""
 
 #: ;45BA669EFB95947A

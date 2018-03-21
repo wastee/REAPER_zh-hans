@@ -21,7 +21,7 @@ msgid "Scanning project directory..."
 msgstr ""
 
 #: ;0D74709687427C94
-msgid "%d of %d files are not used in"
+msgid "%d of %d files are not used in "
 msgstr ""
 
 #: ;E1B7D88D39E1EB01

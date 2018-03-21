@@ -37,7 +37,7 @@ msgid "Do not scan VST names/types (deprecated)"
 msgstr ""
 
 #: ;C14B8D54F4D0074D
-msgid "If multiple VSTs are scanned with the same dll name, only one will be available: either the plugin found later in the path list, or highest in the directory structure for a given path."
+msgid "If multiple VSTs are scanned with the same dll name, only one will be available: either the plugin found later in the path list, or highest in the directory structure for a given path. "
 msgstr ""
 
 #: ;B5A31DD6277997A5

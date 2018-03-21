@@ -21,7 +21,7 @@ msgid "Make non-silent clips no shorter than:"
 msgstr ""
 
 #: ;87490F3457C05E9B
-msgid "Auto adjust snap offset to peak value in the first"
+msgid "Auto adjust snap offset to peak value in the first "
 msgstr ""
 
 #: ;2C1F40776FBF7AF5

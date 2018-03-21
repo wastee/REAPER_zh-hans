@@ -189,7 +189,7 @@ msgid "Multiple FX parameters"
 msgstr ""
 
 #: ;2EBCBDFB951E132D
-msgid "(track FX only)"
+msgid " (track FX only)"
 msgstr ""
 
 #: ;96D56A605E644BF6

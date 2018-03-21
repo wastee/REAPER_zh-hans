@@ -65,11 +65,11 @@ msgid "Cursor"
 msgstr ""
 
 #: ;0E6C9C7A0BA6B1CD
-msgid "to selection/markers/cursor"
+msgid " to selection/markers/cursor"
 msgstr ""
 
 #: ;9210A71F28FFEED4
-msgid "to grid"
+msgid " to grid"
 msgstr ""
 
 #: ;B0CF6CB38AA786EF

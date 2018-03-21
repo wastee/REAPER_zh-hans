@@ -21,7 +21,7 @@ msgid "Edit MIDI event"
 msgstr ""
 
 #: ;BBA77B3B1DFAEBC1
-msgid "MIDI Editor:"
+msgid "MIDI Editor: "
 msgstr ""
 
 #: ;99767B0A8A53E563
@@ -337,7 +337,7 @@ msgid "Set note velocity"
 msgstr ""
 
 #: ;6921186287DAA5A1
-msgid "MIDI editor:"
+msgid "MIDI editor: "
 msgstr ""
 
 #: ;C5E32DD8E9709BCA

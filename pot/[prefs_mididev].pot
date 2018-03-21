@@ -17,7 +17,7 @@ msgid "<disabled>"
 msgstr ""
 
 #: ;4B1F49AD75A98455
-msgid "[low latency]"
+msgid " [low latency]"
 msgstr ""
 
 #: ;C6A800DD714D71FA
@@ -41,7 +41,7 @@ msgid "Mode"
 msgstr ""
 
 #: ;DA015F02DEB19798
-msgid "[use cautiously]"
+msgid " [use cautiously]"
 msgstr ""
 
 #: ;^D9B22A6B63054364

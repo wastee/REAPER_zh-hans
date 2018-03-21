@@ -81,7 +81,7 @@ msgid "track"
 msgstr ""
 
 #: ;^480A73B43C308366
-msgid "(folder)"
+msgid " (folder)"
 msgstr ""
 
 #: ;^D8D5C8186BA98B94

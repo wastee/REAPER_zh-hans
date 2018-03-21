@@ -69,7 +69,7 @@ msgid "Save undo history with project files (in .RPP-UNDO file)"
 msgstr ""
 
 #: ;27843DF0E31CB0D7
-msgid "Allow load of undo history"
+msgid "Allow load of undo history "
 msgstr ""
 
 #: ;1DC49DE353C8BF2C

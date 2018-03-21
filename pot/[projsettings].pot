@@ -25,11 +25,11 @@ msgid "Project elements will keep their position and length constant as measured
 msgstr ""
 
 #: ;F9875EFDC712951D
-msgid "Media item playback rate will speed up if the tempo is increased, or slow down if the tempo is decreased."
+msgid " Media item playback rate will speed up if the tempo is increased, or slow down if the tempo is decreased."
 msgstr ""
 
 #: ;A7FD975F9982EA5E
-msgid "This is the default project timebase."
+msgid " This is the default project timebase."
 msgstr ""
 
 #: ;947209E3761D59D2
@@ -49,11 +49,11 @@ msgid "Project elements will keep their position and length constant as measured
 msgstr ""
 
 #: ;43FF89D771CB0002
-msgid "Positions and media item length will change as measured in beats, if the tempo is changed."
+msgid " Positions and media item length will change as measured in beats, if the tempo is changed."
 msgstr ""
 
 #: ;602BE0E5EB4C411A
-msgid "This was the default project timebase prior to REAPER version 4.25."
+msgid " This was the default project timebase prior to REAPER version 4.25."
 msgstr ""
 
 #: ;9BF9B3C72DA9AA9D
@@ -61,7 +61,7 @@ msgid "Tempo and time signature change markers have timebase beats by default, r
 msgstr ""
 
 #: ;AE7BB4D8A52481FB
-msgid "This behavior can also be changed in File/Project Settings."
+msgid " This behavior can also be changed in File/Project Settings."
 msgstr ""
 
 #: ;ABB2015608E8899E
@@ -69,11 +69,11 @@ msgid "The timebase for individual tracks and media items can be set independent
 msgstr ""
 
 #: ;6BF51A7CD81FAB00
-msgid "MIDI media items always have timebase beats (position, length, rate)."
+msgid " MIDI media items always have timebase beats (position, length, rate)."
 msgstr ""
 
 #: ;F95AEE56B041FBEA
-msgid "The timebase for individual MIDI media items can be locked to a specific tempo regardless of the project tempo, in the media item source properties."
+msgid " The timebase for individual MIDI media items can be locked to a specific tempo regardless of the project tempo, in the media item source properties."
 msgstr ""
 
 #: ;66C99ED0CD0E0C90

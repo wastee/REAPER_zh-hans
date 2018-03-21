@@ -53,7 +53,7 @@ msgid "cADPCM"
 msgstr ""
 
 #: ;CE74F19535C05BF6
-msgid "Total samples:"
+msgid "Total samples: "
 msgstr ""
 
 #: ;E45F0509A90F69DE

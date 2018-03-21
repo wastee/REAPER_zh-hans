@@ -21,15 +21,15 @@ msgid "Automatic behavior on playback start:"
 msgstr ""
 
 #: ;14973110A54729FC
-msgid "Solo tracks"
+msgid "  Solo tracks"
 msgstr ""
 
 #: ;E07423F09C9BFDE9
-msgid "Set playback repeat"
+msgid "  Set playback repeat"
 msgstr ""
 
 #: ;0BD26159A5225211
-msgid "Disable autoscroll"
+msgid "  Disable autoscroll"
 msgstr ""
 
 #: ;87D709358F3B4432
