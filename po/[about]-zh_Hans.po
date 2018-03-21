@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 07:11+0000\n"
-"Last-Translator: Tee <i@lado.me>\n"
+"PO-Revision-Date: 2018-03-21 07:12+0000\n"
+"Last-Translator: kevin <2386898267@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/about/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -86,27 +86,27 @@ msgstr ""
 
 #: ;1233760996DC4604
 msgid "Import license key:"
-msgstr ""
+msgstr "导入授权密钥:"
 
 #: ;510C2D221F9562E4
 msgid "Error importing license key"
-msgstr ""
+msgstr "导入授权密钥出错"
 
 #: ;9ED57C7769D0C7C0
 msgid "Could not write file"
-msgstr ""
+msgstr "无法写入文件"
 
 #: ;7F8EA1BD935B9BFF
 msgid "Could not read file"
-msgstr ""
+msgstr "无法读取文件"
 
 #: ;254ABC5AE33BD903
 msgid "Error writing file"
-msgstr ""
+msgstr "写入文件出错"
 
 #: ;28E12469A3271389
 msgid "Thank You!"
-msgstr ""
+msgstr "谢谢!"
 
 #: ;D03DC131AB7C4B2C
 msgid "Buy Me [%d]"
