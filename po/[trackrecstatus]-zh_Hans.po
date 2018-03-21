@@ -3,21 +3,21 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;DFD6E20CFF9A0503
-msgid "MIDI (all inputs):"
+msgid "MIDI (all inputs): "
 msgstr ""
 
 #: ;5D6DCE66B061856D
-msgid "MIDI (not connected):"
+msgid "MIDI (not connected): "
 msgstr ""
 
 #: ;43FFDD8C94E61FA0
@@ -37,11 +37,11 @@ msgid "HW: ?"
 msgstr ""
 
 #: ;04240CF987D5AB18
-msgid "[%d chan]"
+msgid " [%d chan]"
 msgstr ""
 
 #: ;807455809981731E
-msgid "monitoring, record disabled:"
+msgid "monitoring, record disabled: "
 msgstr ""
 
 #: ;1D7B56419472A79A
@@ -49,23 +49,23 @@ msgid "record disabled"
 msgstr ""
 
 #: ;75EAA6536618318B
-msgid "(record MIDI Output)"
+msgid " (record MIDI Output)"
 msgstr ""
 
 #: ;C03BCA508EB4EAE5
-msgid "(MIDI replace)"
+msgid " (MIDI replace)"
 msgstr ""
 
 #: ;C11BB7A54A30D27F
-msgid "(MIDI replace-touch)"
+msgid " (MIDI replace-touch)"
 msgstr ""
 
 #: ;28FCCE2D06293C60
-msgid "(MIDI replace-latch)"
+msgid " (MIDI replace-latch)"
 msgstr ""
 
 #: ;B9F607DD9CE7DFD6
-msgid "(MIDI overdub)"
+msgid " (MIDI overdub)"
 msgstr ""
 
 #: ;F7574326387DC978
@@ -81,35 +81,35 @@ msgid "mono mix"
 msgstr ""
 
 #: ;29A3B1F2CC594993
-msgid "(record full output)"
+msgid " (record full output)"
 msgstr ""
 
 #: ;A6879DFCFA17E5B2
-msgid "(record stereo output)"
+msgid " (record stereo output)"
 msgstr ""
 
 #: ;BC9613192EB8BE61
-msgid "(record mono output)"
+msgid " (record mono output)"
 msgstr ""
 
 #: ;320B616E4F06337E
-msgid "(record output)"
+msgid " (record output)"
 msgstr ""
 
 #: ;3540343AAB06FD18
-msgid "(force mono)"
+msgid " (force mono)"
 msgstr ""
 
 #: ;449FD766DB549FA5
-msgid "(force stereo)"
+msgid " (force stereo)"
 msgstr ""
 
 #: ;07D70E451605EA0D
-msgid "(force multichannel)"
+msgid " (force multichannel)"
 msgstr ""
 
 #: ;BE9F2E77E82B7D02
-msgid "(force MIDI)"
+msgid " (force MIDI)"
 msgstr ""
 
 #: ;^D3D2747652BD318E
@@ -135,3 +135,4 @@ msgstr ""
 #: ;^24962B4247630C73
 msgid "MIDI output"
 msgstr ""
+

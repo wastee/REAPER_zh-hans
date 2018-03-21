@@ -3,79 +3,57 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;92724BFBEEA5C07E
-msgid ""
-"Using this feature you can create new Projects that are automatically setup "
-"with your choice of basic Tracks and Project Settings (e.g. bit depth, "
-"sample rate)."
+msgid "Using this feature you can create new Projects that are automatically setup with your choice of basic Tracks and Project Settings (e.g. bit depth, sample rate)."
 msgstr ""
 
 #: ;26E6B7A31D7A57DF
-msgid ""
-"Makes REAPER open the Save project window each time you create a new "
-"project, getting you to save before you start recording."
+msgid "Makes REAPER open the Save project window each time you create a new project, getting you to save before you start recording."
 msgstr ""
 
 #: ;E1F384E30853505F
-msgid ""
-"Select this option to make REAPER open the Project Settings window each time "
-"a new Project is created."
+msgid "Select this option to make REAPER open the Project Settings window each time a new Project is created."
 msgstr ""
 
 #: ;45C61D88D5DA8765
-msgid ""
-"Makes REAPER look for project media items in the project media path(s) "
-"before checking fully qualified paths."
+msgid "Makes REAPER look for project media items in the project media path(s) before checking fully qualified paths."
 msgstr ""
 
 #: ;B3DC8B336571C072
-msgid ""
-"This option, selected by default, makes REAPER prompt you for the location "
-"of missing files when a Project is opened."
+msgid "This option, selected by default, makes REAPER prompt you for the location of missing files when a Project is opened."
 msgstr ""
 
 #: ;4E9136C238B4B562
-msgid ""
-"Displays the splash screen with a status indicator when projects are loading."
+msgid "Displays the splash screen with a status indicator when projects are loading."
 msgstr ""
 
 #: ;C979FAB9308F4B25
-msgid ""
-"Saves the pathname of files in projects as relative. Files that are in a "
-"different drive or higher directories are saved with the full pathnames."
+msgid "Saves the pathname of files in projects as relative. Files that are in a different drive or higher directories are saved with the full pathnames."
 msgstr ""
 
 #: ;8CBEB4B02703F2B9
-msgid ""
-"This option, selected by default, saves a backup of your old Project file "
-"with the extension \".rpp-bak\" each time a save is performed."
+msgid "This option, selected by default, saves a backup of your old Project file with the extension \".rpp-bak\" each time a save is performed."
 msgstr ""
 
 #: ;FEC0C9F073CBB790
-msgid ""
-"If saving .rpp-bak backup, append to this file (keeping all past saved "
-"versions in .rpp-bak file). NOTE: .rpp-bak files could get very large!"
+msgid "If saving .rpp-bak backup, append to this file (keeping all past saved versions in .rpp-bak file). NOTE: .rpp-bak files could get very large!"
 msgstr ""
 
 #: ;E90411CB1C9A1D74
-msgid ""
-"When saving, this option saves backup copies with timestamped names (letting "
-"you keep a history of saved projects, one per file)"
+msgid "When saving, this option saves backup copies with timestamped names (letting you keep a history of saved projects, one per file)"
 msgstr ""
 
 #: ;1B397C3CBAB440E3
-msgid ""
-"If undo state saving is enabled, keep backup copies of the undo state file "
-"as well (can use lots of disk space)."
+msgid "If undo state saving is enabled, keep backup copies of the undo state file as well (can use lots of disk space)."
 msgstr ""
 
 #: ;EE0626B6E20CF3AE
@@ -83,29 +61,22 @@ msgid "Enter the interval in minutes for the automatic saves."
 msgstr ""
 
 #: ;DD6EAB00451E5360
-msgid ""
-"This option enables automatic saving of your project to the main project "
-"file."
+msgid "This option enables automatic saving of your project to the main project file."
 msgstr ""
 
 #: ;3D597C7EFBD36441
-msgid ""
-"This option enables automatic saving of your project to an extra timestamped "
-"file."
+msgid "This option enables automatic saving of your project to an extra timestamped file."
 msgstr ""
 
 #: ;3C3F2F410674AB6C
-msgid ""
-"This option enables automatic saving of your project to an extra timestamped "
-"file in the specified directory."
+msgid "This option enables automatic saving of your project to an extra timestamped file in the specified directory."
 msgstr ""
 
 #: ;06CFE9F535CF1461
-msgid ""
-"This option enables automatic saving of your project undo file (this can "
-"make things less responsive)."
+msgid "This option enables automatic saving of your project undo file (this can make things less responsive)."
 msgstr ""
 
 #: ;58EE0FB007A1AE0E
 msgid "REAPER can automatically save timestamped project files to this folder."
 msgstr ""
+

@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -60,11 +61,11 @@ msgid "&colorspace: current rendering colorspace, e.g. 'RGBA', 'YV12', or 'YUY2'
 msgstr ""
 
 #: ;CB0DE9C8808F576B
-msgid "&param_wet: if in FX form, wet/dry mix of effect."
+msgid "&param_wet: if in FX form, wet/dry mix of effect. "
 msgstr ""
 
 #: ;44E331BA868AF799
-msgid "&param1..param16: parameters, you can name these by adding lines: //@param <idx>[:varname] 'name' [defval minval maxval centval step]."
+msgid "&param1..param16: parameters, you can name these by adding lines: //@param <idx>[:varname] 'name' [defval minval maxval centval step]. "
 msgstr ""
 
 #: ;91F35DA3DAE4A7E8
@@ -88,19 +89,19 @@ msgid "&gfx_mode:  0=normal, 1= additive, 3=mul (works different in YUV vs RGB)"
 msgstr ""
 
 #: ;E96FF46AF8FEF5D7
-msgid "add 0x100 for blit() to enable filtering (if possible)"
+msgid "           add 0x100 for blit() to enable filtering (if possible)"
 msgstr ""
 
 #: ;9769DC6BEADD874C
-msgid "add 0x10000 to use source alpha (only valid when using RGBA colorspace)"
+msgid "           add 0x10000 to use source alpha (only valid when using RGBA colorspace)"
 msgstr ""
 
 #: ;2E8A69794FCFAC94
-msgid "add 0x40000 to use extra clamping (for out of range alpha/gradient values)"
+msgid "           add 0x40000 to use extra clamping (for out of range alpha/gradient values)"
 msgstr ""
 
 #: ;56BD4F0BB4FF8FDE
-msgid "add 0x80000 to treat gfx_r/gfx_g/gfx_b as YUV values (in non-RGB colorspace)"
+msgid "           add 0x80000 to treat gfx_r/gfx_g/gfx_b as YUV values (in non-RGB colorspace)"
 msgstr ""
 
 #: ;50A40F04D456AE80
@@ -192,11 +193,11 @@ msgid "gfx_gradrect(x,y,w,h, r,g,b,a"
 msgstr ""
 
 #: ;CF73192DE5929328
-msgid "[,drdx,dgdx,dbdx,dadx,"
+msgid "             [,drdx,dgdx,dbdx,dadx,"
 msgstr ""
 
 #: ;E2180F2972FDB3D4
-msgid "drdy,dgdy,dbdy,dady]);"
+msgid "               drdy,dgdy,dbdy,dady]);"
 msgstr ""
 
 #: ;77E7405493B30CDA=gfx_rotoblit(srcidx, angle [,x, y, w, h, srcx, srcy, w, h, cliptosrcrect = 0, centxoffs=0, centyoffs
@@ -216,11 +217,11 @@ msgid "gfx_keyedblit(input[,x,y,w,h,srcx,srcy,kv1,kv2,kv3,kv4]) chroma-key blits
 msgstr ""
 
 #: ;CDA668E164203267
-msgid "YV12/YUY2: kv1 is U target (-0.5 default), kv2 is V target (-0.5 default), kv3 is closeness-factor (0.4 default), kv4 is the gain (2.0 default)"
+msgid "      YV12/YUY2: kv1 is U target (-0.5 default), kv2 is V target (-0.5 default), kv3 is closeness-factor (0.4 default), kv4 is the gain (2.0 default)"
 msgstr ""
 
 #: ;98CB89AA65E731F3
-msgid "RGBA: kv1 is green-factor (1.0 default), kv2 is blue-factor (-1.0 default), kv3 is offset (-1.0 default), kv4 enables spill removal (1.0 default)"
+msgid "      RGBA: kv1 is green-factor (1.0 default), kv2 is blue-factor (-1.0 default), kv3 is offset (-1.0 default), kv4 enables spill removal (1.0 default)"
 msgstr ""
 
 #: ;D0D5F2C8C849EB54
@@ -240,22 +241,14 @@ msgid "gfx_str_draw(#string[,x,y,fxc_r,fxc_g,fxc_b]) - draw string"
 msgstr ""
 
 #: ;1F988EE5EE1060F2
-msgid "rgb2yuv(r,g,b) -- utility, converts r,g,b to YUV, does not clamp [0..1]"
+msgid " rgb2yuv(r,g,b) -- utility, converts r,g,b to YUV, does not clamp [0..1]"
 msgstr ""
 
 #: ;DA79705D39F43607
-msgid "yuv2rgb(r,g,b) -- utility, converts YUV to r,g,b, not clamping [0..1]"
+msgid " yuv2rgb(r,g,b) -- utility, converts YUV to r,g,b, not clamping [0..1]"
 msgstr ""
 
 #: ;0A0692473F08A26B
 msgid "Video processor reference"
-msgstr ""
-
-#: ;^AF63BD4C8601B7DF
-msgid ""
-msgstr ""
-
-#: ;^0832A807B4EBA64D
-msgid ""
 msgstr ""
 

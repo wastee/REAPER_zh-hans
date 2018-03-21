@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;^9A01878F90736611
@@ -357,8 +357,7 @@ msgid "Allow MIDI note edit to extend the media item"
 msgstr ""
 
 #: ;^3615D619BF30D578
-msgid ""
-"Display 14-bit MSB/LSB CC data as a single entry in event list/properties"
+msgid "Display 14-bit MSB/LSB CC data as a single entry in event list/properties"
 msgstr ""
 
 #: ;^84DBA574F27F3A00
@@ -692,3 +691,4 @@ msgstr ""
 #: ;^5631674AC3232EB2
 msgid "Close editor"
 msgstr ""
+

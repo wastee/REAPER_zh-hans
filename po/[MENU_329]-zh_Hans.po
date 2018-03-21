@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;1B3F61637690E60D
@@ -65,7 +65,7 @@ msgid "Export VST patch/bank file (.fxp/.fxb)..."
 msgstr ""
 
 #: ;^7F8BE88D07D058A1
-msgid "Link to MIDI program change"
+msgid "Link to MIDI program change "
 msgstr ""
 
 #: ;^DF45382BC646671C
@@ -179,3 +179,4 @@ msgstr ""
 #: ;^4523D3871D7D7B77
 msgid "Process all notifications"
 msgstr ""
+

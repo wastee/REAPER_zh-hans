@@ -1,17 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-20 16:15+0000\n"
-"Last-Translator: TeeAdmin <i@lado.me>\n"
-"Language-Team: Chinese (Simplified) <http://119.29.222.146/projects/reaper/"
-"dlg_578/zh_Hans/>\n"
-"Language: zh_Hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 2.19.1\n"
+"X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;FFAE57EC0BA56FE1
@@ -73,3 +71,4 @@ msgstr ""
 #: ;^E9C70EA3B03F0A91
 msgid "Allow projects to override device sample rate"
 msgstr ""
+

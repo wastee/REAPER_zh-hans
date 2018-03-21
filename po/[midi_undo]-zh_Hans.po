@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;C08169C3011791D0
@@ -21,7 +21,7 @@ msgid "Edit MIDI event"
 msgstr ""
 
 #: ;BBA77B3B1DFAEBC1
-msgid "MIDI Editor:"
+msgid "MIDI Editor: "
 msgstr ""
 
 #: ;99767B0A8A53E563
@@ -337,7 +337,7 @@ msgid "Set note velocity"
 msgstr ""
 
 #: ;6921186287DAA5A1
-msgid "MIDI editor:"
+msgid "MIDI editor: "
 msgstr ""
 
 #: ;C5E32DD8E9709BCA
@@ -763,3 +763,4 @@ msgstr ""
 #: ;^114DD782C0C098CF
 msgid "Toggle track solo"
 msgstr ""
+

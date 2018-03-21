@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;8C7CE7F8145EB873
@@ -33,10 +33,7 @@ msgid "Modulate this parameter"
 msgstr ""
 
 #: ;8929F487053CDAFA
-msgid ""
-"Start: %s\n"
-"End: %s\n"
-"Length: %s"
+msgid "Start: %s\nEnd: %s\nLength: %s"
 msgstr ""
 
 #: ;39F400C2686B690E
@@ -48,9 +45,7 @@ msgid "Master Output:"
 msgstr ""
 
 #: ;E537B423EF029D39
-msgid ""
-"\n"
-"  none"
+msgid "\n  none"
 msgstr ""
 
 #: ;7EDD20633162E6FE
@@ -122,7 +117,7 @@ msgid "Output: stereo"
 msgstr ""
 
 #: ;9CC036C3AB1AE679
-msgid "INPUT FX:\n"
+msgid "INPUT FX:\n  "
 msgstr ""
 
 #: ;F74049BC4F320B2B
@@ -130,11 +125,11 @@ msgid "Show Track Input FX Window"
 msgstr ""
 
 #: ;D7E111CA46B51531
-msgid "FX:\n"
+msgid "FX:\n  "
 msgstr ""
 
 #: ;76C0BBFC509E28BC
-msgid "BYPASSED FX:\n"
+msgid "BYPASSED FX:\n  "
 msgstr ""
 
 #: ;F901921D72014622
@@ -146,15 +141,15 @@ msgid "Show Track FX Window"
 msgstr ""
 
 #: ;FBCE7FD896917E60
-msgid "[offline]"
+msgid " [offline]"
 msgstr ""
 
 #: ;48576B8E22F18006
-msgid "[bypassed]"
+msgid " [bypassed]"
 msgstr ""
 
 #: ;ACC5AD24A62EF595
-msgid "[track FX bypassed]"
+msgid " [track FX bypassed]"
 msgstr ""
 
 #: ;AA29E27B9BEE39EF
@@ -166,15 +161,15 @@ msgid "MIDI hardware output"
 msgstr ""
 
 #: ;1642F2A3840F4EAB
-msgid "(to channel %d):"
+msgid " (to channel %d): "
 msgstr ""
 
 #: ;6677CD830302C2DB
-msgid "Send:"
+msgid "Send: "
 msgstr ""
 
 #: ;9F4424F736F61BF6
-msgid "Hardware output:"
+msgid "Hardware output: "
 msgstr ""
 
 #: ;AC8AAF4FFD13F4C1
@@ -194,27 +189,27 @@ msgid "Sends, Receives, and Hardware Output Options"
 msgstr ""
 
 #: ;B788A5920484034B
-msgid "Pan(L):"
+msgid "Pan(L): "
 msgstr ""
 
 #: ;B74B168C4B4D25F4
-msgid "Pan:"
+msgid "Pan: "
 msgstr ""
 
 #: ;AC37D49971F328D9
-msgid "Pan(R):"
+msgid "Pan(R): "
 msgstr ""
 
 #: ;414C960462675503
-msgid "Width:"
+msgid "Width: "
 msgstr ""
 
 #: ;18901E0F01015C8D
-msgid "MIDI volume: %d"
+msgid " MIDI volume: %d"
 msgstr ""
 
 #: ;2190F5FAF07A005B
-msgid "Volume:"
+msgid "Volume: "
 msgstr ""
 
 #: ;77D84864F0D52742
@@ -226,8 +221,7 @@ msgid "Track is last track in folder"
 msgstr ""
 
 #: ;B5B3B84563FF1D9E
-msgid ""
-"Cycles whether this track is a track, a folder, or the last track in a folder"
+msgid "Cycles whether this track is a track, a folder, or the last track in a folder"
 msgstr ""
 
 #: ;AB46079468197E84
@@ -275,9 +269,7 @@ msgid "Phase Normal"
 msgstr ""
 
 #: ;479C0C6FEA0A90B8
-msgid ""
-"Envelopes/Automation\n"
-"Automation mode:"
+msgid "Envelopes/Automation\nAutomation mode: "
 msgstr ""
 
 #: ;3C32F136603DDDA3
@@ -313,7 +305,7 @@ msgid "Record Arm/Disarm"
 msgstr ""
 
 #: ;EC08294ACB5BE864
-msgid "(record armed)"
+msgid " (record armed)"
 msgstr ""
 
 #: ;928CD43854F563DC
@@ -325,7 +317,7 @@ msgid "Meter;"
 msgstr ""
 
 #: ;2FDF35B2673D3891
-msgid "record armed,"
+msgid "record armed, "
 msgstr ""
 
 #: ;D748741F38C29037
@@ -349,10 +341,7 @@ msgid "FX disabled"
 msgstr ""
 
 #: ;2DE6EA156BDE1A34
-msgid ""
-"Position: %s\n"
-"Start offset: %s\n"
-"End: %s"
+msgid "Position: %s\nStart offset: %s\nEnd: %s"
 msgstr ""
 
 #: ;4A775CF9191B3176
@@ -360,61 +349,35 @@ msgid "Start offset: %s"
 msgstr ""
 
 #: ;A780DAEB7F029FC3
-msgid ""
-"Position: %s\n"
-"End: %s"
+msgid "Position: %s\nEnd: %s"
 msgstr ""
 
 #: ;7B72EAA88AD44F5A
-msgid ""
-"Start: %s\n"
-"Length: %s\n"
-"Start offset: %s\n"
-"Rate: %.5f"
+msgid "Start: %s\nLength: %s\nStart offset: %s\nRate: %.5f"
 msgstr ""
 
 #: ;417DC2E1DAF6AD7C
-msgid ""
-"Start: %s\n"
-"Length: %s\n"
-"Start offset: %s\n"
-"Rate: %.5f (%s%.2f)"
+msgid "Start: %s\nLength: %s\nStart offset: %s\nRate: %.5f (%s%.2f)"
 msgstr ""
 
 #: ;2E1D128CEA4937B8
-msgid ""
-"Start: %s\n"
-"Length: %s\n"
-"Start offset: %s"
+msgid "Start: %s\nLength: %s\nStart offset: %s"
 msgstr ""
 
 #: ;29C2BC5996E7DF1E
-msgid ""
-"Length: %s\n"
-"Start: %s\n"
-"End: %s\n"
-"Rate: %.5f"
+msgid "Length: %s\nStart: %s\nEnd: %s\nRate: %.5f"
 msgstr ""
 
 #: ;0E3CC1FFB25BFF68
-msgid ""
-"Length: %s\n"
-"Start: %s\n"
-"End: %s\n"
-"Rate: %.5f (%s%.2f)"
+msgid "Length: %s\nStart: %s\nEnd: %s\nRate: %.5f (%s%.2f)"
 msgstr ""
 
 #: ;0DE99E87D9102454
-msgid ""
-"Length: %s\n"
-"Start: %s\n"
-"End: %s"
+msgid "Length: %s\nStart: %s\nEnd: %s"
 msgstr ""
 
 #: ;05818A2E3E077F3F
-msgid ""
-"Snap offset: %s\n"
-"Position: %s"
+msgid "Snap offset: %s\nPosition: %s"
 msgstr ""
 
 #: ;989A3C1D719BA505
@@ -442,10 +405,7 @@ msgid "Fade in: %s"
 msgstr ""
 
 #: ;A8A2830AD908952D
-msgid ""
-"Stretch marker: %.2fx / %.2fx\r\n"
-"Position: %s\r\n"
-"Media position: %s"
+msgid "Stretch marker: %.2fx / %.2fx\r\nPosition: %s\r\nMedia position: %s"
 msgstr ""
 
 #: ;A7824DB56C878E11
@@ -497,20 +457,15 @@ msgid "Spectral Region Gate Floor: %.2fdB"
 msgstr ""
 
 #: ;3B884C955D1CD81A
-msgid ""
-"Envelope: %s\n"
-"%s at %s\n"
-"Tension: %.3f"
+msgid "Envelope: %s\n%s at %s\nTension: %.3f"
 msgstr ""
 
 #: ;1B735764E2331F1A
-msgid ""
-"Envelope: %s\n"
-"%s at %s"
+msgid "Envelope: %s\n%s at %s"
 msgstr ""
 
 #: ;C4BA31BFA9460908
-msgid "Stretch marker slope: %.2fx / %.2fx"
+msgid "Stretch marker slope: %.2fx / %.2fx "
 msgstr ""
 
 #: ;B9DAECFFD3F117BB
@@ -522,31 +477,23 @@ msgid "Take pan: %s"
 msgstr ""
 
 #: ;55D6D03BD8FBD81D
-msgid ""
-"\n"
-"Adjusted: -inf dB"
+msgid "\nAdjusted: -inf dB"
 msgstr ""
 
 #: ;5AC126113FD0DE45
-msgid ""
-"\n"
-"Adjusted: %+.2fdB"
+msgid "\nAdjusted: %+.2fdB"
 msgstr ""
 
 #: ;5B976311408700D5
-msgid ""
-"\n"
-"Adjusted: %+.2f%%"
+msgid "\nAdjusted: %+.2f%%"
 msgstr ""
 
 #: ;F1B13E128583A378
-msgid ", moved:"
+msgid ", moved: "
 msgstr ""
 
 #: ;CF4356C508B56CBC
-msgid ""
-"\n"
-"Moved:"
+msgid "\nMoved: "
 msgstr ""
 
 #: ;04A1381AA6C99D6F
@@ -558,17 +505,15 @@ msgid "Fade out shape: %s"
 msgstr ""
 
 #: ;1E99E8ABBD5B8E76
-msgid ""
-"Envelope: %s\n"
-"%s at %s Tension: %s"
+msgid "Envelope: %s\n%s at %s Tension: %s"
 msgstr ""
 
 #: ;0278FACDB78C59E8
-msgid "[%s at %s]"
+msgid " [%s at %s]"
 msgstr ""
 
 #: ;25AD567ECA15774D
-msgid "[%s]"
+msgid " [%s]"
 msgstr ""
 
 #: ;79AF656A3F330C0E
@@ -628,15 +573,15 @@ msgid "Record/Punch-out"
 msgstr ""
 
 #: ;84C6C5437860B90E
-msgid "- Mode: Autopunch Items"
+msgid " - Mode: Autopunch Items"
 msgstr ""
 
 #: ;261533F60A9B0DB1
-msgid "- Mode: Autopunch Time Selection"
+msgid " - Mode: Autopunch Time Selection"
 msgstr ""
 
 #: ;0EF6D94043029DB8
-msgid "(slave to timecode)"
+msgid " (slave to timecode)"
 msgstr ""
 
 #: ;3062D9C83C010A42
@@ -704,7 +649,7 @@ msgid "Input:"
 msgstr ""
 
 #: ;^480A73B43C308366
-msgid "(folder)"
+msgid " (folder)"
 msgstr ""
 
 #: ;^AEF53FB432FD3810
@@ -758,3 +703,4 @@ msgstr ""
 #: ;^F0EBC9DF5B847ED6
 msgid "Record"
 msgstr ""
+

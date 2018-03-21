@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;FE1A9C4B05BD3094
@@ -17,12 +17,7 @@ msgid "Load image resource:"
 msgstr ""
 
 #: ;D7DE3AAB536FF9E7
-msgid ""
-"Project is open but modified:\r\n"
-"%s\r\n"
-"\r\n"
-"Save changes when copying project and/or its media? Choose OK to save, or "
-"Cancel to abort the save/copy process."
+msgid "Project is open but modified:\r\n%s\r\n\r\nSave changes when copying project and/or its media? Choose OK to save, or Cancel to abort the save/copy process."
 msgstr ""
 
 #: ;6E1BF9B33FF01DCE
@@ -66,12 +61,7 @@ msgid "(filename only)"
 msgstr ""
 
 #: ;51696CF655EA7CC5
-msgid ""
-"Project is open and has been modified:\r\n"
-"%s\r\n"
-"\r\n"
-"Save changes and render? Choose Yes to save, No to render unsaved changes, "
-"or Cancel to skip (re)rendering the subproject proxy."
+msgid "Project is open and has been modified:\r\n%s\r\n\r\nSave changes and render? Choose Yes to save, No to render unsaved changes, or Cancel to skip (re)rendering the subproject proxy."
 msgstr ""
 
 #: ;37F4835A4733D832
@@ -105,3 +95,4 @@ msgstr ""
 #: ;^C3EB4B7A6BCD5F3C
 msgid "New name:"
 msgstr ""
+

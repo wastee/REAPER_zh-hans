@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;20F7E9591DA69ED6
@@ -389,15 +389,11 @@ msgid "Move item ignoring snap and time selection, disabling ripple edit"
 msgstr ""
 
 #: ;04B990FB5B9AB006
-msgid ""
-"Move item ignoring snap and time selection, enabling ripple edit for this "
-"track"
+msgid "Move item ignoring snap and time selection, enabling ripple edit for this track"
 msgstr ""
 
 #: ;1BB157561F7F309C
-msgid ""
-"Move item ignoring snap and time selection, enabling ripple edit for all "
-"tracks"
+msgid "Move item ignoring snap and time selection, enabling ripple edit for all tracks"
 msgstr ""
 
 #: ;39DC9618A17A85C1
@@ -461,8 +457,7 @@ msgid "Copy item and move time selection, pooling MIDI source data"
 msgstr ""
 
 #: ;B073914CF1582EDB
-msgid ""
-"Copy item and move time selection ignoring snap, pooling MIDI source data"
+msgid "Copy item and move time selection ignoring snap, pooling MIDI source data"
 msgstr ""
 
 #: ;D0D828DB8D673A70
@@ -578,8 +573,7 @@ msgid "Move edge ignoring selection/grouping without changing fade time"
 msgstr ""
 
 #: ;E0BCB3128B2C559F
-msgid ""
-"Move edge ignoring snap and selection/grouping without changing fade time"
+msgid "Move edge ignoring snap and selection/grouping without changing fade time"
 msgstr ""
 
 #: ;CF5B75D34DE15E99
@@ -627,8 +621,7 @@ msgid "Move fade ignoring snap (relative edge edit)"
 msgstr ""
 
 #: ;9E6F31DBF3D7D835
-msgid ""
-"Move fade and stretch crossfaded items ignoring snap (relative edge edit)"
+msgid "Move fade and stretch crossfaded items ignoring snap (relative edge edit)"
 msgstr ""
 
 #: ;BD225712FB64E76C
@@ -636,8 +629,7 @@ msgid "Move fade ignoring snap and selection/grouping"
 msgstr ""
 
 #: ;13EC54AFE84A705A
-msgid ""
-"Move fade and stretch crossfaded items ignoring snap and selection/grouping"
+msgid "Move fade and stretch crossfaded items ignoring snap and selection/grouping"
 msgstr ""
 
 #: ;24405D51D0AF07E4
@@ -829,15 +821,11 @@ msgid "Adjust length of both fades preserving intersection ignoring snap"
 msgstr ""
 
 #: ;C68D057089017C8D
-msgid ""
-"Adjust length of both fades preserving intersection ignoring snap and "
-"selection/grouping"
+msgid "Adjust length of both fades preserving intersection ignoring snap and selection/grouping"
 msgstr ""
 
 #: ;E1005B2139FC2A16
-msgid ""
-"Adjust length of both fades preserving intersection ignoring snap (relative "
-"edge edit)"
+msgid "Adjust length of both fades preserving intersection ignoring snap (relative edge edit)"
 msgstr ""
 
 #: ;B970EB596D4A90D7
@@ -845,14 +833,11 @@ msgid "Adjust length of both fades preserving intersection"
 msgstr ""
 
 #: ;0633EECB4FD40B62
-msgid ""
-"Adjust length of both fades preserving intersection ignoring selection/"
-"grouping"
+msgid "Adjust length of both fades preserving intersection ignoring selection/grouping"
 msgstr ""
 
 #: ;18BDFFA19172BACB
-msgid ""
-"Adjust length of both fades preserving intersection (relative edge edit)"
+msgid "Adjust length of both fades preserving intersection (relative edge edit)"
 msgstr ""
 
 #: ;55301732A19F0B2C
@@ -868,9 +853,7 @@ msgid "Adjust both fade curves horizontally and vertically"
 msgstr ""
 
 #: ;8C529A744B87019B
-msgid ""
-"Adjust both fade curves horizontally and vertically ignoring selection/"
-"grouping"
+msgid "Adjust both fade curves horizontally and vertically ignoring selection/grouping"
 msgstr ""
 
 #: ;F5893778A4E81308
@@ -950,14 +933,11 @@ msgid "Move stretch marker preserving left-hand rate ignoring snap"
 msgstr ""
 
 #: ;7275ABAE0EAF76FA
-msgid ""
-"Move stretch marker preserving left-hand rate ignoring selection/grouping"
+msgid "Move stretch marker preserving left-hand rate ignoring selection/grouping"
 msgstr ""
 
 #: ;AB096DD195622D95
-msgid ""
-"Move stretch marker preserving left-hand rate ignoring snap and selection/"
-"grouping"
+msgid "Move stretch marker preserving left-hand rate ignoring snap and selection/grouping"
 msgstr ""
 
 #: ;838FDB2FA4EADF42
@@ -965,20 +945,15 @@ msgid "Move stretch marker preserving all rates (rate envelope mode)"
 msgstr ""
 
 #: ;5DE8B5C0A2C5B609
-msgid ""
-"Move stretch marker preserving all rates (rate envelope mode) ignoring snap"
+msgid "Move stretch marker preserving all rates (rate envelope mode) ignoring snap"
 msgstr ""
 
 #: ;304E75BFE964C843
-msgid ""
-"Move stretch marker preserving all rates (rate envelope mode) ignoring "
-"selection/grouping"
+msgid "Move stretch marker preserving all rates (rate envelope mode) ignoring selection/grouping"
 msgstr ""
 
 #: ;2187145C30FECCBA
-msgid ""
-"Move stretch marker preserving all rates (rate envelope mode) ignoring snap "
-"and selection/grouping"
+msgid "Move stretch marker preserving all rates (rate envelope mode) ignoring snap and selection/grouping"
 msgstr ""
 
 #: ;A1F455668C9DB0B4
@@ -1026,9 +1001,7 @@ msgid "Edit stretch marker rate, move contents under marker, ripple markers"
 msgstr ""
 
 #: ;DF7C2FAB3CEAD2A1
-msgid ""
-"Edit stretch marker rates on both sides, move contents under marker, ripple "
-"markers"
+msgid "Edit stretch marker rates on both sides, move contents under marker, ripple markers"
 msgstr ""
 
 #: ;84BAA13933197E73
@@ -1044,44 +1017,31 @@ msgid "Edit stretch marker rate, ripple markers, ignoring selection/grouping"
 msgstr ""
 
 #: ;43FABFD91EA418A3
-msgid ""
-"Edit stretch marker rates on both sides, ripple markers, ignoring selection/"
-"grouping"
+msgid "Edit stretch marker rates on both sides, ripple markers, ignoring selection/grouping"
 msgstr ""
 
 #: ;EBFE169F26C95D65
-msgid ""
-"Edit stretch marker rate, move contents under marker, ripple markers, "
-"ignoring selection/grouping"
+msgid "Edit stretch marker rate, move contents under marker, ripple markers, ignoring selection/grouping"
 msgstr ""
 
 #: ;6BB02771414C97F8
-msgid ""
-"Edit stretch marker rates on both sides, move contents under marker, "
-"ignoring selection/grouping, ripple markers"
+msgid "Edit stretch marker rates on both sides, move contents under marker, ignoring selection/grouping, ripple markers"
 msgstr ""
 
 #: ;A5EFD882D5C5F47F
-msgid ""
-"Edit stretch marker rate preserving marker positions (rate envelope mode)"
+msgid "Edit stretch marker rate preserving marker positions (rate envelope mode)"
 msgstr ""
 
 #: ;2512F97B366E8F60
-msgid ""
-"Edit stretch marker rates on both sides preserving marker positions (rate "
-"envelope mode)"
+msgid "Edit stretch marker rates on both sides preserving marker positions (rate envelope mode)"
 msgstr ""
 
 #: ;A5ED2C5406A16BC4
-msgid ""
-"Edit stretch marker rate preserving marker positions (rate envelope mode), "
-"ignoring selection/grouping"
+msgid "Edit stretch marker rate preserving marker positions (rate envelope mode), ignoring selection/grouping"
 msgstr ""
 
 #: ;336220F61DE8FD85
-msgid ""
-"Edit stretch marker rates on both sides preserving marker positions (rate "
-"envelope mode), ignoring selection/grouping"
+msgid "Edit stretch marker rates on both sides preserving marker positions (rate envelope mode), ignoring selection/grouping"
 msgstr ""
 
 #: ;E6D5DB20D3916254
@@ -1257,8 +1217,7 @@ msgid "Move automation item edge relative to other selected items"
 msgstr ""
 
 #: ;9C8BA96430AF3F5C
-msgid ""
-"Move automation item edge relative to other selected items ignoring snap"
+msgid "Move automation item edge relative to other selected items ignoring snap"
 msgstr ""
 
 #: ;5DEEF13523AB446A
@@ -1306,21 +1265,15 @@ msgid "Draw a copy of the selected media item, pooling MIDI source data"
 msgstr ""
 
 #: ;A16734C265C6B9E4
-msgid ""
-"Draw a copy of the selected media item ignoring snap, pooling MIDI source "
-"data"
+msgid "Draw a copy of the selected media item ignoring snap, pooling MIDI source data"
 msgstr ""
 
 #: ;DE0D24DFEE02D070
-msgid ""
-"Draw a copy of the selected media item on the same track, pooling MIDI "
-"source data"
+msgid "Draw a copy of the selected media item on the same track, pooling MIDI source data"
 msgstr ""
 
 #: ;0E2A5BD1E26F090F
-msgid ""
-"Draw a copy of the selected media item on the same track ignoring snap, "
-"pooling MIDI source data"
+msgid "Draw a copy of the selected media item on the same track ignoring snap, pooling MIDI source data"
 msgstr ""
 
 #: ;FD232F7032C5AE21
@@ -1512,9 +1465,7 @@ msgid "Move project tempo/time signature marker, adjusting previous tempo"
 msgstr ""
 
 #: ;1801EF4F2915F11D
-msgid ""
-"Move project tempo/time signature marker, adjusting previous and current "
-"tempo"
+msgid "Move project tempo/time signature marker, adjusting previous and current tempo"
 msgstr ""
 
 #: ;B5904108D17B78FA
@@ -1570,14 +1521,11 @@ msgid "Add a range of items to selection"
 msgstr ""
 
 #: ;BC83D17FED4C2073
-msgid ""
-"Add a range of items to selection, if already selected extend time selection"
+msgid "Add a range of items to selection, if already selected extend time selection"
 msgstr ""
 
 #: ;62172EA3E8D70824
-msgid ""
-"Add a range of items to selection, if already selected extend time selection "
-"ignoring snap"
+msgid "Add a range of items to selection, if already selected extend time selection ignoring snap"
 msgstr ""
 
 #: ;D069BFC1F3B9131A
@@ -1585,8 +1533,7 @@ msgid "Add a range of items to selection and extend time selection"
 msgstr ""
 
 #: ;5A554D13D9EF24E1
-msgid ""
-"Add a range of items to selection and extend time selection ignoring snap"
+msgid "Add a range of items to selection and extend time selection ignoring snap"
 msgstr ""
 
 #: ;CE0A180B4B034823
@@ -1614,9 +1561,7 @@ msgid "Show media item source properties"
 msgstr ""
 
 #: ;76F4EAD79D0D2A4C
-msgid ""
-"MIDI: open in editor, Subprojects: open project, Audio: show media item "
-"properties"
+msgid "MIDI: open in editor, Subprojects: open project, Audio: show media item properties"
 msgstr ""
 
 #: ;2B65B918859F3A06
@@ -2124,8 +2069,7 @@ msgid "Erase CC event"
 msgstr ""
 
 #: ;F1347C3703807229
-msgid ""
-"Activate MIDI item (when clicking a note that is not in the active item)"
+msgid "Activate MIDI item (when clicking a note that is not in the active item)"
 msgstr ""
 
 #: ;82005EAA60D15D98
@@ -2263,3 +2207,4 @@ msgstr ""
 #: ;^A99C97A73C807E49
 msgid "Stretch notes"
 msgstr ""
+

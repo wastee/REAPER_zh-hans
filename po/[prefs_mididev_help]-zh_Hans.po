@@ -3,25 +3,21 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;C8EC4F41AE4CE266
-msgid ""
-"Enable the MIDI Input devices you wish to use by right-clicking on the "
-"Device name and selecting Enable Input."
+msgid "Enable the MIDI Input devices you wish to use by right-clicking on the Device name and selecting Enable Input."
 msgstr ""
 
 #: ;6B8B2E2D5D43889C
-msgid ""
-"Enable the MIDI Output devices you wish to use by right-clicking on the "
-"Device name and selecting Enable Output."
+msgid "Enable the MIDI Output devices you wish to use by right-clicking on the Device name and selecting Enable Output."
 msgstr ""
 
 #: ;F18BBB94E07C7D77
@@ -29,22 +25,18 @@ msgid "This will send MIDI All-notes-off messages during stop/play."
 msgstr ""
 
 #: ;8C3BC63E5CE56671
-msgid ""
-"This will send MIDI Pitch and Sustain (CC#64) reset messages during stop/"
-"play."
+msgid "This will send MIDI Pitch and Sustain (CC#64) reset messages during stop/play."
 msgstr ""
 
 #: ;744D44D8300A6F70
-msgid ""
-"Enable this to drive all MIDI hardware from a single thread, which isn't "
-"ideal for performance but may be more compatible with some hardware."
+msgid "Enable this to drive all MIDI hardware from a single thread, which isn't ideal for performance but may be more compatible with some hardware."
 msgstr ""
 
 #: ;F334C433C938F542
-msgid ""
-"Closes and reopens all MIDI devices, and rescans for new devices if possible."
+msgid "Closes and reopens all MIDI devices, and rescans for new devices if possible."
 msgstr ""
 
 #: ;BD4F1A720BC228D9
 msgid "Creates a new joystick-MIDI device."
 msgstr ""
+

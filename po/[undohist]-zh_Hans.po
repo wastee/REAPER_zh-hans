@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;CBCF7F7CDF60CF24
@@ -21,11 +21,11 @@ msgid "--- Session loaded ---"
 msgstr ""
 
 #: ;310B8AA25BD2479D
-msgid "Undo History Memory Usage:"
+msgid "Undo History Memory Usage: "
 msgstr ""
 
 #: ;0D7F13166E00574B
-msgid "Undo:"
+msgid "Undo: "
 msgstr ""
 
 #: ;39034C3D41E988FE
@@ -95,3 +95,4 @@ msgstr ""
 #: ;^E5566C4604653F75
 msgid "Undo History"
 msgstr ""
+

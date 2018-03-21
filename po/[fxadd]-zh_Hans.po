@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;99A0C5AAB4639AA7
@@ -29,7 +29,7 @@ msgid "[no category]"
 msgstr ""
 
 #: ;AAE28D38F6A00A4B
-msgid "Add FX to"
+msgid "Add FX to "
 msgstr ""
 
 #: ;517BED36B8C7A8B7
@@ -113,7 +113,7 @@ msgid "Folders"
 msgstr ""
 
 #: ;B5C75A7C3228E714
-msgid "Replace FX #%d in"
+msgid "Replace FX #%d in "
 msgstr ""
 
 #: ;FC8F326485F29D24
@@ -145,16 +145,11 @@ msgid "Developers (requires plugin re-scan)"
 msgstr ""
 
 #: ;4BB7F075C3B19094
-msgid ""
-"Error renaming:\r\n"
-"\t"
+msgid "Error renaming:\r\n\t"
 msgstr ""
 
 #: ;7C5CDD7665745C0D
-msgid ""
-"\r\n"
-"to:\r\n"
-"\t"
+msgid "\r\nto:\r\n\t"
 msgstr ""
 
 #: ;AE59FA2FAFF05064
@@ -174,7 +169,7 @@ msgid "Do you want to add the following tracks for this effect?\r\n"
 msgstr ""
 
 #: ;13BFC6DC2333E980
-msgid "If not, only the"
+msgid "If not, only the "
 msgstr ""
 
 #: ;D936E33A722937BB
@@ -186,7 +181,7 @@ msgid "mono 1+2 outputs"
 msgstr ""
 
 #: ;2B562A0344F10199
-msgid "will be audible without further routing.\r\n"
+msgid " will be audible without further routing.\r\n"
 msgstr ""
 
 #: ;74DD7AE924E641B5
@@ -206,7 +201,7 @@ msgid "Build Routing Confirmation"
 msgstr ""
 
 #: ;FF225ECB120E936B
-msgid "Add FX to:"
+msgid "Add FX to: "
 msgstr ""
 
 #: ;^83ACA278C2C00834
@@ -284,3 +279,4 @@ msgstr ""
 #: ;^82E42D2FF8D25A8D
 msgid "Could not get channel info for effects (are they multichannel?)"
 msgstr ""
+

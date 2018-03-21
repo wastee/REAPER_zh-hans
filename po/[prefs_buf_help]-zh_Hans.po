@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;429342ABE696E608
@@ -17,88 +17,59 @@ msgid "Auto-detect the number of CPU cores in your system and use all of them."
 msgstr ""
 
 #: ;DB46AD1EC81087FA
-msgid ""
-"The number of audio processing threads to create. This is usually set to the "
-"number of CPUs in your system."
+msgid "The number of audio processing threads to create. This is usually set to the number of CPUs in your system."
 msgstr ""
 
 #: ;88ED4AE8DA0B9791
-msgid ""
-"The relative thread priority to use for audio processing. This is an "
-"advanced performance tweak and should probably be left on the default."
+msgid "The relative thread priority to use for audio processing. This is an advanced performance tweak and should probably be left on the default."
 msgstr ""
 
 #: ;CBDC58413A534831
-msgid ""
-"How aggressive audio processing threads are. A more relaxed setting will use "
-"less CPU but will be less stable at low latencies."
+msgid "How aggressive audio processing threads are. A more relaxed setting will use less CPU but will be less stable at low latencies."
 msgstr ""
 
 #: ;CD7C691E80E72934
-msgid ""
-"Media buffering uses RAM and CPU to avoid having to wait for disk IO. For "
-"systems with slower disks this should be set higher. Zero disables buffering."
+msgid "Media buffering uses RAM and CPU to avoid having to wait for disk IO. For systems with slower disks this should be set higher. Zero disables buffering."
 msgstr ""
 
 #: ;41E5ED5B864C805A
-msgid ""
-"Disable buffering on tracks with MIDI editors open, which allows faster "
-"playback response to MIDI edits (recommended)."
+msgid "Disable buffering on tracks with MIDI editors open, which allows faster playback response to MIDI edits (recommended)."
 msgstr ""
 
 #: ;3F29804EB743FBAD
-msgid ""
-"How full source media buffers should be before starting playback. Lower "
-"numbers will give faster response time."
+msgid "How full source media buffers should be before starting playback. Lower numbers will give faster response time."
 msgstr ""
 
 #: ;E565AD880D79DFEF
-msgid ""
-"When per-take FX are showing, use a lower media buffer size to minimize lag "
-"between audio playback and the visual response of the plugin."
+msgid "When per-take FX are showing, use a lower media buffer size to minimize lag between audio playback and the visual response of the plugin."
 msgstr ""
 
 #: ;9B66C717E0F66095
-msgid ""
-"Synchronized multiprocessing allows live monitoring to be multiprocessed in "
-"addition to media/FX, but isn't ideal for low latency performance."
+msgid "Synchronized multiprocessing allows live monitoring to be multiprocessed in addition to media/FX, but isn't ideal for low latency performance."
 msgstr ""
 
 #: ;4F67B9DF3D695CDA
-msgid ""
-"How many processors to use for synchronous (non-parallel) multiprocessing. "
-"This number should not be more than 2 or 4, even if you have more CPUs."
+msgid "How many processors to use for synchronous (non-parallel) multiprocessing. This number should not be more than 2 or 4, even if you have more CPUs."
 msgstr ""
 
 #: ;8675235AE1C1D1F9
-msgid ""
-"Use spare CPU to render FX ahead of time. This is beneficial regardless of "
-"CPU count, but may need to be disabled for use with some plug-ins (UAD)."
+msgid "Use spare CPU to render FX ahead of time. This is beneficial regardless of CPU count, but may need to be disabled for use with some plug-ins (UAD)."
 msgstr ""
 
 #: ;008F35D03C09AE19
-msgid ""
-"Higher render-ahead times will use multiple processors more efficiently.  "
-"Lower render-ahead times will lower response time for FX tweaks."
+msgid "Higher render-ahead times will use multiple processors more efficiently.  Lower render-ahead times will lower response time for FX tweaks."
 msgstr ""
 
 #: ;85CC0E1AA9B38417
-msgid ""
-"Use anticipative (render-ahead) processing on all tracks (even tracks "
-"without FX). This can help performance at the lowest latencies but uses more "
-"CPU."
+msgid "Use anticipative (render-ahead) processing on all tracks (even tracks without FX). This can help performance at the lowest latencies but uses more CPU."
 msgstr ""
 
 #: ;61655478AEFF607A
-msgid ""
-"Use anticipative (render-ahead) FX processing on tracks with open MIDI "
-"editors. Disable this for lower preview latency while editing."
+msgid "Use anticipative (render-ahead) FX processing on tracks with open MIDI editors. Disable this for lower preview latency while editing."
 msgstr ""
 
 #: ;5114EF335E5EBA3D
-msgid ""
-"Use old REAPER 4.x logic for scheduling worker threads, which generally will "
-"waste more CPU but could be advantageous in certain instances."
+msgid "Use old REAPER 4.x logic for scheduling worker threads, which generally will waste more CPU but could be advantageous in certain instances."
 msgstr ""
 
 #: ;8079420B13150577
@@ -106,23 +77,18 @@ msgid "Advanced disk buffering options, only recommended for expert use."
 msgstr ""
 
 #: ;0723BB206D032E82
-msgid ""
-"Use system events for timing and synchronizing. Recommended for Windows, but "
-"not for WINE."
+msgid "Use system events for timing and synchronizing. Recommended for Windows, but not for WINE."
 msgstr ""
 
 #: ;1BB8F433F91FA736
-msgid ""
-"Use system events for timing and synchronizing. Recommended for newer Intel "
-"machines."
+msgid "Use system events for timing and synchronizing. Recommended for newer Intel machines."
 msgstr ""
 
 #: ;E6A5539CBB66A335
-msgid "Use system events for timing and synchronizing."
+msgid "Use system events for timing and synchronizing. "
 msgstr ""
 
 #: ;5522B2898DF46E8F
-msgid ""
-"Disable buffering on selected tracks, which allows faster audio playback "
-"response to edits."
+msgid "Disable buffering on selected tracks, which allows faster audio playback response to edits."
 msgstr ""
+

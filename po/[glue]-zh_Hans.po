@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;1A25676C984ACD9A
@@ -33,23 +33,23 @@ msgid "No unmuted"
 msgstr ""
 
 #: ;61C3BC34D088588C
-msgid "selected"
+msgid " selected"
 msgstr ""
 
 #: ;F67BA54E46A7550F
-msgid "tracks containing"
+msgid " tracks containing"
 msgstr ""
 
 #: ;9E02A0E4B7ACC2E8
-msgid "MIDI items"
+msgid " MIDI items"
 msgstr ""
 
 #: ;CE45E911046E8174
-msgid "within the time selection"
+msgid " within the time selection"
 msgstr ""
 
 #: ;AF912F456FE0F4BA
-msgid "were found."
+msgid " were found."
 msgstr ""
 
 #: ;582D1D4106C95CFC
@@ -111,3 +111,4 @@ msgstr ""
 #: ;^F67F48495D3866C3
 msgid "Consolidating..."
 msgstr ""
+

@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;E146A19ABE0DAC18
@@ -109,7 +109,7 @@ msgid "Write values to actively-writing envelopes"
 msgstr ""
 
 #: ;4741D2DFDB837713
-msgid "Move edit cursor to"
+msgid "Move edit cursor to "
 msgstr ""
 
 #: ;EAF773E88D69D4B6
@@ -817,8 +817,7 @@ msgid "Invert item selection"
 msgstr ""
 
 #: ;5ADD048692B8293C
-msgid ""
-"Set selected items mix behavior to enclosed items replace enclosing items"
+msgid "Set selected items mix behavior to enclosed items replace enclosing items"
 msgstr ""
 
 #: ;A92F4BBC7A73D542
@@ -1330,9 +1329,7 @@ msgid "Reverse envelope points"
 msgstr ""
 
 #: ;AAEA0D2E5945B289
-msgid ""
-"Apply all VCAs from selected tracks to grouped tracks and reset volume/pan/"
-"mute"
+msgid "Apply all VCAs from selected tracks to grouped tracks and reset volume/pan/mute"
 msgstr ""
 
 #: ;12CF95478A8264AA
@@ -1492,7 +1489,7 @@ msgid "Set track freeze via manager"
 msgstr ""
 
 #: ;7C96F1D13FAC7FB0
-msgid "via manager"
+msgid " via manager"
 msgstr ""
 
 #: ;341A30CD5538675B
@@ -2764,7 +2761,7 @@ msgid "Reduce envelope points"
 msgstr ""
 
 #: ;^17E7264672EB4EC9
-msgid "FX comment for:"
+msgid "FX comment for: "
 msgstr ""
 
 #: ;^C319D1F3FBF68B94
@@ -2834,3 +2831,4 @@ msgstr ""
 #: ;^B3E3EB828D92742C
 msgid "Set time selection"
 msgstr ""
+

@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;3CCEB93DC24D10C2
@@ -21,9 +21,7 @@ msgid "Stop the playback at the end of the time selection if loop is disabled."
 msgstr ""
 
 #: ;B154D26ACBF00387
-msgid ""
-"Clears the FX buffers at the end of a loop. This is not recommended for VSTi "
-"plug-ins, but may provide better performance for plug-ins like AutoTune."
+msgid "Clears the FX buffers at the end of a loop. This is not recommended for VSTi plug-ins, but may provide better performance for plug-ins like AutoTune."
 msgstr ""
 
 #: ;50184C276F7C5861
@@ -31,36 +29,27 @@ msgid "Select this option to make the view scroll to the edit cursor on stop."
 msgstr ""
 
 #: ;3693FCA0A02B371B
-msgid ""
-"Clearing this check box will force playback to scroll the view when in play, "
-"even if you are viewing other sections of the project at that time."
+msgid "Clearing this check box will force playback to scroll the view when in play, even if you are viewing other sections of the project at that time."
 msgstr ""
 
 #: ;CD5267F3C2429B0D
-msgid ""
-"Allows you to preview sounds from your instrument plug-ins when stopped."
+msgid "Allows you to preview sounds from your instrument plug-ins when stopped."
 msgstr ""
 
 #: ;EF96DA6B35BD12C3
-msgid ""
-"Clears the FX buffers when stopping playback, preventing reverb tails etc."
+msgid "Clears the FX buffers when stopping playback, preventing reverb tails etc."
 msgstr ""
 
 #: ;E5C1DA8A8404A955
-msgid ""
-"If \"Run FX when stopped\" is unchecked, you can define the amount of time a "
-"FX will run after playback is stopped."
+msgid "If \"Run FX when stopped\" is unchecked, you can define the amount of time a FX will run after playback is stopped."
 msgstr ""
 
 #: ;6E46C113F18F30AC
-msgid ""
-"This option will let you hear the source media when stopped and moving the "
-"edit cursor around."
+msgid "This option will let you hear the source media when stopped and moving the edit cursor around."
 msgstr ""
 
 #: ;C6CEC38A2A4BE6CD
-msgid ""
-"Either the master mix, or only the selected tracks, may be scrubbed/jogged."
+msgid "Either the master mix, or only the selected tracks, may be scrubbed/jogged."
 msgstr ""
 
 #: ;88B1C77A43F5B114
@@ -76,44 +65,31 @@ msgid "Jog can respond more immediately to mouse/edit cursor moves."
 msgstr ""
 
 #: ;EDE7F5117FE5F615
-msgid ""
-"The jog rate can be limited to 1.0 or slower only when jogging near the "
-"playback cursor."
+msgid "The jog rate can be limited to 1.0 or slower only when jogging near the playback cursor."
 msgstr ""
 
 #: ;D6DD3DBDD1510B7D
-msgid ""
-"Scrub/jog can be disabled while playing back, or enabled, in which case "
-"normal playback will stop when scrub/jog is engaged."
+msgid "Scrub/jog can be disabled while playing back, or enabled, in which case normal playback will stop when scrub/jog is engaged."
 msgstr ""
 
 #: ;7205DD67A21ED82B
-msgid ""
-"Set the bounds of the looped section, when scrubbing or jogging in looped-"
-"segment mode."
+msgid "Set the bounds of the looped section, when scrubbing or jogging in looped-segment mode."
 msgstr ""
 
 #: ;120BE0621EFD6E26
-msgid ""
-"Adjust the sensitivity and responsiveness when scrubbing via a controller."
+msgid "Adjust the sensitivity and responsiveness when scrubbing via a controller."
 msgstr ""
 
 #: ;37B0268B9BEAD687
-msgid ""
-"Moving the edit cursor via an action or when using a control surface can "
-"scrub audio, or simply move the cursor."
+msgid "Moving the edit cursor via an action or when using a control surface can scrub audio, or simply move the cursor."
 msgstr ""
 
 #: ;38F660F8084D144A
-msgid ""
-"The settings on this page control how jog/scrub works. See Editing Behavior/"
-"Mouse Modifiers to control when jog/scrub happens."
+msgid "The settings on this page control how jog/scrub works. See Editing Behavior/Mouse Modifiers to control when jog/scrub happens."
 msgstr ""
 
 #: ;43024C3CA6CCED10
-msgid ""
-"Send note-offs to all track destinations when disabling record-arm (to "
-"prevent hanging notes)."
+msgid "Send note-offs to all track destinations when disabling record-arm (to prevent hanging notes)."
 msgstr ""
 
 #: ;75762F781D42A0EB
@@ -124,10 +100,7 @@ msgstr ""
 msgid "Reset MIDI CC/Pitch to neutral when looping playback."
 msgstr ""
 
-#: ;CB9610EB68F3035B=Override CC resets for various CCs here. Syntax is
-#: 'cc7=127 cc39=127' to set maximum volume, example. -1 prevents reset,
-#: cc0-120
-msgid ""
-"Override CC resets for various CCs here. Syntax is 'cc7=127 cc39=127' to set "
-"maximum volume, for example. -1 prevents reset, cc0-120= sets all"
+#: ;CB9610EB68F3035B=Override CC resets for various CCs here. Syntax is 'cc7=127 cc39=127' to set maximum volume, for example. -1 prevents reset, cc0-120
+msgid "Override CC resets for various CCs here. Syntax is 'cc7=127 cc39=127' to set maximum volume, for example. -1 prevents reset, cc0-120= sets all"
 msgstr ""
+

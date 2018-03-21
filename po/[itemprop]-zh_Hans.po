@@ -3,19 +3,17 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;943504C358764A1E
-msgid ""
-"%d media items selected.\r\n"
-"Edit multiple item properties all at once, or one by one?"
+msgid "%d media items selected.\r\nEdit multiple item properties all at once, or one by one?"
 msgstr ""
 
 #: ;6130D9898B5B94EB
@@ -31,7 +29,7 @@ msgid "Media Item Properties (no items selected)"
 msgstr ""
 
 #: ;DEB8A732FC3B1C09
-msgid "Media Item Properties:"
+msgid "Media Item Properties:  "
 msgstr ""
 
 #: ;B93F61D167C6E146
@@ -75,9 +73,7 @@ msgid "Stereo (1-64)"
 msgstr ""
 
 #: ;716BB1FED7EEC970
-msgid ""
-"View media source properties for %d selected takes?\r\n"
-"(You will need to view them one at a time.)"
+msgid "View media source properties for %d selected takes?\r\n(You will need to view them one at a time.)"
 msgstr ""
 
 #: ;19B7496B341D6888
@@ -143,3 +139,4 @@ msgstr ""
 #: ;^1CF5D45574BE7FCD
 msgid "Item Properties"
 msgstr ""
+

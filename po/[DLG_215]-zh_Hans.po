@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;ABE4285C346CE5EC
@@ -41,14 +41,11 @@ msgid "Treat scroll messages from some laptop trackpads as mousewheel"
 msgstr ""
 
 #: ;CA9C1310AB187A28
-msgid ""
-"Use pen/tablet-safe mode -- do not reposition mouse cursor while adjusting "
-"knobs/etc"
+msgid "Use pen/tablet-safe mode -- do not reposition mouse cursor while adjusting knobs/etc"
 msgstr ""
 
 #: ;7D6A1B1C34FD2DF7
-msgid ""
-"Mouse click on volume/pan faders and track buttons changes track selection"
+msgid "Mouse click on volume/pan faders and track buttons changes track selection"
 msgstr ""
 
 #: ;C44BB15953492B98
@@ -68,12 +65,10 @@ msgid "Allow modifying edges of time selection over items in tracks"
 msgstr ""
 
 #: ;3B09283710A74EBA
-msgid ""
-"Allow resizing ruler by dragging bottom edge (otherwise drag below toolbar)"
+msgid "Allow resizing ruler by dragging bottom edge (otherwise drag below toolbar)"
 msgstr ""
 
 #: ;9F1222D13FC35BE2
-msgid ""
-"Control+left-click emulates right-click (control key will be unavailable as "
-"a modifier)"
+msgid "Control+left-click emulates right-click (control key will be unavailable as a modifier)"
 msgstr ""
+

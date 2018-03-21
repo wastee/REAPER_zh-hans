@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;8526440B07707361
@@ -21,7 +21,7 @@ msgid "Scanning project directory..."
 msgstr ""
 
 #: ;0D74709687427C94
-msgid "%d of %d files are not used in"
+msgid "%d of %d files are not used in "
 msgstr ""
 
 #: ;E1B7D88D39E1EB01
@@ -51,3 +51,4 @@ msgstr ""
 #: ;^C7A89083E6E728EB
 msgid "Project Directory Cleanup"
 msgstr ""
+

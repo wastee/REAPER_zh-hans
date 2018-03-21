@@ -1240,10 +1240,6 @@ msgstr ""
 msgid "REAPER Query"
 msgstr ""
 
-#: ;0832A807B4EBA64D
-msgid " "
-msgstr ""
-
 #: ;D990EA186C48B88B
 msgid ", "
 msgstr ""
@@ -3776,10 +3772,6 @@ msgstr ""
 msgid "Length: %s"
 msgstr ""
 
-#: ;AF63BD4C8601B7DF
-msgid ""
-msgstr ""
-
 #: ;4B1F235812EEE9D6
 msgid "MUTE"
 msgstr ""
@@ -5734,9 +5726,5 @@ msgstr ""
 
 #: ;3479BF4FF70CC71C
 msgid "Time:"
-msgstr ""
-
-#: ;newtest
-msgid "newtest"
 msgstr ""
 

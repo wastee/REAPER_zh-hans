@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;138115F421695B0D
@@ -17,9 +17,7 @@ msgid "Add joystick MIDI..."
 msgstr ""
 
 #: ;A4F5378A569069D6
-msgid ""
-"MIDI inputs to make available (selectable as track inputs and/or learnable "
-"or action-bindable):"
+msgid "MIDI inputs to make available (selectable as track inputs and/or learnable or action-bindable):"
 msgstr ""
 
 #: ;2067FD051A93CC68
@@ -65,3 +63,4 @@ msgstr ""
 #: ;^3D9CBC3C216900AD
 msgid "Play"
 msgstr ""
+

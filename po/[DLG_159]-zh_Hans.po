@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;75501023A0653617
@@ -17,9 +17,7 @@ msgid "Remove selected files"
 msgstr ""
 
 #: ;BD65489FE41F2336
-msgid ""
-"CAUTION: files listed here are not used by the current project, but may be "
-"used in some other project."
+msgid "CAUTION: files listed here are not used by the current project, but may be used in some other project."
 msgstr ""
 
 #: ;1A0D36499DEB718F
@@ -37,3 +35,4 @@ msgstr ""
 #: ;^F09E4B5C35AA14B9
 msgid "Cancel"
 msgstr ""
+

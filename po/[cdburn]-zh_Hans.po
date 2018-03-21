@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;ABACAA5CAC4D0AE1
@@ -52,11 +52,8 @@ msgstr ""
 msgid "Error adding audio data to CD track"
 msgstr ""
 
-#: ;84BE0C5DA266D09A=Track %d is not long enough! Redbook audio CDs require
-#: track lengths >
-msgid ""
-"Track %d is not long enough! Redbook audio CDs require track lengths >= 4 "
-"seconds."
+#: ;84BE0C5DA266D09A=Track %d is not long enough! Redbook audio CDs require track lengths >
+msgid "Track %d is not long enough! Redbook audio CDs require track lengths >= 4 seconds."
 msgstr ""
 
 #: ;01D9A0213815494D
@@ -94,3 +91,4 @@ msgstr ""
 #: ;^922845265318591C
 msgid "Native CD Burning"
 msgstr ""
+

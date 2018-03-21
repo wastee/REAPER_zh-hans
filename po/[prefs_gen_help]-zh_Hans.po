@@ -3,61 +3,45 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;E9C54E0B935698EF
-msgid ""
-"Maximum undo memory (default: 256 MB). Enter 0 to disable the Undo function "
-"as well as the prompt to save modified projects on close."
+msgid "Maximum undo memory (default: 256 MB). Enter 0 to disable the Undo function as well as the prompt to save modified projects on close."
 msgstr ""
 
 #: ;3720BCE6F3CC7015
-msgid ""
-"This option, enabled by default, will create a new undo point each time you "
-"select an item."
+msgid "This option, enabled by default, will create a new undo point each time you select an item."
 msgstr ""
 
 #: ;EF06DEC4ECD10D1F
-msgid ""
-"This option, enabled by default, will create a new undo point each time you "
-"select a track."
+msgid "This option, enabled by default, will create a new undo point each time you select a track."
 msgstr ""
 
 #: ;16DB6E34FA5B0DA2
-msgid ""
-"This option, enabled by default, will create a new undo point each time you "
-"select an envelope point."
+msgid "This option, enabled by default, will create a new undo point each time you select an envelope point."
 msgstr ""
 
 #: ;0B8AC344D19D6CE7
-msgid ""
-"This option, enabled by default, will create a new undo point each time you "
-"create a time selection."
+msgid "This option, enabled by default, will create a new undo point each time you create a time selection."
 msgstr ""
 
 #: ;BC15CE833396F703
-msgid ""
-"This option, enabled by default, will create a new undo point each time you "
-"move the edit cursor."
+msgid "This option, enabled by default, will create a new undo point each time you move the edit cursor."
 msgstr ""
 
 #: ;58EB16F60F2B6ED8
-msgid ""
-"If this box is enabled, REAPER will discard the oldest undo points first. If "
-"this option is disabled, undo points from in between are removed."
+msgid "If this box is enabled, REAPER will discard the oldest undo points first. If this option is disabled, undo points from in between are removed."
 msgstr ""
 
 #: ;6F1EBE23459989FC
-msgid ""
-"Saves undo history in a file with your projects, so you can preserve the "
-"history across sessions. Slows down project saves and uses more disk space."
+msgid "Saves undo history in a file with your projects, so you can preserve the history across sessions. Slows down project saves and uses more disk space."
 msgstr ""
 
 #: ;BC368814B9358E4E
@@ -65,62 +49,42 @@ msgid "Loads the undo history from disk when opening a project."
 msgstr ""
 
 #: ;F3577A29917E97B0
-msgid ""
-"Gives you more options when working your way back through updates; useful "
-"but does use a lot of memory."
+msgid "Gives you more options when working your way back through updates; useful but does use a lot of memory."
 msgstr ""
 
 #: ;6F51B4C38C99D819
-msgid ""
-"Here you can limit the number of projects displayed in the \"Recent Project "
-"List\" menu of the File menu."
+msgid "Here you can limit the number of projects displayed in the \"Recent Project List\" menu of the File menu."
 msgstr ""
 
 #: ;DE61763D39395C02
-msgid ""
-"Click to clear the projects displayed in the \"Recent Project List\" menu."
+msgid "Click to clear the projects displayed in the \"Recent Project List\" menu."
 msgstr ""
 
 #: ;ABD1788F4424FE8A
-msgid ""
-"Select the project(s) to open on startup. You can override this option by "
-"holding Shift (new project, default template) or Cmd+Shift (empty project) "
-"while starting up."
+msgid "Select the project(s) to open on startup. You can override this option by holding Shift (new project, default template) or Cmd+Shift (empty project) while starting up."
 msgstr ""
 
 #: ;7C90E40AFDA00349
-msgid ""
-"Select the project(s) to open on startup. You can override this option by "
-"holding Shift (new project, default template) or Ctrl+Shift (empty project) "
-"while starting up."
+msgid "Select the project(s) to open on startup. You can override this option by holding Shift (new project, default template) or Ctrl+Shift (empty project) while starting up."
 msgstr ""
 
 #: ;D3EC3DE74B41ED98
-msgid ""
-"Deselect this option to prevent REAPER checking for new program updates once "
-"per day via the internet."
+msgid "Deselect this option to prevent REAPER checking for new program updates once per day via the internet."
 msgstr ""
 
 #: ;4EB8D40B61FE7203
-msgid ""
-"Shows the REAPER logo along with loading status when the application starts "
-"or loads a project."
+msgid "Shows the REAPER logo along with loading status when the application starts or loads a project."
 msgstr ""
 
 #: ;ED4A58E5B093F67C
-msgid ""
-"More advanced user interface and system settings. These should be used with "
-"caution."
+msgid "More advanced user interface and system settings. These should be used with caution."
 msgstr ""
 
 #: ;DE2D329EDB565919
-msgid ""
-"Warn when REAPER's memory use exceeds the amount listed. Recommended values "
-"are 1800 for 32-bit, 0 (disabled) for 64-bit."
+msgid "Warn when REAPER's memory use exceeds the amount listed. Recommended values are 1800 for 32-bit, 0 (disabled) for 64-bit."
 msgstr ""
 
 #: ;36858EBF40C25500
-msgid ""
-"Choose language from installed languages (you must quit and restart REAPER "
-"for language changes to take effect."
+msgid "Choose language from installed languages (you must quit and restart REAPER for language changes to take effect."
 msgstr ""
+

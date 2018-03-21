@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;1546F599C0716CE8
@@ -29,8 +29,7 @@ msgid "Action: Set action loop start (only valid within custom actions)"
 msgstr ""
 
 #: ;A8C82398AD19C4B3
-msgid ""
-"Action: Prompt to go to action loop start (only valid within custom actions)"
+msgid "Action: Prompt to go to action loop start (only valid within custom actions)"
 msgstr ""
 
 #: ;C42954685F2D835E
@@ -126,8 +125,7 @@ msgid "File: Save project as template..."
 msgstr ""
 
 #: ;6426A1BCC25552FF
-msgid ""
-"File: Save new version of project (automatically increment project name)"
+msgid "File: Save new version of project (automatically increment project name)"
 msgstr ""
 
 #: ;7CDA8088D20ECBAF
@@ -211,19 +209,15 @@ msgid "Project tabs: show project tabs on left side of window"
 msgstr ""
 
 #: ;045A237F63E340AC
-msgid ""
-"Project tabs: synchronize any parent projects when playing back subproject"
+msgid "Project tabs: synchronize any parent projects when playing back subproject"
 msgstr ""
 
 #: ;68C219C17C42BE54
-msgid ""
-"Project tabs: defer rendering of subprojects (render on tab switch rather "
-"than save)"
+msgid "Project tabs: defer rendering of subprojects (render on tab switch rather than save)"
 msgstr ""
 
 #: ;A60779D98E8FCB56
-msgid ""
-"Project tabs: leave subproject open in tab after automatic open and render"
+msgid "Project tabs: leave subproject open in tab after automatic open and render"
 msgstr ""
 
 #: ;B831D5D1617AC496
@@ -251,14 +245,11 @@ msgid "File: Render project, using the most recent render settings"
 msgstr ""
 
 #: ;8E1795444FEE47D9
-msgid ""
-"File: Render project, using the most recent render settings, with a new "
-"target file name..."
+msgid "File: Render project, using the most recent render settings, with a new target file name..."
 msgstr ""
 
 #: ;42CC78B8FDB3DD61
-msgid ""
-"File: Add project to render queue, using the most recent render settings"
+msgid "File: Add project to render queue, using the most recent render settings"
 msgstr ""
 
 #: ;F822D81FECAFCB66
@@ -322,8 +313,7 @@ msgid "Region render matrix: Render only selected tracks for all regions"
 msgstr ""
 
 #: ;937A5F8081757E64
-msgid ""
-"Region render matrix: Add selected tracks to render list for all regions"
+msgid "Region render matrix: Add selected tracks to render list for all regions"
 msgstr ""
 
 #: ;3F4FFAC6323D3F8D
@@ -355,9 +345,7 @@ msgid "Ruler: Display project markers in lanes"
 msgstr ""
 
 #: ;BEBB09255A651613
-msgid ""
-"Ruler: Display tempo and time signature changes in separate lanes (when "
-"space permits)"
+msgid "Ruler: Display tempo and time signature changes in separate lanes (when space permits)"
 msgstr ""
 
 #: ;716CB55546795075
@@ -509,9 +497,7 @@ msgid "Options: Chase MIDI note-ons in project playback"
 msgstr ""
 
 #: ;31E5DAFF2A8FF007
-msgid ""
-"Options: Cycle through editing modes: auto-crossfade off, auto-crossfade on, "
-"trim content behind items"
+msgid "Options: Cycle through editing modes: auto-crossfade off, auto-crossfade on, trim content behind items"
 msgstr ""
 
 #: ;E21075BD98AF7AA6
@@ -699,8 +685,7 @@ msgid "Help: All actions"
 msgstr ""
 
 #: ;6557F68646BF5037
-msgid ""
-"Help: Show mouse editing help in the area beneath the track control panels"
+msgid "Help: Show mouse editing help in the area beneath the track control panels"
 msgstr ""
 
 #: ;0C5D60E062F75F5B
@@ -764,8 +749,7 @@ msgid "Markers/Regions: Export markers/regions to file"
 msgstr ""
 
 #: ;9CDBE269F1440F6B
-msgid ""
-"Markers/Regions: Import markers/regions from file (replace all existing)"
+msgid "Markers/Regions: Import markers/regions from file (replace all existing)"
 msgstr ""
 
 #: ;DF752A90AD3E4898
@@ -985,15 +969,11 @@ msgid "Item navigation: Select and move to item in next track"
 msgstr ""
 
 #: ;84CD9DBA09D74429
-msgid ""
-"Item navigation: Select and move to item in previous track without changing "
-"track selection"
+msgid "Item navigation: Select and move to item in previous track without changing track selection"
 msgstr ""
 
 #: ;C867220CB986758D
-msgid ""
-"Item navigation: Select and move to item in next track without changing "
-"track selection"
+msgid "Item navigation: Select and move to item in next track without changing track selection"
 msgstr ""
 
 #: ;85111644DEE83DF4
@@ -1029,8 +1009,7 @@ msgid "Time selection: Extend time selection to next transient in items"
 msgstr ""
 
 #: ;DEC8EFB0B839B232
-msgid ""
-"Time selection: Swap left edge of time selection to next transient in items"
+msgid "Time selection: Swap left edge of time selection to next transient in items"
 msgstr ""
 
 #: ;0AFDDE2D8EE6FDAE
@@ -1450,215 +1429,171 @@ msgid "Markers: Go to marker 30"
 msgstr ""
 
 #: ;BFC7A53C2BE3A4CD
-msgid ""
-"Regions: Go to region 01 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 01 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;214D3A9D393D7170
-msgid ""
-"Regions: Go to region 02 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 02 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;888D3035332D1CEB
-msgid ""
-"Regions: Go to region 03 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 03 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;1B4CBC88D5AEDE16
-msgid ""
-"Regions: Go to region 04 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 04 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;34BB662FA64605A9
-msgid ""
-"Regions: Go to region 05 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 05 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;59116523D9221C9C
-msgid ""
-"Regions: Go to region 06 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 06 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;1067465C37294A67
-msgid ""
-"Regions: Go to region 07 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 07 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;680197E5E279D8B2
-msgid ""
-"Regions: Go to region 08 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 08 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;74828AE56376BB85
-msgid ""
-"Regions: Go to region 09 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 09 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;546CD9FC0E96C3BB
-msgid ""
-"Regions: Go to region 10 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 10 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;38935571B53F9E00
-msgid ""
-"Regions: Go to region 11 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 11 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;28F4C1DA26507E1D
-msgid ""
-"Regions: Go to region 12 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 12 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;D0D1102EFA51ACEA
-msgid ""
-"Regions: Go to region 13 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 13 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;E4497DBC8D8A4B37
-msgid ""
-"Regions: Go to region 14 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 14 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;F87BB6D58A34C26C
-msgid ""
-"Regions: Go to region 15 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 15 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;E36B03B1EF8DED39
-msgid ""
-"Regions: Go to region 16 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 16 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;18F8AD9A90253366
-msgid ""
-"Regions: Go to region 17 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 17 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;9061E11CF28E33F3
-msgid ""
-"Regions: Go to region 18 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 18 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;565881D49CF67478
-msgid ""
-"Regions: Go to region 19 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 19 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;BEAB125F5AD6E318
-msgid ""
-"Regions: Go to region 20 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 20 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;64E8CB6F64912D13
-msgid ""
-"Regions: Go to region 21 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 21 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;3BF7B278DBCD46A2
-msgid ""
-"Regions: Go to region 22 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 22 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;3F1D9B772F0DD2B5
-msgid ""
-"Regions: Go to region 23 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 23 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;84C63884B4360524
-msgid ""
-"Regions: Go to region 24 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 24 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;514CC3519BFB910F
-msgid ""
-"Regions: Go to region 25 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 25 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;3ECCAE1CB3647A3E
-msgid ""
-"Regions: Go to region 26 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 26 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;B3CBDA003DE917F1
-msgid ""
-"Regions: Go to region 27 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 27 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;67F672041F3D9620
-msgid ""
-"Regions: Go to region 28 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 28 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;C1966286B4B2835B
-msgid ""
-"Regions: Go to region 29 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 29 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;51345D67B6760701
-msgid ""
-"Regions: Go to region 30 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 30 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;E1CD42C800A8BB0E
-msgid ""
-"Regions: Go to region 31 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 31 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;7790ED8ACDAB5D1F
-msgid ""
-"Regions: Go to region 32 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 32 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;2E75DE64DD761FB4
-msgid ""
-"Regions: Go to region 33 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 33 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;FE7C07E64C927B45
-msgid ""
-"Regions: Go to region 34 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 34 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;0C4CD54C097E9472
-msgid ""
-"Regions: Go to region 35 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 35 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;76F776956FAC03A3
-msgid ""
-"Regions: Go to region 36 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 36 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;B314E01C1DB71FE8
-msgid ""
-"Regions: Go to region 37 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 37 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;592317999F644569
-msgid ""
-"Regions: Go to region 38 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 38 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;76E40FB2D50669D6
-msgid ""
-"Regions: Go to region 39 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 39 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;B7A274778275518E
-msgid ""
-"Regions: Go to region 40 after current region finishes playing (smooth seek)"
+msgid "Regions: Go to region 40 after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;F85639D43E8DC875
-msgid ""
-"Regions: Go to previous region after current region finishes playing (smooth "
-"seek)"
+msgid "Regions: Go to previous region after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;E2486EA26A42EE61
-msgid ""
-"Regions: Go to next region after current region finishes playing (smooth "
-"seek)"
+msgid "Regions: Go to next region after current region finishes playing (smooth seek)"
 msgstr ""
 
 #: ;9117BF3BC0456BEE
@@ -1834,9 +1769,7 @@ msgid "Markers: Set region near cursor to default color"
 msgstr ""
 
 #: ;FA08AF19CC837741
-msgid ""
-"Set project tempo from time selection (detect tempo, align items and loop "
-"points to measure start)"
+msgid "Set project tempo from time selection (detect tempo, align items and loop points to measure start)"
 msgstr ""
 
 #: ;BC972366C78DB463
@@ -1884,14 +1817,11 @@ msgid "View: Scroll view vertically one page (MIDI CC relative/mousewheel)"
 msgstr ""
 
 #: ;67A50CAD325DCF57
-msgid ""
-"View: Scroll view horizontally one page reversed (MIDI CC relative/"
-"mousewheel)"
+msgid "View: Scroll view horizontally one page reversed (MIDI CC relative/mousewheel)"
 msgstr ""
 
 #: ;6644EF06DEBAC2DD
-msgid ""
-"View: Scroll view vertically one page reversed (MIDI CC relative/mousewheel)"
+msgid "View: Scroll view vertically one page reversed (MIDI CC relative/mousewheel)"
 msgstr ""
 
 #: ;6985F8570FCDC021
@@ -1935,9 +1865,7 @@ msgid "View: Decrease selected track heights"
 msgstr ""
 
 #: ;9DBE8BA2DA32B4E2
-msgid ""
-"View: Adjust selected track heights a little bit (MIDI CC relative/"
-"mousewheel)"
+msgid "View: Adjust selected track heights a little bit (MIDI CC relative/mousewheel)"
 msgstr ""
 
 #: ;48985F5360F86396
@@ -2005,8 +1933,7 @@ msgid "Peaks: Decrease peaks view gain"
 msgstr ""
 
 #: ;C460A3648B1D1247
-msgid ""
-"Peaks: Scale peaks by square root (half of range is 12dB rather than 6dB)"
+msgid "Peaks: Scale peaks by square root (half of range is 12dB rather than 6dB)"
 msgstr ""
 
 #: ;153E951600727479
@@ -2138,8 +2065,7 @@ msgid "Time selection: Remove contents of time selection (moving later items)"
 msgstr ""
 
 #: ;8A9FA0E31B203723
-msgid ""
-"Time selection: Insert empty space at time selection (moving later items)"
+msgid "Time selection: Insert empty space at time selection (moving later items)"
 msgstr ""
 
 #: ;4D6D7B1266A0AACD
@@ -2383,27 +2309,19 @@ msgid "Item properties: Decrease item rate by ~0.6% (10 cents)"
 msgstr ""
 
 #: ;3D46E9DA0E43758C
-msgid ""
-"Item properties: Increase item rate by ~6% (one semitone), clear 'preserve "
-"pitch'"
+msgid "Item properties: Increase item rate by ~6% (one semitone), clear 'preserve pitch'"
 msgstr ""
 
 #: ;E8C8EFD9B6CCFD14
-msgid ""
-"Item properties: Decrease item rate by ~6% (one semitone), clear 'preserve "
-"pitch'"
+msgid "Item properties: Decrease item rate by ~6% (one semitone), clear 'preserve pitch'"
 msgstr ""
 
 #: ;17B58FFE25E05D16
-msgid ""
-"Item properties: Increase item rate by ~0.6% (10 cents), clear 'preserve "
-"pitch'"
+msgid "Item properties: Increase item rate by ~0.6% (10 cents), clear 'preserve pitch'"
 msgstr ""
 
 #: ;1E395E1F8D62027E
-msgid ""
-"Item properties: Decrease item rate by ~0.6% (10 cents), clear 'preserve "
-"pitch'"
+msgid "Item properties: Decrease item rate by ~0.6% (10 cents), clear 'preserve pitch'"
 msgstr ""
 
 #: ;C277FB657FABD290
@@ -2579,15 +2497,11 @@ msgid "Item: Set focus to item under mouse cursor"
 msgstr ""
 
 #: ;19550D9F73C7E1C9
-msgid ""
-"Edit: Copy items/tracks/envelope points (depending on focus) ignoring time "
-"selection"
+msgid "Edit: Copy items/tracks/envelope points (depending on focus) ignoring time selection"
 msgstr ""
 
 #: ;B249ABBDE9EB6F2A
-msgid ""
-"Edit: Cut items/tracks/envelope points (depending on focus) ignoring time "
-"selection"
+msgid "Edit: Cut items/tracks/envelope points (depending on focus) ignoring time selection"
 msgstr ""
 
 #: ;EF44F7BEA6B1348C
@@ -2607,15 +2521,11 @@ msgid "Item: Copy loop of selected area of audio items"
 msgstr ""
 
 #: ;13FE796ADBA3340B
-msgid ""
-"Edit: Copy items/tracks/envelope points (depending on focus) within time "
-"selection, if any (smart copy)"
+msgid "Edit: Copy items/tracks/envelope points (depending on focus) within time selection, if any (smart copy)"
 msgstr ""
 
 #: ;0EDF75400A7CDD39
-msgid ""
-"Edit: Cut items/tracks/envelope points (depending on focus) within time "
-"selection, if any (smart cut)"
+msgid "Edit: Cut items/tracks/envelope points (depending on focus) within time selection, if any (smart cut)"
 msgstr ""
 
 #: ;B9653045D932DC48
@@ -2655,9 +2565,7 @@ msgid "Envelope: Reverse points"
 msgstr ""
 
 #: ;EB0CFCEBDA7A462A
-msgid ""
-"Options: prevent mouse edits of single envelope points from moving past "
-"other envelope points"
+msgid "Options: prevent mouse edits of single envelope points from moving past other envelope points"
 msgstr ""
 
 #: ;FAC124E1CBDE4108
@@ -2665,9 +2573,7 @@ msgid "Envelope: apply all VCAs to selected tracks and remove from VCA groups"
 msgstr ""
 
 #: ;A62D2C69CB56E5CF
-msgid ""
-"Envelope: apply all VCAs from selected tracks to grouped tracks and reset "
-"volume/pan/mute"
+msgid "Envelope: apply all VCAs from selected tracks to grouped tracks and reset volume/pan/mute"
 msgstr ""
 
 #: ;35FD8F5747234F13
@@ -2691,19 +2597,15 @@ msgid "Track: Save tracks as track template..."
 msgstr ""
 
 #: ;6C5DC970ED416222
-msgid ""
-"Track: Render tracks to stereo post-fader stem tracks (and mute originals)"
+msgid "Track: Render tracks to stereo post-fader stem tracks (and mute originals)"
 msgstr ""
 
 #: ;3F41F57317A9989A
-msgid ""
-"Track: Render tracks to multichannel post-fader stem tracks (and mute "
-"originals)"
+msgid "Track: Render tracks to multichannel post-fader stem tracks (and mute originals)"
 msgstr ""
 
 #: ;6910279F654E373D
-msgid ""
-"Track: Render tracks to mono post-fader stem tracks (and mute originals)"
+msgid "Track: Render tracks to mono post-fader stem tracks (and mute originals)"
 msgstr ""
 
 #: ;472B06C4BA491F2D
@@ -2719,55 +2621,39 @@ msgid "Track: Render tracks to mono stem tracks (and mute originals)"
 msgstr ""
 
 #: ;BF7FACC61266AA43
-msgid ""
-"Track: Render selected area of tracks to stereo post-fader stem tracks (and "
-"mute originals)"
+msgid "Track: Render selected area of tracks to stereo post-fader stem tracks (and mute originals)"
 msgstr ""
 
 #: ;957D18563B9D2E7B
-msgid ""
-"Track: Render selected area of tracks to multichannel post-fader stem tracks "
-"(and mute originals)"
+msgid "Track: Render selected area of tracks to multichannel post-fader stem tracks (and mute originals)"
 msgstr ""
 
 #: ;CBFC9242C1B65438
-msgid ""
-"Track: Render selected area of tracks to mono post-fader stem tracks (and "
-"mute originals)"
+msgid "Track: Render selected area of tracks to mono post-fader stem tracks (and mute originals)"
 msgstr ""
 
 #: ;B769F407C1FD6F3A
-msgid ""
-"Track: Render selected area of tracks to stereo stem tracks (and mute "
-"originals)"
+msgid "Track: Render selected area of tracks to stereo stem tracks (and mute originals)"
 msgstr ""
 
 #: ;47346827A75C81E2
-msgid ""
-"Track: Render selected area of tracks to multichannel stem tracks (and mute "
-"originals)"
+msgid "Track: Render selected area of tracks to multichannel stem tracks (and mute originals)"
 msgstr ""
 
 #: ;1C16F71E93AABF3F
-msgid ""
-"Track: Render selected area of tracks to mono stem tracks (and mute "
-"originals)"
+msgid "Track: Render selected area of tracks to mono stem tracks (and mute originals)"
 msgstr ""
 
 #: ;A8C02827E20DA027
-msgid ""
-"Track: Freeze to stereo (render pre-fader, save/remove items and online FX)"
+msgid "Track: Freeze to stereo (render pre-fader, save/remove items and online FX)"
 msgstr ""
 
 #: ;34410DF671F8FE6F
-msgid ""
-"Track: Freeze to multichannel (render pre-fader, save/remove items and "
-"online FX)"
+msgid "Track: Freeze to multichannel (render pre-fader, save/remove items and online FX)"
 msgstr ""
 
 #: ;4E75DBC22F647F34
-msgid ""
-"Track: Freeze to mono (render pre-fader, save/remove items and online FX)"
+msgid "Track: Freeze to mono (render pre-fader, save/remove items and online FX)"
 msgstr ""
 
 #: ;8382600FEE3A434A
@@ -2791,10 +2677,7 @@ msgid "Item: Paste items/tracks"
 msgstr ""
 
 #: ;53DB3B6E9498BAA6
-msgid ""
-"Item: Paste items/tracks, creating pooled (ghost) MIDI items and automation "
-"items regardless of Preferences/Media/MIDI and Preferences/Media/Automation "
-"settings"
+msgid "Item: Paste items/tracks, creating pooled (ghost) MIDI items and automation items regardless of Preferences/Media/MIDI and Preferences/Media/Automation settings"
 msgstr ""
 
 #: ;1DA47B8091378315
@@ -2802,81 +2685,59 @@ msgid "Item: Insert time on tracks and paste items"
 msgstr ""
 
 #: ;D3A2C493BFE8ECE7
-msgid ""
-"Item: Select all other media items that share pooled (ghost) MIDI source "
-"data with selected items"
+msgid "Item: Select all other media items that share pooled (ghost) MIDI source data with selected items"
 msgstr ""
 
 #: ;94C211422BB413DD
-msgid ""
-"Item: Remove active take from MIDI source data pool (AKA un-pool, un-ghost, "
-"make unique)"
+msgid "Item: Remove active take from MIDI source data pool (AKA un-pool, un-ghost, make unique)"
 msgstr ""
 
 #: ;6A51BA44E813142E
-msgid ""
-"Edit: delete trailing notes of less than 1/8 note in length in selected MIDI "
-"items"
+msgid "Edit: delete trailing notes of less than 1/8 note in length in selected MIDI items"
 msgstr ""
 
 #: ;3587244A7E124C45
-msgid ""
-"Edit: delete trailing notes of less than 1/16 note in length in selected "
-"MIDI items"
+msgid "Edit: delete trailing notes of less than 1/16 note in length in selected MIDI items"
 msgstr ""
 
 #: ;33AB6686161598E3
-msgid ""
-"Edit: delete trailing notes of less than 1/32 note in length in selected "
-"MIDI items"
+msgid "Edit: delete trailing notes of less than 1/32 note in length in selected MIDI items"
 msgstr ""
 
 #: ;A4589DB4834191A4
-msgid ""
-"Edit: delete trailing notes of less than 1/64 note in length in selected "
-"MIDI items"
+msgid "Edit: delete trailing notes of less than 1/64 note in length in selected MIDI items"
 msgstr ""
 
 #: ;B12D6EC943F8665B
-msgid ""
-"Edit: delete trailing notes of less than 1/128 note in length in selected "
-"MIDI items"
+msgid "Edit: delete trailing notes of less than 1/128 note in length in selected MIDI items"
 msgstr ""
 
 #: ;63A21D6156B82797
-msgid ""
-"Edit: delete trailing notes of less than 1/256 note in length in selected "
-"MIDI items"
+msgid "Edit: delete trailing notes of less than 1/256 note in length in selected MIDI items"
 msgstr ""
 
 #: ;B4B69E7B4E612F1A
-msgid ""
-"Edit: delete notes of less than 1/8 note in length in selected MIDI items"
+msgid "Edit: delete notes of less than 1/8 note in length in selected MIDI items"
 msgstr ""
 
 #: ;2F635101BB2C5621
-msgid ""
-"Edit: delete notes of less than 1/16 note in length in selected MIDI items"
+msgid "Edit: delete notes of less than 1/16 note in length in selected MIDI items"
 msgstr ""
 
 #: ;408CBB791E038037
-msgid ""
-"Edit: delete notes of less than 1/32 note in length in selected MIDI items"
+msgid "Edit: delete notes of less than 1/32 note in length in selected MIDI items"
 msgstr ""
 
 #: ;4D308EC375A35DC8
-msgid ""
-"Edit: delete notes of less than 1/64 note in length in selected MIDI items"
+msgid "Edit: delete notes of less than 1/64 note in length in selected MIDI items"
 msgstr ""
 
 #: ;4A60F722EBC6A397
-msgid ""
-"Edit: delete notes of less than 1/128 note in length in selected MIDI items"
+msgid "Edit: delete notes of less than 1/128 note in length in selected MIDI items"
 msgstr ""
 
 #: ;DC643C181CDF2283
-msgid ""
-"Edit: delete notes of less than 1/256 note in length in selected MIDI items"
+msgid "Edit: delete notes of less than 1/256 note in length in selected MIDI items"
 msgstr ""
 
 #: ;C9E4047B10AA4D00
@@ -2976,9 +2837,7 @@ msgid "Item: Reverse items to new take"
 msgstr ""
 
 #: ;72BD208A5B3B8B5B
-msgid ""
-"Item: Glue items, ignoring time selection (auto-increase channel count with "
-"take FX)"
+msgid "Item: Glue items, ignoring time selection (auto-increase channel count with take FX)"
 msgstr ""
 
 #: ;DB3854B7E3274569
@@ -2994,9 +2853,7 @@ msgid "Item: Glue items"
 msgstr ""
 
 #: ;6CBDA6069562E102
-msgid ""
-"Item: Glue items, ignoring time selection, including leading fade-in and "
-"trailing fade-out"
+msgid "Item: Glue items, ignoring time selection, including leading fade-in and trailing fade-out"
 msgstr ""
 
 #: ;3E2FE68B1FAB3F60
@@ -3032,8 +2889,7 @@ msgid "Item: Close item inline editors"
 msgstr ""
 
 #: ;B7924FF8FE7F2C48
-msgid ""
-"Item: Open in built-in MIDI editor (set default behavior in preferences)"
+msgid "Item: Open in built-in MIDI editor (set default behavior in preferences)"
 msgstr ""
 
 #: ;1B42D5CA86DD9D54
@@ -3133,9 +2989,7 @@ msgid "Item properties: Unlock"
 msgstr ""
 
 #: ;454F9A9841E5FCD4
-msgid ""
-"Item properties: Lock to active take (mouse click will not change active "
-"take)"
+msgid "Item properties: Lock to active take (mouse click will not change active take)"
 msgstr ""
 
 #: ;B04AE083D2892BA6
@@ -3143,9 +2997,7 @@ msgid "Item properties: Unlock takes (mouse click will change active take)"
 msgstr ""
 
 #: ;62B0C9687B514E74
-msgid ""
-"Item properties: Toggle lock to active take (toggle mouse click changes "
-"active take)"
+msgid "Item properties: Toggle lock to active take (toggle mouse click changes active take)"
 msgstr ""
 
 #: ;C9ED572935F2A1E5
@@ -3213,9 +3065,7 @@ msgid "Item properties: Normalize items (reset to unity if already normalized)"
 msgstr ""
 
 #: ;6F225957A42BA87D
-msgid ""
-"Item properties: Normalize multiple items to common gain (reset to unity if "
-"already normalized)"
+msgid "Item properties: Normalize multiple items to common gain (reset to unity if already normalized)"
 msgstr ""
 
 #: ;00B213EBE008A4B7
@@ -3619,9 +3469,7 @@ msgid "Item edit: Grow right edge of items"
 msgstr ""
 
 #: ;D167A678F257114A
-msgid ""
-"Options: Toggle editing active take source start offset (slip editing) "
-"adjusts all takes"
+msgid "Options: Toggle editing active take source start offset (slip editing) adjusts all takes"
 msgstr ""
 
 #: ;3EDE60697A63A1A6
@@ -3629,8 +3477,7 @@ msgid "Options: Toggle running FX when playback is stopped"
 msgstr ""
 
 #: ;E6589CAB7C425B2F
-msgid ""
-"Options: Toggle pooled (ghost) MIDI source data when copying media items"
+msgid "Options: Toggle pooled (ghost) MIDI source data when copying media items"
 msgstr ""
 
 #: ;0FB8C0A80EA2286A
@@ -3734,13 +3581,11 @@ msgid "Options: Show overlapping media items in lanes"
 msgstr ""
 
 #: ;1FC660EA1FDFF571
-msgid ""
-"Item lanes: move item up one lane (when showing overlapping items in lanes)"
+msgid "Item lanes: move item up one lane (when showing overlapping items in lanes)"
 msgstr ""
 
 #: ;6B9EA6B2482C566E
-msgid ""
-"Item lanes: move item down one lane (when showing overlapping items in lanes)"
+msgid "Item lanes: move item down one lane (when showing overlapping items in lanes)"
 msgstr ""
 
 #: ;C93791DDF1A43CF1
@@ -3796,24 +3641,19 @@ msgid "Item: Choose active take for item under mouse"
 msgstr ""
 
 #: ;8A413082A9409E76
-msgid ""
-"Options: New recording splits existing items and creates new takes (default)"
+msgid "Options: New recording splits existing items and creates new takes (default)"
 msgstr ""
 
 #: ;003B0FCDD88E479B
-msgid ""
-"Options: New recording trims existing items behind new recording (tape mode)"
+msgid "Options: New recording trims existing items behind new recording (tape mode)"
 msgstr ""
 
 #: ;559C081408519FB3
-msgid ""
-"Options: New recording creates new media items in separate lanes (layers)"
+msgid "Options: New recording creates new media items in separate lanes (layers)"
 msgstr ""
 
 #: ;B71E51EE4C4E6C24
-msgid ""
-"Options: Loop recording always adds takes to newly recorded items (except in "
-"track free item positioning mode)"
+msgid "Options: Loop recording always adds takes to newly recorded items (except in track free item positioning mode)"
 msgstr ""
 
 #: ;9F3A1E19ED7D5039
@@ -3873,8 +3713,7 @@ msgid "Mixer: Toggle show multiple rows when space"
 msgstr ""
 
 #: ;F057FF4E2F984AAF
-msgid ""
-"Mixer: Toggle show multiple rows even when space to fit tracks in less rows"
+msgid "Mixer: Toggle show multiple rows even when space to fit tracks in less rows"
 msgstr ""
 
 #: ;488D41C65CB8FD46
@@ -4014,8 +3853,7 @@ msgid "Automation: Clear track envelope latches"
 msgstr ""
 
 #: ;5D739DFD3A755BC2
-msgid ""
-"Global automation override: No override (set automation modes per track)"
+msgid "Global automation override: No override (set automation modes per track)"
 msgstr ""
 
 #: ;0F6B7CBEEFDF9A63
@@ -4243,9 +4081,7 @@ msgid "Track: Set track record mode to MIDI latch-replace"
 msgstr ""
 
 #: ;8D502986B5317F92
-msgid ""
-"Track: View track recording settings (MIDI quantize, file format/path) for "
-"last touched track"
+msgid "Track: View track recording settings (MIDI quantize, file format/path) for last touched track"
 msgstr ""
 
 #: ;DB8B2F93E46F4F0F
@@ -4445,14 +4281,11 @@ msgid "Options: Automation items do not connect to the underlying envelope"
 msgstr ""
 
 #: ;4F437EAC8834AB1C
-msgid ""
-"Options: Automation items connect to the underlying envelope on the right "
-"side"
+msgid "Options: Automation items connect to the underlying envelope on the right side"
 msgstr ""
 
 #: ;832B5845F89FAA1B
-msgid ""
-"Options: Automation items connect to the underlying envelope on both sides"
+msgid "Options: Automation items connect to the underlying envelope on both sides"
 msgstr ""
 
 #: ;4FC42622215C655B
@@ -4460,9 +4293,7 @@ msgid "Options: Bypass underlying envelope outside of automation items"
 msgstr ""
 
 #: ;64EF7B6D847355C7
-msgid ""
-"Envelope: Obey project default setting to bypass underlying envelope outside "
-"of automation items"
+msgid "Envelope: Obey project default setting to bypass underlying envelope outside of automation items"
 msgstr ""
 
 #: ;641B707AC790F0AF
@@ -4470,14 +4301,11 @@ msgid "Envelope: Automation items do not connect to the underlying envelope"
 msgstr ""
 
 #: ;5690EAD065AAD964
-msgid ""
-"Envelope: Automation items connect to the underlying envelope on the right "
-"side"
+msgid "Envelope: Automation items connect to the underlying envelope on the right side"
 msgstr ""
 
 #: ;0C829ADBD5AE4533
-msgid ""
-"Envelope: Automation items connect to the underlying envelope on both sides"
+msgid "Envelope: Automation items connect to the underlying envelope on both sides"
 msgstr ""
 
 #: ;532437560B08CD63
@@ -4697,14 +4525,11 @@ msgid "Track: Link track volume/pan controls to MIDI volume/pan on channel 16"
 msgstr ""
 
 #: ;ABE3B640A20C2777
-msgid ""
-"Track: Link track volume/pan controls to MIDI volume/pan on all channels"
+msgid "Track: Link track volume/pan controls to MIDI volume/pan on all channels"
 msgstr ""
 
 #: ;EB190F8E77A8CC29
-msgid ""
-"Track: Toggle link/unlink track volume/pan controls to MIDI volume/pan on "
-"all channels"
+msgid "Track: Toggle link/unlink track volume/pan controls to MIDI volume/pan on all channels"
 msgstr ""
 
 #: ;5ECA98EF9217D71C
@@ -4720,9 +4545,7 @@ msgid "Options: When importing, copy imported media to project media directory"
 msgstr ""
 
 #: ;FF42DA4D3FD57B43
-msgid ""
-"Options: Move edit cursor to start of time selection, when time selection "
-"changes"
+msgid "Options: Move edit cursor to start of time selection, when time selection changes"
 msgstr ""
 
 #: ;7646D8B840298CAF
@@ -4890,8 +4713,7 @@ msgid "Envelope: Insert 4 envelope points at time selection"
 msgstr ""
 
 #: ;4FCF9D7426C8AEBB
-msgid ""
-"Envelope: Insert new point at current position to all visible track envelopes"
+msgid "Envelope: Insert new point at current position to all visible track envelopes"
 msgstr ""
 
 #: ;8DC68E4CB580811B
@@ -5039,9 +4861,7 @@ msgid "Options: Loop new automation items by default"
 msgstr ""
 
 #: ;BC39FD4DC822D165
-msgid ""
-"Options: Trim content behind automation items when editing or writing "
-"automation"
+msgid "Options: Trim content behind automation items when editing or writing automation"
 msgstr ""
 
 #: ;2DEB9996077C95B6
@@ -5049,9 +4869,7 @@ msgid "Options: Always create new automation items when writing automation"
 msgstr ""
 
 #: ;50301FE38C5A3860
-msgid ""
-"Options: Automatically insert automation item when activating envelope that "
-"is bypassed outside of automation items and not displayed in envelope lane"
+msgid "Options: Automatically insert automation item when activating envelope that is bypassed outside of automation items and not displayed in envelope lane"
 msgstr ""
 
 #: ;D4B61581B4BE1943
@@ -5167,13 +4985,11 @@ msgid "Take: Set all takes of selected items to default color"
 msgstr ""
 
 #: ;2FCD1E45E5E6B210
-msgid ""
-"Take: Set all takes created in the same recording pass to custom color..."
+msgid "Take: Set all takes created in the same recording pass to custom color..."
 msgstr ""
 
 #: ;DE52F88531F8ADE2
-msgid ""
-"Take: Set all takes created in the same recording pass to one random color"
+msgid "Take: Set all takes created in the same recording pass to one random color"
 msgstr ""
 
 #: ;DD9F5EE6DF45D828
@@ -5289,8 +5105,7 @@ msgid "Transport: Center transport controls"
 msgstr ""
 
 #: ;64C3D165DE411150
-msgid ""
-"Transport: Toggle preserve pitch in audio items when changing master playrate"
+msgid "Transport: Toggle preserve pitch in audio items when changing master playrate"
 msgstr ""
 
 #: ;3237F4DD3FFFD0B8
@@ -5650,8 +5465,7 @@ msgid "View: Adjust horizontal zoom (MIDI CC/OSC only)"
 msgstr ""
 
 #: ;F8BDB17104DB76DA
-msgid ""
-"View: Adjust horizontal scroll (MIDI CC/OSC only - relative recommended)"
+msgid "View: Adjust horizontal scroll (MIDI CC/OSC only - relative recommended)"
 msgstr ""
 
 #: ;E3AF6377B6C2E09B
@@ -6595,50 +6409,35 @@ msgid "Envelopes: Move selected points down a little bit"
 msgstr ""
 
 #: ;DD4DEC1D4C54684F
-msgid ""
-"Automation: Write current values for all writing envelopes to time selection"
+msgid "Automation: Write current values for all writing envelopes to time selection"
 msgstr ""
 
 #: ;E1F26AAD1A6752D6
-msgid ""
-"Automation: Write current values for all writing envelopes from cursor to "
-"start of project"
+msgid "Automation: Write current values for all writing envelopes from cursor to start of project"
 msgstr ""
 
 #: ;B9F731FD3CC26A65
-msgid ""
-"Automation: Write current values for all writing envelopes from cursor to "
-"end of project"
+msgid "Automation: Write current values for all writing envelopes from cursor to end of project"
 msgstr ""
 
 #: ;4D5279B398E91072
-msgid ""
-"Automation: Write current values for actively-writing envelopes to time "
-"selection"
+msgid "Automation: Write current values for actively-writing envelopes to time selection"
 msgstr ""
 
 #: ;9F462AEBA247F7DB
-msgid ""
-"Automation: Write current values for actively-writing envelopes from cursor "
-"to start of project"
+msgid "Automation: Write current values for actively-writing envelopes from cursor to start of project"
 msgstr ""
 
 #: ;E6F1CB8FB7847C18
-msgid ""
-"Automation: Write current values for actively-writing envelopes from cursor "
-"to end of project"
+msgid "Automation: Write current values for actively-writing envelopes from cursor to end of project"
 msgstr ""
 
 #: ;131D83E61D440E43
-msgid ""
-"Automation: Write current values for actively-writing envelopes from cursor "
-"to first touch position"
+msgid "Automation: Write current values for actively-writing envelopes from cursor to first touch position"
 msgstr ""
 
 #: ;B03CECEAF7124F68
-msgid ""
-"Automation: Write current values for actively-writing envelopes to entire "
-"envelope"
+msgid "Automation: Write current values for actively-writing envelopes to entire envelope"
 msgstr ""
 
 #: ;40FE833340A41073
@@ -6706,9 +6505,7 @@ msgid "Comp takes: Move active comp to top lane"
 msgstr ""
 
 #: ;CE8FE53EFC0A3F17
-msgid ""
-"Comp takes: Choose active comp for item under mouse (and all other items in "
-"the comp)"
+msgid "Comp takes: Choose active comp for item under mouse (and all other items in the comp)"
 msgstr ""
 
 #: ;4DA6D8511D33D252
@@ -7054,3 +6851,4 @@ msgstr ""
 #: ;^F8E6A0B81A77C5E9
 msgid "Reset all MIDI devices"
 msgstr ""
+

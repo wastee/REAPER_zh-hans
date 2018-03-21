@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;CF3D149F4194FD91
@@ -21,8 +21,7 @@ msgid ") for media items."
 msgstr ""
 
 #: ;B70526D162EC1270
-msgid ""
-"Draw approximate peaks for media items that are currently being recorded."
+msgid "Draw approximate peaks for media items that are currently being recorded."
 msgstr ""
 
 #: ;A94567A489A953BF
@@ -30,142 +29,94 @@ msgid "Only draw peaks for selected media items."
 msgstr ""
 
 #: ;3D701AAA1834E027
-msgid ""
-"Only draw peaks for tracks and items that are soloed or not muted (only for "
-"audio and MIDI that will be heard during playback)."
+msgid "Only draw peaks for tracks and items that are soloed or not muted (only for audio and MIDI that will be heard during playback)."
 msgstr ""
 
 #: ;99A0D663C126477E
-msgid ""
-"Draw faint audio peaks/waveforms and MIDI notes in folder tracks, to "
-"represent the contents of the child tracks."
+msgid "Draw faint audio peaks/waveforms and MIDI notes in folder tracks, to represent the contents of the child tracks."
 msgstr ""
 
 #: ;34D742359017D89C
-msgid ""
-"Draw faint audio peaks/waveforms and MIDI notes in envelope lanes, for "
-"easier timing adjustment."
+msgid "Draw faint audio peaks/waveforms and MIDI notes in envelope lanes, for easier timing adjustment."
 msgstr ""
 
 #: ;CBC6063FBCA3E4F5
-msgid ""
-"Draw a colored edge (defined in the color theme) around media item peaks. "
-"Color theme may override this preference."
+msgid "Draw a colored edge (defined in the color theme) around media item peaks. Color theme may override this preference."
 msgstr ""
 
 #: ;7B2DD4730846F219
-msgid ""
-"Draw a colored edge (defined in the color theme) around media item waveforms "
-"(when there is at least one screen pixel per audio sample). Color theme may "
-"override this preference."
+msgid "Draw a colored edge (defined in the color theme) around media item waveforms (when there is at least one screen pixel per audio sample). Color theme may override this preference."
 msgstr ""
 
 #: ;6B5AB7081B65AB32
-msgid ""
-"Draw smooth audio peaks and waveforms. Color theme may override this "
-"preference."
+msgid "Draw smooth audio peaks and waveforms. Color theme may override this preference."
 msgstr ""
 
 #: ;0C6865DF13D366CA
-msgid ""
-"The method used to draw the most zoomed-in audio view (when the exact "
-"location of each sample is drawn)."
+msgid "The method used to draw the most zoomed-in audio view (when the exact location of each sample is drawn)."
 msgstr ""
 
 #: ;1B84D6F64C4459BF
-msgid ""
-"Draw the zero line overlaid on the audio peaks (otherwise the zero line is "
-"hidden behind the audio)."
+msgid "Draw the zero line overlaid on the audio peaks (otherwise the zero line is hidden behind the audio)."
 msgstr ""
 
 #: ;8AA061DCB9A66B8A
-msgid ""
-"Adjust audio peak drawing to reflect any track envelope that will affect the "
-"audio item before FX are applied."
+msgid "Adjust audio peak drawing to reflect any track envelope that will affect the audio item before FX are applied."
 msgstr ""
 
 #: ;EC1D5A533AA78E29
-msgid ""
-"Draw a colored edge (defined in the color theme) around MIDI notes in media "
-"items. Color theme may override this preference."
+msgid "Draw a colored edge (defined in the color theme) around MIDI notes in media items. Color theme may override this preference."
 msgstr ""
 
 #: ;67C8378720291149
-msgid ""
-"Choose whether media item waveform peaks are tinted by custom track, item, "
-"or take colors."
+msgid "Choose whether media item waveform peaks are tinted by custom track, item, or take colors."
 msgstr ""
 
 #: ;C58E75B0A0A49547
-msgid ""
-"Choose whether media item backgrounds are tinted by custom track, item, or "
-"take colors."
+msgid "Choose whether media item backgrounds are tinted by custom track, item, or take colors."
 msgstr ""
 
 #: ;CA38A8384880B5B4
-msgid ""
-"Tint media item waveform peaks by the custom track color, if any. Color "
-"theme may override this preference."
+msgid "Tint media item waveform peaks by the custom track color, if any. Color theme may override this preference."
 msgstr ""
 
 #: ;38857D1D794761AF
-msgid ""
-"Tint media item waveform peaks by the custom item color, if any. This "
-"overrides a custom track color. Color theme may override this preference."
+msgid "Tint media item waveform peaks by the custom item color, if any. This overrides a custom track color. Color theme may override this preference."
 msgstr ""
 
 #: ;EED1F497ED3E476B
-msgid ""
-"Tint media item waveform peaks by the custom take color, if any. This "
-"overrides a custom track or item color. Color theme may override this "
-"preference."
+msgid "Tint media item waveform peaks by the custom take color, if any. This overrides a custom track or item color. Color theme may override this preference."
 msgstr ""
 
 #: ;5B0FE53A17FA6F4C
-msgid ""
-"Tint media item backgrounds by the custom track color, if any. Color theme "
-"may override this preference."
+msgid "Tint media item backgrounds by the custom track color, if any. Color theme may override this preference."
 msgstr ""
 
 #: ;263D195AB1E611C7
-msgid ""
-"Tint media item backgrounds by the custom item color, if any. This overrides "
-"a custom track color. Color theme may override this preference."
+msgid "Tint media item backgrounds by the custom item color, if any. This overrides a custom track color. Color theme may override this preference."
 msgstr ""
 
 #: ;2204AF90A2FC2963
-msgid ""
-"Tint media item backgrounds by the custom take color, if any. This overrides "
-"a custom track or item color. Color theme may override this preference."
+msgid "Tint media item backgrounds by the custom take color, if any. This overrides a custom track or item color. Color theme may override this preference."
 msgstr ""
 
 #: ;71162EFAC509EB79
-msgid ""
-"How much custom color to blend into the selected media item background. Zero "
-"means do not use the custom color. Color theme may override this preference."
+msgid "How much custom color to blend into the selected media item background. Zero means do not use the custom color. Color theme may override this preference."
 msgstr ""
 
 #: ;060906D618DE3D74
-msgid ""
-"How much custom color to blend into the unselected media item background. "
-"Zero means do not use the custom color. Color theme may override this "
-"preference."
+msgid "How much custom color to blend into the unselected media item background. Zero means do not use the custom color. Color theme may override this preference."
 msgstr ""
 
 #: ;ACFD88EDCFBD71EA
-msgid ""
-"When recording, automatically apply the same color to all takes that are "
-"created in the same recording pass."
+msgid "When recording, automatically apply the same color to all takes that are created in the same recording pass."
 msgstr ""
 
 #: ;A8F1D583CFA16BC8
-msgid ""
-"Automatically apply the same color to all MIDI media items that share the "
-"same pooled (ghosted) MIDI source data."
+msgid "Automatically apply the same color to all MIDI media items that share the same pooled (ghosted) MIDI source data."
 msgstr ""
 
 #: ;F36541511CD33299
-msgid ""
-"Custom take colors override custom item colors, which override custom track "
-"colors. You can also set colors from the track and item context menus."
+msgid "Custom take colors override custom item colors, which override custom track colors. You can also set colors from the track and item context menus."
 msgstr ""
+

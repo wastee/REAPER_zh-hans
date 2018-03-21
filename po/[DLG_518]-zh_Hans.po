@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;AF924A0E2CDF74CB
@@ -17,9 +17,7 @@ msgid "Loop recording settings"
 msgstr ""
 
 #: ;4F2B31BBF3D2C295
-msgid ""
-"In loop recording, discard incomplete first or last takes if at least one "
-"full loop was recorded"
+msgid "In loop recording, discard incomplete first or last takes if at least one full loop was recorded"
 msgstr ""
 
 #: ;376DE05863AFD4A7
@@ -27,8 +25,7 @@ msgid "Threshold for complete take:"
 msgstr ""
 
 #: ;AEF2A1CEFBD11981
-msgid ""
-"MIDI overdub/replace recording always creates selection-length media item"
+msgid "MIDI overdub/replace recording always creates selection-length media item"
 msgstr ""
 
 #: ;208EE71E50F7ABCB
@@ -44,11 +41,10 @@ msgid "Create new files on loop"
 msgstr ""
 
 #: ;04B1EA7C5BB5F4F8
-msgid ""
-"At each loop (creates new files, good for recording multiple audio layers on "
-"the fly etc)"
+msgid "At each loop (creates new files, good for recording multiple audio layers on the fly etc)"
 msgstr ""
 
 #: ;^0832A307B4EB9DCE
 msgid "%"
 msgstr ""
+

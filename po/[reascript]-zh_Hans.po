@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;3F9840127B1E1C62
@@ -29,9 +29,7 @@ msgid "%s is running in background."
 msgstr ""
 
 #: ;D4E988B4E46D5188
-msgid ""
-"Would you like to terminate all instances of this script, or launch a new "
-"instance?"
+msgid "Would you like to terminate all instances of this script, or launch a new instance?"
 msgstr ""
 
 #: ;6DE278F971361288
@@ -71,9 +69,7 @@ msgid "Lua error executing %s code in \"%s\""
 msgstr ""
 
 #: ;08921F1E4DF2B11B
-msgid ""
-"'%s' is taking a long time to run (the timeout length may be changed in "
-"Preferences/Plug-Ins/Reascript)."
+msgid "'%s' is taking a long time to run (the timeout length may be changed in Preferences/Plug-Ins/Reascript)."
 msgstr ""
 
 #: ;368EE8FEE95E56E7
@@ -139,3 +135,4 @@ msgstr ""
 #: ;6ED09B58A5A17B70
 msgid "Deferred script execution error\r\n"
 msgstr ""
+

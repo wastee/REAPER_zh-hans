@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;D01D0F925E9AC2F4
@@ -33,9 +33,7 @@ msgid "Trim/Read (default, faders are active for trim but not recorded)"
 msgstr ""
 
 #: ;97C9225E101F0032
-msgid ""
-"Latch Preview (allow temporary override of armed envelopes but do not write "
-"changes)"
+msgid "Latch Preview (allow temporary override of armed envelopes but do not write changes)"
 msgstr ""
 
 #: ;^DEF52717C4E7101F
@@ -57,3 +55,4 @@ msgstr ""
 #: ;^5A6DE0CA99B71E37
 msgid "Show all active track envelopes"
 msgstr ""
+

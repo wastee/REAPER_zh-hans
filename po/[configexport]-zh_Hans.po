@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;BD8C7C224FCA555F
@@ -173,9 +173,7 @@ msgid "1 item failed to install (look in the item list to see what failed)"
 msgstr ""
 
 #: ;A8F157E62CA6299E
-msgid ""
-"%d items failed to install (you can look in the list to see which items "
-"failed)"
+msgid "%d items failed to install (you can look in the list to see which items failed)"
 msgstr ""
 
 #: ;F3628AE4F3013392
@@ -199,26 +197,23 @@ msgid "Import will install %d files"
 msgstr ""
 
 #: ;5A21EFEDAB4F44FF
-msgid "and modify 1 file"
+msgid " and modify 1 file"
 msgstr ""
 
 #: ;BD7CFFF2A0861E1A
-msgid "and modify %d files"
+msgid " and modify %d files"
 msgstr ""
 
 #: ;3BC962712055D904
-msgid "and REMOVE 1 file!"
+msgid " and REMOVE 1 file!"
 msgstr ""
 
 #: ;BC15D33B8E7A1967
-msgid "and REMOVE %d files!"
+msgid " and REMOVE %d files!"
 msgstr ""
 
 #: ;18347C10C98CD94D
-msgid ""
-"Importing configuration will require REAPER to restart. You will be prompted "
-"to save any open projects, and will get to review the configuration before "
-"installing. Proceed?"
+msgid "Importing configuration will require REAPER to restart. You will be prompted to save any open projects, and will get to review the configuration before installing. Proceed?"
 msgstr ""
 
 #: ;5ED4338681DE1E25
@@ -244,3 +239,4 @@ msgstr ""
 #: ;^ADE62F1CFD2974B6
 msgid "Scanning..."
 msgstr ""
+

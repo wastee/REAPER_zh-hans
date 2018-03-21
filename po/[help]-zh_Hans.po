@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;7B0B1B9BE0E0454E
@@ -17,7 +17,7 @@ msgid "CPU: %.1f%%  RAM: %uMB"
 msgstr ""
 
 #: ;6561DE4499D14662
-msgid "last save:"
+msgid "  last save: "
 msgstr ""
 
 #: ;858AD7CDB1332348
@@ -61,7 +61,7 @@ msgid "[input]"
 msgstr ""
 
 #: ;B8EE889E524209C1
-msgid "[IO] none"
+msgid " [IO] none"
 msgstr ""
 
 #: ;464FDD80C56381B9
@@ -127,3 +127,4 @@ msgstr ""
 #: ;^11769ACBDEF004CC
 msgid "Edit tempo/time signature marker"
 msgstr ""
+

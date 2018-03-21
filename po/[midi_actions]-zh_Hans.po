@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;A97D415B0FD742FD
@@ -165,9 +165,7 @@ msgid "Options: Preview on keyboard action (when preview is enabled)"
 msgstr ""
 
 #: ;FEA1BEC4A8C5172A
-msgid ""
-"Options: Preview all selected notes that overlap with the edited note (when "
-"preview is enabled)"
+msgid "Options: Preview all selected notes that overlap with the edited note (when preview is enabled)"
 msgstr ""
 
 #: ;7A114733F8F233C9
@@ -487,9 +485,7 @@ msgid "Notation: Transposing display also affects key signatures on the track"
 msgstr ""
 
 #: ;334E88AB0ADE4BA7
-msgid ""
-"Notation: When transposing display, show transposed semitones below key "
-"signatures"
+msgid "Notation: When transposing display, show transposed semitones below key signatures"
 msgstr ""
 
 #: ;DE85B6F6FA16743B
@@ -909,8 +905,7 @@ msgid "Notation: Set minimum display quantization note length to 1/128"
 msgstr ""
 
 #: ;32752A2F95E7AF21
-msgid ""
-"Notation: Set minimum display quantization note length to 1/64 (default)"
+msgid "Notation: Set minimum display quantization note length to 1/64 (default)"
 msgstr ""
 
 #: ;CAB288BC7D2AC5E6
@@ -1074,15 +1069,11 @@ msgid "Show menu of MIDI note name files at mouse cursor"
 msgstr ""
 
 #: ;BB391CE045020C28
-msgid ""
-"Edit: Paste events into the active MIDI media item regardless of source MIDI "
-"media item"
+msgid "Edit: Paste events into the active MIDI media item regardless of source MIDI media item"
 msgstr ""
 
 #: ;670DC9CD22CE7229
-msgid ""
-"Edit: Paste events preserving position in measure, into the active MIDI "
-"media item regardless of source MIDI media item"
+msgid "Edit: Paste events preserving position in measure, into the active MIDI media item regardless of source MIDI media item"
 msgstr ""
 
 #: ;210CB656F59E84C5
@@ -1090,18 +1081,15 @@ msgid "Options: Show tooltips in MIDI track list"
 msgstr ""
 
 #: ;FA6C92F02CDC3C65
-msgid ""
-"Options: MIDI track list/media item lane selection is linked to editability"
+msgid "Options: MIDI track list/media item lane selection is linked to editability"
 msgstr ""
 
 #: ;162EBB9C08863A55
-msgid ""
-"Options: MIDI track list/media item lane selection is linked to visibility"
+msgid "Options: MIDI track list/media item lane selection is linked to visibility"
 msgstr ""
 
 #: ;6AA5061B6E53203F
-msgid ""
-"Options: Only MIDI items on the same track as the active item are editable"
+msgid "Options: Only MIDI items on the same track as the active item are editable"
 msgstr ""
 
 #: ;E9B49CE816504702
@@ -1137,14 +1125,11 @@ msgid "Contents: Show/hide media item lane"
 msgstr ""
 
 #: ;CAE9C7D719C42445
-msgid ""
-"Options: Track list/media item lane follows selection changes in arrange view"
+msgid "Options: Track list/media item lane follows selection changes in arrange view"
 msgstr ""
 
 #: ;9AA50A191AA9D4BB
-msgid ""
-"Options: Close MIDI editor when the active media item is deleted in the "
-"arrange view"
+msgid "Options: Close MIDI editor when the active media item is deleted in the arrange view"
 msgstr ""
 
 #: ;A4767523092FE120
@@ -1208,15 +1193,11 @@ msgid "Contents: Display editor contents menu at mouse position"
 msgstr ""
 
 #: ;432142BABA4508F2
-msgid ""
-"Contents: Activate previous MIDI media item on this track, clearing the "
-"editor first"
+msgid "Contents: Activate previous MIDI media item on this track, clearing the editor first"
 msgstr ""
 
 #: ;29039D9A64684B6A
-msgid ""
-"Contents: Activate next MIDI media item on this track, clearing the editor "
-"first"
+msgid "Contents: Activate next MIDI media item on this track, clearing the editor first"
 msgstr ""
 
 #: ;83DFCF5852873345
@@ -1224,15 +1205,11 @@ msgid "Contents: Display all MIDI media items on this track"
 msgstr ""
 
 #: ;23F06A2946CBC4D0
-msgid ""
-"Contents: Activate previous MIDI media item on this track, preserving "
-"existing editor contents"
+msgid "Contents: Activate previous MIDI media item on this track, preserving existing editor contents"
 msgstr ""
 
 #: ;AADDE6D4F2D27B08
-msgid ""
-"Contents: Activate next MIDI media item on this track, preserving existing "
-"editor contents"
+msgid "Contents: Activate next MIDI media item on this track, preserving existing editor contents"
 msgstr ""
 
 #: ;962848F025ECFD51
@@ -1728,15 +1705,11 @@ msgid "Navigate: Move edit cursor to start of next measure"
 msgstr ""
 
 #: ;9F9A07182658CEFA
-msgid ""
-"Navigate: Move edit cursor to start of selected events in active MIDI media "
-"item"
+msgid "Navigate: Move edit cursor to start of selected events in active MIDI media item"
 msgstr ""
 
 #: ;A4937C8EFAFA04CD
-msgid ""
-"Navigate: Move edit cursor to end of selected events in active MIDI media "
-"item"
+msgid "Navigate: Move edit cursor to end of selected events in active MIDI media item"
 msgstr ""
 
 #: ;79BAE013AA7E4B51
@@ -1784,9 +1757,7 @@ msgid "View: Zoom to project loop selection"
 msgstr ""
 
 #: ;45D7EC54448251F1
-msgid ""
-"Options: Display 14-bit MSB/LSB CC data as a single entry in event list view "
-"and event properties dialog"
+msgid "Options: Display 14-bit MSB/LSB CC data as a single entry in event list view and event properties dialog"
 msgstr ""
 
 #: ;29CA1910A3FA5207
@@ -1794,9 +1765,7 @@ msgid "Options: Double-click extends the bounds of the nearest media item"
 msgstr ""
 
 #: ;B3E2DEA3C4B15F91
-msgid ""
-"Options: Enable extending parent media item when editing MIDI notes (if "
-"parent item is exactly the length of the MIDI content)"
+msgid "Options: Enable extending parent media item when editing MIDI notes (if parent item is exactly the length of the MIDI content)"
 msgstr ""
 
 #: ;8BA76FC76F403196
@@ -1852,8 +1821,7 @@ msgid "Edit: Select all CC events in time selection (in last clicked CC lane)"
 msgstr ""
 
 #: ;31E92F00ADDAD889
-msgid ""
-"Edit: Select all CC events in time selection (even if CC lane is hidden)"
+msgid "Edit: Select all CC events in time selection (even if CC lane is hidden)"
 msgstr ""
 
 #: ;C9F93869572801BD
@@ -1973,9 +1941,7 @@ msgid "Edit: Duplicate events within time selection (do not trim notes)"
 msgstr ""
 
 #: ;BAE5BBE281FEAC4B
-msgid ""
-"Edit: Duplicate events within time selection, if any (smart duplicate) (do "
-"not trim notes)"
+msgid "Edit: Duplicate events within time selection, if any (smart duplicate) (do not trim notes)"
 msgstr ""
 
 #: ;652378F394ED7074
@@ -2147,11 +2113,11 @@ msgid "Select all notes with the same pitch"
 msgstr ""
 
 #: ;DCC57A9B0AE7F903
-msgid "Navigate: Select previous note with the same channel"
+msgid "Navigate: Select previous note with the same channel "
 msgstr ""
 
 #: ;610D3372D2A4054B
-msgid "Navigate: Select next note with the same channel"
+msgid "Navigate: Select next note with the same channel "
 msgstr ""
 
 #: ;A52A4069B4A8F589
@@ -2171,15 +2137,11 @@ msgid "Navigate: Select next note with the same voice (notation view)"
 msgstr ""
 
 #: ;2EDE2029F168F158
-msgid ""
-"Navigate: Select previous note on the same staff with the same voice "
-"(notation view)"
+msgid "Navigate: Select previous note on the same staff with the same voice (notation view)"
 msgstr ""
 
 #: ;B8AE60A81E6FE250
-msgid ""
-"Navigate: Select next note on the same staff with the same voice (notation "
-"view)"
+msgid "Navigate: Select next note on the same staff with the same voice (notation view)"
 msgstr ""
 
 #: ;012EBC9D2B6B5669
@@ -2603,19 +2565,19 @@ msgid "CC: Set CC lane to"
 msgstr ""
 
 #: ;DBBAB3326B686454
-msgid "Insert note:"
+msgid "Insert note: "
 msgstr ""
 
 #: ;39E2633651F5ADAD
-msgid "Cursor: Advance"
+msgid "Cursor: Advance "
 msgstr ""
 
 #: ;1D1C89DBB1032FAB
-msgid "Set length for next inserted note:"
+msgid "Set length for next inserted note: "
 msgstr ""
 
 #: ;14B9227A11B91CFC
-msgid "Edit: Set note length to"
+msgid "Edit: Set note length to "
 msgstr ""
 
 #: ;^887AC55D66DDCCA9
@@ -2937,3 +2899,4 @@ msgstr ""
 #: ;^F8E6A0B81A77C5E9
 msgid "Reset all MIDI devices"
 msgstr ""
+

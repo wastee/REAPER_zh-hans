@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;A6FB7369B03EE231
@@ -69,9 +69,7 @@ msgid "bytes (default is 65536)"
 msgstr ""
 
 #: ;235A0D444D9A4C2A
-msgid ""
-"You may need to close and reopen your project for these settings to take "
-"effect."
+msgid "You may need to close and reopen your project for these settings to take effect."
 msgstr ""
 
 #: ;ABE2215BC145ED60
@@ -111,8 +109,7 @@ msgid "Note: Asynchronous modes are ignored on Windows 95/98/ME."
 msgstr ""
 
 #: ;02F9E53BF6E2C2A9
-msgid ""
-"Allow memory mapping of peak-files (faster, but uses more address space)"
+msgid "Allow memory mapping of peak-files (faster, but uses more address space)"
 msgstr ""
 
 #: ;^2A487F4A2E60E324
@@ -130,3 +127,4 @@ msgstr ""
 #: ;^122368E92DE6E29F
 msgid "Reset to defaults"
 msgstr ""
+

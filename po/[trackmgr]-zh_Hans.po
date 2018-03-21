@@ -1,5 +1,6 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
@@ -69,10 +70,6 @@ msgstr ""
 
 #: ;DAD1F48150E4447D
 msgid "Hide in MIDI editor track list"
-msgstr ""
-
-#: ;^AF63BD4C8601B7DF
-msgid ""
 msgstr ""
 
 #: ;^0832A507B4EBA134

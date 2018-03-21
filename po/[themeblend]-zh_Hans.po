@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
-"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;D64ABE7656056465
@@ -33,69 +33,43 @@ msgid "?"
 msgstr ""
 
 #: ;442703CBF9806FF4
-msgid ""
-"The blend color is drawn over the base color. Alpha closer to zero allows "
-"more of the base color to show through."
+msgid "The blend color is drawn over the base color. Alpha closer to zero allows more of the base color to show through."
 msgstr ""
 
 #: ;E12CE2B25CC52833
-msgid ""
-"CPU cost:\r\n"
-"lowest"
+msgid "CPU cost:\r\nlowest"
 msgstr ""
 
 #: ;DBD31747391089F2
-msgid ""
-"The blend color is added to the underlying color. Dark colors become "
-"lighter, light colors are less affected. A black blend color has no effect, "
-"a white blend color always results in white."
+msgid "The blend color is added to the underlying color. Dark colors become lighter, light colors are less affected. A black blend color has no effect, a white blend color always results in white."
 msgstr ""
 
 #: ;369F5B8F8989777D
-msgid ""
-"The blend color is overlaid onto the base color. Dark base colors become "
-"lighter, and light colors become darker. Alpha closer to zero reduces the "
-"amount of overlay."
+msgid "The blend color is overlaid onto the base color. Dark base colors become lighter, and light colors become darker. Alpha closer to zero reduces the amount of overlay."
 msgstr ""
 
 #: ;9E7000DF2A21A7A5
-msgid ""
-"CPU cost:\r\n"
-"high"
+msgid "CPU cost:\r\nhigh"
 msgstr ""
 
 #: ;1833A600140DC7CB
-msgid ""
-"The blend color is multiplied with the base color. A black blend color "
-"always results in black, a white blend color has no effect."
+msgid "The blend color is multiplied with the base color. A black blend color always results in black, a white blend color has no effect."
 msgstr ""
 
 #: ;8705C5E4122C1ED8
-msgid ""
-"CPU cost:\r\n"
-"moderate"
+msgid "CPU cost:\r\nmoderate"
 msgstr ""
 
 #: ;67943E106FB37E22
-msgid ""
-"The blend color is color-dodged with the base color. Dark areas in the base "
-"color will be tinted lighter, toward the blend color, light areas in the "
-"base color will be less affected. A black blend color has no effect."
+msgid "The blend color is color-dodged with the base color. Dark areas in the base color will be tinted lighter, toward the blend color, light areas in the base color will be less affected. A black blend color has no effect."
 msgstr ""
 
 #: ;F1B2827498E4206A
-msgid ""
-"Each RGB element in the blend color is interpreted as an offset from 128. R "
-"rotates hue , G adjusts saturation, B adjusts color value. A blend color of "
-"gray (128,128,128) has no effect. (192,96,255) will rotate the base hue +1/4 "
-"way around the color wheel, subtract 1/2 from the base saturation, and "
-"increase the base color value to full."
+msgid "Each RGB element in the blend color is interpreted as an offset from 128. R rotates hue , G adjusts saturation, B adjusts color value. A blend color of gray (128,128,128) has no effect. (192,96,255) will rotate the base hue +1/4 way around the color wheel, subtract 1/2 from the base saturation, and increase the base color value to full."
 msgstr ""
 
 #: ;24E2D1DBE7065C87
-msgid ""
-"CPU cost:\r\n"
-"highest"
+msgid "CPU cost:\r\nhighest"
 msgstr ""
 
 #: ;^63ACD193C4316F68
@@ -105,3 +79,4 @@ msgstr ""
 #: ;^18E4377E5DDC2B7A
 msgid "Add"
 msgstr ""
+
