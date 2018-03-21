@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 07:33+0000\n"
+"PO-Revision-Date: 2018-03-21 08:17+0000\n"
 "Last-Translator: kevin <2386898267@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/about/zh_Hans/>\n"
@@ -137,4 +137,4 @@ msgstr "更新日志"
 
 #: ;^756B500741E261D4
 msgid "Import license key..."
-msgstr ""
+msgstr "导入授权密钥..."
