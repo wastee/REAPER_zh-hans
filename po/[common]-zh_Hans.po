@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 06:15+0000\n"
-"Last-Translator: Tee <i@lado.me>\n"
+"PO-Revision-Date: 2018-03-21 06:36+0000\n"
+"Last-Translator: kevin <2386898267@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: ;042F4DCA75E1BE47
 msgid "16 bit"
-msgstr ""
+msgstr "test"
 
 #: ;CC85D146650F3E66
 msgid "24 bit"
