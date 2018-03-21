@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;20A393F3D3AFA090
@@ -44,11 +45,13 @@ msgid "Error importing markers from file"
 msgstr ""
 
 #: ;75C7E1516D9F2C59
-msgid "The file should have 1-6 fields per line, separated by whitespace or commas."
+msgid ""
+"The file should have 1-6 fields per line, separated by whitespace or commas."
 msgstr ""
 
 #: ;F977CC75F7FF827D
-msgid "The first line of the file may be a header row. Allowable header fields are:"
+msgid ""
+"The first line of the file may be a header row. Allowable header fields are:"
 msgstr ""
 
 #: ;92D50CDF8BD3B427
@@ -138,4 +141,3 @@ msgstr ""
 #: ;^AFCA4361EC2D09C2
 msgid "Show/hide columns:"
 msgstr ""
-
