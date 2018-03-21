@@ -1,69 +1,97 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;F67975F4767A253F
-msgid "Mousewheel messages are passed to the window under the mouse cursor (default), or the currently focused/active window."
+msgid ""
+"Mousewheel messages are passed to the window under the mouse cursor "
+"(default), or the currently focused/active window."
 msgstr ""
 
 #: ;59FD2A0A725F45F2
-msgid "When the mouse cursor is over any fader, the mousewheel can move the fader, or not."
+msgid ""
+"When the mouse cursor is over any fader, the mousewheel can move the fader, "
+"or not."
 msgstr ""
 
 #: ;F7E9AF5F31BC16FE
-msgid "Allow mousewheel edit of all mixer, plugin, and send faders, but not volume/pan faders in the track and mixer control panels."
+msgid ""
+"Allow mousewheel edit of all mixer, plugin, and send faders, but not volume/"
+"pan faders in the track and mixer control panels."
 msgstr ""
 
 #: ;0C8C2D8F2CF852F7
-msgid "Disable mousewheel editing of project playrate, project tempo, and time selection start/end/length fields in the transport area."
+msgid ""
+"Disable mousewheel editing of project playrate, project tempo, and time "
+"selection start/end/length fields in the transport area."
 msgstr ""
 
 #: ;51DD672ACD88C4D7
-msgid "Mousewheel editing of the time selection fields in the transport can change the time selection by a small amount, or by the project beat grid."
+msgid ""
+"Mousewheel editing of the time selection fields in the transport can change "
+"the time selection by a small amount, or by the project beat grid."
 msgstr ""
 
 #: ;3D42B29B6D5A6AC7
-msgid "Some trackpads can send scroll messages. Reaper can try to convert these to mousewheel messages."
+msgid ""
+"Some trackpads can send scroll messages. Reaper can try to convert these to "
+"mousewheel messages."
 msgstr ""
 
 #: ;9C702B2F8DCB268D
-msgid "Clicking faders and buttons on track control panels can select the track, otherwise only clicking empty track control space will select."
+msgid ""
+"Clicking faders and buttons on track control panels can select the track, "
+"otherwise only clicking empty track control space will select."
 msgstr ""
 
 #: ;133E0703BF6E5D18
-msgid "Enable editing track names with a single mouse click (default requires double click)."
+msgid ""
+"Enable editing track names with a single mouse click (default requires "
+"double click)."
 msgstr ""
 
 #: ;D380976C635C7C74
-msgid "Clicking in the arrange view can select that track, otherwise tracks can only be selected by clicking the track control panel."
+msgid ""
+"Clicking in the arrange view can select that track, otherwise tracks can "
+"only be selected by clicking the track control panel."
 msgstr ""
 
 #: ;2E1CA4DF36D530D4
-msgid "Clicking in the arrange view below the last track can deselect all media items, just as a click on empty track space does."
+msgid ""
+"Clicking in the arrange view below the last track can deselect all media "
+"items, just as a click on empty track space does."
 msgstr ""
 
 #: ;52C8EEFEFCA4A0F5
-msgid "Allow editing the time selection where the selection edge passes through a media item, otherwise dragging will move the media item."
+msgid ""
+"Allow editing the time selection where the selection edge passes through a "
+"media item, otherwise dragging will move the media item."
 msgstr ""
 
 #: ;14313D92982F828A
-msgid "Allow resizing the ruler height by dragging the bottom of the ruler. Otherwise the ruler can be resized by dragging below the toolbar."
+msgid ""
+"Allow resizing the ruler height by dragging the bottom of the ruler. "
+"Otherwise the ruler can be resized by dragging below the toolbar."
 msgstr ""
 
 #: ;0EA7AD786346117F
-msgid "Control+click can be used for one-button mice to emulate right-click behavior, but then the control key will not be available as a mouse modifier."
+msgid ""
+"Control+click can be used for one-button mice to emulate right-click "
+"behavior, but then the control key will not be available as a mouse modifier."
 msgstr ""
 
 #: ;9536EFBC51B5B368
-msgid "If you use a pen or tablet or other absolute pointing device as a mouse, this will improve behavior when adjusting REAPER's knobs"
+msgid ""
+"If you use a pen or tablet or other absolute pointing device as a mouse, "
+"this will improve behavior when adjusting REAPER's knobs"
 msgstr ""
-
