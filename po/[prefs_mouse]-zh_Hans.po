@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;7CC4C84BCADF424D
@@ -40,207 +41,219 @@ msgid "(change this in Editing Behavior/Mouse)"
 msgstr ""
 
 #: ;FABEBC53FF603266
-msgid "By default, edge edits affect all selected /grouped items with edges that occur at the same timeline position."
+msgid ""
+"By default, edge edits affect all selected /grouped items with edges that "
+"occur at the same timeline position."
 msgstr ""
 
 #: ;DED5D3F1743B41E8
-msgid "By default, fade/crossfade edits affect all selected/grouped items with edges that occur at the same timeline position."
+msgid ""
+"By default, fade/crossfade edits affect all selected/grouped items with "
+"edges that occur at the same timeline position."
 msgstr ""
 
 #: ;16F1BFB32D77743D
-msgid "This context handles mouse actions in the lower half of each take lane of a media item."
+msgid ""
+"This context handles mouse actions in the lower half of each take lane of a "
+"media item."
 msgstr ""
 
 #: ;31B16734A39D8277
-msgid "This context affects loop points when the mouse is in the MIDI ruler, or the time selection when the mouse is in the MIDI CC lane divider."
+msgid ""
+"This context affects loop points when the mouse is in the MIDI ruler, or the "
+"time selection when the mouse is in the MIDI CC lane divider."
 msgstr ""
 
 #: ;11B2AC79CAC168E5
-msgid "Envelope point move/copy behaviors are also affected by settings in the Options/Envelope points menu."
+msgid ""
+"Envelope point move/copy behaviors are also affected by settings in the "
+"Options/Envelope points menu."
 msgstr ""
 
 #: ;55EA3797133C7146
-msgid "Move item\0Just move"
+msgid "Move item"
 msgstr ""
 
 #: ;3A6A0598E3A6A856
-msgid "Copy item\0Just copy"
+msgid "Copy item"
 msgstr ""
 
 #: ;59C91AD87E36E4FA
-msgid "Move item contents\0Just move"
+msgid "Move item contents"
 msgstr ""
 
 #: ;D856350C8F672B0D
-msgid "Marquee select items\0Just select"
+msgid "Marquee select items"
 msgstr ""
 
 #: ;1A1A57A949EF7944
-msgid "Move stretch marker\0Just move"
+msgid "Move stretch marker"
 msgstr ""
 
 #: ;04B08C3885AF404C
-msgid "Move contents under stretch marker\0Just move"
+msgid "Move contents under stretch marker"
 msgstr ""
 
 #: ;633F22EAD0CFEE3A
-msgid "Ripple stretch marker\0Just ripple"
+msgid "Ripple stretch marker"
 msgstr ""
 
 #: ;924B0A3ED4BAECA1
-msgid "Ripple contents under stretch markers\0Just ripple"
+msgid "Ripple contents under stretch markers"
 msgstr ""
 
 #: ;55C84F0050C01EE4
-msgid "Move stretch marker preserving left-hand rate\0Just move"
+msgid "Move stretch marker preserving left-hand rate"
 msgstr ""
 
 #: ;74F7C1E226B9B435
-msgid "Move stretch marker preserving all rates (rate envelope mode) \0Just move"
+msgid "Move stretch marker preserving all rates (rate envelope mode) "
 msgstr ""
 
 #: ;EA876F5DD1844530
-msgid "Edit stretch marker rate\0Just edit"
+msgid "Edit stretch marker rate"
 msgstr ""
 
 #: ;19AB124DE90454CE
-msgid "Edit stretch marker rate preserving all marker positions (rate envelope mode) \0Just edit"
+msgid ""
+"Edit stretch marker rate preserving all marker positions (rate envelope "
+"mode) "
 msgstr ""
 
 #: ;70B653CAF440C400
-msgid "Move edge\0Just move"
+msgid "Move edge"
 msgstr ""
 
 #: ;B1EFE71FD02F3B46
-msgid "Stretch item\0Just stretch"
+msgid "Stretch item"
 msgstr ""
 
 #: ;D18B13707D4EF953
-msgid "Move fade\0Just move"
+msgid "Move fade"
 msgstr ""
 
 #: ;1B1CD9A8B4CEA2F3
-msgid "Move crossfade\0Just move"
+msgid "Move crossfade"
 msgstr ""
 
 #: ;57C6596DDD5EA2D7
-msgid "Adjust fade curve\0Just adjust curve"
+msgid "Adjust fade curve"
 msgstr ""
 
 #: ;54462584B7E8CDF1
-msgid "Move both fades\0Just move"
+msgid "Move both fades"
 msgstr ""
 
 #: ;1FB95423C7D8C5C2
-msgid "Adjust length of both fades\0Just adjust length"
+msgid "Adjust length of both fades"
 msgstr ""
 
 #: ;A31CF90BA6BA6B4B
-msgid "Adjust both fade curves\0Just adjust curve"
+msgid "Adjust both fade curves"
 msgstr ""
 
 #: ;E7A36423BDCFA86E
-msgid "Collect points\0Just collect"
+msgid "Collect points"
 msgstr ""
 
 #: ;327B858A80005E7E
-msgid "Draw a copy of the selected automation item\0Just draw"
+msgid "Draw a copy of the selected automation item"
 msgstr ""
 
 #: ;323E1B90467A5B52
-msgid "Draw a new automation item\0Just draw"
+msgid "Draw a new automation item"
 msgstr ""
 
 #: ;398581C16C9BB5EB
-msgid "Draw a copy of the selected media item\0Just draw"
+msgid "Draw a copy of the selected media item"
 msgstr ""
 
 #: ;934B1B2B404E7AC5
-msgid "Draw an empty MIDI item\0Just draw"
+msgid "Draw an empty MIDI item"
 msgstr ""
 
 #: ;BE6F51B9EFB46577
-msgid "Hand scroll and horizontal zoom\0Just hand scroll"
+msgid "Hand scroll and horizontal zoom"
 msgstr ""
 
 #: ;50D542B02ADE7647
-msgid "Move envelope point\0Just move"
+msgid "Move envelope point"
 msgstr ""
 
 #: ;77A3396811DA950F
-msgid "Copy envelope point\0Just copy"
+msgid "Copy envelope point"
 msgstr ""
 
 #: ;107559FB7F71512D
-msgid "Move note\0Just move"
+msgid "Move note"
 msgstr ""
 
 #: ;1B0B6E9C6E901429
-msgid "Stretch notes (arpeggiate/chordize)\0Just stretch"
+msgid "Stretch notes (arpeggiate/chordize)"
 msgstr ""
 
 #: ;C149CF6C85E89C15
-msgid "Copy note\0Just copy"
+msgid "Copy note"
 msgstr ""
 
 #: ;9FF93EE177E79C84
-msgid "Marquee select notes\0Just select"
+msgid "Marquee select notes"
 msgstr ""
 
 #: ;9D0201D665F536DA
-msgid "Select touched notes\0Just select"
+msgid "Select touched notes"
 msgstr ""
 
 #: ;EB15247F856E514E
-msgid "Select note and all later notes\0Just select"
+msgid "Select note and all later notes"
 msgstr ""
 
 #: ;98C3E192DA66C070
-msgid "Select note and all later notes of the same pitch\0Just select"
+msgid "Select note and all later notes of the same pitch"
 msgstr ""
 
 #: ;0025D6F8B03BB6E2
-msgid "Select all notes in measure\0Just select"
+msgid "Select all notes in measure"
 msgstr ""
 
 #: ;4F48E9BD5C528A98
-msgid "Move note edge\0Just move"
+msgid "Move note edge"
 msgstr ""
 
 #: ;8553E4CC5B50833C
-msgid "Stretch notes\0Just stretch"
+msgid "Stretch notes"
 msgstr ""
 
 #: ;D513C33842371A65
-msgid "Insert note\0Just insert"
+msgid "Insert note"
 msgstr ""
 
 #: ;6021C7DDA507A528
-msgid "Draw notes\0Just draw"
+msgid "Draw notes"
 msgstr ""
 
 #: ;339FE240484C4982
-msgid "Paint notes\0Just paint"
+msgid "Paint notes"
 msgstr ""
 
 #: ;100A9F80C31B2605
-msgid "Copy selected notes\0Just copy"
+msgid "Copy selected notes"
 msgstr ""
 
 #: ;66CEA9065E5F8BAD
-msgid "Move selected notes\0Just move"
+msgid "Move selected notes"
 msgstr ""
 
 #: ;7BD5084810D128C7
-msgid "Move CC event\0Just move"
+msgid "Move CC event"
 msgstr ""
 
 #: ;487BBCB76144B85F
-msgid "Copy CC event\0Just copy"
+msgid "Copy CC event"
 msgstr ""
 
 #: ;8A5A6A28E8C69CFA
-msgid "Marquee select CC events\0Just select"
+msgid "Marquee select CC events"
 msgstr ""
 
 #: ;AE28E730067571F3
@@ -342,4 +355,3 @@ msgstr ""
 #: ;^DDDAF906972AD14A
 msgid "Horizontal zoom"
 msgstr ""
-
