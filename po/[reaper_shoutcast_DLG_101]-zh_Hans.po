@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;D753F204DFA3125D
@@ -76,7 +77,8 @@ msgid "MP3 encoder setting"
 msgstr ""
 
 #: ;4F70901A38B67B13
-msgid "Encode screen as video (NSV stream) -- requires nsv_coder_vp3.dll in Plugins/"
+msgid ""
+"Encode screen as video (NSV stream) -- requires nsv_coder_vp3.dll in Plugins/"
 msgstr ""
 
 #: ;^99C2D7A58FC45822
@@ -126,4 +128,3 @@ msgstr ""
 #: ;^08325007B4EB10C5
 msgid "x"
 msgstr ""
-
