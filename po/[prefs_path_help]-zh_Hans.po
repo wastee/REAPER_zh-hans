@@ -1,33 +1,43 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;213084A633ECA694
-msgid "Set the default directory for rendered files. If blank, the current project directory will be used."
+msgid ""
+"Set the default directory for rendered files. If blank, the current project "
+"directory will be used."
 msgstr ""
 
 #: ;DC2462818769728A
-msgid "Fallback recording path for all new files, if the project has not previously been saved, and no path is set in file/project settings."
+msgid ""
+"Fallback recording path for all new files, if the project has not previously "
+"been saved, and no path is set in file/project settings."
 msgstr ""
 
 #: ;96F6407D44067B64
-msgid "Alternate path for REAPER peak cache files (.reapeaks). The alternate path may also be used even if not enabled here, see Preferences/Media."
+msgid ""
+"Alternate path for REAPER peak cache files (.reapeaks). The alternate path "
+"may also be used even if not enabled here, see Preferences/Media."
 msgstr ""
 
 #: ;02DF1D8AB8130F68
-msgid "List of paths that will always have their peak cache files placed in the alternate path rather than with the media. Useful for sample libraries etc."
+msgid ""
+"List of paths that will always have their peak cache files placed in the "
+"alternate path rather than with the media. Useful for sample libraries etc."
 msgstr ""
 
 #: ;50A0CCCDC8CC3250
-msgid "Set the default directory to browse when no project is loaded and you wish to load or save a project file."
+msgid ""
+"Set the default directory to browse when no project is loaded and you wish "
+"to load or save a project file."
 msgstr ""
-
