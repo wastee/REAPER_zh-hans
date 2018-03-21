@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;8C7CE7F8145EB873
@@ -32,7 +33,10 @@ msgid "Modulate this parameter"
 msgstr ""
 
 #: ;8929F487053CDAFA
-msgid "Start: %s\nEnd: %s\nLength: %s"
+msgid ""
+"Start: %s\n"
+"End: %s\n"
+"Length: %s"
 msgstr ""
 
 #: ;39F400C2686B690E
@@ -44,7 +48,9 @@ msgid "Master Output:"
 msgstr ""
 
 #: ;E537B423EF029D39
-msgid "\n  none"
+msgid ""
+"\n"
+"  none"
 msgstr ""
 
 #: ;7EDD20633162E6FE
@@ -220,7 +226,8 @@ msgid "Track is last track in folder"
 msgstr ""
 
 #: ;B5B3B84563FF1D9E
-msgid "Cycles whether this track is a track, a folder, or the last track in a folder"
+msgid ""
+"Cycles whether this track is a track, a folder, or the last track in a folder"
 msgstr ""
 
 #: ;AB46079468197E84
@@ -268,7 +275,9 @@ msgid "Phase Normal"
 msgstr ""
 
 #: ;479C0C6FEA0A90B8
-msgid "Envelopes/Automation\nAutomation mode:"
+msgid ""
+"Envelopes/Automation\n"
+"Automation mode:"
 msgstr ""
 
 #: ;3C32F136603DDDA3
@@ -340,7 +349,10 @@ msgid "FX disabled"
 msgstr ""
 
 #: ;2DE6EA156BDE1A34
-msgid "Position: %s\nStart offset: %s\nEnd: %s"
+msgid ""
+"Position: %s\n"
+"Start offset: %s\n"
+"End: %s"
 msgstr ""
 
 #: ;4A775CF9191B3176
@@ -348,35 +360,61 @@ msgid "Start offset: %s"
 msgstr ""
 
 #: ;A780DAEB7F029FC3
-msgid "Position: %s\nEnd: %s"
+msgid ""
+"Position: %s\n"
+"End: %s"
 msgstr ""
 
 #: ;7B72EAA88AD44F5A
-msgid "Start: %s\nLength: %s\nStart offset: %s\nRate: %.5f"
+msgid ""
+"Start: %s\n"
+"Length: %s\n"
+"Start offset: %s\n"
+"Rate: %.5f"
 msgstr ""
 
 #: ;417DC2E1DAF6AD7C
-msgid "Start: %s\nLength: %s\nStart offset: %s\nRate: %.5f (%s%.2f)"
+msgid ""
+"Start: %s\n"
+"Length: %s\n"
+"Start offset: %s\n"
+"Rate: %.5f (%s%.2f)"
 msgstr ""
 
 #: ;2E1D128CEA4937B8
-msgid "Start: %s\nLength: %s\nStart offset: %s"
+msgid ""
+"Start: %s\n"
+"Length: %s\n"
+"Start offset: %s"
 msgstr ""
 
 #: ;29C2BC5996E7DF1E
-msgid "Length: %s\nStart: %s\nEnd: %s\nRate: %.5f"
+msgid ""
+"Length: %s\n"
+"Start: %s\n"
+"End: %s\n"
+"Rate: %.5f"
 msgstr ""
 
 #: ;0E3CC1FFB25BFF68
-msgid "Length: %s\nStart: %s\nEnd: %s\nRate: %.5f (%s%.2f)"
+msgid ""
+"Length: %s\n"
+"Start: %s\n"
+"End: %s\n"
+"Rate: %.5f (%s%.2f)"
 msgstr ""
 
 #: ;0DE99E87D9102454
-msgid "Length: %s\nStart: %s\nEnd: %s"
+msgid ""
+"Length: %s\n"
+"Start: %s\n"
+"End: %s"
 msgstr ""
 
 #: ;05818A2E3E077F3F
-msgid "Snap offset: %s\nPosition: %s"
+msgid ""
+"Snap offset: %s\n"
+"Position: %s"
 msgstr ""
 
 #: ;989A3C1D719BA505
@@ -404,7 +442,10 @@ msgid "Fade in: %s"
 msgstr ""
 
 #: ;A8A2830AD908952D
-msgid "Stretch marker: %.2fx / %.2fx\r\nPosition: %s\r\nMedia position: %s"
+msgid ""
+"Stretch marker: %.2fx / %.2fx\r\n"
+"Position: %s\r\n"
+"Media position: %s"
 msgstr ""
 
 #: ;A7824DB56C878E11
@@ -456,11 +497,16 @@ msgid "Spectral Region Gate Floor: %.2fdB"
 msgstr ""
 
 #: ;3B884C955D1CD81A
-msgid "Envelope: %s\n%s at %s\nTension: %.3f"
+msgid ""
+"Envelope: %s\n"
+"%s at %s\n"
+"Tension: %.3f"
 msgstr ""
 
 #: ;1B735764E2331F1A
-msgid "Envelope: %s\n%s at %s"
+msgid ""
+"Envelope: %s\n"
+"%s at %s"
 msgstr ""
 
 #: ;C4BA31BFA9460908
@@ -476,15 +522,21 @@ msgid "Take pan: %s"
 msgstr ""
 
 #: ;55D6D03BD8FBD81D
-msgid "\nAdjusted: -inf dB"
+msgid ""
+"\n"
+"Adjusted: -inf dB"
 msgstr ""
 
 #: ;5AC126113FD0DE45
-msgid "\nAdjusted: %+.2fdB"
+msgid ""
+"\n"
+"Adjusted: %+.2fdB"
 msgstr ""
 
 #: ;5B976311408700D5
-msgid "\nAdjusted: %+.2f%%"
+msgid ""
+"\n"
+"Adjusted: %+.2f%%"
 msgstr ""
 
 #: ;F1B13E128583A378
@@ -492,7 +544,9 @@ msgid ", moved:"
 msgstr ""
 
 #: ;CF4356C508B56CBC
-msgid "\nMoved:"
+msgid ""
+"\n"
+"Moved:"
 msgstr ""
 
 #: ;04A1381AA6C99D6F
@@ -504,7 +558,9 @@ msgid "Fade out shape: %s"
 msgstr ""
 
 #: ;1E99E8ABBD5B8E76
-msgid "Envelope: %s\n%s at %s Tension: %s"
+msgid ""
+"Envelope: %s\n"
+"%s at %s Tension: %s"
 msgstr ""
 
 #: ;0278FACDB78C59E8
@@ -702,4 +758,3 @@ msgstr ""
 #: ;^F0EBC9DF5B847ED6
 msgid "Record"
 msgstr ""
-
