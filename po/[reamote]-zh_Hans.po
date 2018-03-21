@@ -1,14 +1,15 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;6452ED0C212E3ACB
@@ -20,11 +21,19 @@ msgid "Incompatible plugin type for DSP \"%s\"! Aborting operation."
 msgstr ""
 
 #: ;002222CEDA54E680
-msgid "This Reamote slave doesn't have the following DSP: \"%s\"! Aborting operation."
+msgid ""
+"This Reamote slave doesn't have the following DSP: \"%s\"! Aborting "
+"operation."
 msgstr ""
 
 #: ;786B77ED1C68BA55
-msgid "Can't initalize DSP \"%s\" on the Reamote slave!\r\n\r\nPossible causes might be out of date version or plugin not installed on the Reamote slave computer.\r\n\r\nAborting operation!"
+msgid ""
+"Can't initalize DSP \"%s\" on the Reamote slave!\r\n"
+"\r\n"
+"Possible causes might be out of date version or plugin not installed on the "
+"Reamote slave computer.\r\n"
+"\r\n"
+"Aborting operation!"
 msgstr ""
 
 #: ;AF11D92899770FB1
@@ -46,4 +55,3 @@ msgstr ""
 #: ;^E1CA4E1B0C5C2DB6
 msgid "Can't open Reamote UDP port!"
 msgstr ""
-
