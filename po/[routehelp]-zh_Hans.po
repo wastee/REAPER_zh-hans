@@ -1,34 +1,45 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;165EBFAD547C2786
-msgid "In a REAPER project, audio signals can be routed between hardware, tracks, and other ASIO-enabled applications."
+msgid ""
+"In a REAPER project, audio signals can be routed between hardware, tracks, "
+"and other ASIO-enabled applications."
 msgstr ""
 
 #: ;82F995F7720559E9
-msgid "Detailed routing for tracks and hardware can be visualized and edited using the project routing matrix (View/Routing Matrix)."
+msgid ""
+"Detailed routing for tracks and hardware can be visualized and edited using "
+"the project routing matrix (View/Routing Matrix)."
 msgstr ""
 
 #: ;25AC41C1FA136A40
-msgid "Each track can have up to 64 audio channels. Tracks can send audio from any channel on the sending track, to any channel on the receiving track."
+msgid ""
+"Each track can have up to 64 audio channels. Tracks can send audio from any "
+"channel on the sending track, to any channel on the receiving track."
 msgstr ""
 
 #: ;58AE5264D4779F4C
-msgid "Media items on a track can have up to 64 audio channels, which are output by default to the matching track channels."
+msgid ""
+"Media items on a track can have up to 64 audio channels, which are output by "
+"default to the matching track channels."
 msgstr ""
 
 #: ;591EDC24B6EB457A
-msgid "Detailed routing for individual tracks can be visualized and edited using the track routing dialog (click the track I/O routing button)."
+msgid ""
+"Detailed routing for individual tracks can be visualized and edited using "
+"the track routing dialog (click the track I/O routing button)."
 msgstr ""
 
 #: ;994346CC39A89189
@@ -36,35 +47,54 @@ msgid "Tracks can host track FX, and media item takes can host per-take FX."
 msgstr ""
 
 #: ;9D39235B1E64F00C
-msgid "Track FX can receive audio from any track channels, and output audio to any track channels."
+msgid ""
+"Track FX can receive audio from any track channels, and output audio to any "
+"track channels."
 msgstr ""
 
 #: ;03C2B754CF27D9D2
-msgid "Take FX can receive audio from any media item or track channels, and output audio to any track channels."
+msgid ""
+"Take FX can receive audio from any media item or track channels, and output "
+"audio to any track channels."
 msgstr ""
 
 #: ;A50C284AAE0C571D
-msgid "Detailed routing for any FX can also be visualized and edited using the plug-in pin connector dialog (click the FX in/out button)."
+msgid ""
+"Detailed routing for any FX can also be visualized and edited using the plug-"
+"in pin connector dialog (click the FX in/out button)."
 msgstr ""
 
 #: ;0A205373C4A0113C
-msgid "FX sidechaining is using one audio signal (the source signal) to trigger an effect that is applied to another audio signal (the target signal)."
+msgid ""
+"FX sidechaining is using one audio signal (the source signal) to trigger an "
+"effect that is applied to another audio signal (the target signal)."
 msgstr ""
 
 #: ;B370D4C8DAB2AB19
-msgid "This can be accomplished by creating a send from the source track, to higher-numbered channels on the target track."
+msgid ""
+"This can be accomplished by creating a send from the source track, to higher-"
+"numbered channels on the target track."
 msgstr ""
 
 #: ;2FF7B7BBD63B2DC7
-msgid "For example, to use the stereo output of track A as a sidechain input for an FX on track B, create a send from track A channels 1+2 to track B channels 3+4."
+msgid ""
+"For example, to use the stereo output of track A as a sidechain input for an "
+"FX on track B, create a send from track A channels 1+2 to track B channels "
+"3+4."
 msgstr ""
 
 #: ;CC30DC3E75F9CB9B
-msgid "Sends can be created using the Routing Matrix, or the track routing dialog on either the source or target tracks, or by simply dragging the source track I/O routing button to the target track."
+msgid ""
+"Sends can be created using the Routing Matrix, or the track routing dialog "
+"on either the source or target tracks, or by simply dragging the source "
+"track I/O routing button to the target track."
 msgstr ""
 
 #: ;0601C02A4C024328
-msgid "If the specific FX natively supports sidechaining, the sidechain input should be automatically enabled when channels 3+4 on the target track are created."
+msgid ""
+"If the specific FX natively supports sidechaining, the sidechain input "
+"should be automatically enabled when channels 3+4 on the target track are "
+"created."
 msgstr ""
 
 #: ;25F406A6FE306091
@@ -72,38 +102,58 @@ msgid "This can be verified and edited using the plug-in pin connector dialog."
 msgstr ""
 
 #: ;43A0E154FDDCDAAC
-msgid "The sidechain inputs may appear in the pin connector dialog as FX inputs marked \"auxiliary\", \"key\", or \"sidechain\"."
+msgid ""
+"The sidechain inputs may appear in the pin connector dialog as FX inputs "
+"marked \"auxiliary\", \"key\", or \"sidechain\"."
 msgstr ""
 
 #: ;428C02BA77ABCF7A
-msgid "If the FX does not natively support sidechaining, it can still be sidechained, using parameter modulation."
+msgid ""
+"If the FX does not natively support sidechaining, it can still be "
+"sidechained, using parameter modulation."
 msgstr ""
 
 #: ;DB6FAC1D825BAD56
-msgid "Create a sidechain send as above, but do not assign the sidechain input to any FX inputs."
+msgid ""
+"Create a sidechain send as above, but do not assign the sidechain input to "
+"any FX inputs."
 msgstr ""
 
 #: ;95A3E2AD984E47F2
-msgid "Use the Param button on the FX dialog to open parameter modulation for the target FX parameter."
+msgid ""
+"Use the Param button on the FX dialog to open parameter modulation for the "
+"target FX parameter."
 msgstr ""
 
 #: ;99127C329DB7C3BA
-msgid "In the parameter modulation dialog, enable the audio control signal section, and select the higher-numbered track audio channel as input."
+msgid ""
+"In the parameter modulation dialog, enable the audio control signal section, "
+"and select the higher-numbered track audio channel as input."
 msgstr ""
 
 #: ;C5B437799E11EEBA
-msgid "To sidechain multiple FX on a single track or take, create even more channels."
+msgid ""
+"To sidechain multiple FX on a single track or take, create even more "
+"channels."
 msgstr ""
 
 #: ;5CB7501FF919CE10
-msgid "For example, to use track A as source input to an FX on track C, and track B as source input for another FX on track C, create a send from track A to track C channels 3+4, and another send from track B to track C channels 5+6."
+msgid ""
+"For example, to use track A as source input to an FX on track C, and track B "
+"as source input for another FX on track C, create a send from track A to "
+"track C channels 3+4, and another send from track B to track C channels 5+6."
 msgstr ""
 
 #: ;5435755F816072BE
-msgid "Using the pin connector dialog (or parameter modulation) for the first FX, enable track channels 3+4 as sidechain inputs (which should happen automatically, if the FX natively supports sidechaining)."
+msgid ""
+"Using the pin connector dialog (or parameter modulation) for the first FX, "
+"enable track channels 3+4 as sidechain inputs (which should happen "
+"automatically, if the FX natively supports sidechaining)."
 msgstr ""
 
 #: ;C7860347824575D2
-msgid "Using the pin connector dialog (or parameter modulation) for the second FX, enable track channels 5+6 as sidechain inputs (which will not happen automatically)."
+msgid ""
+"Using the pin connector dialog (or parameter modulation) for the second FX, "
+"enable track channels 5+6 as sidechain inputs (which will not happen "
+"automatically)."
 msgstr ""
-
