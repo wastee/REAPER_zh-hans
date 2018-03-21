@@ -14,4 +14,4 @@ msgstr ""
 
 #: ;898B2373A1F9B64E
 msgid "Navigate forwards"
-msgstr "向前定位"
+msgstr "向前定位test"
