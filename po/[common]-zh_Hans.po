@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 06:11+0000\n"
+"PO-Revision-Date: 2018-03-21 06:15+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: ;D7323C887B0A2951
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 #: ;A2D4EB52B7EE75E1
 msgid "Beat click length:"
@@ -152,11 +152,11 @@ msgstr ""
 
 #: ;F685FB3A91025549
 msgid "Browse..."
-msgstr ""
+msgstr "浏览..."
 
 #: ;F09E4B5C35AA14B9
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ;9779134B67DD9400
 msgid "Frequency of primary beat:"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: ;D840E3186B2B9581
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: ;41A6CA9D8495660D
 msgid "Primary beat sample:"
@@ -176,7 +176,7 @@ msgstr ""
 
 #: ;80194C173B470AF3
 msgid "Save as default"
-msgstr ""
+msgstr "保存为默认"
 
 #: ;6EB36A3171C83722
 msgid "Secondary beat gain:"
@@ -196,15 +196,15 @@ msgstr ""
 
 #: ;223F4865B99B73B0
 msgid "Output file"
-msgstr ""
+msgstr "输出文件"
 
 #: ;FDE95463547E83EB
 msgid "Render status"
-msgstr ""
+msgstr "生成状态"
 
 #: ;BDB7990C53BBB742
 msgid "Show in explorer..."
-msgstr ""
+msgstr "打开文件位置..."
 
 #: ;511EAD28BA4AE493
 msgid "format spec"
@@ -216,11 +216,11 @@ msgstr ""
 
 #: ;309B13D6E0AC1A0F
 msgid "Length:"
-msgstr ""
+msgstr "长度:"
 
 #: ;8D96C4FE778D9CA7
 msgid "Source properties..."
-msgstr ""
+msgstr "源文件属性..."
 
 #: ;08329907B4EB8CD0
 msgid "/"
@@ -228,11 +228,11 @@ msgstr ""
 
 #: ;F8E8A9C19CDE7A59
 msgid "Project Settings"
-msgstr ""
+msgstr "工程设置"
 
 #: ;99FA828F906D3EE4
 msgid "Find"
-msgstr ""
+msgstr "查找"
 
 #: ;F19F199E8BEFFBD6
 msgid "Tree1"
@@ -244,19 +244,19 @@ msgstr ""
 
 #: ;D3E64988F293BA3A
 msgid "Recording"
-msgstr ""
+msgstr "录音"
 
 #: ;5565002CCE1DFBC7
 msgid "Prompt to save/delete/rename new files:"
-msgstr ""
+msgstr "提示 保存/删除/重命名 新文件:"
 
 #: ;DDCECC683DEC9D6A
 msgid "on punch-out/play"
-msgstr ""
+msgstr "在切出/播放时"
 
 #: ;52BC569ACECFA886
 msgid "on stop"
-msgstr ""
+msgstr "在停止时"
 
 #: ;E99EBA7FF6970DBB
 msgid "..."
@@ -264,15 +264,15 @@ msgstr ""
 
 #: ;18E4377E5DDC2B7A
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: ;F812C7145E261C23
 msgid "Remove"
-msgstr ""
+msgstr "删除"
 
 #: ;5AEDD7C14E3CAEC2
 msgid "Clear filter"
-msgstr ""
+msgstr "清除过滤器"
 
 #: ;D43B88702E996ED9
 msgid "Filter:"
@@ -288,7 +288,7 @@ msgstr ""
 
 #: ;49EB3CF2EE728EFF
 msgid "Stop playback at end of loop if repeat is disabled"
-msgstr ""
+msgstr "禁用重复时，播放至循环结束位置即停止"
 
 #: ;D8B3B3186B8C817F
 msgid "ms"
@@ -296,35 +296,35 @@ msgstr ""
 
 #: ;3BF0AA22A506F11A
 msgid "Wildcards"
-msgstr ""
+msgstr "通配符"
 
 #: ;80BE1395BCF8C169
 msgid "Download language packs"
-msgstr ""
+msgstr "下载语言包"
 
 #: ;DD491F831B629F78
 msgid "item"
-msgstr ""
+msgstr "对象"
 
 #: ;E0B104299A7A8E2E
 msgid "time"
-msgstr ""
+msgstr "时间"
 
 #: ;90803304EBE7C40E
 msgid "track"
-msgstr ""
+msgstr "音轨"
 
 #: ;62C49C467C0C15D3
 msgid "Load..."
-msgstr ""
+msgstr "加载..."
 
 #: ;28450354F52CB7AE
 msgid "Reset"
-msgstr ""
+msgstr "复位"
 
 #: ;925B2CEB12D2D978
 msgid "Save..."
-msgstr ""
+msgstr "保存..."
 
 #: ;ABEC79059CAD0B0E
 msgid "Alias name:"
