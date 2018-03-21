@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 07:12+0000\n"
+"PO-Revision-Date: 2018-03-21 07:33+0000\n"
 "Last-Translator: kevin <2386898267@qq.com>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/about/zh_Hans/>\n"
@@ -70,7 +70,7 @@ msgstr ""
 
 #: ;0035F90FBE34516F
 msgid "We are showing you this message, instead of crippling this evaluation version of REAPER, because we do not feel that technological enforcement of licensing policy is in the best interest of our customers."
-msgstr ""
+msgstr "我们并没有限制 REAPER 评估版本的功能，而是为您显示这条消息，因为我们认为通过技术手段来实施软件授权政策不符合我们客户的最佳利益。"
 
 #: ;04FA9C99A7E3E33F
 msgid "Remove license key"
@@ -79,10 +79,13 @@ msgstr "删除授权密钥"
 #: ;8B9A76F494C70F92
 msgid "Are you sure you wish to remove the current license key?\r\n\r\n(you must have a copy of the key file in order to re-authorize this installation)"
 msgstr ""
+"您确定要删除当前的授权密钥吗?\n"
+"\n"
+"(您必须拥有密钥文件的副本才能重新授权此软件)"
 
 #: ;63A8748786CE1342
 msgid "Confirm removal of license key"
-msgstr ""
+msgstr "确认删除授权密钥"
 
 #: ;1233760996DC4604
 msgid "Import license key:"
@@ -110,7 +113,7 @@ msgstr "谢谢!"
 
 #: ;D03DC131AB7C4B2C
 msgid "Buy Me [%d]"
-msgstr ""
+msgstr "购买软件 [%d]"
 
 #: ;32EE0E776F726A01
 msgid "Still Evaluating"
@@ -118,11 +121,11 @@ msgstr ""
 
 #: ;D38A26905AC66F97
 msgid "Credits"
-msgstr ""
+msgstr "制作人员"
 
 #: ;20BDED648E738AA0
 msgid "Purchase"
-msgstr ""
+msgstr "购买"
 
 #: ;E347F43935F8D866
 msgid "License and User Agreement"
@@ -130,7 +133,7 @@ msgstr ""
 
 #: ;C6013D59706F3AEB
 msgid "Changelog"
-msgstr ""
+msgstr "更新日志"
 
 #: ;^756B500741E261D4
 msgid "Import license key..."
