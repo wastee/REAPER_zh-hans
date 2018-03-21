@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-20 23:56+0000\n"
-"Last-Translator: TeeAdmin <i@lado.me>\n"
+"PO-Revision-Date: 2018-03-21 02:27+0000\n"
+"Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -40,7 +40,7 @@ msgstr "输入通道:"
 
 #: ;9324D41856E3D6C5
 msgid "Input device:"
-msgstr "输入通道:"
+msgstr "输入设备:"
 
 #: ;C6FA709C7A5DB354
 msgid "Output channels:"
@@ -76,7 +76,7 @@ msgstr "请求的数据块大小:"
 
 #: ;0FF98CDC4588805A
 msgid "Request sample rate:"
-msgstr ""
+msgstr "请求的采样率:"
 
 #: ;D9B12705AD844C62
 msgid "List1"
@@ -84,15 +84,15 @@ msgstr ""
 
 #: ;DCEF2B4D03DE723C
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: ;87DB547E0C57B4B8
 msgid "Run"
-msgstr ""
+msgstr "运行"
 
 #: ;5B664677E1A91155
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #: ;772CECA01AD73CB4
 msgid "Value"
@@ -104,7 +104,7 @@ msgstr ""
 
 #: ;16464B290024A7A0
 msgid "Audio device settings"
-msgstr ""
+msgstr "音频设备设置"
 
 #: ;0314604C3913412E
 msgid "Audio system:"
@@ -112,19 +112,19 @@ msgstr ""
 
 #: ;BAC64C1B2E060EE5
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: ;C01085DD37178417
 msgid "File info:"
-msgstr ""
+msgstr "文件信息:"
 
 #: ;3BF92ABFA8425D90
 msgid "Filename:"
-msgstr ""
+msgstr "文件名:"
 
 #: ;9BC67B482921A263
 msgid "About REAPER"
-msgstr ""
+msgstr "关于 REAPER"
 
 #: ;DA1E84CE6CE89AC1
 msgid "(beat pattern help)"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: ;D7323C887B0A2951
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 #: ;A2D4EB52B7EE75E1
 msgid "Beat click length:"
@@ -152,11 +152,11 @@ msgstr ""
 
 #: ;F685FB3A91025549
 msgid "Browse..."
-msgstr ""
+msgstr "浏览..."
 
 #: ;F09E4B5C35AA14B9
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: ;9779134B67DD9400
 msgid "Frequency of primary beat:"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: ;D840E3186B2B9581
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: ;41A6CA9D8495660D
 msgid "Primary beat sample:"
