@@ -16,4 +16,4 @@ msgstr ""
 
 #: ;898B2373A1F9B64E
 msgid "Navigate forwards"
-msgstr "test"
+msgstr "changed"
