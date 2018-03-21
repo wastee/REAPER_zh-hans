@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;042F4DCA75E1BE47
@@ -809,7 +809,10 @@ msgid "MB"
 msgstr ""
 
 #: ;D6701DC77AC3D85B
-msgid "Note: these options are generally considered experimental and should only be used with caution. In addition, some of these options require a restart of REAPER to take effect."
+msgid ""
+"Note: these options are generally considered experimental and should only be "
+"used with caution. In addition, some of these options require a restart of "
+"REAPER to take effect."
 msgstr ""
 
 #: ;0D7057D41011519B
@@ -1233,7 +1236,9 @@ msgid "Render Queue Delay"
 msgstr ""
 
 #: ;9261BE522DCF754F
-msgid "Some sampler plugins may require initialization time to ensure all samples are loaded before starting to render output."
+msgid ""
+"Some sampler plugins may require initialization time to ensure all samples "
+"are loaded before starting to render output."
 msgstr ""
 
 #: ;01BF66E624968F18
@@ -1637,15 +1642,19 @@ msgid "File"
 msgstr ""
 
 #: ;78957C8454DBB75F
-msgid "Freeze tracks to mono (render pre-fader, save/remove items and online FX)"
+msgid ""
+"Freeze tracks to mono (render pre-fader, save/remove items and online FX)"
 msgstr ""
 
 #: ;79AA43061BD49154
-msgid "Freeze tracks to multichannel (render pre-fader, save/remove items and online FX)"
+msgid ""
+"Freeze tracks to multichannel (render pre-fader, save/remove items and "
+"online FX)"
 msgstr ""
 
 #: ;54DADE4C7B95FC5C
-msgid "Freeze tracks to stereo (render pre-fader, save/remove items and online FX)"
+msgid ""
+"Freeze tracks to stereo (render pre-fader, save/remove items and online FX)"
 msgstr ""
 
 #: ;FB90AE71C9284F3A
@@ -3793,7 +3802,8 @@ msgid "FX Parameters"
 msgstr ""
 
 #: ;EC02F0F810FC7CDF
-msgid "Latch Preview (allow adjusting parameters but do not apply to envelopes)"
+msgid ""
+"Latch Preview (allow adjusting parameters but do not apply to envelopes)"
 msgstr ""
 
 #: ;A74298433E1F4B3D
@@ -4053,7 +4063,9 @@ msgid "SPP"
 msgstr ""
 
 #: ;4789C5332441688D
-msgid "Error finding an unused filename for output. Source file:\r\n\t"
+msgid ""
+"Error finding an unused filename for output. Source file:\r\n"
+"\t"
 msgstr ""
 
 #: ;6A8323D4A2DF56E0
@@ -4345,7 +4357,9 @@ msgid "Stop recording before rendering..."
 msgstr ""
 
 #: ;5945AF9182806811
-msgid "You must stop recording before importing configuration (as configuration import will require a restart)"
+msgid ""
+"You must stop recording before importing configuration (as configuration "
+"import will require a restart)"
 msgstr ""
 
 #: ;D96196186C20B90D
@@ -4561,7 +4575,9 @@ msgid "&Position:"
 msgstr ""
 
 #: ;12848776E53AAD00
-msgid "Use + -* / for relative changes in any field.\r\nUse +1o2  to add 1 octave and 2 semitones."
+msgid ""
+"Use + -* / for relative changes in any field.\r\n"
+"Use +1o2  to add 1 octave and 2 semitones."
 msgstr ""
 
 #: ;B80BE35FC002073A
@@ -4777,7 +4793,8 @@ msgid "Diamonds (drum mode)"
 msgstr ""
 
 #: ;3615D619BF30D578
-msgid "Display 14-bit MSB/LSB CC data as a single entry in event list/properties"
+msgid ""
+"Display 14-bit MSB/LSB CC data as a single entry in event list/properties"
 msgstr ""
 
 #: ;4301D6719DEA0900
@@ -5477,7 +5494,9 @@ msgid "Smooth"
 msgstr ""
 
 #: ;79DF6C21E88B8F28
-msgid "Show the last user action in REAPER's menu bar. Clicking the action will open the undo window."
+msgid ""
+"Show the last user action in REAPER's menu bar. Clicking the action will "
+"open the undo window."
 msgstr ""
 
 #: ;B726931672EE1B2F
@@ -5727,4 +5746,3 @@ msgstr ""
 #: ;3479BF4FF70CC71C
 msgid "Time:"
 msgstr ""
-
