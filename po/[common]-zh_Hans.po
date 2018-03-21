@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 02:27+0000\n"
+"PO-Revision-Date: 2018-03-21 02:36+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -176,7 +176,7 @@ msgstr ""
 
 #: ;80194C173B470AF3
 msgid "Save as default"
-msgstr ""
+msgstr "保存为默认"
 
 #: ;6EB36A3171C83722
 msgid "Secondary beat gain:"
@@ -196,15 +196,15 @@ msgstr ""
 
 #: ;223F4865B99B73B0
 msgid "Output file"
-msgstr ""
+msgstr "输出文件"
 
 #: ;FDE95463547E83EB
 msgid "Render status"
-msgstr ""
+msgstr "生成状态"
 
 #: ;BDB7990C53BBB742
 msgid "Show in explorer..."
-msgstr ""
+msgstr "打开文件位置..."
 
 #: ;511EAD28BA4AE493
 msgid "format spec"
