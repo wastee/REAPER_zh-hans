@@ -10,7 +10,7 @@ def po2lp():
         '; 此翻译基于GPL3.0协议发布（GNU General Public License v3.0）',
         '; 本项目地址：http://translate.reaget.com',
         '; 简体中文语言包发布地址：https://bitbucket.org/Kommit/reaper_cn',
-        '; 特别感谢：Kommit, zs、盖盖、青猫、JacH 以及众多给翻译提供建议的朋友。',
+        '; 特别感谢：Kommit、zs、盖盖、青猫、JacH 以及众多给翻译提供建议的朋友。',
         '; QQ交流群：243473647',
     ]
     component_result = []
@@ -36,10 +36,13 @@ def po2lp():
                     left_string = before_convert_list[0]
                     left_string = left_string.lstrip('#: ;^')
                     left_string = left_string.lstrip('#: ;')
-                    right_string = before_convert_list[2]
-                    right_string = right_string.rstrip('"')
-                    right_string = right_string.lstrip('msgstr "')
-
+                    if before_convert_list[2] != 'msgstr ""':
+                        right_string = before_convert_list[2]
+                        right_string = right_string.rstrip('"')
+                        right_string = right_string.lstrip('msgstr "')
+                    elif before_convert_list[2] == 'msgstr ""':
+                        pre_right_list = [x.strip('"') for x in before_convert_list[3:]]
+                        right_string = ''.join(pre_right_list)
                     output_line = left_string + '=' + right_string
                     line_result.append(output_line)
             if empty == False:
