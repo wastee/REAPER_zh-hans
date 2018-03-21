@@ -1,18 +1,20 @@
 msgid ""
-msgstr "Project-Id-Version: REAPER_zh-hans\n"
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
 "Last-Translator: All Chinese REAPER Users\n"
 "Language-Team: Chinese REAPER users\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;7C38F4F814A24B35
-msgid "Directories to scan for VST plug-ins. Subdirectories will be scanned as well."
+msgid ""
+"Directories to scan for VST plug-ins. Subdirectories will be scanned as well."
 msgstr ""
 
 #: ;077727379180CF7F
@@ -32,50 +34,72 @@ msgid "Scan all VST directories for any added or updated plug-ins."
 msgstr ""
 
 #: ;8C290D078C11CA7A
-msgid "Scan all VST directories, attempting to load every plug-in. Make all successfully loaded plug-ins available, and ignore any plug-in that crashes."
+msgid ""
+"Scan all VST directories, attempting to load every plug-in. Make all "
+"successfully loaded plug-ins available, and ignore any plug-in that crashes."
 msgstr ""
 
 #: ;D5BE4B57CE0D501F
-msgid "Use each VST's exported name to identify it in the FX browser. Otherwise, the VST path/filename will be used."
+msgid ""
+"Use each VST's exported name to identify it in the FX browser. Otherwise, "
+"the VST path/filename will be used."
 msgstr ""
 
 #: ;D331EE0B5ABED394
-msgid "Save the state of every patch in the VST preset bank, not just the active patch. Some plugins will not restore themselves properly otherwise."
+msgid ""
+"Save the state of every patch in the VST preset bank, not just the active "
+"patch. Some plugins will not restore themselves properly otherwise."
 msgstr ""
 
 #: ;A33160A83CBD4DE3
-msgid "Use the generic slider view instead of the VST's custom GUI. You can switch views at any time using the UI button on the plug-in window."
+msgid ""
+"Use the generic slider view instead of the VST's custom GUI. You can switch "
+"views at any time using the UI button on the plug-in window."
 msgstr ""
 
 #: ;24C425763A91B75D
-msgid "Set the default VST knob behavior. Almost no plug-ins support this setting."
+msgid ""
+"Set the default VST knob behavior. Almost no plug-ins support this setting."
 msgstr ""
 
 #: ;062E0C5C05471D20
-msgid "Set how automation notifications are handled from VST plug-ins. You can also override this per-plugin, most people will want to leave this on the default."
+msgid ""
+"Set how automation notifications are handled from VST plug-ins. You can also "
+"override this per-plugin, most people will want to leave this on the default."
 msgstr ""
 
 #: ;2EAA3B50A18F889D
-msgid "Don't inform VSTis that playback has stopped. Most synths (especially arpeggiators) want to know playback has stopped to avoid hanging notes."
+msgid ""
+"Don't inform VSTis that playback has stopped. Most synths (especially "
+"arpeggiators) want to know playback has stopped to avoid hanging notes."
 msgstr ""
 
 #: ;5709C6930F8F1BE9
-msgid "Preserve held notes and current pitch when resetting VSTis. This is probably needed when disabling Preferences/Audio/Playback/Reset MIDI CC/Pitch."
+msgid ""
+"Preserve held notes and current pitch when resetting VSTis. This is probably "
+"needed when disabling Preferences/Audio/Playback/Reset MIDI CC/Pitch."
 msgstr ""
 
 #: ;1DE74C0937316C7F
-msgid "Some VSTs behave differently when rendering offline (not in realtime).  When deselected,  plugins always think they are online."
+msgid ""
+"Some VSTs behave differently when rendering offline (not in realtime).  When "
+"deselected,  plugins always think they are online."
 msgstr ""
 
 #: ;FAC0CB28431DC2EC
-msgid "Some buggy plug-ins crash when the GUI is opened while a different thread is processing audio. This avoids the crash by interrupting audio."
+msgid ""
+"Some buggy plug-ins crash when the GUI is opened while a different thread is "
+"processing audio. This avoids the crash by interrupting audio."
 msgstr ""
 
 #: ;A91F48CD20B8FDCE
-msgid "Allow unloading of VST DLLs, which gets them completely out of memory, but also may cause compatibility issues."
+msgid ""
+"Allow unloading of VST DLLs, which gets them completely out of memory, but "
+"also may cause compatibility issues."
 msgstr ""
 
 #: ;DB1AD925D830A08C
-msgid "Special mode, applied to UAD plugins only, that reduces parallel processing benefits to avoid UAD-1 crashes."
+msgid ""
+"Special mode, applied to UAD plugins only, that reduces parallel processing "
+"benefits to avoid UAD-1 crashes."
 msgstr ""
-
