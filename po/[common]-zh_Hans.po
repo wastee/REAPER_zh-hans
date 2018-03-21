@@ -1,17 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 03:51+0000\n"
-"Last-Translator: Tee <i@lado.me>\n"
-"Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
-"reaper/common/zh_Hans/>\n"
-"Language: zh_Hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 2.19.1\n"
+"X-Generator: Python Script\n"
 "X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
 #: ;042F4DCA75E1BE47
@@ -36,19 +34,19 @@ msgstr ""
 
 #: ;DA38E298C189302F
 msgid "Input channels:"
-msgstr "输入通道:"
+msgstr ""
 
 #: ;9324D41856E3D6C5
 msgid "Input device:"
-msgstr "输入设备:"
+msgstr ""
 
 #: ;C6FA709C7A5DB354
 msgid "Output channels:"
-msgstr "输出通道:"
+msgstr ""
 
 #: ;CD3ECB2096970F76
 msgid "Output device:"
-msgstr "输出设备:"
+msgstr ""
 
 #: ;E600874BD6CA4B2E
 msgid "Sample format:"
@@ -56,11 +54,11 @@ msgstr ""
 
 #: ;F97A12BF98D450CF
 msgid "Samplerate:"
-msgstr "采样率:"
+msgstr ""
 
 #: ;E8589A5C2472187A
 msgid "samples"
-msgstr "采样点"
+msgstr ""
 
 #: ;08325007B4EB10C5
 msgid "x"
@@ -72,11 +70,11 @@ msgstr ""
 
 #: ;3E83534995169108
 msgid "Request block size:"
-msgstr "请求的数据块大小:"
+msgstr ""
 
 #: ;0FF98CDC4588805A
 msgid "Request sample rate:"
-msgstr "请求的采样率:"
+msgstr ""
 
 #: ;D9B12705AD844C62
 msgid "List1"
@@ -84,15 +82,15 @@ msgstr ""
 
 #: ;DCEF2B4D03DE723C
 msgid "Name"
-msgstr "名称"
+msgstr ""
 
 #: ;87DB547E0C57B4B8
 msgid "Run"
-msgstr "运行"
+msgstr ""
 
 #: ;5B664677E1A91155
 msgid "Start"
-msgstr "开始"
+msgstr ""
 
 #: ;772CECA01AD73CB4
 msgid "Value"
@@ -104,7 +102,7 @@ msgstr ""
 
 #: ;16464B290024A7A0
 msgid "Audio device settings"
-msgstr "音频设备设置"
+msgstr ""
 
 #: ;0314604C3913412E
 msgid "Audio system:"
@@ -112,19 +110,19 @@ msgstr ""
 
 #: ;BAC64C1B2E060EE5
 msgid "Close"
-msgstr "关闭"
+msgstr ""
 
 #: ;C01085DD37178417
 msgid "File info:"
-msgstr "文件信息:"
+msgstr ""
 
 #: ;3BF92ABFA8425D90
 msgid "Filename:"
-msgstr "文件名:"
+msgstr ""
 
 #: ;9BC67B482921A263
 msgid "About REAPER"
-msgstr "关于 REAPER"
+msgstr ""
 
 #: ;DA1E84CE6CE89AC1
 msgid "(beat pattern help)"
@@ -140,7 +138,7 @@ msgstr ""
 
 #: ;D7323C887B0A2951
 msgid "Apply"
-msgstr "应用"
+msgstr ""
 
 #: ;A2D4EB52B7EE75E1
 msgid "Beat click length:"
@@ -152,11 +150,11 @@ msgstr ""
 
 #: ;F685FB3A91025549
 msgid "Browse..."
-msgstr "浏览..."
+msgstr ""
 
 #: ;F09E4B5C35AA14B9
 msgid "Cancel"
-msgstr "取消"
+msgstr ""
 
 #: ;9779134B67DD9400
 msgid "Frequency of primary beat:"
@@ -164,7 +162,7 @@ msgstr ""
 
 #: ;D840E3186B2B9581
 msgid "OK"
-msgstr "确定"
+msgstr ""
 
 #: ;41A6CA9D8495660D
 msgid "Primary beat sample:"
@@ -176,7 +174,7 @@ msgstr ""
 
 #: ;80194C173B470AF3
 msgid "Save as default"
-msgstr "保存为默认"
+msgstr ""
 
 #: ;6EB36A3171C83722
 msgid "Secondary beat gain:"
@@ -196,15 +194,15 @@ msgstr ""
 
 #: ;223F4865B99B73B0
 msgid "Output file"
-msgstr "输出文件"
+msgstr ""
 
 #: ;FDE95463547E83EB
 msgid "Render status"
-msgstr "生成状态"
+msgstr ""
 
 #: ;BDB7990C53BBB742
 msgid "Show in explorer..."
-msgstr "打开文件位置..."
+msgstr ""
 
 #: ;511EAD28BA4AE493
 msgid "format spec"
@@ -216,7 +214,7 @@ msgstr ""
 
 #: ;309B13D6E0AC1A0F
 msgid "Length:"
-msgstr "长度:"
+msgstr ""
 
 #: ;8D96C4FE778D9CA7
 msgid "Source properties..."
@@ -244,7 +242,7 @@ msgstr ""
 
 #: ;D3E64988F293BA3A
 msgid "Recording"
-msgstr "录音"
+msgstr ""
 
 #: ;5565002CCE1DFBC7
 msgid "Prompt to save/delete/rename new files:"
@@ -268,7 +266,7 @@ msgstr ""
 
 #: ;F812C7145E261C23
 msgid "Remove"
-msgstr "删除"
+msgstr ""
 
 #: ;5AEDD7C14E3CAEC2
 msgid "Clear filter"
@@ -455,7 +453,7 @@ msgid "Sample rate:"
 msgstr ""
 
 #: ;720CB39E31676E27
-msgid "Start:"
+msgid "Start: "
 msgstr ""
 
 #: ;97D6D411868C112C
@@ -1243,11 +1241,11 @@ msgid "REAPER Query"
 msgstr ""
 
 #: ;0832A807B4EBA64D
-msgid ""
+msgid " "
 msgstr ""
 
 #: ;D990EA186C48B88B
-msgid ","
+msgid ", "
 msgstr ""
 
 #: ;BE72ADED52927C3E
@@ -3119,7 +3117,7 @@ msgid "Inform plug-in when track channel count changes"
 msgstr ""
 
 #: ;7F8BE88D07D058A1
-msgid "Link to MIDI program change"
+msgid "Link to MIDI program change "
 msgstr ""
 
 #: ;E485FC63E796EFFA
@@ -3715,7 +3713,7 @@ msgid "Master track"
 msgstr ""
 
 #: ;629548803B048F00
-msgid "-"
+msgid " - "
 msgstr ""
 
 #: ;7110EEEF2B77963B
@@ -3791,7 +3789,7 @@ msgid "Tempo map"
 msgstr ""
 
 #: ;480A73B43C308366
-msgid "(folder)"
+msgid " (folder)"
 msgstr ""
 
 #: ;65971737BB8DFA2C
@@ -4135,7 +4133,7 @@ msgid "Bypass"
 msgstr ""
 
 #: ;17E7264672EB4EC9
-msgid "FX comment for:"
+msgid "FX comment for: "
 msgstr ""
 
 #: ;67D35DD28653A00A
@@ -4155,7 +4153,7 @@ msgid "Alias parameter"
 msgstr ""
 
 #: ;915C69C77F31F221
-msgid "Envelope:"
+msgid "Envelope: "
 msgstr ""
 
 #: ;E763E06A994AAAFB
@@ -4239,7 +4237,7 @@ msgid "Rate:"
 msgstr ""
 
 #: ;2C5B8309D9FC8004
-msgid "Take"
+msgid "Take "
 msgstr ""
 
 #: ;63ACD193C4316F68
@@ -4359,7 +4357,7 @@ msgid "You must stop recording before importing configuration (as configuration 
 msgstr ""
 
 #: ;D96196186C20B90D
-msgid ":"
+msgid ": "
 msgstr ""
 
 #: ;BA8A5EA843F33060
@@ -4379,7 +4377,7 @@ msgid "MASTER"
 msgstr ""
 
 #: ;F4944DF4957B0C53
-msgid "(default)"
+msgid " (default)"
 msgstr ""
 
 #: ;D722FAC57CDCD58A
@@ -5639,7 +5637,7 @@ msgid "Sends"
 msgstr ""
 
 #: ;43632077D6FCDE72
-msgid "- NOT FULLY CONNECTED"
+msgid " - NOT FULLY CONNECTED"
 msgstr ""
 
 #: ;E105F71E035CFC28
@@ -5687,31 +5685,31 @@ msgid "Preserve aspect ratio (black bars if necessary)"
 msgstr ""
 
 #: ;D8700C186B534BEE
-msgid "A"
+msgid "A "
 msgstr ""
 
 #: ;D86CE6186B50D585
-msgid "B"
+msgid "B "
 msgstr ""
 
 #: ;D86980186B4DF25C
-msgid "C"
+msgid "C "
 msgstr ""
 
 #: ;D865DA186B4AA273
-msgid "D"
+msgid "D "
 msgstr ""
 
 #: ;D86274186B47BF4A
-msgid "E"
+msgid "E "
 msgstr ""
 
 #: ;D85F0E186B44DC21
-msgid "F"
+msgid "F "
 msgstr ""
 
 #: ;D85BE8186B4265B8
-msgid "G"
+msgid "G "
 msgstr ""
 
 #: ;EEC6BB6E4FD26C7D
@@ -5737,3 +5735,8 @@ msgstr ""
 #: ;3479BF4FF70CC71C
 msgid "Time:"
 msgstr ""
+
+#: ;newtest
+msgid "newtest"
+msgstr ""
+
