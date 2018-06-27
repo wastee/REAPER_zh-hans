@@ -60,12 +60,16 @@ msgstr ""
 msgid "(filename only)"
 msgstr ""
 
-#: ;51696CF655EA7CC5
-msgid "Project is open and has been modified:\r\n%s\r\n\r\nSave changes and render? Choose Yes to save, No to render unsaved changes, or Cancel to skip (re)rendering the subproject proxy."
+#: ;9F7121AACDD9DF79
+msgid "Background subprojects may need re-rendering. Re-render now?"
 msgstr ""
 
 #: ;37F4835A4733D832
 msgid "Render Subproject Proxy"
+msgstr ""
+
+#: ;51696CF655EA7CC5
+msgid "Project is open and has been modified:\r\n%s\r\n\r\nSave changes and render? Choose Yes to save, No to render unsaved changes, or Cancel to skip (re)rendering the subproject proxy."
 msgstr ""
 
 #: ;E07F66A84324A50F

@@ -1516,8 +1516,16 @@ msgstr ""
 msgid "Toggle item selection"
 msgstr ""
 
+#: ;F6BE06E21354E5CA
+msgid "Toggle item selection and set time selection to selected items"
+msgstr ""
+
 #: ;1D8BBFDC549D1ACC
 msgid "Add a range of items to selection"
+msgstr ""
+
+#: ;4647C090F14A3BFE
+msgid "Add a range of items to selection and set time selection to selected items"
 msgstr ""
 
 #: ;BC83D17FED4C2073
@@ -1908,8 +1916,16 @@ msgstr ""
 msgid "Toggle note selection"
 msgstr ""
 
-#: ;72B6F2BD2185EDA1
-msgid "Add note to selection"
+#: ;15C37AD093089A12
+msgid "Toggle note selection and set time selection to selected notes"
+msgstr ""
+
+#: ;92A6F268ECF0347B
+msgid "Add a range of notes to selection"
+msgstr ""
+
+#: ;550F7B25E1335B06
+msgid "Add a range of notes to selection and set time selection to selected notes"
 msgstr ""
 
 #: ;8027FA8FCB0910A6

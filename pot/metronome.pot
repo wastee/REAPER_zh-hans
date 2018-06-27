@@ -24,12 +24,12 @@ msgstr ""
 msgid "Primary:%c Secondary:%c Triplet:%c Skip:%s"
 msgstr ""
 
-#: ;66C31BA5D527D8CB
-msgid "Pattern should be"
+#: ;22CEC5829FA4492D
+msgid "Pattern should be %d beats"
 msgstr ""
 
-#: ;AA2CC191B64B730E
-msgid "More will be discarded, fewer will be padded with"
+#: ;4948EC977FF2CFD0
+msgid " More will be discarded, fewer will be padded with %c"
 msgstr ""
 
 #: ;90C3CF77963D43DF
@@ -66,10 +66,6 @@ msgstr ""
 
 #: ;2F26993C883FB22B
 msgid "Open media file:"
-msgstr ""
-
-#: ;^268986373F235EF0
-msgid "beats"
 msgstr ""
 
 #: ;^2AF10D61DA454203

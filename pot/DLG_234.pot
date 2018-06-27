@@ -40,6 +40,10 @@ msgstr ""
 msgid "buffers (default is 8)"
 msgstr ""
 
+#: ;462289F87C38CF00
+msgid "bytes (default is %u)"
+msgstr ""
+
 #: ;B46890047C5E3414
 msgid "Advanced Disk I/O settings"
 msgstr ""
@@ -78,10 +82,6 @@ msgstr ""
 
 #: ;B193524BF9837051
 msgid "Disk writes (used when recording)"
-msgstr ""
-
-#: ;F54A983E84AA8FA5
-msgid "bytes (default is 262144)"
 msgstr ""
 
 #: ;78CF4E2C69A655CA

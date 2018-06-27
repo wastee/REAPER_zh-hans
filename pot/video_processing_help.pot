@@ -84,8 +84,28 @@ msgstr ""
 msgid "&gfx_a: current drawing alpha (0..1)"
 msgstr ""
 
-#: ;D6B20617A1ECCBF3=&gfx_mode:  0=normal, 1= additive, 3
-msgid "&gfx_mode:  0=normal, 1= additive, 3=mul (works different in YUV vs RGB)"
+#: ;9A31578BBBEA2B00=&gfx_mode: 0 
+msgid "&gfx_mode: 0 = normal"
+msgstr ""
+
+#: ;FF7D3125CB896F99=           1 
+msgid "           1 = additive"
+msgstr ""
+
+#: ;BBFADEEA70FEC1A5=           3 
+msgid "           3 = multiply (very different in YUV vs RGBA)"
+msgstr ""
+
+#: ;76353290FA68BB13=           17 
+msgid "           17 = (dest + src*gfx_a)*.5 + .5 (only valid when using YUV colorspaces)"
+msgstr ""
+
+#: ;4454A6BBE8B07479=           18 
+msgid "           18 = dest + (src-0.5)*gfx_a*2.0 (only valid when using YUV colorspaces)"
+msgstr ""
+
+#: ;B09B1DC53CD349D2=           19 
+msgid "           19 = absolute difference: abs(dest-src)*gfx_a (only valid when using YUV colorspaces)"
 msgstr ""
 
 #: ;E96FF46AF8FEF5D7
@@ -96,12 +116,12 @@ msgstr ""
 msgid "           add 0x10000 to use source alpha (only valid when using RGBA colorspace)"
 msgstr ""
 
-#: ;2E8A69794FCFAC94
-msgid "           add 0x40000 to use extra clamping (for out of range alpha/gradient values)"
+#: ;B20CC2B0D49E1B6D
+msgid "           add 0x40000 to use extra clamping in normal mode (for out of range alpha/gradient values)"
 msgstr ""
 
-#: ;56BD4F0BB4FF8FDE
-msgid "           add 0x80000 to treat gfx_r/gfx_g/gfx_b as YUV values (in non-RGB colorspace)"
+#: ;A0EE995781BE7694
+msgid "           add 0x80000 to treat gfx_r/gfx_g/gfx_b as YUV values (in YUV colorspaces)"
 msgstr ""
 
 #: ;50A40F04D456AE80

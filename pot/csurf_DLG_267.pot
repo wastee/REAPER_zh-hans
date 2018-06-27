@@ -12,15 +12,27 @@ msgstr ""
 "Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
-#: ;EE0709F54123ED0E
-msgid "Open in new project tab"
+#: ;07055D4A0E6802C0
+msgid "Fader count:"
 msgstr ""
 
-#: ;0CECB84C67893C72
-msgid "Run script with restricted permissions"
+#: ;CB0F305E6CBFC5F3
+msgid "(usually 8, but can be more for multichannel HUI)"
 msgstr ""
 
-#: ;^E705DACA1F54B88B
-msgid "Open with FX offline (recovery mode)"
+#: ;34E7711FDF0D7704=(0: first fader=master. 1: first fader
+msgid "(0: first fader=master. 1: first fader=first track)"
+msgstr ""
+
+#: ;^28B58959477A4C84
+msgid "MIDI input:"
+msgstr ""
+
+#: ;^8E37CA9F4D4DE00B
+msgid "MIDI output:"
+msgstr ""
+
+#: ;^5800FB6F53EAD40E
+msgid "Surface offset (tracks):"
 msgstr ""
 

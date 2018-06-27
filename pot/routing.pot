@@ -208,12 +208,12 @@ msgstr ""
 msgid "master send"
 msgstr ""
 
-#: ;24EA41048755292A
-msgid "Muted, "
+#: ;D3E5730901E11F3E
+msgid "%s %s (%s%s, %s %s%s)"
 msgstr ""
 
-#: ;686CBDF778971C6F
-msgid "Disabled"
+#: ;24EA41048755292A
+msgid "Muted, "
 msgstr ""
 
 #: ;02765EDBE7B19924
@@ -260,6 +260,10 @@ msgstr ""
 msgid "MIDI All"
 msgstr ""
 
+#: ;630CAF726138B93D
+msgid "%s %s-> %s %s(%s%s %s%s%s%s)"
+msgstr ""
+
 #: ;D8CA33C2B48414C2
 msgid "MUTED "
 msgstr ""
@@ -272,8 +276,32 @@ msgstr ""
 msgid " - mix to mono"
 msgstr ""
 
+#: ;3BD3F0B3B936C74A
+msgid "%s -> %s %s"
+msgstr ""
+
+#: ;13799C2C5DE40FEF=%s 
+msgid "%s => %s %s %d"
+msgstr ""
+
 #: ;FEC110FC1A48BC19
 msgid "To Channel"
+msgstr ""
+
+#: ;D929FA0C685B0C3A=%s 
+msgid "%s => %s %s"
+msgstr ""
+
+#: ;ACEBA4F8DC7582FE=%s 
+msgid "%s => %s"
+msgstr ""
+
+#: ;B479290BDE167C2D=%s %s
+msgid "%s %s=> %s (%s%s %s%s%s)"
+msgstr ""
+
+#: ;C679D6440B10E83C
+msgid "%s %s %s (%s %s%s%s)"
 msgstr ""
 
 #: ;00721F9E62EF3C94
@@ -298,6 +326,10 @@ msgstr ""
 
 #: ;94FBF5228AB2DE4A
 msgid ", Auto Monitoring"
+msgstr ""
+
+#: ;5D7E3D9013CB5A0D
+msgid "%s %s %s %s"
 msgstr ""
 
 #: ;^8FC86C263760ACB9
@@ -366,6 +398,10 @@ msgstr ""
 
 #: ;^D9B22A6B63054364
 msgid "Enabled"
+msgstr ""
+
+#: ;^686CBDF778971C6F
+msgid "Disabled"
 msgstr ""
 
 #: ;^F3238895531F739E

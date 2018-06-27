@@ -204,6 +204,22 @@ msgstr ""
 msgid "Nudge selected CC events"
 msgstr ""
 
+#: ;B891DBA96EA3B6E2
+msgid "Delete CC"
+msgstr ""
+
+#: ;945BB06924F733B8
+msgid "Delete Text/SysEx"
+msgstr ""
+
+#: ;017A67DA0C00099B
+msgid "Select CC"
+msgstr ""
+
+#: ;7B4D152A93937775
+msgid "Select Text/SysEx"
+msgstr ""
+
 #: ;48E3CDC4784A5967
 msgid "Resize CC/velocity lane"
 msgstr ""

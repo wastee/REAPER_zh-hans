@@ -36,8 +36,12 @@ msgstr ""
 msgid "Lock controls"
 msgstr ""
 
-#: ;F2FA601BD169D08C
-msgid "Open all track MIDI in editor"
+#: ;03741039AD7FE0D3
+msgid "Lock height"
+msgstr ""
+
+#: ;78A82E382FD65D70
+msgid "Open in MIDI editor"
 msgstr ""
 
 #: ;115054AE51369A75

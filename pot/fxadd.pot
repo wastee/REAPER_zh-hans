@@ -48,6 +48,18 @@ msgstr ""
 msgid "Set default preset"
 msgstr ""
 
+#: ;DC212FC6D7C69DBF
+msgid "Create shortcut..."
+msgstr ""
+
+#: ;3E5DF6C1335FDB23
+msgid "Edit shortcut..."
+msgstr ""
+
+#: ;8E47A873B88A8B54
+msgid "Delete shortcut..."
+msgstr ""
+
 #: ;521F6DE1AA57D7F3
 msgid "Add to"
 msgstr ""
@@ -90,6 +102,10 @@ msgstr ""
 
 #: ;AEF8DD6798933C08
 msgid "Run as"
+msgstr ""
+
+#: ;54BE0C4F3DB86B76
+msgid "Save state as VST bank (default)"
 msgstr ""
 
 #: ;6E2A89AB8DA62509
@@ -150,6 +166,18 @@ msgstr ""
 
 #: ;7C5CDD7665745C0D
 msgid "\r\nto:\r\n\t"
+msgstr ""
+
+#: ;D078732262F0D9DF
+msgid "All FX shortcuts are in use. Please delete a shortcut in order to add a new one."
+msgstr ""
+
+#: ;E41BE418ED0DD209
+msgid "FX Shortcut"
+msgstr ""
+
+#: ;25C0DF3AC2495257
+msgid "desc:new effect"
 msgstr ""
 
 #: ;AE59FA2FAFF05064
@@ -232,16 +260,36 @@ msgstr ""
 msgid "Avoid loading undo states when possible"
 msgstr ""
 
-#: ;^54BE0C4F3DB86B76
-msgid "Save state as VST bank (default)"
-msgstr ""
-
 #: ;^18A8E487E05046F8
 msgid "Inform plug-in when track channel count changes"
 msgstr ""
 
+#: ;^7619F5E2F83AE927
+msgid "Hard reset on playback start"
+msgstr ""
+
 #: ;^166EA90B165E1A9C
 msgid "Automation notifications"
+msgstr ""
+
+#: ;^F3BA3A8E6686C922
+msgid "Default notification settings (set in preferences/VST)"
+msgstr ""
+
+#: ;^C514867DEFC3A26A
+msgid "Ignore when plug-in window is not open"
+msgstr ""
+
+#: ;^553098B8452B6F0C
+msgid "Ignore when not from UI thread"
+msgstr ""
+
+#: ;^A20B1F2055BF5412
+msgid "Ignore all notifications"
+msgstr ""
+
+#: ;^4523D3871D7D7B77
+msgid "Process all notifications"
 msgstr ""
 
 #: ;^A179E53BE5D2EC67
@@ -262,6 +310,10 @@ msgstr ""
 
 #: ;^D85ED6186B447CF9
 msgid "FX"
+msgstr ""
+
+#: ;^6037A596D672320D
+msgid "Shortcut"
 msgstr ""
 
 #: ;^48D899DD92FBC032

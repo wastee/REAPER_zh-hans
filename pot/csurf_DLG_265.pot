@@ -12,39 +12,35 @@ msgstr ""
 "Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
-#: ;B7DE0525AC36F51F
-msgid "24/30 fps MTC is 23.976ND/29.97ND if project is ND"
+#: ;CD63BA887FD856AF
+msgid "Ignore fader moves when fader is not being touched"
 msgstr ""
 
-#: ;45B7D3E2535A7D4D
-msgid "24/30 fps MTC is 23.976ND/29.97ND"
+#: ;129DE252B83355A6
+msgid "Map F1-F8 to go to markers"
 msgstr ""
 
-#: ;7FE7B633DF4EB0E3
-msgid "24/30 fps MTC is 24/30 fps"
+#: ;D59C93FE2FB9057B
+msgid "Ignore global bank offsets (always map to tracks specified)"
 msgstr ""
 
-#: ;38959CDFB5D09D66
-msgid "ASIO Positioning Protocol"
+#: ;^28B58959477A4C84
+msgid "MIDI input:"
 msgstr ""
 
-#: ;74E8447B15685715
-msgid "JACK transport"
+#: ;^8E37CA9F4D4DE00B
+msgid "MIDI output:"
 msgstr ""
 
-#: ;D45F993CE12C1B43
-msgid "All Inputs"
+#: ;^5800FB6F53EAD40E
+msgid "Surface offset (tracks):"
 msgstr ""
 
-#: ;BA3F277E286EFC4C
-msgid "LTC"
+#: ;^18CD0ED91946CEB8
+msgid "Size tweak:"
 msgstr ""
 
-#: ;^7D8F257E060B62E4
-msgid "SPP"
-msgstr ""
-
-#: ;^B2C13E7E2485F09F
-msgid "MTC"
+#: ;^FE54809EE740B495
+msgid "(leave at 9 unless you know what you're doing)"
 msgstr ""
 

@@ -88,6 +88,10 @@ msgstr ""
 msgid "Equirectangular 360 panner"
 msgstr ""
 
+#: ;224358625572EFB9
+msgid "Invert colors"
+msgstr ""
+
 #: ;DF876C8083AF0312
 msgid "Blitter feedback"
 msgstr ""

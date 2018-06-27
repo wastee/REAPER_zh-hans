@@ -20,6 +20,10 @@ msgstr ""
 msgid "IN-FX"
 msgstr ""
 
+#: ;4574588CF90726E7
+msgid "Height Lock"
+msgstr ""
+
 #: ;ACCD9F902B6C40ED
 msgid "FIPM"
 msgstr ""

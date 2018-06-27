@@ -68,6 +68,10 @@ msgstr ""
 msgid "Import multichannel MIDI files:"
 msgstr ""
 
+#: ;8199F55C57F15C9E
+msgid "Handle type 0 MIDI files containing meta-events as if they were multichannel MIDI files"
+msgstr ""
+
 #: ;B466B9F6A8F80E2B
 msgid "Always prompt to import tempo from MIDI files with simple tempo maps (holding ctrl toggles)"
 msgstr ""

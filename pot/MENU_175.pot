@@ -168,6 +168,10 @@ msgstr ""
 msgid "Default FX presets"
 msgstr ""
 
+#: ;^A9712384CADC45EE
+msgid "FX shortcuts"
+msgstr ""
+
 #: ;^7A8F70DCF15158A9
 msgid "JSFX descriptions"
 msgstr ""

@@ -44,12 +44,12 @@ msgstr ""
 msgid "When per-take FX are showing, use a lower media buffer size to minimize lag between audio playback and the visual response of the plugin."
 msgstr ""
 
-#: ;9B66C717E0F66095
-msgid "Synchronized multiprocessing allows live monitoring to be multiprocessed in addition to media/FX, but isn't ideal for low latency performance."
+#: ;F2A0039FE6DFC2E5
+msgid "Live FX multiprocessing allows live monitoring to be multiprocessed in addition to media/FX, but isn't ideal for low latency performance."
 msgstr ""
 
-#: ;4F67B9DF3D695CDA
-msgid "How many processors to use for synchronous (non-parallel) multiprocessing. This number should not be more than 2 or 4, even if you have more CPUs."
+#: ;7A0294314A050740
+msgid "How many threads to use for Live FX multiprocessing."
 msgstr ""
 
 #: ;8675235AE1C1D1F9

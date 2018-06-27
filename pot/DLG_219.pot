@@ -24,6 +24,10 @@ msgstr ""
 msgid "Prevent ALT key from focusing main menu"
 msgstr ""
 
+#: ;CB03E0C93574765E
+msgid "Allow space key to be used for navigation in various windows"
+msgstr ""
+
 #: ;E6999CD562DABC49
 msgid "Assign keyboard shortcuts to actions or change existing shortcuts"
 msgstr ""

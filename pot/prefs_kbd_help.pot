@@ -20,6 +20,10 @@ msgstr ""
 msgid "Prevent pressing/holding the ALT key in the main view from focusing the main menu (suppress the default Windows behavior)."
 msgstr ""
 
+#: ;6F4B9E67C8A5B45C
+msgid "Allows the space key to be used for checkboxes/etc in various windows including the media item properties."
+msgstr ""
+
 #: ;299E361BD0DD5ECA
 msgid "When typing new values in some edit fields, the new value can be committed after 1 second, or only after pressing enter."
 msgstr ""

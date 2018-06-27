@@ -12,7 +12,7 @@ msgstr ""
 "Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
-#: ;167FBDFE83A381FB
-msgid "(factory default)"
+#: ;CD157481BA03EF15
+msgid "OSC listen"
 msgstr ""
 

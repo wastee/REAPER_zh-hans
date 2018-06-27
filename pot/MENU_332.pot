@@ -52,6 +52,18 @@ msgstr ""
 msgid "Offline background project media"
 msgstr ""
 
+#: ;401ED0502DA30BA8
+msgid "Subproject rendering"
+msgstr ""
+
+#: ;23DF5E06DE62E9E2
+msgid "Do not automatically render subprojects (require manual render)"
+msgstr ""
+
+#: ;58B042C2931D8E7F
+msgid "Prompt before automatic rerender of background subprojects"
+msgstr ""
+
 #: ;D06DCA77EC46B99D
 msgid "Defer rendering of subprojects (render on tab switch rather than save)"
 msgstr ""

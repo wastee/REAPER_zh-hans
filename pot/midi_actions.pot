@@ -1088,12 +1088,16 @@ msgstr ""
 msgid "Options: MIDI track list/media item lane selection is linked to visibility"
 msgstr ""
 
-#: ;6AA5061B6E53203F
-msgid "Options: Only MIDI items on the same track as the active item are editable"
+#: ;F84D26D05854491E
+msgid "Options: Avoid automatically setting MIDI items from other tracks editable"
 msgstr ""
 
 #: ;E9B49CE816504702
 msgid "Options: All media items are editable in notation view"
+msgstr ""
+
+#: ;CD46DB42C4180EE5
+msgid "Options: Make secondary items editable by default"
 msgstr ""
 
 #: ;EC99064D457BE92B
@@ -2560,24 +2564,32 @@ msgstr ""
 msgid "CC: Set CC lane to Sysex"
 msgstr ""
 
+#: ;25F36FFC394C5AA8
+msgid "CC: Set CC lane to %03d %s"
+msgstr ""
+
+#: ;6196754B3BE72C84
+msgid "CC: Set CC lane to %03d"
+msgstr ""
+
 #: ;9F7B5C942E0C2D22
 msgid "CC: Set CC lane to"
 msgstr ""
 
-#: ;DBBAB3326B686454
-msgid "Insert note: "
+#: ;E989B2218DAB0250
+msgid "Insert note: %s"
 msgstr ""
 
-#: ;39E2633651F5ADAD
-msgid "Cursor: Advance "
+#: ;B564354B5448EFD1
+msgid "Cursor: Advance %s"
 msgstr ""
 
-#: ;1D1C89DBB1032FAB
-msgid "Set length for next inserted note: "
+#: ;DF23C72B8BC96ADB
+msgid "Set length for next inserted note: %s"
 msgstr ""
 
-#: ;14B9227A11B91CFC
-msgid "Edit: Set note length to "
+#: ;D83669B634EC1FD8
+msgid "Edit: Set note length to %s"
 msgstr ""
 
 #: ;^887AC55D66DDCCA9

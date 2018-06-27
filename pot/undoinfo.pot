@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: REAPER_zh-hans\n"
+"Last-Translator: All Chinese REAPER Users\n"
+"Language-Team: Chinese REAPER users\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Python Script\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: =\n"
+
+#: ;D98DAA186C4615F4
+msgid "-\n"
+msgstr ""
+
+#: ;CC69B32A1B8AFBB1
+msgid ": new %d byte chunk"
+msgstr ""
+
+#: ;56DD9F973601ED8A
+msgid ": delete %d byte chunk"
+msgstr ""
+
+#: ;4CF21634ED8B9087
+msgid ": %d -> %d bytes"
+msgstr ""
+
+#: ;A2BE2B5333D165FC
+msgid ": changed (%d bytes)"
+msgstr ""
+
+#: ;80DB692E5E4BDFD2
+msgid ": unchanged but duplicate %d bytes"
+msgstr ""
+
+#: ;31C0B456FF7A955A
+msgid "Total size: %d bytes\n"
+msgstr ""
+
+#: ;B1FB520935F127D7
+msgid "Project Bay: %d -> %d entries\n"
+msgstr ""
+
+#: ;3FCF819BAEF0964C
+msgid "Project Bay: changed\n"
+msgstr ""
+
+#: ;D825AA2BC5185FBB
+msgid "Automation Items: %d -> %d entries\n"
+msgstr ""
+
+#: ;AA14D51EC7907848
+msgid "Automation Items: changed\n"
+msgstr ""
+
+#: ;C29CE5FE337FAD12
+msgid "Project Config"
+msgstr ""
+
+#: ;5B7D8763B0FDBA2D
+msgid "Master Config"
+msgstr ""
+
+#: ;A659003C252EBE2B
+msgid "Master Track Envelopes"
+msgstr ""
+
+#: ;0715436BDC9171B9
+msgid "Master FX"
+msgstr ""
+
+#: ;AE8883645F4614AC
+msgid "Master FX Envelopes"
+msgstr ""
+
+#: ;B936731FB4E3D7BF
+msgid "New track %d %s\n"
+msgstr ""
+
+#: ;83AF710B20930032
+msgid "Track %d %s was track %d\n"
+msgstr ""
+
+#: ;06B69AC2DE1B8763
+msgid "Track %d Config"
+msgstr ""
+
+#: ;D9EFED519114E42B
+msgid "Track %d Items"
+msgstr ""
+
+#: ;126512728424E95E
+msgid "Track %d Freeze"
+msgstr ""
+
+#: ;E10591E2B67BCCAE
+msgid "Track %d Envelopes"
+msgstr ""
+
+#: ;DB0E40D5C3361063
+msgid "Track %d Input FX"
+msgstr ""
+
+#: ;14B6549EF47F5B27
+msgid "Track %d FX"
+msgstr ""
+
+#: ;708B5275FEC4CBB2
+msgid "Track %d FX Envelopes"
+msgstr ""
+
+#: ;03F1742642965941
+msgid "Remove track %d\n"
+msgstr ""
+

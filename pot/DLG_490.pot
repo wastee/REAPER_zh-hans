@@ -96,8 +96,12 @@ msgstr ""
 msgid "Selection is linked to editability"
 msgstr ""
 
-#: ;^05E07D2942EFF739
-msgid "Only MIDI items on the same track as the active item are editable"
+#: ;^FDADCA59F6C3539B
+msgid "Make secondary items editable by default"
+msgstr ""
+
+#: ;^472B99EE9A28AFB0
+msgid "Avoid automatically setting MIDI items from other tracks editable"
 msgstr ""
 
 #: ;^F685FB3A91025549

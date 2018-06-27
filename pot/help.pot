@@ -116,6 +116,10 @@ msgstr ""
 msgid "Empty item"
 msgstr ""
 
+#: ;^FA7C612AB981A126
+msgid "Scrub"
+msgstr ""
+
 #: ;^44BE2B196101CBBE
 msgid "Move region"
 msgstr ""

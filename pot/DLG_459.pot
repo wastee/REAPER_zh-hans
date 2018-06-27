@@ -48,14 +48,6 @@ msgstr ""
 msgid "Draw edges on MIDI events"
 msgstr ""
 
-#: ;9F6E33F3EEF18AE0
-msgid "Automatically scale MIDI notes to fit"
-msgstr ""
-
-#: ;EC315A6A55821FBB
-msgid "Automatically scale drum MIDI to fit"
-msgstr ""
-
 #: ;29DDC7DE81B9698E
 msgid "Draw waveform zero-lines above peaks/waveforms"
 msgstr ""
@@ -68,16 +60,20 @@ msgstr ""
 msgid "Scale peaks by pre-fx volume/pan envelopes"
 msgstr ""
 
-#: ;5862AA63A1F39804
-msgid "Sample-level waveform view:"
-msgstr ""
-
 #: ;4729359BCAD7C0EE
 msgid "Draw faint peaks in folder tracks"
 msgstr ""
 
 #: ;45A42E267216B44C
 msgid "Draw faint peaks in automation envelope lanes"
+msgstr ""
+
+#: ;2B196D31216ACCC5
+msgid "Display MIDI CC lanes in arrange view:"
+msgstr ""
+
+#: ;5862AA63A1F39804
+msgid "Sample-level waveform view:"
 msgstr ""
 
 #: ;3DFD497C7C3587C8

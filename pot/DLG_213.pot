@@ -108,16 +108,20 @@ msgstr ""
 msgid "Marker line Z order:"
 msgstr ""
 
-#: ;980D5EC775E875B9
-msgid "Project regions/markers"
+#: ;94E19FE26788F507
+msgid "Show project regions/markers in grid"
 msgstr ""
 
-#: ;36A386239E958667
-msgid "Display gridlines for:"
+#: ;29C14DC1FD71BF41
+msgid "Show time signature changes in grid"
 msgstr ""
 
-#: ;F5CDF794388FA7B1
-msgid "Time signature changes"
+#: ;CACBFD6F59FFEBD3
+msgid "Divide arrange view vertically every"
+msgstr ""
+
+#: ;83653A18A4EE3168=measures (0
+msgid "measures (0=zoom dependent)"
 msgstr ""
 
 #: ;^649ECB151A2B4705

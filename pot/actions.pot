@@ -20,6 +20,14 @@ msgstr ""
 msgid "Media Explorer: Show/hide Media Explorer"
 msgstr ""
 
+#: ;13C5DEE2415BA3C7
+msgid "Insert FX chain: %s"
+msgstr ""
+
+#: ;1267790E82CCD90E
+msgid "Insert FX: %s"
+msgstr ""
+
 #: ;1AA754B58DA60919
 msgid "Action: Prompt to continue (only valid within custom actions)"
 msgstr ""
@@ -124,6 +132,10 @@ msgstr ""
 msgid "File: Save project as template..."
 msgstr ""
 
+#: ;541355726B969B96
+msgid "File: Save project and render RPP-PROX"
+msgstr ""
+
 #: ;6426A1BCC25552FF
 msgid "File: Save new version of project (automatically increment project name)"
 msgstr ""
@@ -218,6 +230,14 @@ msgstr ""
 
 #: ;A60779D98E8FCB56
 msgid "Project tabs: leave subproject open in tab after automatic open and render"
+msgstr ""
+
+#: ;9A5DCE17B0BF60E1
+msgid "Project tabs: do not automatically render subprojects (reuqire manual render)"
+msgstr ""
+
+#: ;3D3AF369705B8E56
+msgid "Project tabs: prompt before automatic rerender of background subprojects"
 msgstr ""
 
 #: ;B831D5D1617AC496
@@ -904,6 +924,10 @@ msgstr ""
 msgid "Track: Select all tracks that have controls locked"
 msgstr ""
 
+#: ;983DC166AEFEBF8A
+msgid "Track: lock/unlock track height"
+msgstr ""
+
 #: ;BE8E71E68F96D9B8
 msgid "View: Show Virtual MIDI keyboard"
 msgstr ""
@@ -1166,6 +1190,10 @@ msgstr ""
 
 #: ;6DB67B890334F14C
 msgid "Adjust entire tempo envelope..."
+msgstr ""
+
+#: ;DB023531356CDCFA
+msgid "Tempo envelope: Insert tempo marker at edit cursor, without opening tempo edit dialog"
 msgstr ""
 
 #: ;448CAF9331DAE0D3
@@ -1748,8 +1776,8 @@ msgstr ""
 msgid "Markers: Remove all markers from time selection"
 msgstr ""
 
-#: ;3147AEE1A56E9302
-msgid "Insert tempo/time signature change marker at edit cursor"
+#: ;28380529F4E4E79D
+msgid "Tempo envelope: Insert tempo/time signature change marker at edit cursor..."
 msgstr ""
 
 #: ;652579B18EBBAE00
@@ -3924,32 +3952,32 @@ msgstr ""
 msgid "Loop points: Set loop points to items"
 msgstr ""
 
-#: ;8AB1F2EEE973588D
-msgid "Track: View FX chain for current track"
+#: ;BF291DD1BD1143E2
+msgid "Track: View FX chain for current/last touched track"
 msgstr ""
 
-#: ;0508E003FC986135
-msgid "Track: View input FX chain for current track"
+#: ;73A10E53BA2B6A7A
+msgid "Track: View input FX chain for current/last touched track"
 msgstr ""
 
 #: ;DE82A81FB7525C90
 msgid "Track: View FX chain for master track"
 msgstr ""
 
-#: ;46C8654DF813A08B
-msgid "Track: Toggle FX bypass for current track"
+#: ;855A5D11EEA75B04
+msgid "Track: Toggle FX bypass for current/last touched track"
 msgstr ""
 
-#: ;2171AB69C641DE7D
-msgid "Track: View envelopes for current track"
+#: ;5EF24D06545386B2
+msgid "Track: View envelopes for current/last touched track"
 msgstr ""
 
-#: ;39CB91B4D21C6C05
-msgid "Track: View I/O for current track"
+#: ;E816CED6DBB7AE77
+msgid "Track: View routing and I/O for current/last touched track"
 msgstr ""
 
-#: ;2AF9617D69831A23
-msgid "Track: Toggle record arming for current (last touched) track"
+#: ;66F29A42FB5D52ED
+msgid "Track: Toggle record arming for current/last touched track"
 msgstr ""
 
 #: ;76D96788E33FB4F5
@@ -4870,6 +4898,10 @@ msgstr ""
 
 #: ;50301FE38C5A3860
 msgid "Options: Automatically insert automation item when activating envelope that is bypassed outside of automation items and not displayed in envelope lane"
+msgstr ""
+
+#: ;6A7E194F34630035
+msgid "Envelope: Convert all project automation to automation items"
 msgstr ""
 
 #: ;D4B61581B4BE1943
@@ -5958,6 +5990,10 @@ msgstr ""
 
 #: ;357DF994C7BDE8DA
 msgid "Grid: Adjust by 3"
+msgstr ""
+
+#: ;D0095D14943F435C
+msgid "Grid: Divide arrange view vertically by measures"
 msgstr ""
 
 #: ;622CFEBF70025560

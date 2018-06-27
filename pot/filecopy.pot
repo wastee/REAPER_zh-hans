@@ -48,6 +48,10 @@ msgstr ""
 msgid "single-channel items"
 msgstr ""
 
+#: ;3532BA8754A2063C
+msgid "meta-events"
+msgstr ""
+
 #: ;0C7DFAB3AD2B5B13
 msgid "chan"
 msgstr ""

@@ -604,8 +604,8 @@ msgstr ""
 msgid "ReWire"
 msgstr ""
 
-#: ;1EB556E18D613E28
-msgid "Add..."
+#: ;C39132F1A8047E9F
+msgid "Edit..."
 msgstr ""
 
 #: ;E9991E9C69A2E870
@@ -872,6 +872,10 @@ msgstr ""
 msgid "Actions"
 msgstr ""
 
+#: ;1EB556E18D613E28
+msgid "Add..."
+msgstr ""
+
 #: ;F10F4B1B4D6DC250
 msgid "Clear"
 msgstr ""
@@ -884,16 +888,8 @@ msgstr ""
 msgid "Custom actions:"
 msgstr ""
 
-#: ;C39132F1A8047E9F
-msgid "Edit..."
-msgstr ""
-
 #: ;F70C14BE35114F9B
 msgid "New..."
-msgstr ""
-
-#: ;3F0C4A774B49AF33
-msgid "Run/close"
 msgstr ""
 
 #: ;3A39C76003695360
@@ -1132,12 +1128,16 @@ msgstr ""
 msgid "Active MIDI item follows selection changes in arrange view"
 msgstr ""
 
-#: ;19E78BE8A7F79DE0
-msgid "Media item selection is linked to visibility"
+#: ;472B99EE9A28AFB0
+msgid "Avoid automatically setting MIDI items from other tracks editable"
 msgstr ""
 
-#: ;05E07D2942EFF739
-msgid "Only MIDI items on the same track as the active item are editable"
+#: ;FDADCA59F6C3539B
+msgid "Make secondary items editable by default"
+msgstr ""
+
+#: ;19E78BE8A7F79DE0
+msgid "Media item selection is linked to visibility"
 msgstr ""
 
 #: ;6B715267FFEB9F05
@@ -1782,6 +1782,10 @@ msgstr ""
 
 #: ;F96490112D1B162F
 msgid "Lock track controls"
+msgstr ""
+
+#: ;7D4D6C4CD3A7206A
+msgid "Lock track height"
 msgstr ""
 
 #: ;EC752CC2DB12686D
@@ -2664,6 +2668,10 @@ msgstr ""
 msgid "FX chains"
 msgstr ""
 
+#: ;A9712384CADC45EE
+msgid "FX shortcuts"
+msgstr ""
+
 #: ;EFDD0AC32D858D23
 msgid "Instruments"
 msgstr ""
@@ -3084,6 +3092,10 @@ msgstr ""
 msgid "Compatibility settings"
 msgstr ""
 
+#: ;F3BA3A8E6686C922
+msgid "Default notification settings (set in preferences/VST)"
+msgstr ""
+
 #: ;4D7E1F0F4DFA5B57
 msgid "Export VST patch/bank file (.fxp/.fxb)..."
 msgstr ""
@@ -3092,12 +3104,20 @@ msgstr ""
 msgid "Export preset library (.rpl)..."
 msgstr ""
 
+#: ;7619F5E2F83AE927
+msgid "Hard reset on playback start"
+msgstr ""
+
 #: ;A20B1F2055BF5412
 msgid "Ignore all notifications"
 msgstr ""
 
 #: ;553098B8452B6F0C
 msgid "Ignore when not from UI thread"
+msgstr ""
+
+#: ;C514867DEFC3A26A
+msgid "Ignore when plug-in window is not open"
 msgstr ""
 
 #: ;A323B989757B042A
@@ -3146,10 +3166,6 @@ msgstr ""
 
 #: ;77D4606E1E255B38
 msgid "Save preset as default..."
-msgstr ""
-
-#: ;54BE0C4F3DB86B76
-msgid "Save state as VST bank (default)"
 msgstr ""
 
 #: ;5F00BE84E91B6C9B
@@ -3764,6 +3780,30 @@ msgstr ""
 msgid "ReaMote"
 msgstr ""
 
+#: ;FE54809EE740B495
+msgid "(leave at 9 unless you know what you're doing)"
+msgstr ""
+
+#: ;28B58959477A4C84
+msgid "MIDI input:"
+msgstr ""
+
+#: ;8E37CA9F4D4DE00B
+msgid "MIDI output:"
+msgstr ""
+
+#: ;18CD0ED91946CEB8
+msgid "Size tweak:"
+msgstr ""
+
+#: ;5800FB6F53EAD40E
+msgid "Surface offset (tracks):"
+msgstr ""
+
+#: ;686CBDF778971C6F
+msgid "Disabled"
+msgstr ""
+
 #: ;D9220AE04A08F86B
 msgid "Error opening file"
 msgstr ""
@@ -4200,6 +4240,10 @@ msgstr ""
 msgid "Move region"
 msgstr ""
 
+#: ;FA7C612AB981A126
+msgid "Scrub"
+msgstr ""
+
 #: ;AB92A9DAC365A96B
 msgid "A single loopable media item"
 msgstr ""
@@ -4214,6 +4258,10 @@ msgstr ""
 
 #: ;15C4666BD022F937
 msgid "Import media at source tempo"
+msgstr ""
+
+#: ;91C5B6489FFA9947
+msgid "%dch "
 msgstr ""
 
 #: ;ED3B2E348AB4097C

@@ -76,8 +76,8 @@ msgstr ""
 msgid "Toolbar button armed color"
 msgstr ""
 
-#: ;BC84C51A714ED29C
-msgid "Toolbar button armed draw mode"
+#: ;4D0CBFBFF06F6BCD
+msgid "Toolbar button armed fill mode"
 msgstr ""
 
 #: ;637FC2FB9F7218EB
@@ -166,6 +166,10 @@ msgstr ""
 
 #: ;81D1A7486543356A
 msgid "Empty arrange view area"
+msgstr ""
+
+#: ;97A71A48E769B8EE
+msgid "Empty arrange view area vertical grid shading"
 msgstr ""
 
 #: ;07304E7966E8042C
@@ -334,6 +338,10 @@ msgstr ""
 
 #: ;593D7CE01F3B8E1F
 msgid "Media item peaks edge highlight when selected (even tracks)"
+msgstr ""
+
+#: ;3EE4862BB534ABB5
+msgid "Media item MIDI CC peaks fill mode"
 msgstr ""
 
 #: ;B7EBC614CE67ECB2
@@ -1070,6 +1078,134 @@ msgstr ""
 
 #: ;0C084C908D36DC06
 msgid "Group #32"
+msgstr ""
+
+#: ;0C084D908D36DDB9
+msgid "Group #33"
+msgstr ""
+
+#: ;0C084E908D36DF6C
+msgid "Group #34"
+msgstr ""
+
+#: ;0C084F908D36E11F
+msgid "Group #35"
+msgstr ""
+
+#: ;0C0850908D36E2D2
+msgid "Group #36"
+msgstr ""
+
+#: ;0C0851908D36E485
+msgid "Group #37"
+msgstr ""
+
+#: ;0C0852908D36E638
+msgid "Group #38"
+msgstr ""
+
+#: ;0C0853908D36E7EB
+msgid "Group #39"
+msgstr ""
+
+#: ;0C1FD4908D4AA1FF
+msgid "Group #40"
+msgstr ""
+
+#: ;0C1FD3908D4AA04C
+msgid "Group #41"
+msgstr ""
+
+#: ;0C1FD6908D4AA565
+msgid "Group #42"
+msgstr ""
+
+#: ;0C1FD5908D4AA3B2
+msgid "Group #43"
+msgstr ""
+
+#: ;0C1FD0908D4A9B33
+msgid "Group #44"
+msgstr ""
+
+#: ;0C1FCF908D4A9980
+msgid "Group #45"
+msgstr ""
+
+#: ;0C1FD2908D4A9E99
+msgid "Group #46"
+msgstr ""
+
+#: ;0C1FD1908D4A9CE6
+msgid "Group #47"
+msgstr ""
+
+#: ;0C1FDC908D4AAF97
+msgid "Group #48"
+msgstr ""
+
+#: ;0C1FDB908D4AADE4
+msgid "Group #49"
+msgstr ""
+
+#: ;0C1CCE908D4861F6
+msgid "Group #50"
+msgstr ""
+
+#: ;0C1CCF908D4863A9
+msgid "Group #51"
+msgstr ""
+
+#: ;0C1CCC908D485E90
+msgid "Group #52"
+msgstr ""
+
+#: ;0C1CCD908D486043
+msgid "Group #53"
+msgstr ""
+
+#: ;0C1CD2908D4868C2
+msgid "Group #54"
+msgstr ""
+
+#: ;0C1CD3908D486A75
+msgid "Group #55"
+msgstr ""
+
+#: ;0C1CD0908D48655C
+msgid "Group #56"
+msgstr ""
+
+#: ;0C1CD1908D48670F
+msgid "Group #57"
+msgstr ""
+
+#: ;0C1CD6908D486F8E
+msgid "Group #58"
+msgstr ""
+
+#: ;0C1CD7908D487141
+msgid "Group #59"
+msgstr ""
+
+#: ;0C1968908D457ECD
+msgid "Group #60"
+msgstr ""
+
+#: ;0C1967908D457D1A
+msgid "Group #61"
+msgstr ""
+
+#: ;0C1966908D457B67
+msgid "Group #62"
+msgstr ""
+
+#: ;0C1965908D4579B4
+msgid "Group #63"
+msgstr ""
+
+#: ;0C1964908D457801
+msgid "Group #64"
 msgstr ""
 
 #: ;3BA92E5EBA228E4D

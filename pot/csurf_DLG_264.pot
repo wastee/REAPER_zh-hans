@@ -12,7 +12,23 @@ msgstr ""
 "Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
-#: ;167FBDFE83A381FB
-msgid "(factory default)"
+#: ;^28B58959477A4C84
+msgid "MIDI input:"
+msgstr ""
+
+#: ;^8E37CA9F4D4DE00B
+msgid "MIDI output:"
+msgstr ""
+
+#: ;^5800FB6F53EAD40E
+msgid "Surface offset (tracks):"
+msgstr ""
+
+#: ;^18CD0ED91946CEB8
+msgid "Size tweak:"
+msgstr ""
+
+#: ;^FE54809EE740B495
+msgid "(leave at 9 unless you know what you're doing)"
 msgstr ""
 

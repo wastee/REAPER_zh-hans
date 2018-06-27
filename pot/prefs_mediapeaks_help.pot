@@ -44,8 +44,8 @@ msgstr ""
 msgid "Draw a colored edge (defined in the color theme) around media item peaks. Color theme may override this preference."
 msgstr ""
 
-#: ;7B2DD4730846F219
-msgid "Draw a colored edge (defined in the color theme) around media item waveforms (when there is at least one screen pixel per audio sample). Color theme may override this preference."
+#: ;3C548054A1EEE90D
+msgid "Draw a colored edge (defined in the color theme) around media item waveforms. Color theme may override this preference."
 msgstr ""
 
 #: ;6B5AB7081B65AB32
@@ -66,6 +66,10 @@ msgstr ""
 
 #: ;EC1D5A533AA78E29
 msgid "Draw a colored edge (defined in the color theme) around MIDI notes in media items. Color theme may override this preference."
+msgstr ""
+
+#: ;6C4196A4EDB46151
+msgid "Choose how many of the CC/channel pressure/pitch lanes that are visible in the MIDI editor to display in the arrange view."
 msgstr ""
 
 #: ;67C8378720291149

@@ -20,6 +20,10 @@ msgstr ""
 msgid "FX parameter learn"
 msgstr ""
 
+#: ;59A1D2B72129D344
+msgid "Recently used"
+msgstr ""
+
 #: ;5CE3937DF4199849
 msgid "Wet"
 msgstr ""

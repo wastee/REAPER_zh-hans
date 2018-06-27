@@ -76,8 +76,8 @@ msgstr ""
 msgid "Last render settings"
 msgstr ""
 
-#: ;A82D8163A8484674
-msgid "Bounds and output"
+#: ;D3EF81DC9ACE2E0E
+msgid "Bounds and output pattern/filename"
 msgstr ""
 
 #: ;3912E287492971ED

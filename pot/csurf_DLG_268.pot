@@ -12,23 +12,39 @@ msgstr ""
 "Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
-#: ;2A4E859EDE54DBFC
-msgid "Import %d-channel MIDI as:"
+#: ;DEDDEFB0D4AC4971
+msgid "Run web server on port:"
 msgstr ""
 
-#: ;3423153C6B5BCC44
-msgid "Import %d-channel MIDI and meta-events as:"
+#: ;DDBFA7339AE9FDBC
+msgid "Username:password:"
 msgstr ""
 
-#: ;8760B8EAFB5FC6F6
-msgid "%s import: %s"
+#: ;45829D2DE675DF73
+msgid "(blank for none)"
 msgstr ""
 
-#: ;CBE458B8A675A6A8
-msgid "Import %d-channel %s as %d mono tracks?"
+#: ;78F3062A0BFFA603
+msgid "Default interface:"
 msgstr ""
 
-#: ;^629548803B048F00
-msgid " - "
+#: ;62453F0E0CFBA85A
+msgid "User pages..."
+msgstr ""
+
+#: ;B25F244509A7442B
+msgid "Built-in pages..."
+msgstr ""
+
+#: ;B35E79081B2BCC11
+msgid "Use rc.reaper.fm"
+msgstr ""
+
+#: ;4606CA318D4A8CDE
+msgid "Access URL:"
+msgstr ""
+
+#: ;^D405917E36F95CF8
+msgid "ID:"
 msgstr ""
 

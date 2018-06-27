@@ -36,6 +36,10 @@ msgstr ""
 msgid "Select/close"
 msgstr ""
 
+#: ;3F0C4A774B49AF33
+msgid "Run/close"
+msgstr ""
+
 #: ;EB0131ECDA17D24C
 msgid "Edit Custom Action"
 msgstr ""
@@ -66,10 +70,6 @@ msgstr ""
 
 #: ;^87DB547E0C57B4B8
 msgid "Run"
-msgstr ""
-
-#: ;^3F0C4A774B49AF33
-msgid "Run/close"
 msgstr ""
 
 #: ;^BAC64C1B2E060EE5

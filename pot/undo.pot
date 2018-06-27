@@ -108,8 +108,8 @@ msgstr ""
 msgid "Write values to actively-writing envelopes"
 msgstr ""
 
-#: ;4741D2DFDB837713
-msgid "Move edit cursor to "
+#: ;7EB64A8C1655BEA6
+msgid "Convert project automation to automation items"
 msgstr ""
 
 #: ;EAF773E88D69D4B6
@@ -864,6 +864,10 @@ msgstr ""
 msgid "Split item under mouse cursor"
 msgstr ""
 
+#: ;CE047DBAE207E96C
+msgid "Split automation item under mouse cursor"
+msgstr ""
+
 #: ;727F44509D91AA7E
 msgid "Remove active take from MIDI source data pool"
 msgstr ""
@@ -1038,6 +1042,10 @@ msgstr ""
 
 #: ;8A2340AA0B32412E
 msgid "Set master playrate fader range"
+msgstr ""
+
+#: ;569DC48649EFECCB
+msgid "Insert tempo change"
 msgstr ""
 
 #: ;80474849AE771415
@@ -1480,6 +1488,10 @@ msgstr ""
 msgid "Set track lock via manager"
 msgstr ""
 
+#: ;71F4BBB7D0D99B7B
+msgid "Set track height lock via manager"
+msgstr ""
+
 #: ;80F55F9FBEBEA877
 msgid "Set track FIPM via manager"
 msgstr ""
@@ -1762,6 +1774,10 @@ msgstr ""
 
 #: ;C9BE869686E7E422
 msgid "Insert media items"
+msgstr ""
+
+#: ;4741D2DFDB837713
+msgid "Move edit cursor to "
 msgstr ""
 
 #: ;BE1C167E67EC7356
@@ -2130,10 +2146,6 @@ msgstr ""
 
 #: ;D1A9F791BF6F55EF
 msgid "Add FX MIDI link"
-msgstr ""
-
-#: ;07A660F46127BC60
-msgid "Change track channel count"
 msgstr ""
 
 #: ;9380DC2BEE458DF5

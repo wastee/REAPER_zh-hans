@@ -204,6 +204,10 @@ msgstr ""
 msgid "Lock track controls"
 msgstr ""
 
+#: ;^7D4D6C4CD3A7206A
+msgid "Lock track height"
+msgstr ""
+
 #: ;^AE7E61A37889E975
 msgid "Free item positioning"
 msgstr ""

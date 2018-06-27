@@ -76,6 +76,22 @@ msgstr ""
 msgid "Automatically mute any track"
 msgstr ""
 
+#: ;BA4D083E0E7D5FCB
+msgid "Do not display CC data"
+msgstr ""
+
+#: ;EE428BCEF74F31D2
+msgid "Only the first lane visible in the MIDI editor"
+msgstr ""
+
+#: ;403C67907C76BCD2
+msgid "One lane combining all CC data"
+msgstr ""
+
+#: ;095E4F4EA92332BE
+msgid "Multiple lanes when space permits (default)"
+msgstr ""
+
 #: ;5C93D72D90574575
 msgid "Dots and lines"
 msgstr ""
@@ -102,10 +118,6 @@ msgstr ""
 
 #: ;CDD69E77F19A943C
 msgid "Do not scrub"
-msgstr ""
-
-#: ;FA7C612AB981A126
-msgid "Scrub"
 msgstr ""
 
 #: ;73D3C9335C868336
@@ -146,6 +158,10 @@ msgstr ""
 
 #: ;2D06A497BD64F464
 msgid "Video Decoder Information"
+msgstr ""
+
+#: ;AE04609BFAC1BE7B
+msgid "Remove:"
 msgstr ""
 
 #: ;^99FA828F906D3EE4
@@ -192,6 +208,10 @@ msgstr ""
 msgid "Smooth"
 msgstr ""
 
+#: ;^FA7C612AB981A126
+msgid "Scrub"
+msgstr ""
+
 #: ;^E964640878017639
 msgid "Open the clicked MIDI item only"
 msgstr ""
@@ -202,5 +222,9 @@ msgstr ""
 
 #: ;^71A76211A7CFDF12
 msgid "Open all MIDI in the project"
+msgstr ""
+
+#: ;^1EB556E18D613E28
+msgid "Add..."
 msgstr ""
 

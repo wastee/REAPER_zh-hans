@@ -12,16 +12,16 @@ msgstr ""
 "Language: en_US\n"
 "X-Poedit-KeywordsList: =\n"
 
-#: ;92724BFBEEA5C07E
-msgid "Using this feature you can create new Projects that are automatically setup with your choice of basic Tracks and Project Settings (e.g. bit depth, sample rate)."
+#: ;0A5F0E84A3869846
+msgid "Using this feature you can create new projects that are automatically setup with your choice of basic tracks and project settings (bit depth, sample rate, etc)."
 msgstr ""
 
-#: ;26E6B7A31D7A57DF
-msgid "Makes REAPER open the Save project window each time you create a new project, getting you to save before you start recording."
+#: ;CD8E703057AE56BF
+msgid "Makes REAPER open the save project window each time you create a new project, getting you to save before you start recording."
 msgstr ""
 
-#: ;E1F384E30853505F
-msgid "Select this option to make REAPER open the Project Settings window each time a new Project is created."
+#: ;E95AA15A86B228FF
+msgid "Select this option to make REAPER open the project settings window each time a new project is created."
 msgstr ""
 
 #: ;45C61D88D5DA8765

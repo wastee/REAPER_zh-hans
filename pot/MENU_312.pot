@@ -36,6 +36,10 @@ msgstr ""
 msgid "Display RT longest-block processing time"
 msgstr ""
 
+#: ;BDCA3CD61B25F6F5
+msgid "Display xrun counters"
+msgstr ""
+
 #: ;1D8E0673D38702E7
 msgid "Display disk use"
 msgstr ""

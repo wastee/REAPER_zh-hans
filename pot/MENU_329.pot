@@ -16,12 +16,8 @@ msgstr ""
 msgid "29VstHost"
 msgstr ""
 
-#: ;F3BA3A8E6686C922
-msgid "Default notification settings (set in preferences/VST)"
-msgstr ""
-
-#: ;C514867DEFC3A26A
-msgid "Ignore when plug-in window is not open"
+#: ;B1B7B32725E2D65E
+msgid "Save state as VST bank"
 msgstr ""
 
 #: ;^37E1C985732EDDC1
@@ -152,12 +148,12 @@ msgstr ""
 msgid "Avoid loading undo states when possible"
 msgstr ""
 
-#: ;^54BE0C4F3DB86B76
-msgid "Save state as VST bank (default)"
-msgstr ""
-
 #: ;^18A8E487E05046F8
 msgid "Inform plug-in when track channel count changes"
+msgstr ""
+
+#: ;^7619F5E2F83AE927
+msgid "Hard reset on playback start"
 msgstr ""
 
 #: ;^7C52DE0969C08A82
@@ -166,6 +162,14 @@ msgstr ""
 
 #: ;^166EA90B165E1A9C
 msgid "Automation notifications"
+msgstr ""
+
+#: ;^F3BA3A8E6686C922
+msgid "Default notification settings (set in preferences/VST)"
+msgstr ""
+
+#: ;^C514867DEFC3A26A
+msgid "Ignore when plug-in window is not open"
 msgstr ""
 
 #: ;^553098B8452B6F0C

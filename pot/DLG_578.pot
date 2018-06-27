@@ -36,6 +36,14 @@ msgstr ""
 msgid "Auto-connect jack MIDI channels to hardware"
 msgstr ""
 
+#: ;EBAA66188F58E2C6
+msgid "Auto-suspend PulseAudio"
+msgstr ""
+
+#: ;775661C1B339B845
+msgid "Disable power management if supported (requires permissions to /dev/cpu_dma_latency)"
+msgstr ""
+
 #: ;^16464B290024A7A0
 msgid "Audio device settings"
 msgstr ""

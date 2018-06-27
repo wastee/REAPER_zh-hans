@@ -676,6 +676,14 @@ msgstr ""
 msgid "Open all MIDI in the project"
 msgstr ""
 
+#: ;^FDADCA59F6C3539B
+msgid "Make secondary items editable by default"
+msgstr ""
+
+#: ;^472B99EE9A28AFB0
+msgid "Avoid automatically setting MIDI items from other tracks editable"
+msgstr ""
+
 #: ;^9535442A6F8D5561
 msgid "Options when using one MIDI editor per project"
 msgstr ""
@@ -690,10 +698,6 @@ msgstr ""
 
 #: ;^37430F40BB8B352E
 msgid "Media item selection is linked to editability"
-msgstr ""
-
-#: ;^05E07D2942EFF739
-msgid "Only MIDI items on the same track as the active item are editable"
 msgstr ""
 
 #: ;^725B164EA8340BE9

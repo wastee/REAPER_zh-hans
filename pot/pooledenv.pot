@@ -16,8 +16,8 @@ msgstr ""
 msgid "Load Automation Item"
 msgstr ""
 
-#: ;9B4427FB3CCEE144
-msgid "Rename Automatiom Item"
+#: ;B41F2FB851FBE597
+msgid "Rename Automation Item"
 msgstr ""
 
 #: ;096516B609B04A04

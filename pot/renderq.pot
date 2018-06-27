@@ -24,6 +24,22 @@ msgstr ""
 msgid "Render Target"
 msgstr ""
 
+#: ;F1B801E6F94AB9D5
+msgid "(delay %ds)"
+msgstr ""
+
+#: ;C2281FEBC45E6DE8
+msgid "%d.%dkHz "
+msgstr ""
+
+#: ;BD1CADE466F65EA3
+msgid " +%d"
+msgstr ""
+
+#: ;912344BD3D45D780
+msgid " [auto-increment]"
+msgstr ""
+
 #: ;EBC2F228B0BCF23D
 msgid "Note: %d queued renders failed (and remain in queue)"
 msgstr ""
@@ -50,5 +66,9 @@ msgstr ""
 
 #: ;^65DF96C788943FB1
 msgid "items"
+msgstr ""
+
+#: ;^91C5B6489FFA9947
+msgid "%dch "
 msgstr ""
 

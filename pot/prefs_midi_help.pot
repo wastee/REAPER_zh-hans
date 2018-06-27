@@ -80,3 +80,7 @@ msgstr ""
 msgid "Prompt to import tempo map when importing MIDI files with simple tempo information (hold control when importing to temporarily toggle)."
 msgstr ""
 
+#: ;B06D01F81E40F4EF
+msgid "When importing a single-channel MIDI file that contains lyrics or other meta-events, obey the user preference for importing multichannel MIDI."
+msgstr ""
+

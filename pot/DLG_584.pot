@@ -44,8 +44,8 @@ msgstr ""
 msgid "Solo in front dimming:"
 msgstr ""
 
-#: ;BA491E7B58F98628
-msgid "Solos default to in-place solo (alt+click does a normal solo)"
+#: ;C86146570199182B
+msgid "Solos default to in-place solo (alt+click for ignore-routing solo)"
 msgstr ""
 
 #: ;990D2BCE1856EBCE

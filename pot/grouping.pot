@@ -16,6 +16,10 @@ msgstr ""
 msgid "V"
 msgstr ""
 
+#: ;14BF2A39B46E495D
+msgid "%s - %s - %s"
+msgstr ""
+
 #: ;92EB577EA331D805
 msgid "set"
 msgstr ""
@@ -40,12 +44,20 @@ msgstr ""
 msgid " Slave"
 msgstr ""
 
+#: ;8B5F802149A4C98B
+msgid "%s %s %s%s"
+msgstr ""
+
 #: ;45BA669EFB95947A
 msgid "is in"
 msgstr ""
 
 #: ;7E33A5817A3394B5
 msgid "is not in"
+msgstr ""
+
+#: ;B1619136BF5FD59C
+msgid "%s %s %s %d%s"
 msgstr ""
 
 #: ;^08323507B4EAE2E4

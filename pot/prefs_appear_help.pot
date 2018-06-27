@@ -112,6 +112,10 @@ msgstr ""
 msgid "Time signature changes appear as special gridlines in the arrange view by default."
 msgstr ""
 
+#: ;3B03225E1BAA52AC
+msgid "Use color theme odd/even track colors to divide the arrange view vertically, by measures if the grid is set to beats, or by seconds if the grid is set to frames."
+msgstr ""
+
 #: ;^79DF6C21E88B8F28
 msgid "Show the last user action in REAPER's menu bar. Clicking the action will open the undo window."
 msgstr ""

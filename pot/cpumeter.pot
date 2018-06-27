@@ -28,12 +28,16 @@ msgstr ""
 msgid "Total "
 msgstr ""
 
-#: ;CCF46344B8E72E2D=RT longest-block
-msgid "RT longest-block=%.2fms/%.2fms%s\n"
+#: ;868A798CE5F667E2
+msgid "RT longest-block: %.2fms/%.2fms%s\n"
 msgstr ""
 
 #: ;D3B5EF10274FAA3D
 msgid " (hold)"
+msgstr ""
+
+#: ;52FF096F9E845E90
+msgid "RT xruns: %u - Media xruns: %u\n"
 msgstr ""
 
 #: ;B9A9937766A29768

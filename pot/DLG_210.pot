@@ -80,7 +80,7 @@ msgstr ""
 msgid "Parameter automation notifications:"
 msgstr ""
 
-#: ;^1EB556E18D613E28
-msgid "Add..."
+#: ;^C39132F1A8047E9F
+msgid "Edit..."
 msgstr ""
 
