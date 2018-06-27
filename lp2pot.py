@@ -39,4 +39,4 @@ def lp2po(filename):
             f.write(potext)
 
 if __name__ == '__main__':
-    lp2po('template_reaper570.ReaperLangPack')
+    lp2po('template_reaper590.ReaperLangPack')
