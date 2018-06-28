@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 08:17+0000\n"
-"Last-Translator: kevin <2386898267@qq.com>\n"
+"PO-Revision-Date: 2018-06-28 13:57+0000\n"
+"Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -36,19 +36,19 @@ msgstr ""
 
 #: ;DA38E298C189302F
 msgid "Input channels:"
-msgstr "输入通道:"
+msgstr "输入通道："
 
 #: ;9324D41856E3D6C5
 msgid "Input device:"
-msgstr "输入设备:"
+msgstr "输入设备："
 
 #: ;C6FA709C7A5DB354
 msgid "Output channels:"
-msgstr "输出通道:"
+msgstr "输出通道："
 
 #: ;CD3ECB2096970F76
 msgid "Output device:"
-msgstr "输出设备:"
+msgstr "输出设备："
 
 #: ;E600874BD6CA4B2E
 msgid "Sample format:"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: ;F97A12BF98D450CF
 msgid "Samplerate:"
-msgstr "采样率:"
+msgstr "采样率："
 
 #: ;E8589A5C2472187A
 msgid "samples"
@@ -72,11 +72,11 @@ msgstr ""
 
 #: ;3E83534995169108
 msgid "Request block size:"
-msgstr "请求的块大小:"
+msgstr "请求的块大小："
 
 #: ;0FF98CDC4588805A
 msgid "Request sample rate:"
-msgstr "请求的采样率:"
+msgstr "请求的采样率："
 
 #: ;D9B12705AD844C62
 msgid "List1"
@@ -116,11 +116,11 @@ msgstr "关闭"
 
 #: ;C01085DD37178417
 msgid "File info:"
-msgstr "文件信息:"
+msgstr "文件信息："
 
 #: ;3BF92ABFA8425D90
 msgid "Filename:"
-msgstr "文件名:"
+msgstr "文件名："
 
 #: ;9BC67B482921A263
 msgid "About REAPER"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: ;F685FB3A91025549
 msgid "Browse..."
-msgstr "浏览..."
+msgstr "浏览……"
 
 #: ;F09E4B5C35AA14B9
 msgid "Cancel"
@@ -200,11 +200,11 @@ msgstr "输出文件"
 
 #: ;FDE95463547E83EB
 msgid "Render status"
-msgstr "生成状态"
+msgstr "渲染状态"
 
 #: ;BDB7990C53BBB742
 msgid "Show in explorer..."
-msgstr "打开文件位置..."
+msgstr "打开文件位置……"
 
 #: ;511EAD28BA4AE493
 msgid "format spec"
@@ -216,11 +216,11 @@ msgstr ""
 
 #: ;309B13D6E0AC1A0F
 msgid "Length:"
-msgstr "长度:"
+msgstr "长度："
 
 #: ;8D96C4FE778D9CA7
 msgid "Source properties..."
-msgstr "源文件属性..."
+msgstr "源文件属性……"
 
 #: ;08329907B4EB8CD0
 msgid "/"
@@ -248,7 +248,7 @@ msgstr "录音"
 
 #: ;5565002CCE1DFBC7
 msgid "Prompt to save/delete/rename new files:"
-msgstr "提示 保存/删除/重命名 新文件:"
+msgstr "提示 保存/删除/重命名 新文件："
 
 #: ;DDCECC683DEC9D6A
 msgid "on punch-out/play"
@@ -316,7 +316,7 @@ msgstr "音轨"
 
 #: ;62C49C467C0C15D3
 msgid "Load..."
-msgstr "加载..."
+msgstr "加载……"
 
 #: ;28450354F52CB7AE
 msgid "Reset"
@@ -324,7 +324,7 @@ msgstr "复位"
 
 #: ;925B2CEB12D2D978
 msgid "Save..."
-msgstr "保存..."
+msgstr "保存……"
 
 #: ;ABEC79059CAD0B0E
 msgid "Alias name:"
@@ -332,11 +332,11 @@ msgstr ""
 
 #: ;4D5B21719C8D85CE
 msgid "Browse for file..."
-msgstr ""
+msgstr "浏览文件……"
 
 #: ;81F584F9FDAE6C4F
 msgid "Show in finder"
-msgstr ""
+msgstr "在 Finder 中显示"
 
 #: ;08329D07B4EB939C
 msgid "+"
@@ -344,11 +344,11 @@ msgstr ""
 
 #: ;0922F78BE865FE0C
 msgid "Param"
-msgstr ""
+msgstr "参数"
 
 #: ;D66D409D600C2D04
 msgid "Mixer"
-msgstr ""
+msgstr "调音台"
 
 #: ;D82BED186B194A75
 msgid "UI"
@@ -364,7 +364,7 @@ msgstr ""
 
 #: ;F8E6A0B81A77C5E9
 msgid "Reset all MIDI devices"
-msgstr "重置所有的 MIDI 设备"
+msgstr "复位所有的 MIDI 设备"
 
 #: ;1EEF91D385882BBE
 msgid "Plug-ins"
@@ -384,7 +384,7 @@ msgstr "编辑"
 
 #: ;C7A89083E6E728EB
 msgid "Project Directory Cleanup"
-msgstr ""
+msgstr "清理工程目录"
 
 #: ;8C2AEE7E9FE91BE0
 msgid "to:"
@@ -452,7 +452,7 @@ msgstr ""
 
 #: ;E19CAC48E2E6EA85
 msgid "Sample rate:"
-msgstr "采样率:"
+msgstr "采样率："
 
 #: ;720CB39E31676E27
 msgid "Start: "
