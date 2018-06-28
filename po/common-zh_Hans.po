@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-06-28 13:57+0000\n"
+"PO-Revision-Date: 2018-11-15 03:23+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 2.19.1\n"
+"X-Generator: Weblate 3.2.2\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-KeywordsList: =\n"
 
@@ -276,7 +276,7 @@ msgstr "清除过滤器"
 
 #: ;D43B88702E996ED9
 msgid "Filter:"
-msgstr ""
+msgstr "过滤："
 
 #: ;A27E076F9E7EA1E3
 msgid "Progress1"
@@ -392,19 +392,19 @@ msgstr ""
 
 #: ;F9519A70026F7B52
 msgid "Position:"
-msgstr ""
+msgstr "位置："
 
 #: ;6D27CBDC5943D7B6
 msgid "Shape:"
-msgstr ""
+msgstr "形状："
 
 #: ;5892A20D9BBBE54A
 msgid "Value:"
-msgstr ""
+msgstr "数值："
 
 #: ;6AE6A7774B25EDEB
 msgid "Edit Marker"
-msgstr ""
+msgstr "编辑标记"
 
 #: ;D405917E36F95CF8
 msgid "ID:"
@@ -412,39 +412,39 @@ msgstr ""
 
 #: ;48D899DD92FBC032
 msgid "Name:"
-msgstr ""
+msgstr "名称："
 
 #: ;E6B5A6A65044C93D
 msgid "Reset color"
-msgstr ""
+msgstr "复位颜色"
 
 #: ;941DEA15C4817EEC
 msgid "Set color..."
-msgstr ""
+msgstr "设置颜色……"
 
 #: ;E5566C4604653F75
 msgid "Undo History"
-msgstr ""
+msgstr "撤销历史"
 
 #: ;18C90F7E5DC51FCA
 msgid "All"
-msgstr ""
+msgstr "所有"
 
 #: ;67EF32DE1BAE7097
 msgid "Channels:"
-msgstr ""
+msgstr "通道："
 
 #: ;61B7599A40AF0062
 msgid "End:"
-msgstr ""
+msgstr "结束："
 
 #: ;79DCBE1CDE37B4F3
 msgid "Entire project"
-msgstr ""
+msgstr "整个工程"
 
 #: ;2555373B75AA89B2
 msgid "Output"
-msgstr ""
+msgstr "输出"
 
 #: ;0629736B3FAE9E4C
 msgid "Process"
@@ -456,11 +456,11 @@ msgstr "采样率："
 
 #: ;720CB39E31676E27
 msgid "Start: "
-msgstr ""
+msgstr "开始： "
 
 #: ;97D6D411868C112C
 msgid "Time selection"
-msgstr ""
+msgstr "选区"
 
 #: ;C32C641180B224AC
 msgid "Frame rate:"
@@ -472,15 +472,15 @@ msgstr ""
 
 #: ;895BB684C276CD93
 msgid "Preset name:"
-msgstr ""
+msgstr "预置名称："
 
 #: ;EE28FE89D1A7A151
 msgid "Edit Region"
-msgstr ""
+msgstr "编辑区域"
 
 #: ;7CE6FE4C74542BB2
 msgid "Region Manager..."
-msgstr ""
+msgstr "区域管理器……"
 
 #: ;AE7E61A37889E975
 msgid "Free item positioning"
@@ -488,23 +488,23 @@ msgstr ""
 
 #: ;61946358B1034B76
 msgid "Mute"
-msgstr ""
+msgstr "Mute"
 
 #: ;96E5C67E1437194E
 msgid "Pan"
-msgstr ""
+msgstr "声像"
 
 #: ;61EB857EEC517894
 msgid "Record arm"
-msgstr ""
+msgstr "准备录音"
 
 #: ;89325B4900977A87
 msgid "Tracks"
-msgstr ""
+msgstr "音轨"
 
 #: ;8FC86C263760ACB9
 msgid "Volume"
-msgstr ""
+msgstr "音量"
 
 #: ;D8D27C186BA6D499
 msgid "dB"
@@ -512,15 +512,15 @@ msgstr ""
 
 #: ;C3EB4B7A6BCD5F3C
 msgid "New name:"
-msgstr ""
+msgstr "新名称："
 
 #: ;09939A2A8DB73EDE
 msgid "Performance Meter"
-msgstr ""
+msgstr "性能仪表"
 
 #: ;BB1D7DBC1BA8233C
 msgid "Routing Matrix"
-msgstr ""
+msgstr "路由矩阵"
 
 #: ;10D0E37E59744608
 msgid "BPM"
@@ -532,23 +532,23 @@ msgstr "走带"
 
 #: ;C644A2EBFF26E843
 msgid "Automation mode:"
-msgstr ""
+msgstr "自动化模式："
 
 #: ;4E5F93B30C786CEB
 msgid "Track Envelopes"
-msgstr ""
+msgstr "音轨包络"
 
 #: ;9F89BC3C59A0401C
 msgid "Pan:"
-msgstr ""
+msgstr "声像："
 
 #: ;1008A7CF2A029751
 msgid "Width:"
-msgstr ""
+msgstr "宽度："
 
 #: ;B8EA9A061D794748
 msgid "Navigator"
-msgstr ""
+msgstr "导航器"
 
 #: ;0832A307B4EB9DCE
 msgid "%"
@@ -556,7 +556,7 @@ msgstr ""
 
 #: ;59111F850FAE5C14
 msgid "Enable snapping"
-msgstr ""
+msgstr "启用吸附"
 
 #: ;3470CDBB0C544765
 msgid "Media items"
@@ -564,7 +564,7 @@ msgstr ""
 
 #: ;00F8AF1A6A14D288
 msgid "Snap settings"
-msgstr ""
+msgstr "吸附设置"
 
 #: ;8ADF290B4AAF99F9
 msgid "Use the same grid division in arrange view and MIDI editor"
@@ -572,7 +572,7 @@ msgstr ""
 
 #: ;10EC54E7BB0B3282
 msgid "pixels"
-msgstr ""
+msgstr "像素"
 
 #: ;57CA523AA910C686
 msgid "Gain compensation (boost pans)"
@@ -596,11 +596,11 @@ msgstr ""
 
 #: ;756B500741E261D4
 msgid "Import license key..."
-msgstr ""
+msgstr "导入授权密钥……"
 
 #: ;AF3196AD6B727ABC
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: ;598D95450BED5823
 msgid "ReWire"
@@ -608,35 +608,35 @@ msgstr ""
 
 #: ;1EB556E18D613E28
 msgid "Add..."
-msgstr ""
+msgstr "添加……"
 
 #: ;E9991E9C69A2E870
 msgid "Envelopes"
-msgstr ""
+msgstr "包络"
 
 #: ;698028640C29E8A9
 msgid "Enable locking"
-msgstr ""
+msgstr "启用锁定"
 
 #: ;D35AD13842A55DEA
 msgid "Markers"
-msgstr ""
+msgstr "标记"
 
 #: ;3896D8BF3E72ED2C
 msgid "Regions"
-msgstr ""
+msgstr "区域"
 
 #: ;7E11B9683132FA9E
 msgid "Keyboard"
-msgstr ""
+msgstr "键盘"
 
 #: ;CA95C3C55E05662B
 msgid "Reverse"
-msgstr ""
+msgstr "反转"
 
 #: ;D91FCBB42B5B9077
 msgid "Docker"
-msgstr ""
+msgstr "泊窗区"
 
 #: ;05F21CB15F5F944B
 msgid "Auto trim/split items"
@@ -656,11 +656,11 @@ msgstr ""
 
 #: ;46F1486DB9B6A7A6
 msgid "Mode:"
-msgstr ""
+msgstr "模式："
 
 #: ;927D36CE7B695660
 msgid "Threshold:"
-msgstr ""
+msgstr "阈值："
 
 #: ;1E386FB5FE43C9CC
 msgid "Trailing pad:"
@@ -668,7 +668,7 @@ msgstr ""
 
 #: ;8C66AD45F2B879B1
 msgid "Quantize to:"
-msgstr ""
+msgstr "量化至："
 
 #: ;850C45978587FBF4
 msgid "notes"
@@ -680,11 +680,11 @@ msgstr ""
 
 #: ;E217E1085C7ED06D
 msgid "Searching..."
-msgstr ""
+msgstr "正在搜索……"
 
 #: ;122368E92DE6E29F
 msgid "Reset to defaults"
-msgstr ""
+msgstr "复位至默认"
 
 #: ;2A487F4A2E60E324
 msgid "Synchronous"
@@ -692,23 +692,23 @@ msgstr ""
 
 #: ;1CF5D45574BE7FCD
 msgid "Item Properties"
-msgstr ""
+msgstr "块属性"
 
 #: ;D26FE1B4C8988F96
 msgid "Muted"
-msgstr ""
+msgstr "已静音"
 
 #: ;272E5D69D552CDA7
 msgid "Not muted"
-msgstr ""
+msgstr "未静音的"
 
 #: ;C54C5E311372A994
 msgid "Notes"
-msgstr ""
+msgstr "注释"
 
 #: ;2B7EEDEAE2DA5D5C
 msgid "Enable metronome"
-msgstr ""
+msgstr "启用节拍器"
 
 #: ;B420EF3AC9B07180
 msgid "Pre-roll"
@@ -716,15 +716,15 @@ msgstr ""
 
 #: ;0B61CC7E6E2E017D
 msgid "MIDI channel:"
-msgstr ""
+msgstr "MIDI 通道："
 
 #: ;3D9702905AC5B44C
 msgid "Virtual MIDI keyboard"
-msgstr ""
+msgstr "虚拟 MIDI 键盘"
 
 #: ;38F9B35CED04D04D
 msgid "Big Clock"
-msgstr ""
+msgstr "大时钟"
 
 #: ;DDD50B6B9C96D4AA
 msgid "Enable only when effect configuration is focused"
@@ -740,7 +740,7 @@ msgstr ""
 
 #: ;86C526176585552D
 msgid "Output format:"
-msgstr ""
+msgstr "输出格式："
 
 #: ;865773BF0F30AC16
 msgid "Screensets/Layouts"
@@ -748,19 +748,19 @@ msgstr ""
 
 #: ;AE0E8F593F20484B
 msgid "Docker selected tab"
-msgstr ""
+msgstr "泊窗区所选标签页"
 
 #: ;A620AF611680A051
 msgid "Items"
-msgstr ""
+msgstr "块"
 
 #: ;A61CBD25C6796002
 msgid "Layouts"
-msgstr ""
+msgstr "布局"
 
 #: ;5BD67845F0F0360D
 msgid "Main window position"
-msgstr ""
+msgstr "主窗口位置"
 
 #: ;99B8B53D72CFEE9F
 msgid "Mixer flags"
@@ -768,15 +768,15 @@ msgstr ""
 
 #: ;CE00C3235E535EAA
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: ;EE914AABB985B447
 msgid "Tool window positions"
-msgstr ""
+msgstr "工具栏窗口位置"
 
 #: ;DDDAF906972AD14A
 msgid "Horizontal zoom"
-msgstr ""
+msgstr "水平缩放"
 
 #: ;08A2AD9AC1632C1B
 msgid "Track cursor position"
@@ -827,11 +827,11 @@ msgstr ""
 
 #: ;1E894CD06766E128
 msgid "octaves"
-msgstr ""
+msgstr "八度"
 
 #: ;1EBC977984499408
 msgid "Format"
-msgstr ""
+msgstr "格式"
 
 #: ;576D3C1F8C34C670
 msgid "Strength:"
@@ -839,15 +839,15 @@ msgstr ""
 
 #: ;3D05B40BFC6A1E40
 msgid "External Timecode Synchronization"
-msgstr ""
+msgstr "外部时间码同步"
 
 #: ;2ACB121355B0007A
 msgid "Playback"
-msgstr ""
+msgstr "回放"
 
 #: ;84225D657EA873E2
 msgid "Device name:"
-msgstr ""
+msgstr "设备名称："
 
 #: ;30EF57A27EDFC686
 msgid "(none)"
@@ -855,7 +855,7 @@ msgstr ""
 
 #: ;6B4795AB9EC37475
 msgid "Input:"
-msgstr ""
+msgstr "输入："
 
 #: ;BA0F8B7E28468276
 msgid "LFO"
@@ -875,31 +875,31 @@ msgstr ""
 
 #: ;744B2F6CFBA0A242
 msgid "Actions"
-msgstr ""
+msgstr "操作"
 
 #: ;F10F4B1B4D6DC250
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
 #: ;83CEDDAC8FB7324E
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: ;5F8BE96FAB61772F
 msgid "Custom actions:"
-msgstr ""
+msgstr "自定义操作："
 
 #: ;C39132F1A8047E9F
 msgid "Edit..."
-msgstr ""
+msgstr "编辑……"
 
 #: ;F70C14BE35114F9B
 msgid "New..."
-msgstr ""
+msgstr "新建……"
 
 #: ;3F0C4A774B49AF33
 msgid "Run/close"
-msgstr ""
+msgstr "运行/关闭"
 
 #: ;3A39C76003695360
 msgid "Section:"
@@ -911,7 +911,7 @@ msgstr ""
 
 #: ;D7B51CFC5837E755
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 #: ;15E7199686AA193D
 msgid "Split"
@@ -923,15 +923,15 @@ msgstr ""
 
 #: ;3390D94D34F06461
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: ;66D8B92631859FE9
 msgid "Rename..."
-msgstr ""
+msgstr "重命名……"
 
 #: ;5C973D1CB80B0D9F
 msgid "Render..."
-msgstr ""
+msgstr "渲染……"
 
 #: ;C5531D0DEE1F0D0D
 msgid "Input"
@@ -943,11 +943,11 @@ msgstr ""
 
 #: ;386EB65EE2979317
 msgid "Load"
-msgstr ""
+msgstr "加载"
 
 #: ;6B921CBA018B2EE0
 msgid "No additional resource loaded"
-msgstr ""
+msgstr "没有加载额外的资源"
 
 #: ;FA779BCA02DBA08E
 msgid "Reduce envelope points"
@@ -959,15 +959,15 @@ msgstr ""
 
 #: ;6174C6969402A488
 msgid "Open project in new tab"
-msgstr ""
+msgstr "在新标签页中打开工程"
 
 #: ;AF427D96E302B145
 msgid "Customized menu:"
-msgstr ""
+msgstr "自定义菜单："
 
 #: ;38EAAB594661F05F
 msgid "Default menu:"
-msgstr ""
+msgstr "默认菜单："
 
 #: ;AA0C81725300640C
 msgid "Import..."
@@ -975,15 +975,15 @@ msgstr ""
 
 #: ;E0A7E8E6C8588D64
 msgid "Directory:"
-msgstr ""
+msgstr "目录："
 
 #: ;7B21C9863AA04D13
 msgid "Dither"
-msgstr ""
+msgstr "抖动"
 
 #: ;C1F07AAFF4522636
 msgid "File name:"
-msgstr ""
+msgstr "文件名："
 
 #: ;1D5AC868CE7FE785
 msgid "Noise shaping"
@@ -991,27 +991,27 @@ msgstr ""
 
 #: ;5493EE7052DCF71B
 msgid "Options"
-msgstr ""
+msgstr "选项"
 
 #: ;1B0AFEE5F92D9181
 msgid "Presets"
-msgstr ""
+msgstr "预置"
 
 #: ;928212AC32CC584E
 msgid "Resample mode (if needed):"
-msgstr ""
+msgstr "重采样模式（必要时）："
 
 #: ;04F8C491E59F6D16
 msgid "Reset to default"
-msgstr ""
+msgstr "复位至默认"
 
 #: ;BDB27E5D914EF9E2
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 #: ;7DA8EA3426CA11D3
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: ;FAF92150674645B7
 msgid "Title"
@@ -1019,11 +1019,11 @@ msgstr ""
 
 #: ;C065E9FEE11B2862
 msgid "(current project)"
-msgstr ""
+msgstr "（当前工程）"
 
 #: ;397E19C8F7486840
 msgid "Project Bay"
-msgstr ""
+msgstr "工程存储箱"
 
 #: ;B23C47F019452299
 msgid "Volume:"
@@ -1039,19 +1039,19 @@ msgstr ""
 
 #: ;821B3CD32107333D
 msgid "Track color"
-msgstr ""
+msgstr "音轨颜色"
 
 #: ;383F243464148105
 msgid "Transient Detection Settings"
-msgstr ""
+msgstr "瞬态检测设置"
 
 #: ;EA7EDFD029F80877
 msgid "Nudge left"
-msgstr ""
+msgstr "向左微移"
 
 #: ;2E287BE9B3A7F568
 msgid "Nudge right"
-msgstr ""
+msgstr "向右微移"
 
 #: ;3CF04EFDC66C18B2
 msgid "Snap to unit"
@@ -1063,7 +1063,7 @@ msgstr ""
 
 #: ;A1C5EC4ACA9C56C0
 msgid "Freeze"
-msgstr ""
+msgstr "冻结"
 
 #: ;0226D05EC331BD27
 msgid "List"
@@ -1071,15 +1071,15 @@ msgstr ""
 
 #: ;A2BF58A6DFD853DC
 msgid "Project"
-msgstr ""
+msgstr "工程"
 
 #: ;D2714B0ED9D27FB1
 msgid "Track Manager"
-msgstr ""
+msgstr "音轨管理器"
 
 #: ;2F799723962762C7
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: ;7A1E9510735905CF
 msgid "Audio Device:"
@@ -1091,19 +1091,19 @@ msgstr ""
 
 #: ;155268E8DDFB481C
 msgid "Curve:"
-msgstr ""
+msgstr "曲线："
 
 #: ;1A8015E802ECC562
 msgid "Item mix behavior:"
-msgstr ""
+msgstr "块混音行为："
 
 #: ;3868AB5EE29314B8
 msgid "Lock"
-msgstr ""
+msgstr "锁定"
 
 #: ;BEE3F1BDC2A992A1
 msgid "Media Item Properties"
-msgstr ""
+msgstr "媒体块属性"
 
 #: ;18D0284FCA66EF48
 msgid "Take FX..."
@@ -1111,19 +1111,19 @@ msgstr ""
 
 #: ;A1A721902449610D
 msgid "Take media source"
-msgstr ""
+msgstr "层媒体源"
 
 #: ;ADFC12BF930BBFC9
 msgid "Take properties"
-msgstr ""
+msgstr "层属性"
 
 #: ;268986373F235EF0
 msgid "beats"
-msgstr ""
+msgstr "节拍"
 
 #: ;3BEB0AE437FA2F12
 msgid "center"
-msgstr ""
+msgstr "中间"
 
 #: ;3A2761697FE8C69E
 msgid "Trim content behind media items when editing"
@@ -1131,11 +1131,11 @@ msgstr ""
 
 #: ;BD7850245F5A79EE
 msgid "Import"
-msgstr ""
+msgstr "导入"
 
 #: ;AD510FC22D6EECAC
 msgid "Active MIDI item follows selection changes in arrange view"
-msgstr ""
+msgstr "活动的 MIDI 块跟随选区的变化"
 
 #: ;19E78BE8A7F79DE0
 msgid "Media item selection is linked to visibility"
@@ -1151,15 +1151,15 @@ msgstr ""
 
 #: ;B36DBB640BD652AA
 msgid "Notes:"
-msgstr ""
+msgstr "音符："
 
 #: ;200265593F330955
 msgid "Scale Finder"
-msgstr ""
+msgstr "音阶计算器"
 
 #: ;87D8D79D63721460
 msgid "Open render queue..."
-msgstr ""
+msgstr "打开渲染队列……"
 
 #: ;6591A9846B673560
 msgid "Source:"
@@ -1167,19 +1167,19 @@ msgstr ""
 
 #: ;2227C3C30D911E85
 msgid "Region/Marker Manager"
-msgstr ""
+msgstr "区域/标记管理器"
 
 #: ;043FBD1700F7067B
 msgid "Render Warning"
-msgstr ""
+msgstr "渲染警告"
 
 #: ;83C05BCE6E0BA462
 msgid "semitones"
-msgstr ""
+msgstr "半音"
 
 #: ;FA363E82A44BE9CC
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #: ;DF2472EC2AB0BAFB
 msgid "Download Python"
@@ -1199,7 +1199,7 @@ msgstr ""
 
 #: ;2715653EC997D088
 msgid "Automation"
-msgstr ""
+msgstr "自动化"
 
 #: ;7B9DAB3CFFB093BC
 msgid "Automation items"
@@ -1211,11 +1211,11 @@ msgstr ""
 
 #: ;CC14188D4AC6BB5D
 msgid "Project settings..."
-msgstr ""
+msgstr "工程设置……"
 
 #: ;DDFC41E99D604844
 msgid "Crossfade Editor"
-msgstr ""
+msgstr "交叉淡化编辑器"
 
 #: ;D8CD3036A319B54F
 msgid "Solo track"
@@ -1253,15 +1253,15 @@ msgstr ""
 
 #: ;BE72ADED52927C3E
 msgid "Last active project"
-msgstr ""
+msgstr "上个活动的工程"
 
 #: ;F47146FFAED94D96
 msgid "New project"
-msgstr ""
+msgstr "新建工程"
 
 #: ;5E103081C90DF414
 msgid "New project (ignore default template)"
-msgstr ""
+msgstr "新建工程（无视默认模板）"
 
 #: ;26038CD1AEC84BF2
 msgid "Edit stretch marker rate"
@@ -1293,35 +1293,35 @@ msgstr ""
 
 #: ;6BE8B83EA0A1A15E
 msgid "&Actions"
-msgstr ""
+msgstr "&操作"
 
 #: ;386DCB7A24A75D67
 msgid "&Edit"
-msgstr ""
+msgstr "&编辑"
 
 #: ;3AF66241CE595B8C
 msgid "&Envelopes"
-msgstr ""
+msgstr "&包络"
 
 #: ;DB25337315BFD655
 msgid "&File"
-msgstr ""
+msgstr "&文件"
 
 #: ;F5E3E68D409A3A52
 msgid "&Group"
-msgstr ""
+msgstr "&分组"
 
 #: ;AA9942DEC0F6DBEA
 msgid "&Insert"
-msgstr ""
+msgstr "&插入"
 
 #: ;1686A8969AFE3B9F
 msgid "&Options"
-msgstr ""
+msgstr "&选项"
 
 #: ;459EE41012553C16
 msgid "&Paste"
-msgstr ""
+msgstr "&粘贴"
 
 #: ;CE7E80ACF252CB16
 msgid "&Reverse items as new take"
@@ -1329,7 +1329,7 @@ msgstr ""
 
 #: ;BE1A8478FCC1F1FA
 msgid "&Track"
-msgstr ""
+msgstr "&音轨"
 
 #: ;E194E0BBB250B47E
 msgid "&Trim items to selected area"
@@ -1337,7 +1337,7 @@ msgstr ""
 
 #: ;87B550EB3F37F8CE
 msgid "&View"
-msgstr ""
+msgstr "&查看"
 
 #: ;BE39148270D11909
 msgid "(comp list)"
@@ -1417,7 +1417,7 @@ msgstr ""
 
 #: ;9DD55224C5C829FC
 msgid "Absolute Frames"
-msgstr ""
+msgstr "绝对帧数"
 
 #: ;9FA78734EF11F68D
 msgid "Add edge points when moving envelope points with items"
@@ -1429,7 +1429,7 @@ msgstr ""
 
 #: ;561C816EA4AE16DF
 msgid "Add edge points when ripple editing or inserting time"
-msgstr ""
+msgstr "连锁编辑或者插入时间的时候添加边缘包络点"
 
 #: ;80DB785B3C273E72
 msgid "Add spectral edit to item"
@@ -1441,7 +1441,7 @@ msgstr ""
 
 #: ;1E2BFE3FE36F5A1C
 msgid "Add stretch markers at time selection"
-msgstr ""
+msgstr "在时间选区两端添加拉伸标记"
 
 #: ;CF7AF55DCCD92445
 msgid "Allow anticipative FX"
@@ -1449,7 +1449,7 @@ msgstr ""
 
 #: ;BEDDCB0B40FD59A2
 msgid "Allow media buffering"
-msgstr ""
+msgstr "允许媒体缓冲"
 
 #: ;B4177AFBBA909492
 msgid "Apply track/take FX to items as new take"
@@ -1569,7 +1569,7 @@ msgstr ""
 
 #: ;AB2A3D4EF1C9D1A8
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #: ;6D2EC5D738690CA9
 msgid "Delete active take"
@@ -1589,7 +1589,7 @@ msgstr ""
 
 #: ;0E71DF4467DEE5F6
 msgid "Dynamic split items..."
-msgstr ""
+msgstr "动态切分块……"
 
 #: ;694879AB065321DB
 msgid "Edit rate"
@@ -1597,7 +1597,7 @@ msgstr ""
 
 #: ;5A3FF93A190E0F6B
 msgid "Empty item"
-msgstr ""
+msgstr "空白块"
 
 #: ;02ABE37861D00256
 msgid "Enable track metering"
@@ -1705,11 +1705,11 @@ msgstr ""
 
 #: ;4324C9C893B102F6
 msgid "Insert"
-msgstr ""
+msgstr "插入"
 
 #: ;6E9C1F47AE0AB01B
 msgid "Insert new track"
-msgstr ""
+msgstr "插入新的音轨"
 
 #: ;EB6AC1D6BBE0A433
 msgid "Insert new track at end of track list"
@@ -1809,7 +1809,7 @@ msgstr ""
 
 #: ;90AF657379F9511D
 msgid "Marker"
-msgstr ""
+msgstr "标记"
 
 #: ;DDDBC4B59922776E
 msgid "Master Track"
@@ -1925,15 +1925,15 @@ msgstr ""
 
 #: ;C83C5309F0D5EEC0
 msgid "Open project..."
-msgstr ""
+msgstr "打开工程……"
 
 #: ;D9CD3B25D255019B
 msgid "Open template..."
-msgstr ""
+msgstr "打开模板……"
 
 #: ;13A51C8BEEDFCE52
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 #: ;8657A2F07751612A
 msgid "Paste to takes in items"
@@ -1993,7 +1993,7 @@ msgstr ""
 
 #: ;BB1FF02F46CC14C3
 msgid "Read"
-msgstr ""
+msgstr "读取"
 
 #: ;CAC4592C4D4DD57A
 msgid "Record mode: auto-punch selected items"
@@ -2009,7 +2009,7 @@ msgstr ""
 
 #: ;BB0EF92F46BDB0DB
 msgid "Redo"
-msgstr ""
+msgstr "重做"
 
 #: ;ECD8A7FC74B3A45A
 msgid "Region Render Matrix"
@@ -2097,11 +2097,11 @@ msgstr ""
 
 #: ;F0920ED4F28AEEBC
 msgid "Seconds"
-msgstr ""
+msgstr "秒"
 
 #: ;86891682F6F2D16C
 msgid "Select all"
-msgstr ""
+msgstr "全选"
 
 #: ;60EE028014F5398C
 msgid "Select all items in group"
@@ -2357,7 +2357,7 @@ msgstr ""
 
 #: ;D0C04B9E79D271AE
 msgid "Track"
-msgstr ""
+msgstr "音轨"
 
 #: ;BAB20E52AB03A898
 msgid "Track automation mode"
@@ -2677,7 +2677,7 @@ msgstr ""
 
 #: ;EFDD0AC32D858D23
 msgid "Instruments"
-msgstr ""
+msgstr "乐器"
 
 #: ;D851E3186B3A08B4
 msgid "JS"
@@ -2725,7 +2725,7 @@ msgstr ""
 
 #: ;40B8E8A7530FEAA1
 msgid "VST folders"
-msgstr ""
+msgstr "VST 文件夹"
 
 #: ;6C2D8F0B3467E9C5
 msgid "VST3"
@@ -3385,7 +3385,7 @@ msgstr ""
 
 #: ;2112CF591DBD3A60
 msgid "Mono"
-msgstr ""
+msgstr "单声道"
 
 #: ;FC55E4C505C541DE
 msgid "Parameter"
@@ -3761,7 +3761,7 @@ msgstr ""
 
 #: ;21D9AFD3561EE5AB
 msgid "Stereo"
-msgstr ""
+msgstr "双声道"
 
 #: ;EE1268CA4B845A22
 msgid "# FX"
