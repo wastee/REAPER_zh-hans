@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-11-28 07:40+0000\n"
+"PO-Revision-Date: 2018-11-28 07:53+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -1646,62 +1646,62 @@ msgstr "文件"
 #: ;78957C8454DBB75F
 msgid ""
 "Freeze tracks to mono (render pre-fader, save/remove items and online FX)"
-msgstr ""
+msgstr "冻结音轨至单声道（生成 pre-fader, 保存/删除对象以及激活的效果）"
 
 #: ;79AA43061BD49154
 msgid ""
 "Freeze tracks to multichannel (render pre-fader, save/remove items and "
 "online FX)"
-msgstr ""
+msgstr "冻结音轨至多通道（生成 pre-fader, 保存/删除对象以及激活的效果）"
 
 #: ;54DADE4C7B95FC5C
 msgid ""
 "Freeze tracks to stereo (render pre-fader, save/remove items and online FX)"
-msgstr ""
+msgstr "冻结音轨至立体声（生成 pre-fader, 保存/删除对象以及激活的效果）"
 
 #: ;FB90AE71C9284F3A
 msgid "Glue items"
-msgstr ""
+msgstr "粘合对象"
 
 #: ;B7169EEC02C8D8FC
 msgid "Glue items within time selection"
-msgstr ""
+msgstr "粘合选区内的对象"
 
 #: ;6208D6BE485CCB06
 msgid "Group"
-msgstr ""
+msgstr "编组"
 
 #: ;7E2DF1630E77106E
 msgid "Group items"
-msgstr ""
+msgstr "编组块"
 
 #: ;AF8A1AC00E231ACB
 msgid "Grouping Matrix"
-msgstr ""
+msgstr "编组矩阵"
 
 #: ;FF07D0ECF3A0E53D
 msgid "Heal splits in items"
-msgstr ""
+msgstr "愈合被分割的块"
 
 #: ;9C51079A90B5736A
 msgid "Hours:Minutes:Seconds:Frames"
-msgstr ""
+msgstr "时:分:秒:帧"
 
 #: ;F2E31CE8AE28842A
 msgid "Implode items across tracks into items on one track"
-msgstr ""
+msgstr "把多个音轨上的块合并到一个音轨"
 
 #: ;CA142F03B9CABB64
 msgid "Implode items across tracks into takes"
-msgstr ""
+msgstr "把多个音轨上的块合并到一个块上的多个片段"
 
 #: ;EFC8CD9D920B916F
 msgid "Implode items on same track into takes"
-msgstr ""
+msgstr "把同一个音轨上的块合并到一个块上的多个片段"
 
 #: ;FBBD098069A14870
 msgid "Import media cues from items as project markers"
-msgstr ""
+msgstr "导入媒体文件中的标记至工程标记"
 
 #: ;4324C9C893B102F6
 msgid "Insert"
@@ -1713,39 +1713,39 @@ msgstr "插入新的音轨"
 
 #: ;EB6AC1D6BBE0A433
 msgid "Insert new track at end of track list"
-msgstr ""
+msgstr "在音轨列表最后插入新的音轨"
 
 #: ;14AB75DE2C24FEF3
 msgid "Insert track from template"
-msgstr ""
+msgstr "通过模板插入新的音轨"
 
 #: ;A6F3EA432AA410A4
 msgid "Insert virtual instrument on new track..."
-msgstr ""
+msgstr "在新音轨上添加虚拟乐器..."
 
 #: ;92665005797F0930
 msgid "Invert phase"
-msgstr ""
+msgstr "反转相位"
 
 #: ;595D1609A802357B
 msgid "Invert selected points"
-msgstr ""
+msgstr "反转选中的包络点"
 
 #: ;A6E8B961172A2EDC
 msgid "Ite&m"
-msgstr ""
+msgstr "块(&M）"
 
 #: ;B2BB1E7719F22B98
 msgid "Item"
-msgstr ""
+msgstr "块"
 
 #: ;E1E348931CD6C233
 msgid "Item &properties..."
-msgstr ""
+msgstr "块 &属性……"
 
 #: ;0ED5B16414C9FBEC
 msgid "Item and take colors"
-msgstr ""
+msgstr "块及片段的颜色"
 
 #: ;9F5BC732DF031FE9
 msgid "Item notes..."
@@ -1753,19 +1753,19 @@ msgstr ""
 
 #: ;18A490C172DBF9BB
 msgid "Item processing"
-msgstr ""
+msgstr "块处理"
 
 #: ;68B57E0793CA5AE1
 msgid "Item properties..."
-msgstr ""
+msgstr "块属性……"
 
 #: ;BA6CAA916A3AEE75
 msgid "Item settings"
-msgstr ""
+msgstr "块设置"
 
 #: ;CBED1547C6300197
 msgid "Latch"
-msgstr ""
+msgstr "锁存"
 
 #: ;C7F67A5666962B47
 msgid "Latch Preview"
@@ -1773,7 +1773,7 @@ msgstr ""
 
 #: ;CA47517BDEFA4232
 msgid "Linear"
-msgstr ""
+msgstr "线性"
 
 #: ;66E5DC632BAFC67F
 msgid "Link track volume/pan to MIDI channel"
