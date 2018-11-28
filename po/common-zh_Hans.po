@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-11-28 07:53+0000\n"
+"PO-Revision-Date: 2018-11-28 08:33+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -1777,35 +1777,35 @@ msgstr "线性"
 
 #: ;66E5DC632BAFC67F
 msgid "Link track volume/pan to MIDI channel"
-msgstr ""
+msgstr "链接音轨的音量/声像至 MIDI 通道"
 
 #: ;5C6FB2DCFD68EEF7
 msgid "Link track volume/pan to all MIDI channels"
-msgstr ""
+msgstr "链接音轨的音量/声像至全部 MIDI 通道"
 
 #: ;8EAF0AA09346C8D7
 msgid "Lock item"
-msgstr ""
+msgstr "锁定块"
 
 #: ;7EA6B0652E5346C4
 msgid "Lock to active take"
-msgstr ""
+msgstr "锁定活动片段"
 
 #: ;F96490112D1B162F
 msgid "Lock track controls"
-msgstr ""
+msgstr "锁定音轨控制面板"
 
 #: ;EC752CC2DB12686D
 msgid "Loop item source"
-msgstr ""
+msgstr "循环块媒体源"
 
 #: ;ADB9958ED73C94F7
 msgid "Loop section of item source"
-msgstr ""
+msgstr "循环块媒体源的段落"
 
 #: ;C524AA04CA044305
 msgid "MIDI track controls"
-msgstr ""
+msgstr "MIDI 轨控制"
 
 #: ;90AF657379F9511D
 msgid "Marker"
@@ -1813,35 +1813,35 @@ msgstr "标记"
 
 #: ;DDDBC4B59922776E
 msgid "Master Track"
-msgstr ""
+msgstr "主通道音轨"
 
 #: ;79D6347556189739
 msgid "Measures.Beats"
-msgstr ""
+msgstr "小节.拍子"
 
 #: ;F19FF1FD1885ACEF
 msgid "Measures.Beats (minimal)"
-msgstr ""
+msgstr "小节.拍子（简化）"
 
 #: ;E06B596FB29109DC
 msgid "Measures.Beats (minimal) / Minutes:Seconds"
-msgstr ""
+msgstr "小节.拍子（简化） / 分:秒"
 
 #: ;EC6669A655FB6232
 msgid "Measures.Beats / Minutes:Seconds"
-msgstr ""
+msgstr "小节.拍子 / 分:秒"
 
 #: ;09D15F38080A7701
 msgid "Media"
-msgstr ""
+msgstr "媒体"
 
 #: ;DAB01B50C7660150
 msgid "Metronome enabled"
-msgstr ""
+msgstr "节拍器启用"
 
 #: ;3E62FFC31E48DC5F
 msgid "Minutes:Seconds"
-msgstr ""
+msgstr "分:秒"
 
 #: ;555922281DE5343B
 msgid "Move active comp to top lane"
@@ -1849,7 +1849,7 @@ msgstr ""
 
 #: ;21F4EDEE5D02BA27
 msgid "Move envelope points with media items"
-msgstr ""
+msgstr "包络点跟随媒体块移动"
 
 #: ;A3CADB91B9CAE84C
 msgid "Move items to new subproject"
@@ -1857,7 +1857,7 @@ msgstr ""
 
 #: ;6C68672E04A0F906
 msgid "Move items to source preferred position (BWF)"
-msgstr ""
+msgstr "移动块至源文件中指定的位置（BWF）"
 
 #: ;475E591F3E135594
 msgid "Move tracks to new subproject"
@@ -1865,63 +1865,63 @@ msgstr ""
 
 #: ;9D4AE82B2A6E582F
 msgid "Multichannel track metering"
-msgstr ""
+msgstr "多通道电平表"
 
 #: ;385A68019D9A9A61
 msgid "New project tab"
-msgstr ""
+msgstr "新建工程标签页"
 
 #: ;F65CD38614815711
 msgid "Next take"
-msgstr ""
+msgstr "下一个层"
 
 #: ;AF8FB722E2FC29EA
 msgid "Normalize items"
-msgstr ""
+msgstr "标准化块"
 
 #: ;B622D171EE197539
 msgid "Normalize items (common gain)"
-msgstr ""
+msgstr "标准化对象（统一增益）"
 
 #: ;423DD25A37AD7A79
 msgid "Nudge/set items..."
-msgstr ""
+msgstr "微移/设置块位置……"
 
 #: ;65CA689C377C5655
 msgid "Offset template items by edit cursor"
-msgstr ""
+msgstr "偏移模板位置至光标处"
 
 #: ;F1032E62ED81A0C4
 msgid "Open associated project in new tab"
-msgstr ""
+msgstr "在新标签页中打开关联工程"
 
 #: ;AAB1F0BA33F2CA9C
 msgid "Open copies in editor"
-msgstr ""
+msgstr "在编辑器中打开副本"
 
 #: ;B49A3DAD17186E2A
 msgid "Open copies in secondary editor"
-msgstr ""
+msgstr "在第二编辑器中打开副本"
 
 #: ;C00C9ED3E1843E69
 msgid "Open in built-in MIDI editor (set default behavior in preferences)"
-msgstr ""
+msgstr "在内置的 MIDI 编辑器中打开（在首选项中设置默认行为）"
 
 #: ;619AF06BCC66D00F
 msgid "Open in editor"
-msgstr ""
+msgstr "在编辑器中打开"
 
 #: ;2E3DECABF5FD3B44
 msgid "Open in inline editor"
-msgstr ""
+msgstr "在内置编辑器中打开"
 
 #: ;8991F36B7822B489
 msgid "Open in secondary editor"
-msgstr ""
+msgstr "在第二编辑器中打开"
 
 #: ;4C6F30285576EE3F
 msgid "Open items in editor"
-msgstr ""
+msgstr "在编辑器中打开块"
 
 #: ;C83C5309F0D5EEC0
 msgid "Open project..."
@@ -1937,23 +1937,23 @@ msgstr "粘贴"
 
 #: ;8657A2F07751612A
 msgid "Paste to takes in items"
-msgstr ""
+msgstr "粘贴为块的新层"
 
 #: ;88344341B9A154CA
 msgid "Play all takes"
-msgstr ""
+msgstr "播放所有片段"
 
 #: ;88FE80D1430C4312
 msgid "Preserve pitch when changing playrate"
-msgstr ""
+msgstr "改变播放速率时保留音调"
 
 #: ;B6616B85587122F2
 msgid "Prevent anticipative FX"
-msgstr ""
+msgstr "禁用效果预处理"
 
 #: ;8A09A75D01EDDA59
 msgid "Prevent media buffering"
-msgstr ""
+msgstr "禁用媒体缓冲"
 
 #: ;832F70C2FB781E83
 msgid "Prevent spectral peaks/spectrogram"
@@ -1961,11 +1961,11 @@ msgstr ""
 
 #: ;5CCBCB0963EC10AD
 msgid "Previous take"
-msgstr ""
+msgstr "前一个层"
 
 #: ;26C7502E02B01288
 msgid "Project timebase"
-msgstr ""
+msgstr "工程的时间基准"
 
 #: ;D62932A5C72ACCBB
 msgid "Propagate item to all similarly-named items"
@@ -1985,7 +1985,7 @@ msgstr ""
 
 #: ;1AAC225BC2D18F76
 msgid "Quantize item positions to grid..."
-msgstr ""
+msgstr "量化块位置到网格……"
 
 #: ;E84AEE35A92DF248
 msgid "Quit"
@@ -1997,15 +1997,15 @@ msgstr "读取"
 
 #: ;CAC4592C4D4DD57A
 msgid "Record mode: auto-punch selected items"
-msgstr ""
+msgstr "录音模式: 按照选中的块自动切入/切出"
 
 #: ;2A861A976C38C3D4
 msgid "Record mode: normal"
-msgstr ""
+msgstr "录音模式：正常"
 
 #: ;71CB5040464F5BC3
 msgid "Record mode: time selection auto punch"
-msgstr ""
+msgstr "录音模式：按照选区自动切入/切出"
 
 #: ;BB0EF92F46BDB0DB
 msgid "Redo"
@@ -2013,11 +2013,11 @@ msgstr "重做"
 
 #: ;ECD8A7FC74B3A45A
 msgid "Region Render Matrix"
-msgstr ""
+msgstr "区域生成矩阵"
 
 #: ;92C3E890C5EC8E5D
 msgid "Remove FX for active take"
-msgstr ""
+msgstr "移除活动层上的音效"
 
 #: ;F9E04376D3B7E6DE
 msgid "Remove active comp from list"
@@ -2025,39 +2025,39 @@ msgstr ""
 
 #: ;186444C1EA089313
 msgid "Remove items"
-msgstr ""
+msgstr "删除块"
 
 #: ;0A6A186FCB4E720A
 msgid "Remove items from group"
-msgstr ""
+msgstr "在编组中移除块"
 
 #: ;D2F88B0EF54D2211
 msgid "Remove track icon"
-msgstr ""
+msgstr "移除音轨图标"
 
 #: ;FDFA2E97CD8FDE19
 msgid "Remove tracks"
-msgstr ""
+msgstr "删除音轨"
 
 #: ;586B2A0EC026812A
 msgid "Render items as new take"
-msgstr ""
+msgstr "把块渲染为新的层"
 
 #: ;62060BAC51213CA3
 msgid "Render tracks to mono stem tracks (and mute originals)"
-msgstr ""
+msgstr "渲染到单声道新轨（并静音原音轨）"
 
 #: ;6B80ADA8054A1976
 msgid "Render tracks to multichannel stem tracks (and mute originals)"
-msgstr ""
+msgstr "渲染到多通道新轨（并静音原音轨）"
 
 #: ;9BF0024003286A6E
 msgid "Render tracks to stereo stem tracks (and mute originals)"
-msgstr ""
+msgstr "渲染到立体声新轨（并静音原音轨）"
 
 #: ;BB2ECD751C866045
 msgid "Render/freeze tracks"
-msgstr ""
+msgstr "渲染/冻结音轨"
 
 #: ;20EE79BDD1264889
 msgid "Reset selected points to zero/center"
