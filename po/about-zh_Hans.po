@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-03-21 08:17+0000\n"
-"Last-Translator: kevin <2386898267@qq.com>\n"
+"PO-Revision-Date: 2018-11-28 06:51+0000\n"
+"Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/about/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 2.19.1\n"
+"X-Generator: Weblate 3.2.2\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-KeywordsList: =\n"
 
@@ -21,6 +21,11 @@ msgstr "感谢您购买 REAPER!"
 #: ;11D589F8494A554B
 msgid "Thank you for purchasing a previous version of REAPER!\r\n\r\nUnfortunately the license key you have is not valid for REAPER v5.x.\r\n\r\nPlease evaluate this version for 60 days, then visit www.reaper.fm to purchase a new license, or download v4.x."
 msgstr ""
+"感谢您购买上个版本的 REAPER ！\n"
+"\n"
+"遗憾的是你持有的这个授权秘钥对 REAPER v5.x 无效。\n"
+"\n"
+"请在60天内评估这个版本，然后访问 www.reaper.fm 购买新的授权，或者下载 v4.x 。"
 
 #: ;154224048230E8E2
 msgid "REAPER IS NOT FREE.\r\n\r\nIt is a paid software product just like one you buy in a box from a store.\r\nIf you use it more than 60 days you are required to purchase a license."
@@ -117,7 +122,7 @@ msgstr "购买软件 [%d]"
 
 #: ;32EE0E776F726A01
 msgid "Still Evaluating"
-msgstr ""
+msgstr "继续试用"
 
 #: ;D38A26905AC66F97
 msgid "Credits"
@@ -129,7 +134,7 @@ msgstr "购买"
 
 #: ;E347F43935F8D866
 msgid "License and User Agreement"
-msgstr ""
+msgstr "使用许可及用户协议"
 
 #: ;C6013D59706F3AEB
 msgid "Changelog"
