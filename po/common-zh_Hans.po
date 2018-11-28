@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-11-15 09:06+0000\n"
+"PO-Revision-Date: 2018-11-28 07:40+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -1453,15 +1453,15 @@ msgstr "允许媒体缓冲"
 
 #: ;B4177AFBBA909492
 msgid "Apply track/take FX to items as new take"
-msgstr ""
+msgstr "在对象上应用音轨/片段效果，生成新片段"
 
 #: ;B9A64123FC8187D3
 msgid "Apply track/take FX to items as new take (MIDI output)"
-msgstr ""
+msgstr "在对象上应用音轨/片段效果，生成新片段（MIDI 输出）"
 
 #: ;84630E171AD9A159
 msgid "Apply track/take FX to items as new take (mono output)"
-msgstr ""
+msgstr "在对象上应用音轨/片段效果，生成新片段（单声道输出）"
 
 #: ;9AC2F2FE23308A02
 msgid "Apply track/take FX to items as new take (multichannel output)"
@@ -1469,15 +1469,15 @@ msgstr ""
 
 #: ;3E1E032211F699E5
 msgid "Auto-crossfade media items when editing"
-msgstr ""
+msgstr "编辑时自动对媒体对象淡入淡出"
 
 #: ;9CF0A9142899CF43
 msgid "Auto-reposition items in free item positioning mode"
-msgstr ""
+msgstr "在对象自由拖放模式下，自动重新排列对象"
 
 #: ;C09170FD3E752A38
 msgid "Automatically scroll view during playback"
-msgstr ""
+msgstr "播放时自动滚动视图"
 
 #: ;E03A6CC2DC3D5F04
 msgid "Automation items attach to the underlying envelope on both sides"
@@ -1493,15 +1493,15 @@ msgstr ""
 
 #: ;BA7A79B4D3479176
 msgid "Beats (position only)"
-msgstr ""
+msgstr "节拍（仅位置）"
 
 #: ;A5D5B4E847F44008
 msgid "Beats (position, length, rate)"
-msgstr ""
+msgstr "节拍（位置, 长度, 速率）"
 
 #: ;919D1A7A385C125C
 msgid "Bezier"
-msgstr ""
+msgstr "贝塞尔曲线"
 
 #: ;B4247305029ECD51
 msgid "Bypass underlying envelope outside of automation items"
@@ -1521,7 +1521,7 @@ msgstr ""
 
 #: ;40B42F5B4E7F894C
 msgid "Clear envelope"
-msgstr ""
+msgstr "清除包络"
 
 #: ;5440034E9A5FAF6B
 msgid "Clear transient guides"
@@ -1529,15 +1529,15 @@ msgstr ""
 
 #: ;0C670376C4015406
 msgid "Click source"
-msgstr ""
+msgstr "节拍器源"
 
 #: ;196CA70C1D9D93A4
 msgid "Close all projects"
-msgstr ""
+msgstr "关闭所有工程"
 
 #: ;A092E5D2A26EFA9C
 msgid "Close project"
-msgstr ""
+msgstr "关闭工程"
 
 #: ;844E1C381BAED81D
 msgid "Comps"
@@ -1545,19 +1545,19 @@ msgstr ""
 
 #: ;98178F3A662231C3
 msgid "Continuous scrolling"
-msgstr ""
+msgstr "持续滚动"
 
 #: ;210B23F21E3171CA
 msgid "Convert active take MIDI to .mid file reference"
-msgstr ""
+msgstr "把活动 MIDI 片段转换成 .mid 文件引用"
 
 #: ;00BF6D212D40163B
 msgid "Convert active take MIDI to in-project source data"
-msgstr ""
+msgstr "把活动 MIDI 片段转换成工程内源数据"
 
 #: ;691C4B8E09709260
 msgid "Copy loop of selected area of items"
-msgstr ""
+msgstr "复制选中区域的对象为循环段落"
 
 #: ;050AAAF896F25359
 msgid "Crop list to active comp"
@@ -1565,7 +1565,7 @@ msgstr ""
 
 #: ;CAAB5CC146E0FC0B
 msgid "Crop to active take"
-msgstr ""
+msgstr "只保留活动片段"
 
 #: ;AB2A3D4EF1C9D1A8
 msgid "Default"
@@ -1573,19 +1573,19 @@ msgstr "默认"
 
 #: ;6D2EC5D738690CA9
 msgid "Delete active take"
-msgstr ""
+msgstr "删除活动的片段"
 
 #: ;522F483C3BDD4C72
 msgid "Do not link track volume/pan to MIDI"
-msgstr ""
+msgstr "不链接音轨的音量/声像至 MIDI"
 
 #: ;9824DEB0C15FC0F5
 msgid "Duplicate active take"
-msgstr ""
+msgstr "生成活动片段的副本"
 
 #: ;23590995D822F51C
 msgid "Duplicate tracks"
-msgstr ""
+msgstr "生成音轨的副本"
 
 #: ;0E71DF4467DEE5F6
 msgid "Dynamic split items..."
@@ -1601,47 +1601,47 @@ msgstr "空白块"
 
 #: ;02ABE37861D00256
 msgid "Enable track metering"
-msgstr ""
+msgstr "启用音轨仪表"
 
 #: ;22890C70F0007984
 msgid "Envelope point selection follows time selection"
-msgstr ""
+msgstr "选中选区的同时选中活动包络的包络点"
 
 #: ;943A1A47FCEE5EEE
 msgid "Explode MIDI item by note row (pitch)"
-msgstr ""
+msgstr "按音高分解 MIDI 对象（每个音高一行）"
 
 #: ;66F59CEEAE4451AB
 msgid "Explode all takes (in order)"
-msgstr ""
+msgstr "分解所有片段（按顺序）"
 
 #: ;0B76FEDD4B488DD6
 msgid "Explode all takes (in place)"
-msgstr ""
+msgstr "分解所有片段（在原地）"
 
 #: ;32A8CD94B8E9F86E
 msgid "Explode all takes to new tracks"
-msgstr ""
+msgstr "分解所有片段到新音轨"
 
 #: ;D1E4A1A455A36989
 msgid "Explode multichannel audio or MIDI items to new one-channel items"
-msgstr ""
+msgstr "分解多声道音频或者 MIDI 到多个单声道对象"
 
 #: ;420377F78A3E1841
 msgid "FX Browser"
-msgstr ""
+msgstr "效果浏览器"
 
 #: ;DB6FC995D09C7078
 msgid "Fast end"
-msgstr ""
+msgstr "快速结束"
 
 #: ;BC24D1B6349B5A89
 msgid "Fast start"
-msgstr ""
+msgstr "快速开始"
 
 #: ;9A01878F90736611
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 #: ;78957C8454DBB75F
 msgid ""
