@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-11-28 08:33+0000\n"
+"PO-Revision-Date: 2018-11-28 09:27+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -2061,15 +2061,15 @@ msgstr "渲染/冻结音轨"
 
 #: ;20EE79BDD1264889
 msgid "Reset selected points to zero/center"
-msgstr ""
+msgstr "复位选中的点至零点/中心"
 
 #: ;1598EBACCB0F49EA
 msgid "Reverse active take"
-msgstr ""
+msgstr "反转活动的层"
 
 #: ;3C80DA00A78511C2
 msgid "Reverse items as new take"
-msgstr ""
+msgstr "反转块作为新的层"
 
 #: ;581D6158029C2ADC
 msgid "Ripple edit all tracks"
@@ -2081,15 +2081,15 @@ msgstr ""
 
 #: ;BD80D7F68741D41A
 msgid "Samples"
-msgstr ""
+msgstr "采样点"
 
 #: ;D13A2D9F38411FDF
 msgid "Save project"
-msgstr ""
+msgstr "保存工程"
 
 #: ;931D2CD599D2FEC9
 msgid "Save tracks as track template..."
-msgstr ""
+msgstr "把音轨存储为音轨模板……"
 
 #: ;27A8F35A732CC6E6
 msgid "Save/rename active comp..."
@@ -2105,111 +2105,111 @@ msgstr "全选"
 
 #: ;60EE028014F5398C
 msgid "Select all items in group"
-msgstr ""
+msgstr "选中编组中所有块"
 
 #: ;47B6B0240DC76A6B
 msgid "Select all points"
-msgstr ""
+msgstr "选中所有的点"
 
 #: ;6E708F217D28443C
 msgid "Select points in time selection"
-msgstr ""
+msgstr "选择选区中的点"
 
 #: ;807AD2DC48AC8DC8
 msgid "Set active takes to custom color..."
-msgstr ""
+msgstr "设置活动层为自定义颜色……"
 
 #: ;0704D964EA4B33E0
 msgid "Set active takes to default color"
-msgstr ""
+msgstr "设置活动层为默认颜色"
 
 #: ;EB6A3F98C6F7C92A
 msgid "Set active takes to one random color"
-msgstr ""
+msgstr "设置活动层为随机颜色"
 
 #: ;628E594012CC7C5B
 msgid "Set all takes of selected items to default color"
-msgstr ""
+msgstr "设置选中块中的所有层为默认颜色"
 
 #: ;47C303DD6766CBE5
 msgid "Set envelope default point shape"
-msgstr ""
+msgstr "设置包络点的默认形状"
 
 #: ;11458E9C9EF4BE2E
 msgid "Set item timebase to beats (position only)"
-msgstr ""
+msgstr "设置块的时间基准为:节拍（只有位置）"
 
 #: ;EC375DCC4CE39240
 msgid "Set item timebase to beats (position, length, rate)"
-msgstr ""
+msgstr "设置块的时间基准为:节拍（位置、长度、比率）"
 
 #: ;9D60E5E1B749E8D5
 msgid "Set item timebase to project/track default"
-msgstr ""
+msgstr "把块的时间基准设为工程/音轨默认"
 
 #: ;0EB8F3CE4C772566
 msgid "Set item timebase to time"
-msgstr ""
+msgstr "设置块的时间基准为:时间"
 
 #: ;020D3467C33B79B0
 msgid "Set items to custom color..."
-msgstr ""
+msgstr "设置块为自定义颜色……"
 
 #: ;31DD29D6185E7EC8
 msgid "Set items to default color"
-msgstr ""
+msgstr "设置块为默认颜色"
 
 #: ;6C8CB6E8F2159B02
 msgid "Set items to one random color"
-msgstr ""
+msgstr "设置块为某个随机颜色"
 
 #: ;A68ABA1C0EA6CE27
 msgid "Set items to random colors"
-msgstr ""
+msgstr "设置不同块为各种随机颜色"
 
 #: ;BA7DD3138B41C153
 msgid "Set shape for selected points"
-msgstr ""
+msgstr "设置选中的点的形状"
 
 #: ;648DC6218B71EAE3
 msgid "Set track icon..."
-msgstr ""
+msgstr "设置音轨图标……"
 
 #: ;2A155A1A970AC2FE
 msgid "Set tracks to custom color..."
-msgstr ""
+msgstr "设置音轨为自定义颜色……"
 
 #: ;639DD13915D0BDD2
 msgid "Set tracks to default color"
-msgstr ""
+msgstr "设置音轨为默认颜色"
 
 #: ;27450F3A019ACFE8
 msgid "Set tracks to one random color"
-msgstr ""
+msgstr "设置音轨为某个随机颜色"
 
 #: ;AB902561E815401D
 msgid "Set tracks to random colors"
-msgstr ""
+msgstr "设置不同音轨为各种随机颜色"
 
 #: ;0A6FCB87E138A3AF
 msgid "Show FX chain for active take"
-msgstr ""
+msgstr "显示活动层的效果链"
 
 #: ;FC08989D53C1D223
 msgid "Show MIDI track control panel"
-msgstr ""
+msgstr "显示 MIDI 轨的控制面板"
 
 #: ;A0CB20A955DAF552
 msgid "Show action list..."
-msgstr ""
+msgstr "显示动作列表……"
 
 #: ;257731EBCA5EBF0E
 msgid "Show grid"
-msgstr ""
+msgstr "显示网格"
 
 #: ;593D5AC384550ADA
 msgid "Show recent actions"
-msgstr ""
+msgstr "显示最近动作"
 
 #: ;A869C80BC8A6891B
 msgid "Show spectrogram"
@@ -2217,11 +2217,11 @@ msgstr ""
 
 #: ;6A05662E2A1E77AC
 msgid "Slow start/end"
-msgstr ""
+msgstr "缓慢开始/结束"
 
 #: ;FD06ABC366DA801A
 msgid "Smooth seeking (seeks at end of measure)"
-msgstr ""
+msgstr "平滑寻道（播放到小节结束再跳转）"
 
 #: ;8BD3DE8B5B83C01C
 msgid "Snap to grid"
@@ -2229,7 +2229,7 @@ msgstr ""
 
 #: ;0814EFA066F6B891
 msgid "Source &properties..."
-msgstr ""
+msgstr "源文件 &属性……"
 
 #: ;40C8007578BEB3CE
 msgid "Spectral edits"
@@ -2237,15 +2237,15 @@ msgstr ""
 
 #: ;1F4C50B930F9D6C8
 msgid "Split items at cursor"
-msgstr ""
+msgstr "在光标处分割块"
 
 #: ;90B859A4F328EBB9
 msgid "Split items at time selection"
-msgstr ""
+msgstr "在选区处分割块"
 
 #: ;AF908AD98D533548
 msgid "Square"
-msgstr ""
+msgstr "矩形"
 
 #: ;67F86878615B8457
 msgid "Stretch marker at cursor"
@@ -2253,7 +2253,7 @@ msgstr ""
 
 #: ;F84E1DFB577DA637
 msgid "Stretch markers"
-msgstr ""
+msgstr "拉伸标记"
 
 #: ;B836E9AED19FB093
 msgid "Stretch markers in selected items"
@@ -2265,19 +2265,19 @@ msgstr ""
 
 #: ;94D8EC714ED10E14
 msgid "Synchronization enabled"
-msgstr ""
+msgstr "启用同步"
 
 #: ;1589D28CD62A7BF0
 msgid "Synchronization settings..."
-msgstr ""
+msgstr "同步设置……"
 
 #: ;A726FC321D37D0F0
 msgid "T&ake"
-msgstr ""
+msgstr "层&"
 
 #: ;71E0871D72ABD5CC
 msgid "Take"
-msgstr ""
+msgstr "层"
 
 #: ;5601B9A57A757ADB
 msgid "Take channel mode: Normal"
