@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-11-29 01:37+0000\n"
+"PO-Revision-Date: 2018-11-29 08:15+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -1127,7 +1127,7 @@ msgstr "中间"
 
 #: ;3A2761697FE8C69E
 msgid "Trim content behind media items when editing"
-msgstr ""
+msgstr "编辑时切除媒体对象后面的内容"
 
 #: ;BD7850245F5A79EE
 msgid "Import"
@@ -2309,51 +2309,51 @@ msgstr "时间"
 
 #: ;6EEA4E6D1C299C1E
 msgid "Toggle &pan active"
-msgstr ""
+msgstr "声像启用/禁用（&P）"
 
 #: ;E29A8B5D1C16061F
 msgid "Toggle &volume active"
-msgstr ""
+msgstr "音量启用/禁用（&V）"
 
 #: ;171CD8B223DA2025
 msgid "Toggle pan (pre-FX) active"
-msgstr ""
+msgstr "声像（pre-FX） 启用/禁用"
 
 #: ;5137806840344CAF
 msgid "Toggle pan (pre-FX) visible"
-msgstr ""
+msgstr "声像（pre-FX） 可见/隐藏"
 
 #: ;8DF30F24527A956A
 msgid "Toggle pan active"
-msgstr ""
+msgstr "声像启用/禁用"
 
 #: ;124E3F58D9D38C02
 msgid "Toggle pan visible"
-msgstr ""
+msgstr "声像可见/隐藏"
 
 #: ;13D77626487877AE
 msgid "Toggle volume (pre-FX) active"
-msgstr ""
+msgstr "音量（pre-FX） 启用/禁用"
 
 #: ;EDAADDAE852D16DE
 msgid "Toggle volume (pre-FX) visible"
-msgstr ""
+msgstr "音量（pre-FX） 可见/隐藏"
 
 #: ;6909129551C0263B
 msgid "Toggle volume active"
-msgstr ""
+msgstr "音量启用/禁用"
 
 #: ;22BB6337A73E9205
 msgid "Toggle volume visible"
-msgstr ""
+msgstr "音量可见/隐藏"
 
 #: ;9A96C7D5CB612D76
 msgid "Toolbar Docker"
-msgstr ""
+msgstr "工具栏停靠区"
 
 #: ;83EA05809A680356
 msgid "Touch"
-msgstr ""
+msgstr "触碰"
 
 #: ;D0C04B9E79D271AE
 msgid "Track"
@@ -2365,15 +2365,15 @@ msgstr ""
 
 #: ;6478144A3C4FB7D2
 msgid "Track grouping enabled"
-msgstr ""
+msgstr "启用音轨编组"
 
 #: ;1002920B25015351
 msgid "Track grouping parameters..."
-msgstr ""
+msgstr "音轨编组参数……"
 
 #: ;E8F72322AC27C447
 msgid "Track icon"
-msgstr ""
+msgstr "音轨图标"
 
 #: ;F923F7795042C1F4
 msgid "Track layout"
@@ -2381,7 +2381,7 @@ msgstr ""
 
 #: ;08C4A189ED06CFFA
 msgid "Track performance options"
-msgstr ""
+msgstr "音轨性能选项"
 
 #: ;12438EC5ABFDAC96
 msgid "Track timebase"
@@ -2393,55 +2393,55 @@ msgstr ""
 
 #: ;CDF129916A7161CA
 msgid "Trim items to selected area"
-msgstr ""
+msgstr "把对象削减至选区"
 
 #: ;E80224910029CDEC
 msgid "Trim/Read"
-msgstr ""
+msgstr "削减/读取"
 
 #: ;0E28C6126A0CF889
 msgid "Undo"
-msgstr ""
+msgstr "撤销"
 
 #: ;EE5CF20F98160706
 msgid "Unfreeze tracks (restore previous items and FX)"
-msgstr ""
+msgstr "解冻音轨（还原之前的对象以及效果）"
 
 #: ;58EB14692B28F25A
 msgid "Unselect all points"
-msgstr ""
+msgstr "取消选择所有的点"
 
 #: ;C4930ADECE6F49DA
 msgid "Use tonal optimized mode"
-msgstr ""
+msgstr "使用音色优化模式"
 
 #: ;C2EA750B659102CA
 msgid "View"
-msgstr ""
+msgstr "查看"
 
 #: ;D3B242D430A5DB6C
 msgid "Virtual MIDI Keyboard"
-msgstr ""
+msgstr "虚拟 MIDI 键盘"
 
 #: ;C9D51236E5A04162
 msgid "Write"
-msgstr ""
+msgstr "写入"
 
 #: ;62473318FFD2829F
 msgid "[recording settings]"
-msgstr ""
+msgstr "【录音设置】"
 
 #: ;29AC56D2B3AB95DD
 msgid "&Copy selected FX\tCtrl+C"
-msgstr ""
+msgstr "复制选中的效果(&C）\\tCtrl+C"
 
 #: ;2F3C98801E1D176D
 msgid "&FX"
-msgstr ""
+msgstr "效果（&F）"
 
 #: ;0EE7D967B88BFC63
 msgid "&FX Plug-ins settings..."
-msgstr ""
+msgstr "效果插件设置（&F）……"
 
 #: ;ED9D4CD707DD43C6
 msgid "&Paste FX\tCtrl+V, Ctrl+Insert"
