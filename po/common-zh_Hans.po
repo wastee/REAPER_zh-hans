@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-11-28 09:27+0000\n"
+"PO-Revision-Date: 2018-11-29 01:37+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -2281,31 +2281,31 @@ msgstr "层"
 
 #: ;5601B9A57A757ADB
 msgid "Take channel mode: Normal"
-msgstr ""
+msgstr "层声道模式：正常"
 
 #: ;417B1A7081B07295
 msgid "Take envelopes..."
-msgstr ""
+msgstr "层包络……"
 
 #: ;2BE60748A665DAFB
 msgid "Take mute envelope"
-msgstr ""
+msgstr "层包络静音"
 
 #: ;1BF73E10831BC659
 msgid "Take pan envelope"
-msgstr ""
+msgstr "层包络声像"
 
 #: ;4A2B58135C235086
 msgid "Take pitch envelope"
-msgstr ""
+msgstr "层包络音高"
 
 #: ;E871F70D1F455842
 msgid "Take volume envelope"
-msgstr ""
+msgstr "层包络音量"
 
 #: ;B98A031D9BEEF64E
 msgid "Time"
-msgstr ""
+msgstr "时间"
 
 #: ;6EEA4E6D1C299C1E
 msgid "Toggle &pan active"
