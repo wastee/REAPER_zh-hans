@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: REAPER_zh-hans\n"
-"PO-Revision-Date: 2018-11-29 08:15+0000\n"
+"PO-Revision-Date: 2018-11-30 02:29+0000\n"
 "Last-Translator: Tee <i@lado.me>\n"
 "Language-Team: Chinese (Simplified) <http://translate.reaget.com/projects/"
 "reaper/common/zh_Hans/>\n"
@@ -2445,47 +2445,47 @@ msgstr "效果插件设置（&F）……"
 
 #: ;ED9D4CD707DD43C6
 msgid "&Paste FX\tCtrl+V, Ctrl+Insert"
-msgstr ""
+msgstr "粘贴效果(&P）\\tCtrl+V，Ctrl+Insert"
 
 #: ;A7702CFDA3C1F8E6
 msgid "&Remove selected FX\tDelete"
-msgstr ""
+msgstr "删除选中的效果(&R）\\tDelete"
 
 #: ;4BB3333A13123CE6
 msgid "Add FX..."
-msgstr ""
+msgstr "添加效果器……"
 
 #: ;5B982DEEA8952FF4
 msgid "Auto-float new FX windows"
-msgstr ""
+msgstr "自动浮动新的效果窗口"
 
 #: ;C7317FFF2A84005C
 msgid "Build 16 channels of MIDI routing to this track"
-msgstr ""
+msgstr "为音轨生成16轨 MIDI 通道的路由"
 
 #: ;84FADFAA8CD497E1
 msgid "Build multichannel routing for output of selected FX..."
-msgstr ""
+msgstr "为选中效果器的输出生成多通道路由……"
 
 #: ;A564BFA603B3928B
 msgid "C&ut selected FX\tCtrl+X"
-msgstr ""
+msgstr "剪切选中的效果(&U）\\tCtrl+X"
 
 #: ;82EE5475CB6FCE9F
 msgid "Close window"
-msgstr ""
+msgstr "关闭窗口"
 
 #: ;BC328CB03B0D078E
 msgid "Copy &all FX\tCtrl+Shift+C"
-msgstr ""
+msgstr "复制全部效果(&A）\\tCtrl+Shift+C"
 
 #: ;F3F5886C1F6A6C85
 msgid "Copy all FX"
-msgstr ""
+msgstr "复制全部效果"
 
 #: ;932563A1D4D9236F
 msgid "Copy selected FX"
-msgstr ""
+msgstr "复制选中的效果"
 
 #: ;B7E90584A70A56CB
 msgid "Copy selected FX (include automation)"
@@ -2497,51 +2497,51 @@ msgstr ""
 
 #: ;51B6457C06E865F4
 msgid "Cut selected FX"
-msgstr ""
+msgstr "剪切选中的效果"
 
 #: ;CC1F02E05223C02F
 msgid "Dock FX window in Docker"
-msgstr ""
+msgstr "将效果窗口停靠在泊窗区"
 
 #: ;D85ED6186B447CF9
 msgid "FX"
-msgstr ""
+msgstr "效果"
 
 #: ;91C05340E1D72E6F
 msgid "FX Plug-ins settings..."
-msgstr ""
+msgstr "效果器插件设置……"
 
 #: ;F07B8BF09056DBC7
 msgid "Freeze track"
-msgstr ""
+msgstr "冻结音轨"
 
 #: ;B9450FA5B73E0242
 msgid "Freeze track to mono, up to last non-offline FX"
-msgstr ""
+msgstr "冻结音轨至单声道，使用全部启用的效果"
 
 #: ;4A24DE7EC5D70EE4
 msgid "Freeze track to mono, up to last selected FX"
-msgstr ""
+msgstr "冻结音轨至单声道，使用直到最后选中的效果"
 
 #: ;822C0ABE515442BB
 msgid "Freeze track to multichannel, up to last non-offline FX"
-msgstr ""
+msgstr "冻结音轨至多声道，使用全部启用的效果"
 
 #: ;C8A3EF986B3A45BF
 msgid "Freeze track to multichannel, up to last selected FX"
-msgstr ""
+msgstr "冻结音轨至多声道，使用直到最后选中的效果"
 
 #: ;E4EB1F77E012E753
 msgid "Freeze track to stereo, up to last non-offline FX"
-msgstr ""
+msgstr "冻结音轨至双声道，使用全部启用的效果"
 
 #: ;9CADE133F3BF88B7
 msgid "Freeze track to stereo, up to last selected FX"
-msgstr ""
+msgstr "冻结音轨至双声道，使用直到最后选中的效果"
 
 #: ;45D48DA7AFD8FF18
 msgid "Paste FX"
-msgstr ""
+msgstr "粘贴效果器"
 
 #: ;D15DD369C1DD169E
 msgid "Remove all FX"
